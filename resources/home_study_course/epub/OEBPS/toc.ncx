@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:9b0add94-c99d-4109-a33c-87f782061a4f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>PRELUDE to INTIMATE HOME STUDY COURSE of UNIVERSAL LAW, NATURAL SCIENCE AND PHILOSOPHY</text>
+      </navLabel>
+      <content src="Text/prelude.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>LESSON NUMBER 1 MEDITATION SCIENTIFICALLY EXPLAINED</text>
+      </navLabel>
+      <content src="Text/lesson_01.xhtml"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>WORKING KNOWINGLY WITH GOD.</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>THE FIRST STEP</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>MEDITATION DEFINED</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>CREATING BODIES</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>AWAKEN YOUR OWN GENIUS</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>THE DAWN OF THE COSMIC AGE</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>KNOWING—CONCEIVING—THINKING—IDEA</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>TAKING IDEA APART</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>CONCEPTION OF IDEA IS RECORDED AS SEED OF IDEA</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>THE GLORY OF THE UNSEEN AND UNHEARD</text>
+        </navLabel>
+        <content src="Text/lesson_01.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>LESSON NUMBER 2 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED FURTHER CONSIDERING TECHNIQUE</text>
+      </navLabel>
+      <content src="Text/lesson_02.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>LOVE IS THE BASIS OF THE SPIRIT AND THE LAW OF LOVE IS THE BASIS OF CREATION</text>
+        </navLabel>
+        <content src="Text/lesson_02.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>THE VERY ESSENCE OF MEDITATION</text>
+        </navLabel>
+        <content src="Text/lesson_02.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>HOW YOUR MEDITATION AFFECTS OTHERS</text>
+        </navLabel>
+        <content src="Text/lesson_02.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>MEDITATION AGAIN DEFINED</text>
+        </navLabel>
+        <content src="Text/lesson_02.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>LESSON NUMBER 3 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED</text>
+      </navLabel>
+      <content src="Text/lesson_03.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>GOD IS LIGHT</text>
+        </navLabel>
+        <content src="Text/lesson_03.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>MAN IS LIGHT</text>
+        </navLabel>
+        <content src="Text/lesson_03.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>THE LOVE NATURE OF GOD</text>
+        </navLabel>
+        <content src="Text/lesson_03.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>ALL NATURE MANIFESTS LOVE</text>
+        </navLabel>
+        <content src="Text/lesson_03.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>HOW DOES MEDITATION HELP TO CREATE?</text>
+        </navLabel>
+        <content src="Text/lesson_03.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>LESSON NUMBER 4 HOW TO MEDITATE AND QUESTIONS ANSWERED CONCERNING MEDITATION</text>
+      </navLabel>
+      <content src="Text/lesson_04.xhtml"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>BRAINS HANDICAP MEDITATION</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>THE WORLD OF IMAGININGS</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>A PERSONAL WORD TO ALL READERS.</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>THE PAGAN AGE OF MAN.</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>THE BARBARIC AGE OF MAN.</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>THE COSMIC AGE OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_04.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>LESSON NUMBER 5 PRAYER SCIENTIFICALLY EXPLAINED THE POWER OF PRAYER</text>
+      </navLabel>
+      <content src="Text/lesson_05.xhtml"/>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>PRAYER IS BASED UPON DESIRE</text>
+        </navLabel>
+        <content src="Text/lesson_05.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>MAN BLAMES GOD FOR MAN-MADE WARS</text>
+        </navLabel>
+        <content src="Text/lesson_05.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>GRAVE MISCONCEPTIONS REGARDING PRAYER</text>
+        </navLabel>
+        <content src="Text/lesson_05.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>LESSON NUMBER 6 Continuation of PRAYER SCIENTIFICALLY EXPLAINED RELATIONSHIP OF PRAYER TO MEDITATION</text>
+      </navLabel>
+      <content src="Text/lesson_06.xhtml"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>AGAIN TEACH US HOW TO PRAY</text>
+        </navLabel>
+        <content src="Text/lesson_06.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>THE DAWNING TRANSITION OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_06.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_06.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>LESSON NUMBER 7 THE STORY OF MY ILLUMINING</text>
+      </navLabel>
+      <content src="Text/lesson_07.xhtml"/>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_07.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>LESSON NUMBER 8 QUESTIONS AND ANSWERS CONCERNING MEDITATION, PRAYER AND COSMIC CONSCIOUSNESS</text>
+      </navLabel>
+      <content src="Text/lesson_08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>LESSON NUMBER 9 FIRST PRINCIPLES</text>
+      </navLabel>
+      <content src="Text/lesson_09.xhtml"/>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>COSMIC THINKING</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>FIRST PRINCIPLES SUMMARIZED IN POSTULATES</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>AXIOMS</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>EXAMPLES</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>AN INTRIGUING THOUGHT FOR DEEP MEDITATION</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>THE DIVINE TRINITY</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>THIS IS THE MOST IMPORTANT IDEA YET GIVEN TO YOU FOR IT IS THE BASIS OF ALL THINGS.</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>ONE LITTLE STEP AT A TIME</text>
+        </navLabel>
+        <content src="Text/lesson_09.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>LESSON NUMBER 10 THIS SEXED ELECTRIC UNIVERSE</text>
+      </navLabel>
+      <content src="Text/lesson_10.xhtml"/>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>BASIC SEX THINKING</text>
+        </navLabel>
+        <content src="Text/lesson_10.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>BASIC SEX THINKING</text>
+        </navLabel>
+        <content src="Text/lesson_10.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>GOD'S PAIRS OF OPPOSITES</text>
+        </navLabel>
+        <content src="Text/lesson_10.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>LESSON NUMBER 11 HOW TO THINK THINKING SCIENTIFICALLY EXPLAINED</text>
+      </navLabel>
+      <content src="Text/lesson_11.xhtml"/>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>THE TWO DIRECTIONS OF THINKING</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>THIS IS A TWO-WAY RADIAL UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>WHAT ABOUT EAST AND WEST?</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>THE WHY OF THESE TWO DIRECTIONS</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>ALL PAIRS OF OPPOSITES ARE THE SAME</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>THE SCIENCE OF THINKING--CONTINUED THE HEARTBEAT OF THE UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>ACTION AND REACTION ARE EQUAL AND OPPOSITE</text>
+        </navLabel>
+        <content src="Text/lesson_11.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>LESSON NUMBER 12 ANSWERS TO STUDENTS QUESTIONS</text>
+      </navLabel>
+      <content src="Text/lesson_12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>LESSON NUMBER 13 PRELUDE</text>
+      </navLabel>
+      <content src="Text/lesson_13.xhtml"/>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>BALANCE AND THIS DIVIDED UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>LET US GET DOWN TO FUNDAMENTALS</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>POSTULATES</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>AXIOMS</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>GOD'S LAW OF BALANCE</text>
+        </navLabel>
+        <content src="Text/lesson_13.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>LESSON NUMBER 14</text>
+      </navLabel>
+      <content src="Text/lesson_14.xhtml"/>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_14.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>LESSON NUMBER 15 MAN MUST KNOW MAN</text>
+      </navLabel>
+      <content src="Text/lesson_15.xhtml"/>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>WHERE IS YOUR SOURCE OF ENERGY</text>
+        </navLabel>
+        <content src="Text/lesson_15.xhtml#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>AN IDEA FOR DEEP DEEP THOUGHT</text>
+        </navLabel>
+        <content src="Text/lesson_15.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>LESSON NUMBER 16 ANSWERS TO STUDENTS QUESTIONS WHO WANT TO "KNOW WHAT TO DO ABOUT IT"</text>
+      </navLabel>
+      <content src="Text/lesson_16.xhtml"/>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_16.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>LESSON NUMBER 17 WE ADD ONE MORE IDEA-- THE FULCRUM AND THE LEVER</text>
+      </navLabel>
+      <content src="Text/lesson_17.xhtml"/>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>POSTULATES CONCERNING ENERGY</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>AXIOMS</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>REGARDING THE KITCHEN PUMP</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>THE POWER OF STILLNESS</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_77"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_17.xhtml#sigil_toc_id_78"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>LESSON NUMBER 18 FIRST STEPS TOWARD EXPLAINING THE SUPREME MYSTERY OF LIFE AND DEATH</text>
+      </navLabel>
+      <content src="Text/lesson_18.xhtml"/>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>ANALYSIS OF THE LIFE-DEATH CYCLE</text>
+        </navLabel>
+        <content src="Text/lesson_18.xhtml#sigil_toc_id_79"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_18.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>LESSON NUMBER 19 CONTINUING THE MYSTERY OF LIFE AND DEATH</text>
+      </navLabel>
+      <content src="Text/lesson_19.xhtml"/>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>ILLUSION IN THE MAKING</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_81"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>MAN IS ETERNAL</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>THE WORD</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>BALANCE FURTHER EXEMPLIFIED</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_84"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>DIVIDED BODIES</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_85"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>IN RELATION TO MOTION</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_86"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_19.xhtml#sigil_toc_id_87"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>LESSON NUMBER 20 STUDENTS DEEPER QUESTIONS ANSWERED</text>
+      </navLabel>
+      <content src="Text/lesson_20.xhtml"/>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_20.xhtml#sigil_toc_id_88"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>LESSON NUMBER 21 DEEPER THOUGHTS OF LIFE AND DEATH</text>
+      </navLabel>
+      <content src="Text/lesson_21.xhtml"/>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>IF LIFE AND DEATH ARE BUT MOTION, WHAT--THEN--IS MOTION?</text>
+        </navLabel>
+        <content src="Text/lesson_21.xhtml#sigil_toc_id_89"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>A NEW VIEWPOINT</text>
+        </navLabel>
+        <content src="Text/lesson_21.xhtml#sigil_toc_id_90"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>POSTULATES AND AXIOMS CONCERNING LIFE AND DEATH</text>
+        </navLabel>
+        <content src="Text/lesson_21.xhtml#sigil_toc_id_91"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>SUMMARY</text>
+        </navLabel>
+        <content src="Text/lesson_21.xhtml#sigil_toc_id_92"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_21.xhtml#sigil_toc_id_93"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>LESSON NUMBER 22</text>
+      </navLabel>
+      <content src="Text/lesson_22.xhtml"/>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>KNOWLEDGE MAKES YOU THE MASTER--NOT THE SERVANT--OF MATTER</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_94"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>ENERGY IS IN MIND, NOT IN MATTER</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>EXAMPLES OF SOUL ENERGY</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>THE COSMIC ILLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_97"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>THE ONE REALITY</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_98"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>WHAT THIS KNOWLEDGE MEANS TO YOU</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_99"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>TO CONTROL MATTER--FIRST CONTROL SELF</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_100"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>NEW THINKING FOR DOCTORS, CHEMISTS AND METALLURGISTS</text>
+        </navLabel>
+        <content src="Text/lesson_22.xhtml#sigil_toc_id_101"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>LESSON NUMBER 23 CONFUSION OF IDEAS REGARDING SPIRITUAL AND PHYSICAL</text>
+      </navLabel>
+      <content src="Text/lesson_23.xhtml"/>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>THE EXPLANATION OF UNCONSCIOUSNESS</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>SUB-CONSCIOUS, AND SUPER-CONSCIOUS MIND</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>THE SUPREME HOPE OF MANKIND</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_104"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>THE GREAT DESTROYER OF UNFOLDING MAN</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_105"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>WHAT DRUGS ARE DOING TO THE HUMAN RACE</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_23.xhtml#sigil_toc_id_107"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>LESSON NUMBER 24 QUESTIONS FROM STUDENTS</text>
+      </navLabel>
+      <content src="Text/lesson_24.xhtml"/>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>ANALYSIS OF PRINCIPLE</text>
+        </navLabel>
+        <content src="Text/lesson_24.xhtml#sigil_toc_id_108"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_24.xhtml#sigil_toc_id_109"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>LESSON NUMBER 25 WE STILL SEARCH FOR SIMPLICITY</text>
+      </navLabel>
+      <content src="Text/lesson_25.xhtml"/>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>YOU SIMULTANEOUSLY LIVE IN TWO WORLDS AND YOU MUST KNOW BOTH OF THEM THOROUGHLY--AND THEIR RELATION TO EACH OTHER</text>
+        </navLabel>
+        <content src="Text/lesson_25.xhtml#sigil_toc_id_110"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>ACTION AND LIFE MANIFEST REST AND DEATH</text>
+        </navLabel>
+        <content src="Text/lesson_25.xhtml#sigil_toc_id_111"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_25.xhtml#sigil_toc_id_112"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>LESSON NUMBER 26 SOUND, SILENCE AND WAVE-VIBRATIONS</text>
+      </navLabel>
+      <content src="Text/lesson_26.xhtml"/>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>THE DIVIDED AND THE UNDIVIDED</text>
+        </navLabel>
+        <content src="Text/lesson_26.xhtml#sigil_toc_id_113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>LESSON NUMBER 27 PREFACE</text>
+      </navLabel>
+      <content src="Text/lesson_27.xhtml"/>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>WE COMPARE A SOUND VIBRATION WITH LIFE AND DEATH</text>
+        </navLabel>
+        <content src="Text/lesson_27.xhtml#sigil_toc_id_114"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>YOU HAVE NO LIMITATIONS UNTIL YOU SET THEM</text>
+        </navLabel>
+        <content src="Text/lesson_27.xhtml#sigil_toc_id_115"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>THE UNIVERSAL BALANCE WHEEL</text>
+        </navLabel>
+        <content src="Text/lesson_27.xhtml#sigil_toc_id_116"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_27.xhtml#sigil_toc_id_117"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>LESSON NUMBER 28 QUESTIONS CONCERNING FAITH, BELIEF AND FAITH HEALING</text>
+      </navLabel>
+      <content src="Text/lesson_28.xhtml"/>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>THE GREAT MISCONCEPTION OF PRAYER</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_118"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>CAUSE AND EFFECT</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_119"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>FAITH WILL NOT DO YOUR WORK</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_120"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>PERFECTION OF GOD'S LAW</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_121"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>BODIES BELONG TO THE DIVIDED UNIVERSE OF DIVIDED BALANCE</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_122"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>PERFECTION IS EVERYWHERE. THERE IS NO IMPERFECTION.</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_123"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>GRAVE INCONSISTENCIES OF NON-THINKING PEOPLE</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_124"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>BODIES ARE ELECTRO-CHEMICAL MACHINES</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_125"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>THE VALUE OF FAITH AND BELIEF</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_126"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_28.xhtml#sigil_toc_id_127"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>LESSON NUMBER 29 THE SPIRITUAL SIGNIFICANCE OF ELECTRIC POLARITY</text>
+      </navLabel>
+      <content src="Text/lesson_29.xhtml"/>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>ONENESS--UNITY--BALANCE</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_128"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>ALL THOUGHTS AND ALL BODIES ARE TWO</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>GIVE HEED TO THESE NEW THOUGHTS</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>MAN'S ONE SOUL</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_131"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>MAN'S MANY SOULS</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_132"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>ALL BODIES ARE TWO</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_29.xhtml#sigil_toc_id_134"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>LESSON NUMBER 30 REINCARNATION</text>
+      </navLabel>
+      <content src="Text/lesson_30.xhtml"/>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>THE ILLUSION OF DISAPPEARANCE AND REAPPEARANCE</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>CHANGING SOUND BODIES</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>THE ILLUSION OF REPETITION</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>CONTINUITY</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>WE EXPLAIN "POLARITY REVERSAL", AND "CYCLES"</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>AMAZINGLY NEW CONCEPTS</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>FACTS OF NATURE WHICH ESCAPE US</text>
+        </navLabel>
+        <content src="Text/lesson_30.xhtml#sigil_toc_id_141"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>LESSON NUMBER 31 THE SUPREME MYSTERY OF THE AGES (REINCARNATION CONTINUED)</text>
+      </navLabel>
+      <content src="Text/lesson_31.xhtml"/>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>GOD CREATES ONLY ONE FORM</text>
+        </navLabel>
+        <content src="Text/lesson_31.xhtml#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>WE LOOK OUT INTO THE CUBE-SPHERES OF SPACE</text>
+        </navLabel>
+        <content src="Text/lesson_31.xhtml#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>WE MAKE A SUPREME DISCOVERY</text>
+        </navLabel>
+        <content src="Text/lesson_31.xhtml#sigil_toc_id_144"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>LESSON NUMBER 32 ANSWERS TO STUDENTS QUESTIONS</text>
+      </navLabel>
+      <content src="Text/lesson_32.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>LESSON NUMBER 33 KNOWLEDGE ALONE CAN SAVE THE HUMAN RACE FROM ANOTHER DARK AGE</text>
+      </navLabel>
+      <content src="Text/lesson_33.xhtml"/>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>THE CAUSE OF THE FALL OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>THE WORLD HAS NEVER YET KNOWN PEACE</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>MAN IS DESTROYING HIMSELF</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>THE COSMIC PENDULUM SWINGS THE OTHER WAY</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_148"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>THE HUMAN RACE IS NOW REAPING THE WHIRLWIND</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_149"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>THE FABLE OF THE MASTER AND THE SLAVE</text>
+        </navLabel>
+        <content src="Text/lesson_33.xhtml#sigil_toc_id_150"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-185" playOrder="185">
+      <navLabel>
+        <text>LESSON NUMBER 34 THE RISE AND FALL OF MAN</text>
+      </navLabel>
+      <content src="Text/lesson_34.xhtml"/>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>THE ESSENTIALS FOR AN ENDURING CIVILIZATION</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_151"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>HISTORY IS REPEATING ITSELF</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_152"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>OUR "FOOL'S PARADISE" FIFTY YEARS OF ACCELERATING WORLD DEGENERACY</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_153"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>THE REAL DANGERS OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_154"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>THE DAY OF JUDGEMENT DAWNS</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>MAN IS NOW REAPING THE HARVEST OF THAT WHICH HE HAS SOWN.</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_156"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>THE GREAT UNLEARNED LESSON</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>EVERY NATION MADE ENEMIES BY BEING ENEMIES. WE FEAR MAN TODAY BECAUSE WE MADE HIM FEAR US YESTERDAY.</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>WORLD EMPIRE BUILDING POLICY--PAST AND PRESENT</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>THE OBVIOUS QUESTION</text>
+        </navLabel>
+        <content src="Text/lesson_34.xhtml#sigil_toc_id_160"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>LESSON NUMBER 35 HARD FACTS MAN MUST FACE OR PERISH FROM THE EARTH</text>
+      </navLabel>
+      <content src="Text/lesson_35.xhtml"/>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>THE SUPREME LESSON OF LIFE</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_161"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>WE SEE OURSELVES FACE TO FACE</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_162"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>DISUNITY IN THE HOME</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>DISUNITY IN INDUSTRY</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>DISUNITY IN RELIGION</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>DISUNITY IN GOVERNMENT</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>WHEN WILL THE SCALES BE REMOVED FROM MAN'S EYES?</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>EASY MONEY FOR THE DISCONTENTED</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>SEVEN DEVASTATING WORLD CATASTROPHIES IN FIFTY YEARS</text>
+        </navLabel>
+        <content src="Text/lesson_35.xhtml#sigil_toc_id_169"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-206" playOrder="206">
+      <navLabel>
+        <text>LESSON NUMBER 36 THE REMEDY FOR WORLD DESTRUCTION AND THE DAWN OF A NEW DAY IN HUMAN RELATIONS</text>
+      </navLabel>
+      <content src="Text/lesson_36.xhtml"/>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>MAN MUST DISCOVER MAN. NAUGHT ELSE COUNTS.</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_170"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>THE BASIC ROOT OF A BALANCED CIVILIZATION</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>THE UNLEARNED LESSONS OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>NATURE NEVER BARGAINS. NATURE BALANCES.</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>BUYERS AND SELLERS ARE ONE</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_174"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>MAN CONTRACTS WITH MAN</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_175"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>MAN COMPETES WITH MAN, INSTEAD OF COOPERATING WITH MAN</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_176"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>WHEREIN LIES OUR GREATEST POWER TO UNITE AND SAVE CIVILIZATION?</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_177"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>THE AWAKENING TO THE NECESSITY OF UNIVERSAL BROTHERHOOD</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_178"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>HENRY FORD TAKES LABOR INTO PARTNERSHIP</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_179"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>SERVICE CLUBS DEMONSTRATE THE BROTHERHOOD OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_180"/>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>THOMAS J. WATSON INFILTRATES HIGHER ETHICS INTO HUMAN RELATIONS</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_181"/>
+      </navPoint>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>THE GOLDEN THREAD OF SHARING</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_182"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>THE PLAN FOR ELEVENTH HOUR ACTION BY INDUSTRY</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_183"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>IT IS ALREADY HAPPENING HERE</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_184"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>UNITY COMES TOO SLOWLY THAT WAY, UNITY BEGINS WHEN DEBATE ENDS.</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_185"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>CONCEDEDLY UNDEBATABLE FACTS OF INDUSTRY</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_186"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>THE POLARITY OF INDUSTRY</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_187"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>UNIVERSAL BROTHERHOOD--LAST WEAPON LEFT TO MAN</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_188"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>PLAN OF CAMPAIGN FOR UNITING MANKIND</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_189"/>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_36.xhtml#sigil_toc_id_190"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>LESSON NUMBER 37 REINCARNATION CONTINUED from lesson 31 UNLAWFUL BELIEFS</text>
+      </navLabel>
+      <content src="Text/lesson_37.xhtml"/>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>REINCARNATION--A SIMPLE ANALOGY</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_191"/>
+      </navPoint>
+      <navPoint id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>EVERY CREATING BODY IS DIVIDED INTO REVERSED OPPOSITES</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_192"/>
+      </navPoint>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>REINCARNATION IN THE HEAVENS</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_193"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>BODIES ETERNALLY REPEAT THEMSELVES TO MANIFEST LIFE</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_194"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>TWO-WAY THINKING</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_195"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>THE MIRACLE OF GROWTH</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_196"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>LIFE AND DEATH BORN EACH OTHER</text>
+        </navLabel>
+        <content src="Text/lesson_37.xhtml#sigil_toc_id_197"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>LESSON NUMBER 38 SPIRITUAL RELATIONS AND THE RELATION OF MAN AND WOMAN TO NATURE AND TO EACHOTHER.</text>
+      </navLabel>
+      <content src="Text/lesson_38.xhtml"/>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>THE ULTIMATE OF MAN</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_198"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>THE ILLUSION OF THE SENSES</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_199"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>MISCONCEPTION OF INTELLIGENCE</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_200"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>COSMIC THINKERS</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_201"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>TO BECOME A TRANSCENDENT BEING</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_202"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>A SUGGESTION TO THE AWAKENING GENIUS</text>
+        </navLabel>
+        <content src="Text/lesson_38.xhtml#sigil_toc_id_203"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-243" playOrder="243">
+      <navLabel>
+        <text>LESSON NUMBER 39 REINCARNATION CONTINUED THROUGH COSMIC KNOWING WE MULTIPLY OURSELVES INTO TRANSCENDENT BEINGS.</text>
+      </navLabel>
+      <content src="Text/lesson_39.xhtml"/>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>THOUGHT MECHANICS</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_204"/>
+      </navPoint>
+      <navPoint id="navPoint-245" playOrder="245">
+        <navLabel>
+          <text>A SIMPLE ANALOGY</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_205"/>
+      </navPoint>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>EVERY CREATIVE ACTION IS AN OUTWARD-INWARD EXPLOSION</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_206"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>POSTULATE</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_207"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>AXIOM</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_208"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>POSTULATE</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_209"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>AXIOM</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_210"/>
+      </navPoint>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>ANOTHER SIMPLE ANALOGY</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_211"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>NEW KNOWLEDGE CONCERNING THE BUILDING OF BODIES</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_212"/>
+      </navPoint>
+      <navPoint id="navPoint-253" playOrder="253">
+        <navLabel>
+          <text>ALL MATTER IS LIGHT AND IS MANIFESTED BY SPIRAL LIGHT-WAVES</text>
+        </navLabel>
+        <content src="Text/lesson_39.xhtml#sigil_toc_id_213"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text>LESSON NUMBER 40 ANSWERS TO STUDENTS QUESTIONS</text>
+      </navLabel>
+      <content src="Text/lesson_40.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-255" playOrder="255">
+      <navLabel>
+        <text>LESSON NUMBER 41 PRELUDE</text>
+      </navLabel>
+      <content src="Text/lesson_41.xhtml"/>
+      <navPoint id="navPoint-256" playOrder="256">
+        <navLabel>
+          <text>EVERY THOUGHT AND ACTION ARE PERMANENTLY RECORDED</text>
+        </navLabel>
+        <content src="Text/lesson_41.xhtml#sigil_toc_id_214"/>
+      </navPoint>
+      <navPoint id="navPoint-257" playOrder="257">
+        <navLabel>
+          <text>WE FURTHER CONSIDER THE RELATION OF THE CUBE TO THE OCTAVE WAVE</text>
+        </navLabel>
+        <content src="Text/lesson_41.xhtml#sigil_toc_id_215"/>
+      </navPoint>
+      <navPoint id="navPoint-258" playOrder="258">
+        <navLabel>
+          <text>WE BRIEFLY COMMENT ON QUESTION NUMBER SIX</text>
+        </navLabel>
+        <content src="Text/lesson_41.xhtml#sigil_toc_id_216"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-259" playOrder="259">
+      <navLabel>
+        <text>LESSON NUMBER 42 ONE MORE STEP TOWARD BUILDING THE CUBE-SPHERE WAVE-FIELD</text>
+      </navLabel>
+      <content src="Text/lesson_42.xhtml"/>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>THIS THREE DIMENSIONAL CUBE UNIVERSE OF NINE</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_217"/>
+      </navPoint>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>WE NOW BUILD THE NINE EQUATORS OF CUBE-SPHERE WAVE-FIELDS</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_218"/>
+      </navPoint>
+      <navPoint id="navPoint-262" playOrder="262">
+        <navLabel>
+          <text>SOME FACTS ABOUT THE CREATION OF BODIES</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_219"/>
+      </navPoint>
+      <navPoint id="navPoint-263" playOrder="263">
+        <navLabel>
+          <text>WE PAUSE HERE TO TALK ABOUT PRESSURES</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_220"/>
+      </navPoint>
+      <navPoint id="navPoint-264" playOrder="264">
+        <navLabel>
+          <text>WE PAUSE AGAIN TO TALK ABOUT ENERGY</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_221"/>
+      </navPoint>
+      <navPoint id="navPoint-265" playOrder="265">
+        <navLabel>
+          <text>THE MEANING OF INTERCHANGE IN BREATHING</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_222"/>
+      </navPoint>
+      <navPoint id="navPoint-266" playOrder="266">
+        <navLabel>
+          <text>WE SUMMARIZE AND SIMPLIFY</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_223"/>
+      </navPoint>
+      <navPoint id="navPoint-267" playOrder="267">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_42.xhtml#sigil_toc_id_224"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-268" playOrder="268">
+      <navLabel>
+        <text>LESSON NUMBER 43 WE CONTINUE THE CUBE-SPHERE OF THE FOUR DIMENSIONAL UNIVERSE OF TIME AND CURVED MOTION</text>
+      </navLabel>
+      <content src="Text/lesson_43.xhtml"/>
+      <navPoint id="navPoint-269" playOrder="269">
+        <navLabel>
+          <text>POSTULATES</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_225"/>
+      </navPoint>
+      <navPoint id="navPoint-270" playOrder="270">
+        <navLabel>
+          <text>THE MIRRORS AND LENSES OF THE COSMIC CINEMA</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_226"/>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271">
+        <navLabel>
+          <text>MOTION NOW BEGINS</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_227"/>
+      </navPoint>
+      <navPoint id="navPoint-272" playOrder="272">
+        <navLabel>
+          <text>A VITAL LESSON OF LAW AND GOD'S WATCHFULLNESS OVER ALL CREATING THINGS</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_228"/>
+      </navPoint>
+      <navPoint id="navPoint-273" playOrder="273">
+        <navLabel>
+          <text>THE ACTION BEGINS</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_229"/>
+      </navPoint>
+      <navPoint id="navPoint-274" playOrder="274">
+        <navLabel>
+          <text>NOW COMES THE REACTION. RADIATION REVERSES TO GENERATION.</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_230"/>
+      </navPoint>
+      <navPoint id="navPoint-275" playOrder="275">
+        <navLabel>
+          <text>THE LESSON OF IT</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_231"/>
+      </navPoint>
+      <navPoint id="navPoint-276" playOrder="276">
+        <navLabel>
+          <text>NOW FOR THE NEXT STEP--THE CURVED UNIVERSE OF MOTION</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_232"/>
+      </navPoint>
+      <navPoint id="navPoint-277" playOrder="277">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_43.xhtml#sigil_toc_id_233"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-278" playOrder="278">
+      <navLabel>
+        <text>LESSON NUMBER 44 ANSWERS TO STUDENTS QUESTIONS</text>
+      </navLabel>
+      <content src="Text/lesson_44.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-279" playOrder="279">
+      <navLabel>
+        <text>LESSON NUMBER 45 PRELUDE TO LAST FOUR LESSONS</text>
+      </navLabel>
+      <content src="Text/lesson_45.xhtml"/>
+      <navPoint id="navPoint-280" playOrder="280">
+        <navLabel>
+          <text>CURVATURE AND SPIRALS</text>
+        </navLabel>
+        <content src="Text/lesson_45.xhtml#sigil_toc_id_234"/>
+      </navPoint>
+      <navPoint id="navPoint-281" playOrder="281">
+        <navLabel>
+          <text>ANOTHER STEP TOWARD THE GREATEST OF ALL LESSONS</text>
+        </navLabel>
+        <content src="Text/lesson_45.xhtml#sigil_toc_id_235"/>
+      </navPoint>
+      <navPoint id="navPoint-282" playOrder="282">
+        <navLabel>
+          <text>ALL OPPOSITES IN NATURE TURN INSIDE OUT AND OUTSIDE IN</text>
+        </navLabel>
+        <content src="Text/lesson_45.xhtml#sigil_toc_id_236"/>
+      </navPoint>
+      <navPoint id="navPoint-283" playOrder="283">
+        <navLabel>
+          <text>THIS EXPANDING-CONTRACTING TWO-WAY BALANCED UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_45.xhtml#sigil_toc_id_237"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-284" playOrder="284">
+      <navLabel>
+        <text>LESSON NUMBER 46 AS ON EARTH SO IS IT IN HEAVEN</text>
+      </navLabel>
+      <content src="Text/lesson_46.xhtml"/>
+      <navPoint id="navPoint-285" playOrder="285">
+        <navLabel>
+          <text>THIS CONTRACTION-EXPANSION--LIVING-DYING--TWO-WAY PULSING- -POLARIZED ELECTRIC UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_238"/>
+      </navPoint>
+      <navPoint id="navPoint-286" playOrder="286">
+        <navLabel>
+          <text>WE PAUSE TO LET THIS IDEA SINK IN</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_239"/>
+      </navPoint>
+      <navPoint id="navPoint-287" playOrder="287">
+        <navLabel>
+          <text>WE DIGRESS FOR A MOMENT</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_240"/>
+      </navPoint>
+      <navPoint id="navPoint-288" playOrder="288">
+        <navLabel>
+          <text>WE RETURN AGAIN TO THE HEAVENS</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_241"/>
+      </navPoint>
+      <navPoint id="navPoint-289" playOrder="289">
+        <navLabel>
+          <text>JUST WHAT ARE SUNS? WHY ARE THEY CREATED? WHAT IS THEIR SIGNIFICANCE?</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_242"/>
+      </navPoint>
+      <navPoint id="navPoint-290" playOrder="290">
+        <navLabel>
+          <text>BIRTH AND DEATH BALANCE EACH OTHER IN THIS UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_243"/>
+      </navPoint>
+      <navPoint id="navPoint-291" playOrder="291">
+        <navLabel>
+          <text>FURTHER EXPLANATIONS CONCERNING "THIS EXPANDING UNIVERSE"</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_244"/>
+      </navPoint>
+      <navPoint id="navPoint-292" playOrder="292">
+        <navLabel>
+          <text>NATURE'S LENSES OF LIGHT--WITH NEW REVELATIONS UPON CURVATURE AND NATURE'S PROCESS FOR THE "MANUFACTURE" OF LIGHT AND DARK</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_245"/>
+      </navPoint>
+      <navPoint id="navPoint-293" playOrder="293">
+        <navLabel>
+          <text>CURVATURE IS SEX DIVIDED</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_246"/>
+      </navPoint>
+      <navPoint id="navPoint-294" playOrder="294">
+        <navLabel>
+          <text>BEAUTY AND POWER OF OLD AGE</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_247"/>
+      </navPoint>
+      <navPoint id="navPoint-295" playOrder="295">
+        <navLabel>
+          <text>KNOWLEDGE IS YOUR ONLY POWER</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_248"/>
+      </navPoint>
+      <navPoint id="navPoint-296" playOrder="296">
+        <navLabel>
+          <text>WE RETURN TO THE MYSTERY OF CURVATURE</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_249"/>
+      </navPoint>
+      <navPoint id="navPoint-297" playOrder="297">
+        <navLabel>
+          <text>SUMMARY</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_250"/>
+      </navPoint>
+      <navPoint id="navPoint-298" playOrder="298">
+        <navLabel>
+          <text>WE CONTINUE TO BUILD</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_251"/>
+      </navPoint>
+      <navPoint id="navPoint-299" playOrder="299">
+        <navLabel>
+          <text>THIS TWO DIRECTIONED UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_252"/>
+      </navPoint>
+      <navPoint id="navPoint-300" playOrder="300">
+        <navLabel>
+          <text>SUMMARY AS TO RADII</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_253"/>
+      </navPoint>
+      <navPoint id="navPoint-301" playOrder="301">
+        <navLabel>
+          <text>WHAT ARE THESE SO-CALLED MAGNETIC LINES OF FORCE?</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_254"/>
+      </navPoint>
+      <navPoint id="navPoint-302" playOrder="302">
+        <navLabel>
+          <text>AGAIN WE DIVERGE FOR A MOMENT</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_255"/>
+      </navPoint>
+      <navPoint id="navPoint-303" playOrder="303">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_256"/>
+      </navPoint>
+      <navPoint id="navPoint-304" playOrder="304">
+        <navLabel>
+          <text>A FINAL THOUGHT</text>
+        </navLabel>
+        <content src="Text/lesson_46.xhtml#sigil_toc_id_257"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-305" playOrder="305">
+      <navLabel>
+        <text>LESSON NUMBER 47 WE NOW CONSIDER THE MAKING OF MATTER</text>
+      </navLabel>
+      <content src="Text/lesson_47.xhtml"/>
+      <navPoint id="navPoint-306" playOrder="306">
+        <navLabel>
+          <text>OTHER MISCONCEPTIONS CONCERNING MATTER</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_258"/>
+      </navPoint>
+      <navPoint id="navPoint-307" playOrder="307">
+        <navLabel>
+          <text>CONCERNING THE AGE OF THE UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_259"/>
+      </navPoint>
+      <navPoint id="navPoint-308" playOrder="308">
+        <navLabel>
+          <text>CONCERNING THE SHAPE OF THE UNIVERSE</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_260"/>
+      </navPoint>
+      <navPoint id="navPoint-309" playOrder="309">
+        <navLabel>
+          <text>MISCONCEPTION OF WEIGHT</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_261"/>
+      </navPoint>
+      <navPoint id="navPoint-310" playOrder="310">
+        <navLabel>
+          <text>CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_262"/>
+      </navPoint>
+      <navPoint id="navPoint-311" playOrder="311">
+        <navLabel>
+          <text>THE NINE OCTAVES OF THE ELEMENTS OF MATTER</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_263"/>
+      </navPoint>
+      <navPoint id="navPoint-312" playOrder="312">
+        <navLabel>
+          <text>ANALYSIS OF THE NINE OCTAVE CYCLE OF THE CHEMICAL ELEMENTS</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_264"/>
+      </navPoint>
+      <navPoint id="navPoint-313" playOrder="313">
+        <navLabel>
+          <text>SUMMARY OF UNITS OF THE PERIODIC CHART OF THE ELEMENTS</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_265"/>
+      </navPoint>
+      <navPoint id="navPoint-314" playOrder="314">
+        <navLabel>
+          <text>THE MYSTERY OF THE INERT GASES</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_266"/>
+      </navPoint>
+      <navPoint id="navPoint-315" playOrder="315">
+        <navLabel>
+          <text>WE DIGRESS TO EXPRESS A THOUGHT OF GREAT BEAUTY</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_267"/>
+      </navPoint>
+      <navPoint id="navPoint-316" playOrder="316">
+        <navLabel>
+          <text>WE NOW CONSIDER THE ELEMENTS AND ISOTOPES OF MATTER</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_268"/>
+      </navPoint>
+      <navPoint id="navPoint-317" playOrder="317">
+        <navLabel>
+          <text>CAUSE OF ISOTOPES--OR SPLIT TONES</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_269"/>
+      </navPoint>
+      <navPoint id="navPoint-318" playOrder="318">
+        <navLabel>
+          <text>COMPARING THE NEW RUSSELL PERIODIC CHARTS WITH THE OLD MENDELEEF CHART</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_270"/>
+      </navPoint>
+      <navPoint id="navPoint-319" playOrder="319">
+        <navLabel>
+          <text>A VERY BRIEF EXPLANATION OF THE BASIS FOR UNIVERSAL MATHEMATICS</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_271"/>
+      </navPoint>
+      <navPoint id="navPoint-320" playOrder="320">
+        <navLabel>
+          <text>WE CONSIDER A NEW BASIS FOR ATOMIC STRUCTURE WHICH IS TRUE TO NATURAL LAW</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_272"/>
+      </navPoint>
+      <navPoint id="navPoint-321" playOrder="321">
+        <navLabel>
+          <text>THERE IS NO EXCEPTION, OR VARIATION OF THIS PROCESS OF CREATING MATTER ANYWHERE IN NATURE</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_273"/>
+      </navPoint>
+      <navPoint id="navPoint-322" playOrder="322">
+        <navLabel>
+          <text>BASIS FOR ATOMIC CHANGE AND STRUCTURE</text>
+        </navLabel>
+        <content src="Text/lesson_47.xhtml#sigil_toc_id_274"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-323" playOrder="323">
+      <navLabel>
+        <text>LESSON NUMBER 48 THE SUPREME QUESTION AND THE SUPREME MYSTERY OF CREATION</text>
+      </navLabel>
+      <content src="Text/lesson_48.xhtml"/>
+      <navPoint id="navPoint-324" playOrder="324">
+        <navLabel>
+          <text>THE PISTOL SHOT</text>
+        </navLabel>
+        <content src="Text/lesson_48.xhtml#sigil_toc_id_275"/>
+      </navPoint>
+      <navPoint id="navPoint-325" playOrder="325">
+        <navLabel>
+          <text>THE GREAT MERCHANT</text>
+        </navLabel>
+        <content src="Text/lesson_48.xhtml#sigil_toc_id_276"/>
+      </navPoint>
+      <navPoint id="navPoint-326" playOrder="326">
+        <navLabel>
+          <text>THE MIGHTY SHIP</text>
+        </navLabel>
+        <content src="Text/lesson_48.xhtml#sigil_toc_id_277"/>
+      </navPoint>
+      <navPoint id="navPoint-327" playOrder="327">
+        <navLabel>
+          <text>NEW CONCEPTS FOR COSMIC MAN</text>
+        </navLabel>
+        <content src="Text/lesson_48.xhtml#sigil_toc_id_278"/>
+      </navPoint>
+      <navPoint id="navPoint-328" playOrder="328">
+        <navLabel>
+          <text>SUMMARY AND CONCLUSION</text>
+        </navLabel>
+        <content src="Text/lesson_48.xhtml#sigil_toc_id_279"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

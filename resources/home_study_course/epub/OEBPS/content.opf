@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9b0add94-c99d-4109-a33c-87f782061a4f</dc:identifier>
+    <dc:title>Home Study Course</dc:title>
+    <dc:creator opf:role="aut">Walter and Lao Russell</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-06-15</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="cover.png" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/title.xhtml" id="title.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/styles.css" id="styles.css" media-type="text/css" />
+    <item href="Images/image001.gif" id="image001.gif" media-type="image/gif" />
+    <item href="Images/image002.gif" id="image002.gif" media-type="image/gif" />
+    <item href="Images/image003.gif" id="image003.gif" media-type="image/gif" />
+    <item href="Images/image004.gif" id="image004.gif" media-type="image/gif" />
+    <item href="Images/image005.gif" id="image005.gif" media-type="image/gif" />
+    <item href="Images/image006.gif" id="image006.gif" media-type="image/gif" />
+    <item href="Images/image007.gif" id="image007.gif" media-type="image/gif" />
+    <item href="Images/image008.gif" id="image008.gif" media-type="image/gif" />
+    <item href="Images/image009.gif" id="image009.gif" media-type="image/gif" />
+    <item href="Images/image010.gif" id="image010.gif" media-type="image/gif" />
+    <item href="Images/image011.gif" id="image011.gif" media-type="image/gif" />
+    <item href="Images/image012.gif" id="image012.gif" media-type="image/gif" />
+    <item href="Images/image013.gif" id="image013.gif" media-type="image/gif" />
+    <item href="Images/image014.gif" id="image014.gif" media-type="image/gif" />
+    <item href="Images/image015.gif" id="image015.gif" media-type="image/gif" />
+    <item href="Images/image016.gif" id="image016.gif" media-type="image/gif" />
+    <item href="Images/image017.gif" id="image017.gif" media-type="image/gif" />
+    <item href="Images/image018.gif" id="image018.gif" media-type="image/gif" />
+    <item href="Images/image019.gif" id="image019.gif" media-type="image/gif" />
+    <item href="Images/image020.gif" id="image020.gif" media-type="image/gif" />
+    <item href="Images/image021.gif" id="image021.gif" media-type="image/gif" />
+    <item href="Images/image022.gif" id="image022.gif" media-type="image/gif" />
+    <item href="Images/image023.gif" id="image023.gif" media-type="image/gif" />
+    <item href="Images/image024.gif" id="image024.gif" media-type="image/gif" />
+    <item href="Images/image025.gif" id="image025.gif" media-type="image/gif" />
+    <item href="Images/image026.gif" id="image026.gif" media-type="image/gif" />
+    <item href="Images/image027.gif" id="image027.gif" media-type="image/gif" />
+    <item href="Images/image028.gif" id="image028.gif" media-type="image/gif" />
+    <item href="Images/image029.gif" id="image029.gif" media-type="image/gif" />
+    <item href="Images/image030.gif" id="image030.gif" media-type="image/gif" />
+    <item href="Images/image031.gif" id="image031.gif" media-type="image/gif" />
+    <item href="Images/image032.gif" id="image032.gif" media-type="image/gif" />
+    <item href="Images/image033.gif" id="image033.gif" media-type="image/gif" />
+    <item href="Images/image034.gif" id="image034.gif" media-type="image/gif" />
+    <item href="Images/image035.gif" id="image035.gif" media-type="image/gif" />
+    <item href="Images/image036.gif" id="image036.gif" media-type="image/gif" />
+    <item href="Images/image037.gif" id="image037.gif" media-type="image/gif" />
+    <item href="Images/image038.gif" id="image038.gif" media-type="image/gif" />
+    <item href="Images/image039.gif" id="image039.gif" media-type="image/gif" />
+    <item href="Images/image040.gif" id="image040.gif" media-type="image/gif" />
+    <item href="Images/image041.gif" id="image041.gif" media-type="image/gif" />
+    <item href="Images/image042.gif" id="image042.gif" media-type="image/gif" />
+    <item href="Images/image043.gif" id="image043.gif" media-type="image/gif" />
+    <item href="Images/image044.gif" id="image044.gif" media-type="image/gif" />
+    <item href="Images/image045.gif" id="image045.gif" media-type="image/gif" />
+    <item href="Images/image046.gif" id="image046.gif" media-type="image/gif" />
+    <item href="Images/image047.gif" id="image047.gif" media-type="image/gif" />
+    <item href="Images/image048.gif" id="image048.gif" media-type="image/gif" />
+    <item href="Images/image049.gif" id="image049.gif" media-type="image/gif" />
+    <item href="Images/image050.gif" id="image050.gif" media-type="image/gif" />
+    <item href="Images/image051.gif" id="image051.gif" media-type="image/gif" />
+    <item href="Images/image052.gif" id="image052.gif" media-type="image/gif" />
+    <item href="Images/image053.gif" id="image053.gif" media-type="image/gif" />
+    <item href="Images/image054.gif" id="image054.gif" media-type="image/gif" />
+    <item href="Images/image055.gif" id="image055.gif" media-type="image/gif" />
+    <item href="Images/image056.gif" id="image056.gif" media-type="image/gif" />
+    <item href="Images/image057.gif" id="image057.gif" media-type="image/gif" />
+    <item href="Images/image058.gif" id="image058.gif" media-type="image/gif" />
+    <item href="Images/image059.gif" id="image059.gif" media-type="image/gif" />
+    <item href="Images/image060.gif" id="image060.gif" media-type="image/gif" />
+    <item href="Images/image061.gif" id="image061.gif" media-type="image/gif" />
+    <item href="Images/image062.gif" id="image062.gif" media-type="image/gif" />
+    <item href="Images/image063.gif" id="image063.gif" media-type="image/gif" />
+    <item href="Images/image064.gif" id="image064.gif" media-type="image/gif" />
+    <item href="Images/image065.gif" id="image065.gif" media-type="image/gif" />
+    <item href="Images/image066.gif" id="image066.gif" media-type="image/gif" />
+    <item href="Images/image067.gif" id="image067.gif" media-type="image/gif" />
+    <item href="Images/image068.gif" id="image068.gif" media-type="image/gif" />
+    <item href="Images/image069.gif" id="image069.gif" media-type="image/gif" />
+    <item href="Images/image070.gif" id="image070.gif" media-type="image/gif" />
+    <item href="Images/image071.gif" id="image071.gif" media-type="image/gif" />
+    <item href="Images/image072.gif" id="image072.gif" media-type="image/gif" />
+    <item href="Images/image073.gif" id="image073.gif" media-type="image/gif" />
+    <item href="Images/image074.gif" id="image074.gif" media-type="image/gif" />
+    <item href="Images/image075.gif" id="image075.gif" media-type="image/gif" />
+    <item href="Images/image076.gif" id="image076.gif" media-type="image/gif" />
+    <item href="Images/image077.gif" id="image077.gif" media-type="image/gif" />
+    <item href="Images/image078.gif" id="image078.gif" media-type="image/gif" />
+    <item href="Images/image079.gif" id="image079.gif" media-type="image/gif" />
+    <item href="Images/image080.gif" id="image080.gif" media-type="image/gif" />
+    <item href="Images/image081.gif" id="image081.gif" media-type="image/gif" />
+    <item href="Images/image082.gif" id="image082.gif" media-type="image/gif" />
+    <item href="Images/image083.gif" id="image083.gif" media-type="image/gif" />
+    <item href="Images/image084.gif" id="image084.gif" media-type="image/gif" />
+    <item href="Images/image085.gif" id="image085.gif" media-type="image/gif" />
+    <item href="Images/image086.gif" id="image086.gif" media-type="image/gif" />
+    <item href="Images/image087.gif" id="image087.gif" media-type="image/gif" />
+    <item href="Images/image088.gif" id="image088.gif" media-type="image/gif" />
+    <item href="Images/image089.gif" id="image089.gif" media-type="image/gif" />
+    <item href="Images/image090.gif" id="image090.gif" media-type="image/gif" />
+    <item href="Images/image091.gif" id="image091.gif" media-type="image/gif" />
+    <item href="Images/image092.gif" id="image092.gif" media-type="image/gif" />
+    <item href="Images/image093.gif" id="image093.gif" media-type="image/gif" />
+    <item href="Images/image094.gif" id="image094.gif" media-type="image/gif" />
+    <item href="Images/image095.gif" id="image095.gif" media-type="image/gif" />
+    <item href="Images/image096.gif" id="image096.gif" media-type="image/gif" />
+    <item href="Images/image097.gif" id="image097.gif" media-type="image/gif" />
+    <item href="Images/image098.gif" id="image098.gif" media-type="image/gif" />
+    <item href="Images/image099.gif" id="image099.gif" media-type="image/gif" />
+    <item href="Images/image100.gif" id="image100.gif" media-type="image/gif" />
+    <item href="Images/image101.gif" id="image101.gif" media-type="image/gif" />
+    <item href="Images/image102.gif" id="image102.gif" media-type="image/gif" />
+    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/prelude.xhtml" id="prelude.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_01.xhtml" id="lesson_01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_02.xhtml" id="lesson_02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_03.xhtml" id="lesson_03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_04.xhtml" id="lesson_04.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_05.xhtml" id="lesson_05.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_06.xhtml" id="lesson_06.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_07.xhtml" id="lesson_07.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_08.xhtml" id="lesson_08.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_09.xhtml" id="lesson_09.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_10.xhtml" id="lesson_10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_11.xhtml" id="lesson_11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_12.xhtml" id="lesson_12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_13.xhtml" id="lesson_13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_14.xhtml" id="lesson_14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_15.xhtml" id="lesson_15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_16.xhtml" id="lesson_16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_17.xhtml" id="lesson_17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_18.xhtml" id="lesson_18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_19.xhtml" id="lesson_19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_20.xhtml" id="lesson_20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_21.xhtml" id="lesson_21.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_22.xhtml" id="lesson_22.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_23.xhtml" id="lesson_23.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_24.xhtml" id="lesson_24.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_25.xhtml" id="lesson_25.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_26.xhtml" id="lesson_26.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_27.xhtml" id="lesson_27.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_28.xhtml" id="lesson_28.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_29.xhtml" id="lesson_29.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_30.xhtml" id="lesson_30.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_31.xhtml" id="lesson_31.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_32.xhtml" id="lesson_32.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_33.xhtml" id="lesson_33.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_34.xhtml" id="lesson_34.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_35.xhtml" id="lesson_35.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_36.xhtml" id="lesson_36.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_37.xhtml" id="lesson_37.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_38.xhtml" id="lesson_38.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_39.xhtml" id="lesson_39.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_40.xhtml" id="lesson_40.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_41.xhtml" id="lesson_41.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_42.xhtml" id="lesson_42.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_43.xhtml" id="lesson_43.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_44.xhtml" id="lesson_44.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_45.xhtml" id="lesson_45.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_46.xhtml" id="lesson_46.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_47.xhtml" id="lesson_47.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/lesson_48.xhtml" id="lesson_48.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover.png" id="cover.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="title.xhtml" />
+    <itemref idref="copyright.xhtml" />
+    <itemref idref="prelude.xhtml" />
+    <itemref idref="lesson_01.xhtml" />
+    <itemref idref="lesson_02.xhtml" />
+    <itemref idref="lesson_03.xhtml" />
+    <itemref idref="lesson_04.xhtml" />
+    <itemref idref="lesson_05.xhtml" />
+    <itemref idref="lesson_06.xhtml" />
+    <itemref idref="lesson_07.xhtml" />
+    <itemref idref="lesson_08.xhtml" />
+    <itemref idref="lesson_09.xhtml" />
+    <itemref idref="lesson_10.xhtml" />
+    <itemref idref="lesson_11.xhtml" />
+    <itemref idref="lesson_12.xhtml" />
+    <itemref idref="lesson_13.xhtml" />
+    <itemref idref="lesson_14.xhtml" />
+    <itemref idref="lesson_15.xhtml" />
+    <itemref idref="lesson_16.xhtml" />
+    <itemref idref="lesson_17.xhtml" />
+    <itemref idref="lesson_18.xhtml" />
+    <itemref idref="lesson_19.xhtml" />
+    <itemref idref="lesson_20.xhtml" />
+    <itemref idref="lesson_21.xhtml" />
+    <itemref idref="lesson_22.xhtml" />
+    <itemref idref="lesson_23.xhtml" />
+    <itemref idref="lesson_24.xhtml" />
+    <itemref idref="lesson_25.xhtml" />
+    <itemref idref="lesson_26.xhtml" />
+    <itemref idref="lesson_27.xhtml" />
+    <itemref idref="lesson_28.xhtml" />
+    <itemref idref="lesson_29.xhtml" />
+    <itemref idref="lesson_30.xhtml" />
+    <itemref idref="lesson_31.xhtml" />
+    <itemref idref="lesson_32.xhtml" />
+    <itemref idref="lesson_33.xhtml" />
+    <itemref idref="lesson_34.xhtml" />
+    <itemref idref="lesson_35.xhtml" />
+    <itemref idref="lesson_36.xhtml" />
+    <itemref idref="lesson_37.xhtml" />
+    <itemref idref="lesson_38.xhtml" />
+    <itemref idref="lesson_39.xhtml" />
+    <itemref idref="lesson_40.xhtml" />
+    <itemref idref="lesson_41.xhtml" />
+    <itemref idref="lesson_42.xhtml" />
+    <itemref idref="lesson_43.xhtml" />
+    <itemref idref="lesson_44.xhtml" />
+    <itemref idref="lesson_45.xhtml" />
+    <itemref idref="lesson_46.xhtml" />
+    <itemref idref="lesson_47.xhtml" />
+    <itemref idref="lesson_48.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/title.xhtml" title="Title Page" type="title-page" />
+    <reference href="Text/copyright.xhtml" title="Copyright Page" type="copyright-page" />
+    <reference href="Text/prelude.xhtml" title="Preface" type="preface" />
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

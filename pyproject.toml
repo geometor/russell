@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometor-russell"
+authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
+description = "Digital reconstruction, vector graphics, and 3D cosmogony models of the works of Walter and Lao Russell."
+readme = "README.md"
+requires-python = ">=3.10"
+dynamic = ["version"]
+dependencies = [
+    "Pillow",
+    "numpy",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[project.scripts]
+geometor-russell = "geometor.russell.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.russell.__version__"}
+
+[project.urls]
+"Website" = "https://geometor.github.io/russell"
+"Repository" = "https://github.com/geometor/russell"
+"Issues" = "https://github.com/geometor/russell/issues"
