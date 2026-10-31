@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 760" width="860" height="760" class="russell-graphic">
+
+  <style>
+    .russell-graphic {
+      font-family: "Fira Sans Condensed", "Fira Sans", "DejaVu Sans", sans-serif;
+      background-color: #0c0e14;
+    }
+    .plate-bg { fill: #0c0e14; }
+    .panel-bg { fill: #121621; stroke: #262e42; stroke-width: 1.2; }
+    .frame-outer { fill: none; stroke: #ebe6dc; stroke-width: 2; opacity: 0.85; }
+    .frame-inner { fill: none; stroke: #e8b85a; stroke-width: 0.9; opacity: 0.6; }
+    .rule-divider { stroke: #262e42; stroke-width: 1.4; }
+    .zero-line { stroke: #e8b85a; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .zero-dashed { stroke: #e8b85a; stroke-width: 1.5; stroke-dasharray: 5, 4; fill: none; opacity: 0.85; }
+    .zero-plane { fill: #e8b85a; fill-opacity: 0.16; stroke: #e8b85a; stroke-width: 1.3; }
+    .pos-line { stroke: #fb7185; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .pos-fill { fill: #fb7185; fill-opacity: 0.16; stroke: #fb7185; stroke-width: 1.6; }
+    .neg-line { stroke: #38bdf8; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .neg-fill { fill: #38bdf8; fill-opacity: 0.16; stroke: #38bdf8; stroke-width: 1.6; }
+    .fg-line { stroke: #ebe6dc; stroke-width: 1.9; fill: none; stroke-linecap: round; }
+    .fg-dashed { stroke: #949eb0; stroke-width: 1.3; stroke-dasharray: 4, 4; fill: none; }
+    .node-zero { fill: #151924; stroke: #e8b85a; stroke-width: 2.2; }
+    .node-pos { fill: #151924; stroke: #fb7185; stroke-width: 2.2; }
+    .node-neg { fill: #151924; stroke: #38bdf8; stroke-width: 2.2; }
+    .node-amp { fill: #e8b85a; stroke: #fef08a; stroke-width: 2.6; }
+    .title-text { fill: #ebe6dc; font-size: 16px; font-weight: bold; letter-spacing: 1.4px; text-anchor: middle; }
+    .subtitle-text { fill: #e8b85a; font-size: 11.5px; font-weight: bold; letter-spacing: 1.1px; text-anchor: middle; }
+    .panel-title { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1px; text-anchor: middle; }
+    .label-text { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; }
+    .label-center { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; text-anchor: middle; dominant-baseline: central; }
+    .label-small { fill: #949eb0; font-size: 10px; font-weight: normal; }
+    .caption-box { fill: #0c0e14; stroke: #262e42; stroke-width: 1; }
+    .caption-text { fill: #ebe6dc; font-size: 10.5px; font-weight: normal; letter-spacing: 0.3px; text-anchor: middle; }
+    .fig-tag { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1.2px; }
+    .sig-tag { fill: #949eb0; font-size: 10.5px; font-weight: bold; letter-spacing: 1.5px; text-anchor: end; }
+  </style>
+  <defs>
+    <marker id="arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#fb7185"/>
+    </marker>
+    <marker id="arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-zero" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e8b85a"/>
+    </marker>
+    <marker id="arrow-fg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#ebe6dc"/>
+    </marker>
+    <radialGradient id="sun-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#fb7185" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#e8b85a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lens-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="860" height="760" class="plate-bg"/>
+  <rect x="12" y="12" width="836" height="736" class="frame-outer"/>
+  <rect x="16" y="16" width="828" height="728" class="frame-inner"/>
+  <text x="430.0" y="40" class="title-text">ALL OF NATURE'S MAGNETS ARE CONES OF CURVED PRESSURE</text>
+  <text x="430.0" y="58" class="subtitle-text">LESSON 46 • ZERO-CURVATURE EQUATORS VS. CONICAL GRADIENT FIELDS IN SPACE</text>
+  <line x1="28" y1="68" x2="832" y2="68" class="rule-divider"/>
+
+  <!-- Top Left: Fig. 158 Bar Magnet -->
+  <rect x="32" y="82" width="388" height="255" rx="4" class="panel-bg"/>
+  <text x="226" y="104" class="panel-title">FIG. 158 • MAN-MADE BAR MAGNET</text>
+  <!-- Bar -->
+  <rect x="88" y="152" width="276" height="26" class="pos-fill"/>
+  <line x1="88" y1="165" x2="364" y2="165" class="zero-dashed"/>
+  <!-- Zero Curvature Equator -->
+  <line x1="226" y1="114" x2="226" y2="238" class="zero-line" style="stroke-width:2.6;"/>
+  <text x="214" y="135" class="label-small" style="fill:#e8b85a;text-anchor:end;">ZERO-CURVATURE EQUATOR</text>
+  <!-- Nails at N and S -->
+  <text x="70" y="170" class="label-center" style="font-size:15px;fill:#fb7185;">N</text>
+  <text x="382" y="170" class="label-center" style="font-size:15px;fill:#38bdf8;">S</text>
+  <rect x="96" y="180" width="8" height="44" fill="#ebe6dc"/>
+  <rect x="90" y="222" width="20" height="5" fill="#ebe6dc"/>
+  <text x="100" y="242" class="label-center label-small">NAIL</text>
+  <rect x="348" y="180" width="8" height="44" fill="#ebe6dc"/>
+  <rect x="342" y="222" width="20" height="5" fill="#ebe6dc"/>
+  <text x="352" y="242" class="label-center label-small">NAIL</text>
+  <text x="226" y="280" class="caption-text">A bar-shaped magnet lifts an equal weight at each pole.</text>
+  <text x="226" y="296" class="caption-text">Its equator is a flat plane of zero curvature (0).</text>
+
+  <!-- Top Right: Fig. 159 Conical Magnet -->
+  <rect x="440" y="82" width="388" height="255" rx="4" class="panel-bg"/>
+  <text x="634" y="104" class="panel-title">FIG. 159 • NATURE'S CONICAL MAGNET</text>
+  <!-- Cone -->
+  <polygon points="495,172 775,116 775,228" class="neg-fill"/>
+  <line x1="495" y1="172" x2="782" y2="172" class="zero-dashed"/>
+  <ellipse cx="775" cy="172" rx="12" ry="56" class="neg-fill"/>
+  <!-- Curved Equator -->
+  <path d="M 552 118 Q 596 172 552 226" class="zero-line" style="stroke-width:2.6;"/>
+  <text x="595" y="128" class="label-small" style="fill:#e8b85a;">CURVED EQUATOR</text>
+  <!-- Concentrated Nail at N Apex -->
+  <text x="476" y="172" class="label-center" style="font-size:15px;fill:#fb7185;">N</text>
+  <text x="802" y="172" class="label-center" style="font-size:15px;fill:#38bdf8;">S</text>
+  <rect x="491" y="176" width="8" height="46" fill="#ebe6dc"/>
+  <rect x="485" y="220" width="20" height="5" fill="#ebe6dc"/>
+  <text x="495" y="242" class="label-center label-small">SOLID NAIL</text>
+  <!-- Divided Iron Dust at S Base -->
+  <circle cx="745" cy="152" r="2" fill="#ebe6dc"/>
+  <circle cx="758" cy="166" r="2" fill="#ebe6dc"/>
+  <circle cx="735" cy="182" r="2" fill="#ebe6dc"/>
+  <circle cx="762" cy="195" r="2" fill="#ebe6dc"/>
+  <circle cx="750" cy="140" r="2" fill="#ebe6dc"/>
+  <circle cx="748" cy="205" r="2" fill="#ebe6dc"/>
+  <text x="725" y="246" class="label-center label-small">DIVIDED NAIL (FILINGS)</text>
+  <text x="634" y="280" class="caption-text">A cone-shaped magnet lifts equally at both ends only when</text>
+  <text x="634" y="296" class="caption-text">one weight is divided into expanded volume. Its equator curves.</text>
+
+  <!-- Bottom Left: Fig. 160 Conical Expansion from Earth's Equator -->
+  <rect x="32" y="352" width="388" height="350" rx="4" class="panel-bg"/>
+  <text x="226" y="374" class="panel-title">FIG. 160 • CONICAL RADIATION &amp; CONDENSATION</text>
+  <!-- Earth Surface Arc at Bottom -->
+  <path d="M 95 655 Q 226 625 357 655" class="zero-line" style="stroke-width:2.5;"/>
+  <text x="226" y="672" class="label-center" style="fill:#e8b85a;">EQUATOR (N • GRAVITY APEX)</text>
+  <!-- Cone Flaring Upward to Vapor Cloud -->
+  <line x1="185" y1="640" x2="105" y2="415" class="pos-line"/>
+  <line x1="267" y1="640" x2="347" y2="415" class="pos-line"/>
+  <line x1="226" y1="640" x2="226" y2="395" class="zero-dashed"/>
+  <!-- Curved Equator A-B -->
+  <path d="M 122 465 Q 226 440 330 465" class="zero-line"/>
+  <text x="108" y="468" class="label-center" style="fill:#e8b85a;">A</text>
+  <text x="344" y="468" class="label-center" style="fill:#e8b85a;">B</text>
+  <!-- Cloud at Top -->
+  <path d="M 95 425 Q 130 392 175 405 Q 226 382 275 405 Q 325 392 355 425 Q 226 412 95 425 Z" class="neg-fill"/>
+  <text x="226" y="414" class="label-center" style="fill:#38bdf8;">VAPOR CLOUD (S • EXPANDED POLE)</text>
+  <text x="226" y="488" class="label-center label-small">DIVIDED WATER (MIST)</text>
+  <text x="112" y="555" class="label-center label-small" style="fill:#fb7185;">DIVIDED IRON</text>
+  <text x="340" y="555" class="label-center label-small" style="fill:#fb7185;">DIVIDED STONE</text>
+  <!-- Bucket of Water, Iron, Stone at Base -->
+  <polygon points="214,612 238,612 234,640 218,640" class="neg-fill"/>
+  <circle cx="182" cy="634" r="9" class="pos-fill"/>
+  <circle cx="270" cy="634" r="9" class="pos-fill"/>
+  <text x="145" y="636" class="label-small">IRON</text>
+  <text x="290" y="636" class="label-small">STONE</text>
+  <text x="226" y="692" class="caption-text">Solid iron, stone, and water expand into tenuous cones of vapor.</text>
+
+  <!-- Bottom Right: Fig. 161 Curved Equators & Curved Radii Reversed -->
+  <rect x="440" y="352" width="388" height="350" rx="4" class="panel-bg"/>
+  <text x="634" y="374" class="panel-title">FIG. 161 • CURVED EQUATORS &amp; RADII REVERSED</text>
+  <circle cx="634" cy="532" r="134" class="frame-outer" style="stroke:#e8b85a;"/>
+  <path d="M 518.8 463.6 Q 634.0 410.4 749.2 463.6" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 507.7 487.4 Q 634.0 452.6 760.3 487.4" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 501.8 510.4 Q 634.0 493.6 766.2 510.4" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 501.8 553.6 Q 634.0 570.4 766.2 553.6" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 507.7 576.6 Q 634.0 611.4 760.3 576.6" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 518.8 600.4 Q 634.0 653.6 749.2 600.4" class="neg-line" style="stroke-width:1.4;opacity:0.85;"/>
+  <path d="M 634.0 416.0 Q 478.8 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <path d="M 634.0 416.0 Q 528.7 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <path d="M 634.0 416.0 Q 577.3 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <path d="M 634.0 416.0 Q 690.7 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <path d="M 634.0 416.0 Q 739.3 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <path d="M 634.0 416.0 Q 789.2 532.0 634.0 648.0" class="pos-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <!-- Central Zero Cross -->
+  <line x1="500" y1="532" x2="768" y2="532" class="zero-line" style="stroke-width:2.6;"/>
+  <line x1="634" y1="398" x2="634" y2="666" class="zero-line" style="stroke-width:2.6;"/>
+  <!-- Top & Bottom Poles -->
+  <circle cx="634" cy="416" r="14" class="node-neg"/>
+  <text x="634" y="416" class="label-center" style="fill:#38bdf8;">S</text>
+  <circle cx="634" cy="648" r="14" class="node-pos"/>
+  <text x="634" y="648" class="label-center" style="fill:#fb7185;">N</text>
+  <text x="486" y="532" class="label-center" style="fill:#e8b85a;">0</text>
+  <text x="782" y="532" class="label-center" style="fill:#e8b85a;">0</text>
+  <text x="634" y="692" class="caption-text">Curved equators and curved radii reverse symmetry across the 0 plane.</text>
+
+  <text x="28" y="736" class="fig-tag">FIGS. 158–161</text>
+  <text x="832" y="736" class="sig-tag">W. R. • GEOMETOR</text>
+</svg>

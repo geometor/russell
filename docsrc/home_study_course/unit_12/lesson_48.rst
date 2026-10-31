@@ -1,0 +1,332 @@
+:layout: book
+
+.. _hsc-lesson-48:
+
+LESSON NUMBER 48 THE SUPREME QUESTION AND THE SUPREME MYSTERY OF CREATION
+=========================================================================
+
+From whence and what cometh energy for the initial impulse of power and speed which is given to any creating body and multiplies it for a time before withdrawing all of it for another period between eternal cycles of beginnings and endings in an eternity which has no beginnings and endings?
+
+A mighty star is moving across the heavens at many thousand miles per minute. It has been moving like that for countless ages, and will continue to do so for more countless ages. It did not always have that speed. It began at zero and will end where it began.
+
+Where did that energy come from? Why does it continue? Why must it discontinue? WHAT IS THAT ENERGY?
+
+A majestic ship of the ocean moves its huge mass very slowly. Its mighty engines strain heavily to give it its initial impulse. Its slowness multiplies into speed, and its speed multiplies as the great ship moves very fast with much less power extended from its engines.
+
+From whence came that impetus of greater speed of momentum with less work? What is momentum? What is its secret?
+
+A strong man who desires to be a rich and powerful merchant sells neckties on the city streets with but little reward. His effort to gain an initial impetus is great but the years multiply it into power to sell many thousand items with less effort, and greater reward, than to sell one item in the beginning of his desire to express effort.
+
+What is the secret of a man's power to multiply himself in such a manner that he becomes as a thousand men with more ease than when he was but one? Can it be that he multiplied some other power than that which man calls ENERGY'?"
+
+Do you really know the meaning of ENERGY? Do you really know why you attain greater momentum with less energy?
+
+Across the valley you see the quick, silent flash from a revolver. Two seconds later you hear the report of the explosion. Twelve thousand miles away an Arab hears that shot in his desert tent long before you have heard it across your valley. And if a man on the moon had that Arab's radio he also could hear that shot across that vast gap of space before you heard it across your two mile valley.
+
+Are there two energies, one within the other, or two kinds of energy to give two speeds to every action and reaction of everything of earth and heaven? Or is there some as yet unknown mystery in Nature which we know not of because we have only been concerned with moving matter and the energy of its moving?
+
+How can this be? We are told that one of these velocities is the speed of sound which is 1100 feet per second, and the other velocity is the speed of light which is 186,000 miles per second. Yet they are both sound. You hear them from both speeds. Are both of them, likewise, light?
+
+We are told that both are waves--sound-waves and light-waves. If so what is the mystery of their incredibly different speeds? And what is the relation of such slow sound waves to such fast light-waves?
+
+And why is it that these two speeds remain constant and never vary for greater or less intensity of either light or sound? This mystery we must clarify.
+
+We must know HOW it is--and WHY--that pistol shot can girdle the world fourteen times before it reaches us. We must know how that little voltage of energy--which is exploded from that powder--multiplies itself by the millions of voltage power needed to reach the antipodes of Earth and passes beyond them to the farthermost star in its traverse of this universe.
+
+If that sound reaches the moon to be recorded there it, likewise, reaches Mars--and Arcturus--and every nebulae of the far heavens e'en those which are a million light years away in forward time--which means that the little pistol shot of today on Earth is still resounding in this universe long ages after Earth has disappeared and our Sun has become the vacuous dark of space.
+
+Has man so great an ego as to think that the little energy he created made such a vast effort possible? Or does his ego permit him to think that he alone could have made that little effort of energy expression unaided by that vast voltage of power which is extended to him from the Cosmos to make that effort possible?
+
+Or is man so local that he could think that the effort which he believed to begin and end in him ever did begin or ever could end?
+
+It has been said by the mystics that motion once started never can end. If man could but become universal instead of local he might have a different conception of his place in God's universe and the mighty power which is back of his every effort for every man to use when he knows that power, and knows that it is his to use.
+
+Again we say that if that little sound, or even that of the loudest thunder, can touch the farthest star in the firmament of heaven, so, likewise, can the feeble cry of a babe, or the whisperings of Earth's winds, or e'en the fluttering of a butterfly's wings reach also to the other ends of space.
+
+Likewise, the simplest of actions, as well as sound, girdles the universe to be recorded in every particle of matter. Every star in the heavens must readjust itself to so slight an action as that of a man walking across a room.
+
+To him whose ego leads him to believe that energy begins and ends in him, instead of knowing that the vast energy of the universe is his to use when he knows his universality, that is his stumbling blocks-his brake to success set against himself.
+
+This is the mystery which must be clarified. Our last words to you are for this supreme purpose.
+
+The energy which man uses does not begin in man--it ends in him. It does not extend from him, nor does he extend it. It is extended TO him and he receives it as his Cosmic gift in the measure of his desire to be given--WHICH HE MUST REGIVE in order that he be again regiven.
+
+Until man becomes the fulcrum of his Self, through Comic knowing he is but an extension of the fulcrum which moves the universe but when his Self becomes the fulcrum of his Self through knowing the Light of universal Self, he then moves the universe.
+
+THE PISTOL SHOT
+---------------
+
+The sound of the pistol shot which reverberates upon the moon as well as upon this Earth is not man's little energy multiplied into the mighty Cosmic [voltage] of this universal body--it is that mighty voltage divided into the little measure of man's desire for use of it.
+
+That which he asks is extended to him in the measure of his desire to use it for Self-manifestation or to manifest God in him, in accord with his awareness of his Self as either Mind or body. Man has no limitations other than those which he sets for himself in the measure of his knowing, and the measure of his desire to work with God as God works with him, for desire alone will gain him nothing.
+
+THE GREAT MERCHANT
+------------------
+
+The merchant who thought that his energy alone gained him his chain of stores probably does not know how little his own initial impetus contributed to his multiplied power, and how much power the Mind Cosmos gave to him as the result of his Mind desire. Without desire in him, however, and without a vision of that altitude which he desired to reach, he never would have gained the momentum which increased his power and reduced his effort, but would have continued the hard labor of expressing the energy which he himself was content to express while working alone without vision or desire.
+
+THE MIGHTY SHIP
+---------------
+
+The fully gained momentum of the great ship of the sea is not alone the product of man's power to express energy by converting one form of it into another. The ship's engines strained hard to give the ship its initial impetus from which but little speed resulted.
+
+Much coal was burned but as the speed of momentum increased less coal was burned and the strain on the ship's engines lessened. Neither the coal, nor the power of the ship's engines gave the ship its increased momentum. They gave the ship its initial impulse at great effort but DESIRE of the Will of Mind gave the ship its momentum with lessened effort.
+
+Energy is Cosmic. Desire is also Cosmic. Desire of man for power and speed gave to him the power and speed of his desire. It was extended to him from the Cosmos by that Cosmic power which fulfills all desire of all creating things which has no name for it is not yet known. We shall give it a name nearest to that which is appropriate to its meaning. For want of a better one we will it INERTIA and further unfold its meaning in the few pages which remain unwritten.
+
+To exemplify the power of extended Cosmic energy to man from the universal fulcrum of power consider the laborer who can shovel twenty tons of coal in a day because of his desire to do so. The food he eats replaces his body waste but does not lift that twenty tons of coal. Even if his food were entirely converted to the so-called energy which motion is presumed to be it would not lift twenty pounds, let alone twenty tons.
+
+This is the mystery which must still be clarified in these last few pages.
+
+Such understanding will give new meaning to our Father-Mother's words as given to this age of main in The Message of The Divine Iliad which says: "Desire ye what ye will, and behold it standeth before thee. All down the aeons it has been thine, though thou has but just asked for it. Sit thou not and ask, acting not, for unless thou reach out for thy desire it shall walk thy way to thee, unaided by thy strong arms."
+
+NEW CONCEPTS FOR COSMIC MAN
+---------------------------
+
+Many thousands of people in many countries have fully accepted the idea that MIND is the basis of this universe, and that Mind created matter and controls it--but few there are who know that God's creative Mind thinks--as you and I think--or that the matter and motion of this universe are the electric records of Mind thinking.
+
+Science does not unanimously accept the universality of Mind. To most men of science each man has his own individual Mind, and to many modern psychological and psychiatric thinkers Mind is an evolutionary growth which arises from the experiences of the senses.
+
+Likewise, science conceives Creation to be some cataclysmic accident of Nature which assumed an orderliness of form out of a chaos which demanded orderliness so that the processes of Nature could continue during that long interval between its chaotic birth and certain death.
+
+Many have been aware of the Cosmos as a WAVE UNIVERSE, but few beyond the mystics have conceived it to be a THOUGHT-WAVE UNIVERSE, and no one as yet, to our knowledge, has ever conceived it to be What it really is--an ELECTRIC THOUGHT-WAVE UNIVERSE.
+
+Science has conceived a universe of light-waves, but never has there been the slightest suggestion from science that Creation might be an octave wave universe in which the elements of matter are created by the opposing pressures of octave waves.
+
+An indication of this lack of understanding of the entire universal body by science is the suggestion that matter is emerging from space and may be swallowed up by it. No such timid suggestion would ever be made by any one person or group who understood the electric nature of the universe, or understood the workings of electricity as a two-way reciprocating effect.
+
+The mystics of past ages have told of the divided and the undivided universes. The Book of Genesis has told the world that God divided day from night, light from dark, male from female, and the earth from the firmament of heaven, but never has it occurred to layman, churchman or man of science that such a division into pairs of opposites meant electric polarization. Furthermore such an idea as that of connecting God's thought processes of concentrative and decentrative thinking with compressed matter and expanded space, or of the male and female of species, was unthinkable.
+
+The connection between POLARITY and UNIVERSAL THINKING MIND has not yet entered into the Consciousness of man, for if it had there would have been no mystery regarding the relation of matter and space, nor of growth and decay, nor of life and death cycles.
+
+To clarify all this confusion we will again restate the essentials of God's principles and processes of Creation one simple step at a time as an artist paints his picture, one enlightening brushstroke at a time.
+
+1. God is the all-knowing, all-powerful Mind of undivided, unconditioned, formless, motionless, changeless and dimensionless Light.
+
+2. In the Light of all-knowing is DESIRE for the expression of the IDEA of all-knowing in three dimensional form by creating a universal body of divided lights which will extend from the undivided ONE as a lever extends from a fulcrum to manifest IDEA through motion.
+
+3. DESIRE to create is electrically expressed by polarized extensions from the fulcrum of MIND DESIRE. The energy of the universe is in the stillness of its fulcrum which divides its extensions of expressed energy as an equator divides the poles of a bar magnet. There is no energy in the polarized extensions of the universal Mind fulcrum. The power to express energy is extended from the Mind of the universe but the power thus extended is a property of the Mind-fulcrum and not of its extensions.
+
+THE ENERGY OF THE COSMOS LIES WITHIN THE FULCRUM EQUATOR WHICH DIVIDES AND SEPARATES THE TWO POLES OF THE UNIVERSAL BODY. THE MEASURE OF THAT MIGHTY POWER IS THE MEASURE IN WHICH THE TWO POLES CAN BE SEPARATED, DIVIDED AND EXTENDED[.] THE FARTHER APART THEY CAN BE EXTENDED THE GREATER IS THE ENERGY OF POLARIZATION. ANY WEAKENING OF THE POWER TO DIVIDE AND SEPARATE ONE POLE FROM ANOTHER IS AN EVIDENCE OF DEPOLARIZATION AS THE STRAIN OF ELECTRIC DIVISION SEEKS RELEASE FROM STRAIN IN REST.
+
+4 DESIRE of Mind-knowing is expressed by thinking the divided ONE IDEA of Mind into countless pairs of conditioned unit forms of Mind Idea.
+
+5. ELECTRIC THINKING IS THE DIVIDED ONE CHANGELESS LIGHT OF KNOWING MIND INTO THE TWO INTERCHANGING LIGHTS OF THINKING MIND.
+
+6. Electric thinking is the polarizer which (equally divides the Light of universal equilibrium into male and female, light and dark, day and night, matter and space, compression and expansion, positive and negative and all other pairs of opposite conditions which electric polarization has made possible.
+
+7. Electric thinking is expressed by polarized waves.
+
+8. God's universal polarized body is an electric thought wave universe.
+
+9. Electric thought-waves have a frequency of repetition which measures 186,000 miles per second. This velocity is misnamed "the speed of light". It is not the speed of light, however, but the speed of polarization. This means the speed in which electricity can divide the one Light of equilibrium into light and dark sequences, and reproduce those sequences in wave-fields.
+
+10. Electric thought-waves which equally divide the One still Light into two moving lights, likewise, keep the equally divided pairs of opposite conditions in balance with each other. Not one milligram of weight in the whole universe can outbalance one polarized condition with its mate condition.
+
+11. Electric thought-waves are the recorders of all thought actions and all patterns of unfolding idea. Every thought and action of every unfolding unit of Creation is recorded within every other unfolding unit at the polarization speed of 186, 400 miles per second.
+
+12. This constant speed of polarized thought-waves indicates the unchanging and ecstatic condition of our Father-Mother's thinking. When God's ecstatic thinking is extended to inspired man, man's knowing is reflected in his thinking in the timeless flashes in which the Creator extends His knowing to His thinking.
+
+13. This unfolding universe is the result of thought followed by action. Every action-reaction in Nature is a division of stillness into two-way motion. In other words it is the polarization of an equilibrium in which two opposite conditions extend from a dividing equator.
+
+14. Every polarizing action-reaction is an outward explosion followed by an inner one, or its reverse. Action-reactions make wave-fields and reproduce them at the rate of 1100 feet per second. While these reproductions of wave-fields are extending from their source of polarization at 1100 feet per second they are also being simultaneously reproduced in the thought-waves from which those action-reactions extended at 186,000 miles per second.
+
+A thunder clap, for example, will reach nearly five hundred thousand miles into space before it reaches a man who is but in the next valley.
+
+This velocity is called the speed of sound. It really is the speed of sound, but whether there is audible sound or not, this speed is reproduction of polarized action-reactions.
+
+The polarization of a harp string, for example, will emit an audible sound as the string vibrates to manifest its division, but a drop of water, when polarized into opposing conditions cannot be heard, but the waves of its division will reproduce themselves at that velocity as inexorably as the sound of an earthquake also would.
+
+SUMMARY AND CONCLUSION
+----------------------
+
+From whence cometh man's help?
+
+You should now fully comprehend why it is that God answers your prayers and gives you that which you desire when you work with Him to manifest your Self in Him.
+
+You should, likewise, more fully comprehend what we have before stated, that God works WITH you but not FOR you. When you know that He fulfills your desire as surely as you know that your car will run when you turn on the switch, or that you will be illumined with electric light when you plug into the generator at the power house, you will also as fully know that when you plug into the universal generator of that inconceivably vast power house which God has created, His power will be extended to you in the measure of your desire.
+
+Niagara generates great power and you know that it is dependable if you plug into it. Every star in the firmament is an uncountable trillion Niagaras, and the stars in the firmament are uncountable trillions.
+
+It is impossible to even conceive the vastness of power which this polarized storage battery of matter and space is. Now you must realize that Cosmic Mind created this vast incalculable voltage by dividing the earths from the heavens so that the interchange between the two expresses the mighty power which moves the countless trillions of stars of the firmament at inconceivable speeds.
+
+The wonderful part of it is that all of it is extended to you to use in the measure of your desire to use it, and the Measure of the effort you put forth in working with that universal power to be worthy of your desire.
+
+This fact you must understand. You must always remember that DESIRE is of the Mind. Desire is expressed in thought-waves at the universal speed of thought polarity, which is 186,000 miles per second, and the knowledge, inspiration and conception which patterns your desire will come back to you at the same speed.
+
+If that is all you want out of life, however, you may sit at ease and commune with God with inspiring thought exchange, and be uplifted by it until your very body falls apart from inaction, which it would soon do.
+
+You want more out of life than that, however. You wish to give form to your desires. You wish power to achieve. You wish to grow in physical and mental stature, build your body and other bodies, and manifest your thoughts and conceptions. This you can only do through physical action.
+
+It is right here that man fails to obtain his desire through not knowing his Mind relation to the Mind fulcrum of universal power, which God is, and the polarized extension from that fulcrum, which God's universal body is. The frustrations and failures of men who ask much from God and perform no service in working with God to be worthy of their desire are many.
+
+Such is the belief of many that they allow their bodies to die from lack of willingness to give the attention of right action through right knowing that is demanded of all bodies, whether of men or machines.
+
+Countless husbands, and wives, and children are allowed to suffer untold agonies of pain which the Mind of one who KNOWS, followed by right action through right knowing would alleviate or cure.
+
+Instead of extending desire for Mind healing to a Mind who knows CAUSE, and a skilled hand trained by KNOWING to remove ill EFFECTS of CAUSE, many appeal to Minds who do not know and who have no skilled hands, and these many advisers who are called in to treat unbalanced bodies beset with many ills, deceive those who appeal to them into working against Universal Law instead of with it.
+
+These are the ones who teach man to expect God to perform the physical action that is expected of physical man for his physical body as well as giving him the mental balance which lies in the Mind of our Father-Mother.
+
+These many who thus deny suffering mankind the Mind-healings of skilled doctors and surgeons who KNOW, become unskilled doctors who do not KNOW, and thus work incalculable injury to the bodies of man through their not knowing of the body, and to the Mind of man, through their misinterpretation of the teachings of Jesus who lawfully healed through KNOWING the LAW which these many Mind-doctors have not yet begun to know.
+
+Jesus was a master scientist. He was illumined with all-knowing in the Light of Cosmic Consciousness. Any man can do what He did when he has the Cosmic knowing which Jesus had, and any man can heal himself or others to the extent of his knowing, but the many metaphysical schools, which instruct their too many graduates to go out into the world and do what Jesus did, forget that Cosmic Minds like that of Jesus cannot be trained in schools of any kind. Such men as Jesus receive their illumining in the Light of Cosmic Consciousness from God alone.
+
+It is quite true that Jesus said "What I do ye can also do," to which we add, "when you are what I am and know what I know". That which we have added to His meaning is what the thousands forget who believe that they can do what Jesus did.
+
+God Will give the greater part of man's desire to him who asks it because God has that mighty universal power to give, but man must give his little power for multiplication by the universe.
+
+Man must give the initial impulse. God gives, the momentum of inertia to multiply that little to the measure of man's effort.
+
+We will be specific by citing working examples. A farmer who desires potatoes sends out his desire from the fulcrum of his Mind to the fulcrum of the universal Mind. He sends out a mental image--a patterned mental image of his desire--and that is what he receives--only THAT--until he does what God has done, which is to polarize his thought images through action.
+
+The farmer gives the initial impulse for the fulfillment of his desire by preparing the ground, placing his seed in it, and the small sprouts come from the ground in response to the farmer's initial impulse, but the momentum of growth is extended from that mighty generator which is God' body. Man had no part in the actions of growth.
+
+Potatoes are bodies made in the image of Mind imaginings. The farmer wanted the bodies, not the Mind images. All material bodies desired by man must be extended from the one body from which all bodies are regenerated into birth.
+
+Consider the initial impulse given by man to the mighty ship heretofore exemplified, and compare it with the planting of the seed by the farmer and the growth of the potato bodies which was the major part of the work performed by God alone while man sat at ease.
+
+Recall to your memory that we said that every action-reaction might be likened to an explosion. Never lose sight of that fact. Remember also that we said that every explosive action-reaction divides the universal equilibrium of rest to produce polarized wave-fields.
+
+Now imagine that ship at rest. The desire of its owners for speed has not yet been expressed. The first powerful stroke of the ship's engines divides that equilibrium. Polarity has begun. A positive pole has been developed just slightly in front of the ship's engines, and a negative pole just behind them. Right in the balanced middle of those engines an equator of zero curvature appears.
+
+To better visualize this all important fact imagine an invisible bar magnet extending two-directionally from those engines and pointing in the direction of travel, which is 90 degrees from the equator of the very small wave-field now formed.
+
+The second powerful stroke extends both poles farther from their fulcrum and enlarges the wave-field of measured power just a little. Stroke after powerful stroke, each straining to the engine's utmost, increases the intensity of polarization. The north pole extends forward toward the bow of the boat. The south pole moves toward the stern as both of these poles register the intensity of electric potential extended to them from their dividing equator.
+
+The very first stroke of the ship's generator brought back to it another stroke from the universal generator. That slightly increased speed came from the universal Source of power--not from the coal in the ship's furnace.
+
+Gradually the givings of impulses by man are more than counterbalanced by regivings from the universe. The ship gains momentum. MOMENTUM IS GROWTH EXTENDED FROM THE UNIVERSAL BODY. IT IS THE UNIVERSAL INERTIA WHICH CARRIES ONE EFFORT INTO THE NEXT.
+
+The growth of the farmer's potatoes is MOMENTUM extended from the generator of earth to carry on, and multiply, the initial impulse of desire by any creating thing.
+
+Momentum is the result of desire. The measure of momentum, or the growth of anything, is the result of desire, plus knowledge. The deer may desire speed in his legs to protect him from his enemies. That desire will give him speed in his body, for that is where his desire is centered. Speed for his body means work for his legs from which he will soon tire.
+
+When man desires speed for his body he does not ask for longer legs, for his knowledge prompts him to ask for another extension to his body. His little knowledge is enough for him to extend his body by adding a wheel, and a cart--and a horse to pull the cart--while he attains greater speed with ever lessened effort until his body attains a speed of hundreds of miles per hour without effort, due to the extensions to his body which knowledge and desire gave to him.
+
+You who are the head of a great business, know full well the hard work of the initial impetus you gave to it, and the desire which was ever with you, night and day, to reach the goal of your vision. And you also know that for every effort you made in working WITH God's law God met you more than half way and multiplied your effort so that you could ease it. And you have seen countless men whose desires were unlawful fall by the wayside, ill, and broken of body, as they received from the universe the like of that which they gave unto it.
+
+Set no limitation to your desire, therefore, for its greatest measure cannot in any wise effect the balance of the universal supply.
+
+No matter how little or great is your desire, however, the speed of your thought in asking for it is the same. A small wire, extending from a small battery, will send a message from you at 860, 000 [186,000] miles per second to a little bell which you desire to ring just as surely as a large wire will carry a high voltage current to ring a great bronze bell in the church steeple.
+
+The little wire and weak current will not, however, ring the big bell, nor will the little wire carry the high voltage current. It would burn up with so much current.
+
+It is important that your desires and actions should grow together. To work knowingly with God do not expect the terrific momentum immediately which you know the universe will give you when you are ready for it.
+
+Should the huge supply of your desire come to you the moment of your expression of desire it would as surely destroy you as the big current destroys the little wire.
+
+The concert pianist arrived at his high goal by working knowingly with God for many years, beginning with his first initial impulse which God multiplied over and over, time after time, as each renewed effort for mastery was balanced with equal giving of the momentum of growth from Mind and body of the Cosmos.
+
+We are not here on Earth to manifest ourselves alone. He who so thinks never passes beyond the boundaries of action-reaction of this material world of illusion.
+
+We are here to manifest God and thus find that we are manifesting our Selves.
+
+Man is forever in search for the door to the Light through which he can enter into the kingdom of heaven for the sole purpose of leading his neighbor to that door of Light.
+
+Man is forever in search for happiness. Happiness lies alone in the Light of Love.
+
+Man is divine when he knows that he is divine. And he is omnipotent, omnipresent and omniscient when he knows that he is omnipotent, omnipresent and omniscient.
+
+The journey of life is to find that awareness of divinity, knowledge and power.
+
+To live life gloriously is to forever transcend one's Self during the whole journey of life.
+
+To KNOW life thoroughly is to forever feel the ecstasy and joyousness of the pulsations of the universal heartbeat as they are always reflected in our bodies by the universal thought-waves at their constant universal speed.
+
+To live with Mind and body of man so thoroughly attuned to Mind and body of God that their balance is absolute is to know the glory of being ONE with the ONE Being whom we are to the extent of our knowing.
+
+If you would ask of God the supreme question He would say unto you:
+
+"ALL QUESTIONS ARE ANSWERABLE IN THE LIGHT. THOU ART LIGHT. THOU CANST ANSWER THEM."
+
+* * *
+
+Swannanoa, Waynesboro, Virginia
+
+Beloved friends and students:
+
+For twelve wonderful months a great part of us has come to your home and the glorious regivings through your letters have told us that we have entered your hearts and become ONE with your souls.
+
+From THE DIVINE ILIAD
+
+.. figure:: /_static/plates/image102.gif
+   :align: center
+
+   Archival Plate (``image102.gif``)
+
+If the teachings in these 48 lessons have enriched you, we also are greatly enriched by knowing that life has become more glorious for you by your new understanding of God and His Universe and YOUR relationship to Him and to each other.
+
+After you have studied and absorbed this last tremendous unit, start from the beginning and SLOWLY study all of the lessons again. You will be amazed at your own knowledge, and as you put this knowledge into operation in your daily lives, you will frequently marvel how seeming obstacles will melt away and problems be worked out for the good and happiness of all concerned.
+
+In the Cosmic world of tomorrow when man has "discovered" his dynamic oneness with his fellow man, he will know that all happiness is born through SHARING, or, in the words of the great DIVINE ILIAD MESSAGE - RHYTHMIC BALANCED INTERCHANGE.
+
+All through these lessons you have been learning the application of this one great inviolate LAW which God commanded my husband to give to mankind in this vital day of his great transition from past ages of SENSING to this NEW AGE of KNOWING.
+
+Should these last units seem too scientific for you to comprehend do not put them to one side believing them to be beyond you, for in time you will find they will become more and more clear to you, Remember it IS new knowledge. As a rose unfolds petal by petal, so likewise, does your understanding unfold - petal by petal.
+
+Slowly, but surely, your comprehension will increase and one day you will feel like holding your arms out to encircle the whole universe. As your understanding reaches full bloom you will know the desire to embrace and cherish the whole universe, for you will KNOW it and all mankind as YOURSELF.
+
+That is why we want you to understand the science of God's great universe, for YOU are the Universe and the Universe is YOU. Without the knowledge of what man IS, how can man understand man? It is like trying to form words without knowing the alphabet. Therefore, learn the "secrets" of the universe and then command thyself to LIVE knowingly WITH God in all thy ways.
+
+In these lessons we have endeavored to make clear to you what LOVE really means - not just abstractly but dynamically. RHYTHMIC BALANCED INTERCHANGE IS LOVE dynamically expressed. The many of you who have absorbed and understood these lessons now hold the KEY to all that is glorious and wonderful in life, AND NO SEEMING WORLD CATASTROPHE CAN TAKE THAT KEY FROM YOU.
+
+YOU now have the greatest SECURITY man can have - KNOWLEDGE of the long hidden secrets of Creation. Your constant letters prove this fact in your every field of endeavor. They have been and always will be - our greatest stimulus, for the proof of any teaching lies in practical demonstration by its students. We have little doubt that in the coming months and years the world will hear of many priceless contributions made by students of this great teaching.
+
+The more you comprehend God's great laws the more you will be able to extend your knowing to reverse the downward trend of thinking of the last half century. The upward trend is necessary for bringing into being the Cosmic Age for which THE DIVINE ILIAD MESSAGE was written.
+
+Many of you have been to SWANNANOA and have seen the glorious record of my husband's life in painting, sculpture, literature, drawings, photographs of his buildings and models of his architecture, which manifested his leadership in the arts and sciences. Visitors seeing all these material manifestations are speechless at such versatility, for not since the days of Leonardo da Vinci has anyone demonstrated so much in one lifetime. As you all know my husband has been internationally recognized as a master creator in all of the five fine arts.
+
+NOW the time has come when the world must know of Walter Russell the master scientist! It is my deepest desire to bring to the attention of the world, while my husband is still alive, the fact that he is the first man in history who has been able to see the universe as a whole and put it into scientific words and diagrams which, together, make a complete, consistent, balanced and provable Cosmogony which will endure, and replace the inconsistent Cosmogony for which textbooks must be constantly rewritten to keep pace with its ever changing theories.
+
+He has already given to the scientific world priceless gifts - the discovery of which have been ignored and credit given for their "discovery" to others who have made use of his copyrighted charts for their own credit, completely ignoring the discoverer. In 1926 he gave to the world two periodic charts of the elements which completed and corrected the incomplete and utterly incorrect table of the elements as compiled by Mendeleef. These copyrighted charts were mailed to about 1,000 scientists and were followed by lectures and newspaper interviews to tell that untold atomic energy was bound-up in two isotopes of actinium which lay beyond uranium, named urium and uridium in his charts, and that hydrogen was not the number one element but was number 22 in the table. Also that six other full tone elements existed in the hydrogen octave.
+
+Stimulated by these lectures researchers isolated what they incorrectly called isotopes of hydrogen which led to the discovery of heavy water. Twenty years later the atom bomb elements were found in the positions given in his copyrighted charts of 1926 and named by him, yet they were given other names.
+
+Acting upon the advice of a noted science writer he withdrew from making any further announcements of his discoveries in order to so convincingly set down his complete cosmogony in writing and in diagrams that it could be announced as a whole without fear of others taking credit for themselves for his discoveries. This has now been done.
+
+For these charts and other work in science, he was, however, awarded a Doctor of Science Degree in 1941 by The American Academy of Sciences which was chartered as a university with power to give degrees earned by work performed of a nature which would benefit mankind.
+
+For seven years he was President of The Society of Arts and Sciences during which time he conferred medals of honor to such men in the sciences as Thomas Edison, Robert A, Millikan, A. A. Michaelson, Harlow Shapley and many others.
+
+Being conversant with these further details of my husband's work in science I know you will agree that the time has now come when the world should be made aware of this great scientific knowledge that God gave to the world through him.
+
+God gave this new scientific knowledge for the comfort and uplift of man, but man in his greed is using it to kill and spread agony in the form of atom bombs and other destructive uses instead of to ease his labors and bless him.
+
+YOU, who are the seed for God's great Message of THE DIVINE ILIAD, will help to bring fulfillment to my desire in bringing to the attention of the world the fact that Dr. Russell is the only living man who has the knowledge that will give to man the powers of control over matter and energy which man has never yet known. You can add your "strong arm" by spreading this great new knowledge among the world of men. Thus will a New Age come into being and Cosmic Man unfold in his full glory.
+
+Remember that all you are seeking and working for LOVE, HAPPINESS, HEALTH, FRIENDSHIP, BUSINESS SUCCESS, fame as INVENTOR, DISCOVERER, AUTHOR, ARTIST or STATESMAN - lies in your control of that one principle - BALANCE. In the measure of your ability to control BALANCE in yourself and in your creations, so will you express it in your works and ways, by which you will be known.
+
+This last unit of lessons in NOT "Good-bye", for YOU will ever be a part of our great Cosmic Plan. You have but to rest your thoughts on us and we shall be ONE with you now and forever more.
+
+Know that Swannanoa's great doors on God's Sacred Mountain will ever be open to you whom we treasure and love as ourselves through the knowledge of our universality which makes all men ONE.
+
+Yours with deepest love in the service of all mankind, I am Sincerely,
+
+Lao Russell
+
+* * *
+
+Dear friends and students:
+
+Now that these lessons are finished I have a great desire to interject the personal and human element into our wonderfully intimate relations during this whole glorious year of close communion with you and tell you the lesson these lessons taught me thus adding to the glory which new discoveries always bring into life.
+
+That great lesson is the discovery of how much more powerful either a husband or wife can become when they unite their powers and work together as one. Any man who thinks he is complete in himself and who has not made that great discovery that I have, is unfortunate indeed, for there is not one on earth who can share a man's work and problems better than his wife, or vice versa.
+
+I have worked indefatigably for thirty-one years to give The Message of The Divine Iliad to the world in simple, understandable language. For twenty-six of those years I worked alone. Then came my Lao right out of the Cosmos. God knew that I needed another Cosmic Mind to make the pendulum of my own Mind swing truly in balance while doing this great work, thus He added Lao's knowledge and inspiration to mine so that we could together find the kind of words which would appeal to the world, and present it in a human and sympathetic manner, without having the taint of "textbookishness" in it
+
+In five years of working moment to moment, and so closely that we got to thinking as one, I have advanced farther than in the whole previous twenty-six years. Besides making my work infinitely better, it made work more joyous and less fatiguing. Hours of conferences, writing and rewriting, destroying and joyously beginning all over again with the two of us in it instead of just the one. All of these lessons would not have been half what they are with just me in them.
+
+They are what they are because Lao is in every line of them, every thought of them, from the zero of beginning to the zero of rest at which we almost sadly have arrived. I say "sadly" because you have all been very close to us during that wonderful period. Perhaps, though, I should not have let that thought come to us because you are not being the less a part of our lives than you were during that period.
+
+Many, many times we have found husbands and wives making the discovery of multiplied power that we have made, and we have rejoiced in each new one who thus wrote us. Likewise, we have been overjoyed to hear that the children of the family are joining in the family readings and discussions which this new knowledge is bringing to them. Over and over again we have heard the delightful news that the lessons have brought greater unity to already united families, and still more often have we heard of business and domestic problems being dissolved because of husband and wife making that discovery which has its scientific explanation in the fact that the need of every one is on the other side of his own equator, and cannot be filled by that which is on just one side alone.
+
+It seems to us that every Government should make this discovery as well as every individual. Perhaps what is the matter with the world today is that it is only a man's world. Men alone are running it as badly as women alone would run it. Perhaps we are still too close to the jungle to have discovered the Cosmic value of the unity between mates which is Nature's intent.
+
+At any rate I have discovered the greater power it gives to me as a human, and the greater masterliness it gives to my work as a creator of idea, and the joy of it is so great that I want to tell you about it and set you to thinking and wondering until you think as we think, and work with the multiplied power and joy which is our delightful lot in doing everything we both do as ONE PERSON.
+
+And now just the last word of joyous anticipation in seeing you all here upon our wonderful mountain to share with us its wondrous beauty and to exchange with us our mutual thoughts in this lovely place where people, like all of us, are drawn together for mutual enrichment.
+
+With our love always, I am
+
+Sincerely yours, Walter Russell

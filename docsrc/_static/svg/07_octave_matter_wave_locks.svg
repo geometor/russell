@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 720" width="880" height="720" class="russell-graphic">
+
+  <style>
+    .russell-graphic {
+      font-family: "Fira Sans Condensed", "Fira Sans", "DejaVu Sans", sans-serif;
+      background-color: #0c0e14;
+    }
+    .plate-bg { fill: #0c0e14; }
+    .panel-bg { fill: #121621; stroke: #262e42; stroke-width: 1.2; }
+    .frame-outer { fill: none; stroke: #ebe6dc; stroke-width: 2; opacity: 0.85; }
+    .frame-inner { fill: none; stroke: #e8b85a; stroke-width: 0.9; opacity: 0.6; }
+    .rule-divider { stroke: #262e42; stroke-width: 1.4; }
+    .zero-line { stroke: #e8b85a; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .zero-dashed { stroke: #e8b85a; stroke-width: 1.5; stroke-dasharray: 5, 4; fill: none; opacity: 0.85; }
+    .zero-plane { fill: #e8b85a; fill-opacity: 0.16; stroke: #e8b85a; stroke-width: 1.3; }
+    .pos-line { stroke: #fb7185; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .pos-fill { fill: #fb7185; fill-opacity: 0.16; stroke: #fb7185; stroke-width: 1.6; }
+    .neg-line { stroke: #38bdf8; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .neg-fill { fill: #38bdf8; fill-opacity: 0.16; stroke: #38bdf8; stroke-width: 1.6; }
+    .fg-line { stroke: #ebe6dc; stroke-width: 1.9; fill: none; stroke-linecap: round; }
+    .fg-dashed { stroke: #949eb0; stroke-width: 1.3; stroke-dasharray: 4, 4; fill: none; }
+    .node-zero { fill: #151924; stroke: #e8b85a; stroke-width: 2.2; }
+    .node-pos { fill: #151924; stroke: #fb7185; stroke-width: 2.2; }
+    .node-neg { fill: #151924; stroke: #38bdf8; stroke-width: 2.2; }
+    .node-amp { fill: #e8b85a; stroke: #fef08a; stroke-width: 2.6; }
+    .title-text { fill: #ebe6dc; font-size: 16px; font-weight: bold; letter-spacing: 1.4px; text-anchor: middle; }
+    .subtitle-text { fill: #e8b85a; font-size: 11.5px; font-weight: bold; letter-spacing: 1.1px; text-anchor: middle; }
+    .panel-title { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1px; text-anchor: middle; }
+    .label-text { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; }
+    .label-center { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; text-anchor: middle; dominant-baseline: central; }
+    .label-small { fill: #949eb0; font-size: 10px; font-weight: normal; }
+    .caption-box { fill: #0c0e14; stroke: #262e42; stroke-width: 1; }
+    .caption-text { fill: #ebe6dc; font-size: 10.5px; font-weight: normal; letter-spacing: 0.3px; text-anchor: middle; }
+    .fig-tag { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1.2px; }
+    .sig-tag { fill: #949eb0; font-size: 10.5px; font-weight: bold; letter-spacing: 1.5px; text-anchor: end; }
+  </style>
+  <defs>
+    <marker id="arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#fb7185"/>
+    </marker>
+    <marker id="arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-zero" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e8b85a"/>
+    </marker>
+    <marker id="arrow-fg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#ebe6dc"/>
+    </marker>
+    <radialGradient id="sun-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#fb7185" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#e8b85a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lens-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="720" class="plate-bg"/>
+  <rect x="12" y="12" width="856" height="696" class="frame-outer"/>
+  <rect x="16" y="16" width="848" height="688" class="frame-inner"/>
+  <text x="440.0" y="40" class="title-text">OCTAVE LOCKING POINTS AND THE CARBON AMPLITUDE CAPSTONE</text>
+  <text x="440.0" y="58" class="subtitle-text">LESSON 47 • FOUR INTEGRATING (+) AND FOUR DISINTEGRATING (-) TONES IN EVERY OCTAVE</text>
+  <line x1="28" y1="68" x2="852" y2="68" class="rule-divider"/>
+
+  <!-- Left Panel: Fig. 179 Integration/Disintegration Arch -->
+  <rect x="32" y="82" width="468" height="580" rx="4" class="panel-bg"/>
+  <text x="266" y="106" class="panel-title">FIG. 179 • OCTAVE ARCH OF INTEGRATION &amp; DISINTEGRATION</text>
+  <text x="266" y="124" class="label-center label-small" style="fill:#e8b85a;">HIGHEST MELTING POINTS &amp; DENSITY AT CARBON CREST (4±)</text>
+
+  <path d="M 173 485 A 92 92 0 0 1 357 485" fill="none" stroke="#232a3b" stroke-width="1.4"/><path d="M 147 485 A 118 118 0 0 1 383 485" fill="none" stroke="#232a3b" stroke-width="1.4"/><path d="M 121 485 A 144 144 0 0 1 409 485" fill="none" stroke="#232a3b" stroke-width="1.4"/><path d="M 95 485 A 170 170 0 0 1 435 485" fill="none" stroke="#232a3b" stroke-width="1.4"/><path d="M 69 485 A 196 196 0 0 1 461 485" fill="none" stroke="#232a3b" stroke-width="1.4"/>
+  <line x1="192.7" y1="461.5" x2="61.5" y2="418.9" stroke="#fb7185" stroke-width="1.6" opacity="0.7"/><text x="46.3" y="413.9" class="label-center" style="font-size:11px;fill:#fb7185;font-weight:700;">1+</text><circle cx="177.5" cy="456.6" r="11.5" class="node-pos"/><text x="177.5" y="456.6" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Li</text><circle cx="152.8" cy="448.5" r="11.5" class="node-pos"/><text x="152.8" y="448.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Na</text><circle cx="128.0" cy="440.5" r="11.5" class="node-pos"/><text x="128.0" y="440.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">K</text><circle cx="103.3" cy="432.5" r="11.5" class="node-pos"/><text x="103.3" y="432.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Rb</text><circle cx="78.6" cy="424.4" r="11.5" class="node-pos"/><text x="78.6" y="424.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Cs</text><line x1="208.5" y1="434.1" x2="106.0" y2="341.8" stroke="#fb7185" stroke-width="1.6" opacity="0.7"/><text x="94.1" y="331.1" class="label-center" style="font-size:11px;fill:#fb7185;font-weight:700;">2+</text><circle cx="196.6" cy="423.4" r="11.5" class="node-pos"/><text x="196.6" y="423.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Be</text><circle cx="177.3" cy="406.0" r="11.5" class="node-pos"/><text x="177.3" y="406.0" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Mg</text><circle cx="158.0" cy="388.6" r="11.5" class="node-pos"/><text x="158.0" y="388.6" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Ca</text><circle cx="138.7" cy="371.2" r="11.5" class="node-pos"/><text x="138.7" y="371.2" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Sr</text><circle cx="119.3" cy="353.9" r="11.5" class="node-pos"/><text x="119.3" y="353.9" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Ba</text><line x1="234.1" y1="415.6" x2="178.0" y2="289.5" stroke="#fb7185" stroke-width="1.6" opacity="0.7"/><text x="171.5" y="274.9" class="label-center" style="font-size:11px;fill:#fb7185;font-weight:700;">3+</text><circle cx="227.6" cy="401.0" r="11.5" class="node-pos"/><text x="227.6" y="401.0" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">B</text><circle cx="217.0" cy="377.2" r="11.5" class="node-pos"/><text x="217.0" y="377.2" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Al</text><circle cx="206.4" cy="353.4" r="11.5" class="node-pos"/><text x="206.4" y="353.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Sc</text><circle cx="195.9" cy="329.7" r="11.5" class="node-pos"/><text x="195.9" y="329.7" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Y</text><circle cx="185.3" cy="305.9" r="11.5" class="node-pos"/><text x="185.3" y="305.9" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">La</text><line x1="265.0" y1="409.0" x2="265.0" y2="271.0" stroke="#e8b85a" stroke-width="1.6" opacity="0.7"/><text x="265.0" y="255.0" class="label-center" style="font-size:11px;fill:#e8b85a;font-weight:700;">4±</text><circle cx="265.0" cy="393.0" r="11.5" class="node-amp"/><text x="265.0" y="393.0" class="label-center" style="font-size:9.5px;fill:#0c0e14;font-weight:700;">C</text><circle cx="265.0" cy="367.0" r="11.5" class="node-amp"/><text x="265.0" y="367.0" class="label-center" style="font-size:9.5px;fill:#0c0e14;font-weight:700;">Si</text><circle cx="265.0" cy="341.0" r="11.5" class="node-amp"/><text x="265.0" y="341.0" class="label-center" style="font-size:9.5px;fill:#0c0e14;font-weight:700;">Ti</text><circle cx="265.0" cy="315.0" r="11.5" class="node-amp"/><text x="265.0" y="315.0" class="label-center" style="font-size:9.5px;fill:#0c0e14;font-weight:700;">Zr</text><circle cx="265.0" cy="289.0" r="11.5" class="node-amp"/><text x="265.0" y="289.0" class="label-center" style="font-size:9.5px;fill:#0c0e14;font-weight:700;">Hf</text><line x1="295.9" y1="415.6" x2="352.0" y2="289.5" stroke="#38bdf8" stroke-width="1.6" opacity="0.7"/><text x="358.5" y="274.9" class="label-center" style="font-size:11px;fill:#38bdf8;font-weight:700;">3-</text><circle cx="302.4" cy="401.0" r="11.5" class="node-neg"/><text x="302.4" y="401.0" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">N</text><circle cx="313.0" cy="377.2" r="11.5" class="node-neg"/><text x="313.0" y="377.2" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">P</text><circle cx="323.6" cy="353.4" r="11.5" class="node-neg"/><text x="323.6" y="353.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">As</text><circle cx="334.1" cy="329.7" r="11.5" class="node-neg"/><text x="334.1" y="329.7" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Sb</text><circle cx="344.7" cy="305.9" r="11.5" class="node-neg"/><text x="344.7" y="305.9" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Bi</text><line x1="321.5" y1="434.1" x2="424.0" y2="341.8" stroke="#38bdf8" stroke-width="1.6" opacity="0.7"/><text x="435.9" y="331.1" class="label-center" style="font-size:11px;fill:#38bdf8;font-weight:700;">2-</text><circle cx="333.4" cy="423.4" r="11.5" class="node-neg"/><text x="333.4" y="423.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">O</text><circle cx="352.7" cy="406.0" r="11.5" class="node-neg"/><text x="352.7" y="406.0" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">S</text><circle cx="372.0" cy="388.6" r="11.5" class="node-neg"/><text x="372.0" y="388.6" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Se</text><circle cx="391.3" cy="371.2" r="11.5" class="node-neg"/><text x="391.3" y="371.2" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Te</text><circle cx="410.7" cy="353.9" r="11.5" class="node-neg"/><text x="410.7" y="353.9" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Po</text><line x1="337.3" y1="461.5" x2="468.5" y2="418.9" stroke="#38bdf8" stroke-width="1.6" opacity="0.7"/><text x="483.7" y="413.9" class="label-center" style="font-size:11px;fill:#38bdf8;font-weight:700;">1-</text><circle cx="352.5" cy="456.6" r="11.5" class="node-neg"/><text x="352.5" y="456.6" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">F</text><circle cx="377.2" cy="448.5" r="11.5" class="node-neg"/><text x="377.2" y="448.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Cl</text><circle cx="402.0" cy="440.5" r="11.5" class="node-neg"/><text x="402.0" y="440.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">Br</text><circle cx="426.7" cy="432.5" r="11.5" class="node-neg"/><text x="426.7" y="432.5" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">I</text><circle cx="451.4" cy="424.4" r="11.5" class="node-neg"/><text x="451.4" y="424.4" class="label-center" style="font-size:9.5px;fill:#ebe6dc;font-weight:700;">At</text>
+
+  <!-- Center Text inside Arch -->
+  <rect x="218" y="422" width="96" height="22" rx="3" class="zero-plane"/>
+  <text x="266" y="433" class="label-center" style="fill:#e8b85a;font-weight:800;">CARBON (4±)</text>
+  <text x="266" y="466" class="label-center" style="font-size:11px;fill:#fb7185;">INNER ARROWS (+):</text>
+  <text x="266" y="481" class="label-center label-small">INCREASING INTEGRATION</text>
+  <text x="266" y="496" class="label-center label-small">(Compression toward Amplitude)</text>
+  <text x="266" y="526" class="label-center" style="font-size:11px;fill:#38bdf8;">OUTER ARROWS (-):</text>
+  <text x="266" y="541" class="label-center label-small">INCREASING DISINTEGRATION</text>
+  <text x="266" y="556" class="label-center label-small">(Expansion back to Inert Gas)</text>
+
+  <text x="266" y="638" class="caption-text">"NATURE IS ORDERLY, BALANCED AND RHYTHMIC IN ALL EFFECTS OF MOTION."</text>
+
+  <!-- Right Panel: Fig. 180 Wave Axis & 4 Tone-Element Pairs -->
+  <rect x="512" y="82" width="336" height="580" rx="4" class="panel-bg"/>
+  <text x="680" y="106" class="panel-title">FIG. 180 • THE FOUR TONE-PAIRS</text>
+  <text x="680" y="124" class="label-center label-small">GYROSCOPIC LOCKING PLANES ON WAVE AXIS</text>
+
+  <!-- Diagonal Wave Axis -->
+  <line x1="535" y1="585" x2="735" y2="148" class="zero-line" style="stroke-width:2.4;"/>
+  <g transform="translate(561.6, 529.6) rotate(-28)"><ellipse cx="0" cy="0" rx="18" ry="5.0" class="zero-plane"/><circle cx="0" cy="0" r="4" fill="#e8b85a"/></g><text x="593.6" y="533.6" class="label-small" style="fill:#e8b85a;font-weight:700;">0 • INERT GAS</text><g transform="translate(582.0, 484.0) rotate(-28)"><ellipse cx="0" cy="0" rx="34" ry="9.5" class="pos-fill"/><circle cx="0" cy="0" r="4" fill="#fb7185"/></g><text x="630.0" y="488.0" class="label-small" style="fill:#fb7185;font-weight:700;">1+ • ALKALI (Li / Na)</text><g transform="translate(602.4, 438.4) rotate(-28)"><ellipse cx="0" cy="0" rx="50" ry="14.0" class="pos-fill"/><circle cx="0" cy="0" r="4" fill="#fb7185"/></g><text x="666.4" y="442.4" class="label-small" style="fill:#fb7185;font-weight:700;">2+ • ALKALINE (Be / Mg)</text><g transform="translate(622.8, 392.8) rotate(-28)"><ellipse cx="0" cy="0" rx="66" ry="18.5" class="pos-fill"/><circle cx="0" cy="0" r="4" fill="#fb7185"/></g><text x="702.8" y="396.8" class="label-small" style="fill:#fb7185;font-weight:700;">3+ • BORON / Al</text><g transform="translate(643.2, 347.2) rotate(-28)"><ellipse cx="0" cy="0" rx="84" ry="23.5" class="zero-plane"/><circle cx="0" cy="0" r="4" fill="#e8b85a"/></g><text x="741.2" y="351.2" class="label-small" style="fill:#e8b85a;font-weight:700;">4± • CARBON AMPLITUDE</text><g transform="translate(663.6, 301.6) rotate(-28)"><ellipse cx="0" cy="0" rx="66" ry="18.5" class="neg-fill"/><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g><text x="743.6" y="305.6" class="label-small" style="fill:#38bdf8;font-weight:700;">3- • NITROGEN / P</text><g transform="translate(684.0, 256.0) rotate(-28)"><ellipse cx="0" cy="0" rx="50" ry="14.0" class="neg-fill"/><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g><text x="748.0" y="260.0" class="label-small" style="fill:#38bdf8;font-weight:700;">2- • OXYGEN / S</text><g transform="translate(704.4, 210.4) rotate(-28)"><ellipse cx="0" cy="0" rx="34" ry="9.5" class="neg-fill"/><circle cx="0" cy="0" r="4" fill="#38bdf8"/></g><text x="752.4" y="214.4" class="label-small" style="fill:#38bdf8;font-weight:700;">1- • HALOGEN (F / Cl)</text>
+
+  <text x="680" y="622" class="caption-text">Four centripetal (+) and four centrifugal (-)</text>
+  <text x="680" y="638" class="caption-text">gyroscopic wheels lock on the wave axis.</text>
+
+  <text x="28" y="696" class="fig-tag">FIGS. 179–180</text>
+  <text x="852" y="696" class="sig-tag">W. R. • GEOMETOR</text>
+</svg>

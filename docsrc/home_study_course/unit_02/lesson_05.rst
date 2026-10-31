@@ -1,0 +1,95 @@
+:layout: book
+
+.. _hsc-lesson-05:
+
+LESSON NUMBER 5 PRAYER SCIENTIFICALLY EXPLAINED THE POWER OF PRAYER
+===================================================================
+
+Today I wish to supplement everything I have told you about meditation, or communion with God, and talk to you about prayer which is the basis of meditation and out of which meditation grew.
+
+Prayer is the mightiest of man's powers, for through prayer, if understood and rightly used, man may have anything he desires, attain the loftiest heights or extend his powers to others for their exaltation. Rightly and knowingly used prayer can transform one's own condition, or that of the whole world.
+
+If prayer is not rightly and knowingly used the time consumed is wasted, for it will be of no avail.
+
+PRAYER IS BASED UPON DESIRE
+---------------------------
+
+"Desire ye what ye will, and behold, it standeth before thee. Throughout the aeons it has been thine without thy knowing, e'en though thou hast but just asked for it.
+
+"Sit thou not and ask, acting not, for unless thou reach out for thy Desire it shall not walk thy way to thee unaided by thy strong arms."
+
+This means that God will fulfill your every desire if you work with God to fulfill it.
+
+The whole power of the universe will work WITH you for its fulfilling but it will not work FOR you while you do nothing about it.
+
+In this promise is the key to why prayers are, or are not answered. God tells you very plainly that He will give you whatever you desire but you must regive equally by the action of service.
+
+Think that over. Recall the many prayers you have uttered and how disappointed you were because they were not answered. Most prayers are just selfish ones, continually asking for something to be given without even the expectation of giving something in exchange.
+
+Think of the thousands of entreaties which are sent up to God with the hope that what is asked for will just fall in their laps. You ask God for money. God says: "Yes I will give you money, all you want of it, but what are you yourself giving for it? What is the price you are paying for it?" Again we quote God's word in His Message.
+
+"He who desireth riches of earth alone, denying Me in him, shall dwell in utter darkness of his own making, until he shall desire Me strongly.
+
+"E'en to him will I give all he asketh without stinting, yea, and even more: but he, having more than all he sought will have naught but worthless dross of his earth desire.
+
+"Things of earth which man desires are but things of earth to be returned to earth with bones of him. But things of earth, heaven blessed by Me, are as eternal in the immortality of his Self recording Soul as Light of Me is eternal."
+
+You ask God for peace, happiness and prosperity to be given to you, but you take peace, happiness and prosperity away from another by malicious gossiping about your neighbor, treating your servant unjustly, thus taking her happiness away from her, or by misrepresenting the product you are selling.
+
+Until you balance your desire for peace by giving peace, or happiness by giving happiness, or prosperity by giving prosperity, your prayer will be voided by you, yourself.
+
+The only way you can have happiness given to you by the Light of love, which God is, is for you to give love to others.
+
+You cannot take happiness or love. You can only give it. If you give love it will as surely be given to you as light shone into a mirror will reflect light back from the mirror.
+
+Witness the nations which have tried to become powerful, prosperous, peaceful and happy by plundering other nations. Empires thus taken by force without having been voluntarily given, or without having given equally in exchange, are heavily in debt and on rations, and for every man killed to take wealth and happiness away from others for themselves, instead of giving it, ten have paid the price in blood and a thousand in tears.
+
+Witness also the great fortunes which have been built upon that principle. No man has ever yet been able to purchase happiness, prosperity, peace or love with any other coin than happiness, peace and love.
+
+The price of love is love. The price of greed is agony.
+
+You ask God to heal your body from its ills which you, yourself created by over-eating, by giving vent to violent anger, or by divers acts which destroy normalcy of balance given you by God. It seems never to occur to you that you must regive that which you ask for by eating properly, by substituting love for anger or cessation of the abuses which have caused your disorders.
+
+Do not misunderstand me when I refer to only such unbalanced conditions as anger or overeating as being the cause of all disorders, for worry and excessive grief--yes and even loneliness and introspection--will cause grave disorders.
+
+That which I wish to impress upon you is the one fact that any disturbance of balance to the body is immediately recorded in the body by some malady, or mal-adjustment which we think of as sickness. Also I say that any sickness of an kind is self-made, whether knowingly or unknowingly, whether intentionally or unintentionally.
+
+God's laws are never set aside by prayer or otherwise. The CAUSE of your illness is in your breach of the law. You are suffering from its effects and ask God to eliminate the EFFECT while you continue to repeat the CAUSE.
+
+MAN BLAMES GOD FOR MAN-MADE WARS
+--------------------------------
+
+Consider the many prayers for cessation of wars. "O Lord we beseech Thee to stop this cruel war", we say, forgetful of the fact that we make our wars ourselves by the freewill to act as we choose.
+
+We fail to realize that the way to stop wars is to stop causing them. War is just as much an effect of a cause which man created by his selfishness as a business failure is the effect of a cause created by man because of his unwillingness to balance his gifts by regiving.
+
+We not only pray to God to let us break His law without suffering from its effects but we blame God for our own actions in breaking His law. How often we hear people say: "How can a loving God in heaven permit such cruel wars? It is hard to believe there is a God, else He would not permit such wars."
+
+We might just as well say there can be no God else he would not permit us to lie to our neighbor.
+
+God gives us freewill to do as we choose in the making of our Selves in our own image, and He gives us all of the power of His universe to help us break His law if we wish to, but whatever gifts we accept we must equally give to balance our gifts. Let us again quote God's Message in this respect.
+
+"Verily has man freewill to control his actions. That my Father-Mother has given to man as his inheritance. But the control of the reactions to those actions man has never had.
+
+"This my Father-Mother holds inviolate. These cannot become man's except through modifying his actions until the reactions are their exact equal and opposite in equilibrium."
+
+GRAVE MISCONCEPTIONS REGARDING PRAYER
+-------------------------------------
+
+It is generally believed among men that one who prays often, and with many words loudly and piously uttered, is holy among men and much favored of God. But I say that he who finds an ecstasy of happiness in his Soul from the giving of his love to touch the Soul of a despairing neighbor is a hundredfold more holy in God's sight. To him the kingdom of heaven is as though he dwelleth in the house of the Lord while the other one of piety and words sitteth afar outside its garden walls.
+
+When you pray to God saying "O God, pity us for we are as dust beneath Thy feet", God's Silent Voice whispers within you: "Know thou the Light which I am. Thou art man, exalted in Me. What I am thou art. Thou art the Light."
+
+For long ages God's Silent Voice whispers within your unhearing ears. God, therefore gives you your desire to be what you wish to be in the building of your Self. So long as you believe yourself to be dust beneath the feet of the Almighty God you are that dust which you have built in the image of your imagining.
+
+When you pray to God saying: "God have mercy upon me, a miserable sinner you have not prayed to the One God of Love,--Creator of His universe of love--Creator of you to manifest His love, for you do not know Him. You have but prayed to a God of wrath and fear of your own making whom you have built in your own image.
+
+He who builds gods in his own image builds idols for his worshiping. He whose idol is fear and wrath cannot know the God of Love. Until you know love you are what your idol is, a miserable sinner to whom mercy must be shown by your idol whom you, yourself, are. And you will be punished for your imagined self-made sins by you, yourself, for the idol you worship will show you no mercy until you are freed from him by knowing love.
+
+When you pray to God resignedly, as though patiently accepting the punishment of grief at the death of a loved one, and you say: "Thy will be done O Lord. The Lord giveth, and he taketh away", you have not yet known the God of love, for God giveth only. God never takes that which has not been given. What God gives to you you regive to Him for His regiving.
+
+You rejoice when God gives birth to life, yet you deeply grieve when you give rebirth to new life--for that is what death is.
+
+It will be many decades before man as a mass comprehends this idea which is commonplace thinking to cosmic man, but you, in whom the seed of cosmic thinking is being sown, will go to your neighbor and sow it in his Consciousness, and he in turn will do likewise, until man in the mass will be transformed from Barbaric man who still crucifies love to cosmic man who is love.
+
+Tomorrow we will give thought to the deeper meaning of prayer.
