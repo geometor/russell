@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 880" width="840" height="880" class="russell-graphic">
+
+  <style>
+    .russell-graphic {
+      font-family: "Fira Sans Condensed", "Fira Sans", "DejaVu Sans", sans-serif;
+      background-color: #0c0e14;
+    }
+    .plate-bg { fill: #0c0e14; }
+    .panel-bg { fill: #121621; stroke: #262e42; stroke-width: 1.2; }
+    .frame-outer { fill: none; stroke: #ebe6dc; stroke-width: 2; opacity: 0.85; }
+    .frame-inner { fill: none; stroke: #e8b85a; stroke-width: 0.9; opacity: 0.6; }
+    .rule-divider { stroke: #262e42; stroke-width: 1.4; }
+    .zero-line { stroke: #e8b85a; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .zero-dashed { stroke: #e8b85a; stroke-width: 1.5; stroke-dasharray: 5, 4; fill: none; opacity: 0.85; }
+    .zero-plane { fill: #e8b85a; fill-opacity: 0.16; stroke: #e8b85a; stroke-width: 1.3; }
+    .pos-line { stroke: #fb7185; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .pos-fill { fill: #fb7185; fill-opacity: 0.16; stroke: #fb7185; stroke-width: 1.6; }
+    .neg-line { stroke: #38bdf8; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .neg-fill { fill: #38bdf8; fill-opacity: 0.16; stroke: #38bdf8; stroke-width: 1.6; }
+    .fg-line { stroke: #ebe6dc; stroke-width: 1.9; fill: none; stroke-linecap: round; }
+    .fg-dashed { stroke: #949eb0; stroke-width: 1.3; stroke-dasharray: 4, 4; fill: none; }
+    .node-zero { fill: #151924; stroke: #e8b85a; stroke-width: 2.2; }
+    .node-pos { fill: #151924; stroke: #fb7185; stroke-width: 2.2; }
+    .node-neg { fill: #151924; stroke: #38bdf8; stroke-width: 2.2; }
+    .node-amp { fill: #e8b85a; stroke: #fef08a; stroke-width: 2.6; }
+    .title-text { fill: #ebe6dc; font-size: 16px; font-weight: bold; letter-spacing: 1.4px; text-anchor: middle; }
+    .subtitle-text { fill: #e8b85a; font-size: 11.5px; font-weight: bold; letter-spacing: 1.1px; text-anchor: middle; }
+    .panel-title { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1px; text-anchor: middle; }
+    .label-text { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; }
+    .label-center { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; text-anchor: middle; dominant-baseline: central; }
+    .label-small { fill: #949eb0; font-size: 10px; font-weight: normal; }
+    .caption-box { fill: #0c0e14; stroke: #262e42; stroke-width: 1; }
+    .caption-text { fill: #ebe6dc; font-size: 10.5px; font-weight: normal; letter-spacing: 0.3px; text-anchor: middle; }
+    .fig-tag { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1.2px; }
+    .sig-tag { fill: #949eb0; font-size: 10.5px; font-weight: bold; letter-spacing: 1.5px; text-anchor: end; }
+  </style>
+  <defs>
+    <marker id="arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#fb7185"/>
+    </marker>
+    <marker id="arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-zero" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e8b85a"/>
+    </marker>
+    <marker id="arrow-fg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#ebe6dc"/>
+    </marker>
+    <radialGradient id="sun-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#fb7185" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#e8b85a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lens-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="840" height="880" class="plate-bg"/>
+  <rect x="12" y="12" width="816" height="856" class="frame-outer"/>
+  <rect x="16" y="16" width="808" height="848" class="frame-inner"/>
+  <text x="420.0" y="40" class="title-text">THE SPHERICAL LIGHT-LENS AND RING-TO-SYSTEM GENESIS</text>
+  <text x="420.0" y="58" class="subtitle-text">LESSON 46 • RECONSTRUCTED FROM WALTER RUSSELL'S PLATE OF FIGS. 170, 171 &amp; 172</text>
+  <line x1="28" y1="68" x2="812" y2="68" class="rule-divider"/>
+
+  <!-- Panel 1: Fig. 170 Three Equators of Zero Curvature -->
+  <rect x="32" y="80" width="776" height="225" rx="4" class="panel-bg"/>
+  <text x="690" y="104" class="panel-title">FIG. 170</text>
+  <!-- 3 Orthogonal Planes intersecting sphere -->
+  <line x1="150" y1="175" x2="690" y2="175" class="zero-line" style="stroke-width:2.2;"/>
+  <line x1="420" y1="92" x2="420" y2="258" class="zero-line" style="stroke-width:2.2;"/>
+  <line x1="275" y1="242" x2="565" y2="108" class="zero-dashed" style="stroke-width:2;"/>
+  <!-- Isometric Plane Outlines -->
+  <polygon points="280,102 560,102 560,248 280,248" fill="none" stroke="#e8b85a" stroke-width="1" stroke-dasharray="4,4"/>
+  <circle cx="420" cy="175" r="58" class="pos-fill" style="stroke-width:2.2;"/>
+  <!-- 6 Poles of the 3 Axes -->
+  <text x="430" y="112" class="label-small" style="fill:#e8b85a;">1 (N)</text>
+  <text x="482" y="146" class="label-small" style="fill:#e8b85a;">2</text>
+  <text x="488" y="190" class="label-small" style="fill:#e8b85a;">3</text>
+  <text x="430" y="245" class="label-small" style="fill:#e8b85a;">4 (S)</text>
+  <text x="355" y="212" class="label-small" style="fill:#e8b85a;">5</text>
+  <text x="348" y="168" class="label-small" style="fill:#e8b85a;">6</text>
+  <rect x="64" y="262" width="712" height="34" rx="3" class="caption-box"/>
+  <text x="420" y="276" class="caption-text">ON THE THREE EQUATORS OF ZERO CURVATURE IN A LIGHT SPHERE LENS, ALL RADII LOSE</text>
+  <text x="420" y="290" class="caption-text">THEIR CURVATURE TO REVERSE IT IN THE EIGHT SECTIONS OF THE SPHERE WHICH THESE EQUATORS DIVIDE.</text>
+
+  <!-- Panel 2: Fig. 171 Curved Radii in a Light Sphere Lens -->
+  <rect x="32" y="316" width="776" height="260" rx="4" class="panel-bg"/>
+  <text x="690" y="340" class="panel-title">FIG. 171</text>
+  <circle cx="420" cy="434" r="92" fill="url(#lens-glow)"/>
+  <circle cx="420" cy="434" r="18" fill="none" stroke="#ebe6dc" stroke-width="1.1" opacity="0.65"/><circle cx="420" cy="434" r="36" fill="none" stroke="#ebe6dc" stroke-width="1.1" opacity="0.65"/><circle cx="420" cy="434" r="54" fill="none" stroke="#ebe6dc" stroke-width="1.1" opacity="0.65"/><circle cx="420" cy="434" r="73" fill="none" stroke="#ebe6dc" stroke-width="1.1" opacity="0.65"/><circle cx="420" cy="434" r="92" fill="none" stroke="#ebe6dc" stroke-width="1.1" opacity="0.65"/>
+  <path d="M 420.0 434.0 Q 471.2 464.8 548.9 455.9" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 461.5 477.0 535.5 476.3" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 449.0 486.3 514.3 493.8" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 434.4 492.0 486.7 507.3" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 418.9 493.8 454.5 515.8" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 421.1 493.8 385.5 515.8" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 405.6 492.0 353.3 507.3" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 391.0 486.3 325.7 493.8" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 378.5 477.0 304.5 476.3" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 368.8 464.8 291.1 455.9" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 368.8 403.2 291.1 412.1" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 378.5 391.0 304.5 391.7" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 391.0 381.7 325.7 374.2" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 405.6 376.0 353.3 360.7" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 421.1 374.2 385.5 352.2" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 418.9 374.2 454.5 352.2" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 434.4 376.0 486.7 360.7" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 449.0 381.7 514.3 374.2" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 461.5 391.0 535.5 391.7" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/><path d="M 420.0 434.0 Q 471.2 403.2 548.9 412.1" class="neg-line" style="stroke-width:1.3;opacity:0.8;"/>
+  <!-- United Equator & Polar Axis -->
+  <line x1="145" y1="434" x2="695" y2="434" class="zero-line" style="stroke-width:2.6;"/>
+  <line x1="420" y1="334" x2="420" y2="530" class="zero-line" style="stroke-width:2.4;"/>
+  <circle cx="420" cy="434" r="7" class="node-amp"/>
+  <text x="215" y="424" class="label-small" style="fill:#e8b85a;font-weight:700;">UNITED EQUATOR (0)</text>
+  <rect x="64" y="534" width="712" height="34" rx="3" class="caption-box"/>
+  <text x="420" y="548" class="caption-text">ALL OTHER RADII IN A LIGHT SPHERE LENS CURVE INWARD TOWARD POLES TO THE CENTER</text>
+  <text x="420" y="562" class="caption-text">OF THE LENS TO FORM A CENTER OF GRAVITY WHERE LIGHT COMPRESSION IS MAXIMUM.</text>
+
+  <!-- Panel 3: Fig. 172 Coronas Become Rings and Rings Become Systems -->
+  <rect x="32" y="588" width="776" height="236" rx="4" class="panel-bg"/>
+  <text x="690" y="612" class="panel-title">FIG. 172</text>
+  <!-- Equatorial Corona & Rings -->
+  <ellipse cx="420" cy="692" rx="255" ry="26" class="neg-fill" style="stroke-dasharray:5,3;"/>
+  <ellipse cx="420" cy="692" rx="195" ry="20" class="zero-plane"/>
+  <ellipse cx="420" cy="692" rx="138" ry="14" class="pos-fill"/>
+  <!-- Radiant Sun Corona -->
+  <circle cx="420" cy="692" r="88" fill="url(#sun-glow)"/>
+  <!-- Central Dark/Incandescent Core -->
+  <circle cx="420" cy="692" r="42" fill="#0c0e14" stroke="#e8b85a" stroke-width="2.5"/>
+  <!-- Condensing Planets on Equatorial Ring -->
+  <circle cx="225" cy="692" r="6" class="node-neg"/>
+  <circle cx="615" cy="692" r="6" class="node-neg"/>
+  <circle cx="165" cy="692" r="4.5" class="node-zero"/>
+  <circle cx="675" cy="692" r="4.5" class="node-zero"/>
+
+  <rect x="64" y="768" width="712" height="46" rx="3" class="caption-box"/>
+  <text x="420" y="783" class="caption-text" style="fill:#e8b85a;font-weight:700;">CORONAS BECOME RINGS AND RINGS BECOME SYSTEMS</text>
+  <text x="420" y="798" class="caption-text">OUTWARD THRUST OF RADIATION AT EQUATORS + INWARD PULL OF GENERATION AT POLES</text>
+  <text x="420" y="811" class="caption-text">CAUSES MAXIMUM RADIATION AT EQUATORS AND MAXIMUM GENERATION AT POLES. THUS ARE SUNS WOUND UP AND UNWOUND.</text>
+
+  <text x="28" y="856" class="fig-tag">FIGS. 170–172</text>
+  <text x="812" y="856" class="sig-tag">W. R. • GEOMETOR</text>
+</svg>

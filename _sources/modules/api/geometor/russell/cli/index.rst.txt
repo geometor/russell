@@ -1,0 +1,27 @@
+geometor.russell.cli
+====================
+
+.. py:module:: geometor.russell.cli
+
+.. autoapi-nested-parse::
+
+   CLI entry point for geometor.russell.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.russell.cli.main
+
+
+Module Contents
+---------------
+
+.. py:function:: main() -> None
+
+   Run the geometor-russell CLI.
+
+

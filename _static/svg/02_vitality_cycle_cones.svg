@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 740" width="880" height="740" class="russell-graphic">
+
+  <style>
+    .russell-graphic {
+      font-family: "Fira Sans Condensed", "Fira Sans", "DejaVu Sans", sans-serif;
+      background-color: #0c0e14;
+    }
+    .plate-bg { fill: #0c0e14; }
+    .panel-bg { fill: #121621; stroke: #262e42; stroke-width: 1.2; }
+    .frame-outer { fill: none; stroke: #ebe6dc; stroke-width: 2; opacity: 0.85; }
+    .frame-inner { fill: none; stroke: #e8b85a; stroke-width: 0.9; opacity: 0.6; }
+    .rule-divider { stroke: #262e42; stroke-width: 1.4; }
+    .zero-line { stroke: #e8b85a; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .zero-dashed { stroke: #e8b85a; stroke-width: 1.5; stroke-dasharray: 5, 4; fill: none; opacity: 0.85; }
+    .zero-plane { fill: #e8b85a; fill-opacity: 0.16; stroke: #e8b85a; stroke-width: 1.3; }
+    .pos-line { stroke: #fb7185; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .pos-fill { fill: #fb7185; fill-opacity: 0.16; stroke: #fb7185; stroke-width: 1.6; }
+    .neg-line { stroke: #38bdf8; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .neg-fill { fill: #38bdf8; fill-opacity: 0.16; stroke: #38bdf8; stroke-width: 1.6; }
+    .fg-line { stroke: #ebe6dc; stroke-width: 1.9; fill: none; stroke-linecap: round; }
+    .fg-dashed { stroke: #949eb0; stroke-width: 1.3; stroke-dasharray: 4, 4; fill: none; }
+    .node-zero { fill: #151924; stroke: #e8b85a; stroke-width: 2.2; }
+    .node-pos { fill: #151924; stroke: #fb7185; stroke-width: 2.2; }
+    .node-neg { fill: #151924; stroke: #38bdf8; stroke-width: 2.2; }
+    .node-amp { fill: #e8b85a; stroke: #fef08a; stroke-width: 2.6; }
+    .title-text { fill: #ebe6dc; font-size: 16px; font-weight: bold; letter-spacing: 1.4px; text-anchor: middle; }
+    .subtitle-text { fill: #e8b85a; font-size: 11.5px; font-weight: bold; letter-spacing: 1.1px; text-anchor: middle; }
+    .panel-title { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1px; text-anchor: middle; }
+    .label-text { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; }
+    .label-center { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; text-anchor: middle; dominant-baseline: central; }
+    .label-small { fill: #949eb0; font-size: 10px; font-weight: normal; }
+    .caption-box { fill: #0c0e14; stroke: #262e42; stroke-width: 1; }
+    .caption-text { fill: #ebe6dc; font-size: 10.5px; font-weight: normal; letter-spacing: 0.3px; text-anchor: middle; }
+    .fig-tag { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1.2px; }
+    .sig-tag { fill: #949eb0; font-size: 10.5px; font-weight: bold; letter-spacing: 1.5px; text-anchor: end; }
+  </style>
+  <defs>
+    <marker id="arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#fb7185"/>
+    </marker>
+    <marker id="arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-zero" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e8b85a"/>
+    </marker>
+    <marker id="arrow-fg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#ebe6dc"/>
+    </marker>
+    <radialGradient id="sun-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#fb7185" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#e8b85a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lens-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="740" class="plate-bg"/>
+  <rect x="12" y="12" width="856" height="716" class="frame-outer"/>
+  <rect x="16" y="16" width="848" height="708" class="frame-inner"/>
+  <text x="440.0" y="40" class="title-text">THE GROWTH AND DECAY CYCLE OF OPPOSING SPIRAL CONES</text>
+  <text x="440.0" y="58" class="subtitle-text">LESSON 18 • VITALITY INCREASES WITH POLARIZATION AND VANISHES AT EQUILIBRIUM</text>
+  <line x1="28" y1="68" x2="852" y2="68" class="rule-divider"/>
+
+  <!-- Top Row: Figs. 38, 39, 40 (Polarization Begins) -->
+  <rect x="32" y="80" width="816" height="145" rx="4" class="panel-bg"/>
+  <text x="440" y="100" class="panel-title">I. GENERATION: VITALITY INCREASES AS POLES PULL APART TOWARD MATURITY (FIGS. 38–40)</text>
+
+  <!-- Fig 38: Seed at Zero Rest -->
+  <line x1="65" y1="155" x2="225" y2="155" class="zero-dashed"/>
+  <circle cx="145" cy="155" r="13" class="node-zero"/>
+  <text x="145" y="155" class="label-center" style="fill:#e8b85a;">0</text>
+  <text x="145" y="195" class="label-center">Fig. 38 • Seed in Rest</text>
+
+  <!-- Fig 39: Equatorial Extension -->
+  <line x1="325" y1="155" x2="515" y2="155" class="zero-line"/>
+  <circle cx="325" cy="155" r="10" class="node-zero"/>
+  <circle cx="420" cy="155" r="12" class="node-zero"/>
+  <circle cx="515" cy="155" r="10" class="node-zero"/>
+  <text x="420" y="155" class="label-center" style="font-size:10px;fill:#e8b85a;">0</text>
+  <text x="420" y="195" class="label-center">Fig. 39 • Divided Equator</text>
+
+  <!-- Fig 40: Cross of Polarity -->
+  <line x1="620" y1="155" x2="780" y2="155" class="zero-line"/>
+  <line x1="700" y1="122" x2="700" y2="188" class="pos-line" marker-start="url(#arrow-neg)" marker-end="url(#arrow-pos)"/>
+  <circle cx="620" cy="155" r="9" class="node-zero"/>
+  <circle cx="700" cy="155" r="11" class="node-zero"/>
+  <circle cx="780" cy="155" r="9" class="node-zero"/>
+  <text x="714" y="122" class="label-center" style="fill:#38bdf8;">-</text>
+  <text x="714" y="188" class="label-center" style="fill:#fb7185;">+</text>
+  <text x="700" y="206" class="label-center">Fig. 40 • Polarized Cross</text>
+
+  <!-- Middle Row: Figs. 41-44 (Double-Cone Spiral Growth & Mature Tree) -->
+  <rect x="32" y="238" width="816" height="278" rx="4" class="panel-bg"/>
+  <text x="440" y="258" class="panel-title">II. FULL POLARIZATION AT WAVE AMPLITUDE: INTERPENETRATING CONES OF GROWTH (FIGS. 41–44)</text>
+
+  <!-- Fig 41: Young Sapling inside Bounding Cone Field -->
+  <line x1="75" y1="285" x2="235" y2="285" class="zero-line"/>
+  <line x1="75" y1="475" x2="235" y2="475" class="zero-line"/>
+  <line x1="75" y1="285" x2="235" y2="475" class="zero-dashed"/>
+  <line x1="235" y1="285" x2="75" y2="475" class="zero-dashed"/>
+  <line x1="75" y1="380" x2="235" y2="380" class="zero-line"/>
+  <!-- Sapling branches & roots -->
+  <path d="M 155 380 L 155 320 M 155 350 L 135 330 M 155 345 L 175 326 M 155 362 L 142 346" class="neg-line"/>
+  <path d="M 155 380 L 155 435 M 155 398 L 134 420 M 155 404 L 176 424 M 155 415 L 144 434" class="pos-line"/>
+  <circle cx="155" cy="380" r="9" class="node-zero"/>
+  <text x="155" y="496" class="label-center">Fig. 41 • Unfolding Youth</text>
+
+  <!-- Fig 42: Polarized Shaft -->
+  <rect x="282" y="285" width="24" height="190" class="zero-plane"/>
+  <circle cx="294" cy="380" r="8" class="node-zero"/>
+  <text x="294" y="300" class="label-center" style="fill:#38bdf8;">-</text>
+  <text x="294" y="464" class="label-center" style="fill:#fb7185;">+</text>
+  <text x="294" y="496" class="label-center">Fig. 42</text>
+
+  <!-- Fig 43: The Double-Cone Vortex Diamond -->
+  <line x1="354" y1="285" x2="526" y2="475" class="zero-dashed"/>
+  <line x1="526" y1="285" x2="354" y2="475" class="zero-dashed"/>
+  <polygon points="440,287 518,385 440,483 362,385" class="pos-fill"/>
+  <path d="M 440.0 287.0 L 440.3 288.4 L 441.1 289.7 L 442.3 291.1 L 443.8 292.4 L 445.2 293.8 L 446.5 295.2 L 447.3 296.5 L 447.5 297.9 L 446.9 299.2 L 445.4 300.6 L 443.1 302.0 L 440.0 303.3 L 436.4 304.7 L 432.4 306.1 L 428.5 307.4 L 425.0 308.8 L 422.2 310.1 L 420.5 311.5 L 420.1 312.9 L 421.2 314.2 L 423.9 315.6 L 428.1 316.9 L 433.6 318.3 L 440.0 319.7 L 447.0 321.0 L 454.1 322.4 L 460.7 323.8 L 466.3 325.1 L 470.3 326.5 L 472.5 327.8 L 472.4 329.2 L 470.0 330.6 L 465.3 331.9 L 458.4 333.3 L 449.8 334.6 L 440.0 336.0 L 429.6 337.4 L 419.4 338.7 L 410.1 340.1 L 402.5 341.4 L 397.1 342.8 L 394.5 344.2 L 395.0 345.5 L 398.7 346.9 L 405.5 348.2 L 415.1 349.6 L 426.8 351.0 L 440.0 352.3 L 453.7 353.7 L 467.1 355.1 L 479.1 356.4 L 488.8 357.8 L 495.5 359.1 L 498.5 360.5 L 497.6 361.9 L 492.5 363.2 L 483.7 364.6 L 471.4 365.9 L 456.5 367.3 L 440.0 368.7 L 422.9 370.0 L 406.4 371.4 L 391.7 372.8 L 380.0 374.1 L 372.0 375.5 L 368.5 376.8 L 369.9 378.2 L 376.2 379.6 L 387.1 380.9 L 402.1 382.3 L 420.1 383.6 L 440.0 385.0 L 459.9 386.4 L 477.9 387.7 L 492.9 389.1 L 503.8 390.4 L 510.1 391.8 L 511.5 393.2 L 508.0 394.5 L 500.0 395.9 L 488.3 397.2 L 473.6 398.6 L 457.1 400.0 L 440.0 401.3 L 423.5 402.7 L 408.6 404.1 L 396.3 405.4 L 387.5 406.8 L 382.4 408.1 L 381.5 409.5 L 384.5 410.9 L 391.2 412.2 L 400.9 413.6 L 412.9 414.9 L 426.3 416.3 L 440.0 417.7 L 453.2 419.0 L 464.9 420.4 L 474.5 421.8 L 481.3 423.1 L 485.0 424.5 L 485.5 425.8 L 482.9 427.2 L 477.5 428.6 L 469.9 429.9 L 460.6 431.3 L 450.4 432.6 L 440.0 434.0 L 430.2 435.4 L 421.6 436.7 L 414.7 438.1 L 410.0 439.4 L 407.6 440.8 L 407.5 442.2 L 409.7 443.5 L 413.7 444.9 L 419.3 446.2 L 425.9 447.6 L 433.0 449.0 L 440.0 450.3 L 446.4 451.7 L 451.9 453.1 L 456.1 454.4 L 458.8 455.8 L 459.9 457.1 L 459.5 458.5 L 457.8 459.9 L 455.0 461.2 L 451.5 462.6 L 447.6 463.9 L 443.6 465.3 L 440.0 466.7 L 436.9 468.0 L 434.6 469.4 L 433.1 470.8 L 432.5 472.1 L 432.7 473.5 L 433.5 474.8 L 434.8 476.2 L 436.2 477.6 L 437.7 478.9 L 438.9 480.3 L 439.7 481.6 L 440.0 483.0" class="neg-line" style="stroke-width:1.6;"/>
+  <line x1="354" y1="385" x2="526" y2="385" class="zero-line"/>
+  <circle cx="440" cy="385" r="10" class="node-amp"/>
+  <text x="440" y="496" class="label-center">Fig. 43 • Mature Vortex</text>
+
+  <!-- Fig 44: Full Mature Tree in Cube-Cone Equilibrium -->
+  <line x1="585" y1="285" x2="795" y2="475" class="zero-dashed"/>
+  <line x1="795" y1="285" x2="585" y2="475" class="zero-dashed"/>
+  <polygon points="690,282 795,380 690,478 585,380" fill="none" stroke="#e8b85a" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <line x1="585" y1="380" x2="795" y2="380" class="zero-line"/>
+  <!-- Crown (Centrifugal Sky Expansion) -->
+  <circle cx="690" cy="328" r="46" class="neg-fill"/>
+  <path d="M 690 380 L 690 295 M 690 352 L 656 318 M 690 352 L 724 318 M 690 332 L 668 302 M 690 332 L 712 302" class="neg-line"/>
+  <!-- Roots (Centripetal Earth Integration) -->
+  <path d="M 690 380 L 690 462 M 690 395 L 650 438 M 690 395 L 730 438 M 690 415 L 664 456 M 690 415 L 716 456" class="pos-line"/>
+  <circle cx="690" cy="380" r="10" class="node-amp"/>
+  <text x="690" y="496" class="label-center">Fig. 44 • Maturity (+4 / 0 / -4)</text>
+
+  <!-- Bottom Row: Figs. 45-47 (Depolarization, Decay & Return to Rest) -->
+  <rect x="32" y="528" width="816" height="162" rx="4" class="panel-bg"/>
+  <text x="440" y="548" class="panel-title">III. DEGENERATION: POLES LOSE ABILITY TO PULL APART AND RETURN TO REST (FIGS. 45–47)</text>
+
+  <!-- Fig 45: Flattening Vortex -->
+  <polygon points="185,564 263,614 185,664 107,614" class="pos-fill"/>
+  <path d="M 185.0 564.0 L 185.4 565.0 L 186.6 566.1 L 188.4 567.1 L 190.6 568.2 L 192.8 569.2 L 194.8 570.2 L 196.0 571.3 L 196.3 572.3 L 195.3 573.4 L 193.1 574.4 L 189.6 575.5 L 185.0 576.5 L 179.5 577.5 L 173.6 578.6 L 167.8 579.6 L 162.5 580.7 L 158.3 581.7 L 155.8 582.8 L 155.2 583.8 L 156.9 584.8 L 160.9 585.9 L 167.1 586.9 L 175.3 588.0 L 185.0 589.0 L 195.5 590.0 L 206.1 591.1 L 216.0 592.1 L 224.4 593.2 L 230.5 594.2 L 233.8 595.2 L 233.7 596.3 L 230.0 597.3 L 222.9 598.4 L 212.6 599.4 L 199.7 600.5 L 185.0 601.5 L 169.4 602.5 L 154.1 603.6 L 140.2 604.6 L 128.7 605.7 L 120.6 606.7 L 116.8 607.8 L 117.5 608.8 L 123.1 609.8 L 133.3 610.9 L 147.6 611.9 L 165.2 613.0 L 185.0 614.0 L 204.8 615.0 L 222.4 616.1 L 236.7 617.1 L 246.9 618.2 L 252.5 619.2 L 253.2 620.2 L 249.4 621.3 L 241.3 622.3 L 229.8 623.4 L 215.9 624.4 L 200.6 625.5 L 185.0 626.5 L 170.3 627.5 L 157.4 628.6 L 147.1 629.6 L 140.0 630.7 L 136.3 631.7 L 136.2 632.8 L 139.5 633.8 L 145.6 634.8 L 154.0 635.9 L 163.9 636.9 L 174.5 638.0 L 185.0 639.0 L 194.7 640.0 L 202.9 641.1 L 209.1 642.1 L 213.1 643.2 L 214.8 644.2 L 214.2 645.2 L 211.7 646.3 L 207.5 647.3 L 202.2 648.4 L 196.4 649.4 L 190.5 650.5 L 185.0 651.5 L 180.4 652.5 L 176.9 653.6 L 174.7 654.6 L 173.7 655.7 L 174.0 656.7 L 175.2 657.8 L 177.2 658.8 L 179.4 659.8 L 181.6 660.9 L 183.4 661.9 L 184.6 663.0 L 185.0 664.0" class="neg-line" style="stroke-width:1.5;"/>
+  <line x1="95" y1="614" x2="275" y2="614" class="zero-line"/>
+  <text x="185" y="682" class="label-center">Fig. 45 • Declining Polarity</text>
+
+  <!-- Fig 46: Near Depolarization -->
+  <polygon points="440,588 518,614 440,640 362,614" class="neg-fill"/>
+  <path d="M 440.0 588.0 L 440.6 588.7 L 442.2 589.4 L 444.6 590.2 L 447.5 590.9 L 450.5 591.6 L 453.0 592.3 L 454.6 593.1 L 455.0 593.8 L 453.8 594.5 L 450.8 595.2 L 446.2 595.9 L 440.0 596.7 L 432.7 597.4 L 424.8 598.1 L 417.0 598.8 L 410.0 599.6 L 404.4 600.3 L 401.0 601.0 L 400.2 601.7 L 402.5 602.4 L 407.8 603.2 L 416.2 603.9 L 427.1 604.6 L 440.0 605.3 L 454.0 606.1 L 468.2 606.8 L 481.4 607.5 L 492.5 608.2 L 500.7 608.9 L 505.0 609.7 L 504.9 610.4 L 500.0 611.1 L 490.6 611.8 L 476.8 612.6 L 459.6 613.3 L 440.0 614.0 L 420.4 614.7 L 403.2 615.4 L 389.4 616.2 L 380.0 616.9 L 375.1 617.6 L 375.0 618.3 L 379.3 619.1 L 387.5 619.8 L 398.6 620.5 L 411.8 621.2 L 426.0 621.9 L 440.0 622.7 L 452.9 623.4 L 463.8 624.1 L 472.2 624.8 L 477.5 625.6 L 479.8 626.3 L 479.0 627.0 L 475.6 627.7 L 470.0 628.4 L 463.0 629.2 L 455.2 629.9 L 447.3 630.6 L 440.0 631.3 L 433.8 632.1 L 429.2 632.8 L 426.2 633.5 L 425.0 634.2 L 425.4 634.9 L 427.0 635.7 L 429.5 636.4 L 432.5 637.1 L 435.4 637.8 L 437.8 638.6 L 439.4 639.3 L 440.0 640.0" class="pos-line" style="stroke-width:1.4;"/>
+  <line x1="350" y1="614" x2="530" y2="614" class="zero-line"/>
+  <text x="440" y="682" class="label-center">Fig. 46 • Senescence</text>
+
+  <!-- Fig 47: Return to Zero Seed -->
+  <line x1="605" y1="605" x2="775" y2="605" class="zero-dashed"/>
+  <circle cx="690" cy="605" r="13" class="node-zero"/>
+  <text x="690" y="605" class="label-center" style="fill:#e8b85a;">0</text>
+  <text x="690" y="650" class="label-center label-small">"LIFE IS ONE HALF OF THE ELECTRIC CYCLE—</text>
+  <text x="690" y="664" class="label-center label-small">DEATH IS THE OTHER HALF."</text>
+  <text x="690" y="682" class="label-center">Fig. 47 • Disintegration into Rest</text>
+
+  <text x="28" y="716" class="fig-tag">FIGS. 38–47</text>
+  <text x="852" y="716" class="sig-tag">W. R. • GEOMETOR</text>
+</svg>

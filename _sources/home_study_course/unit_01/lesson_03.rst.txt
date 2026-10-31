@@ -1,0 +1,137 @@
+:layout: book
+
+.. _hsc-lesson-03:
+
+LESSON NUMBER 3 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED
+===================================================================
+
+GOD IS LIGHT
+------------
+
+God's communion within His own Being is a sequential transition from the still, unconditioned Light of His knowing and the moving, conditioned lights of His thinking.
+
+The Light of His knowing is undivided. It is a magnetic equilibrium. The two lights of His thinking are divided. They are the electric pulsations of two-way motion which build thought forms for recording God's knowing. God's magnetic universe is the still Light of His knowing. God's electric universe is the product of God's knowing, expressed by the pulsing lights of His dynamic thinking.
+
+MAN IS LIGHT
+------------
+
+I cannot say more to you than that, for God's communion with His Self is identical in principle and practice with your communion with your Self Oneness as God.
+
+Your electric universe is the product of your knowing, expressed by your thinking.
+
+If you can but fully realize this vitally important fact you will be farther ahead than you could possibly be by reading all of the books in The Congressional Library.
+
+By communion with full understanding of its meaning you become aware of your Oneness with God. You become more and more aware of the fact that God's Mind is your Mind, that His knowledge and power are your knowledge and power.
+
+To the extent that you become aware of God as the still Light which centers you as Soul of you, you are God. As you become more and more enabled to forget your body awareness, and find yourself alone in that stillness of the Light you form inspired conceptions of ideas which come to you in timeless flashes of that Light which you do not see, but KNOW because of its illumining presence. You feel the ecstasy of it in the Light of your Soul, and in the inspiration which accompanies your exaltation.
+
+All geniuses conceive their ideas with that accompanying ecstasy and exaltation. They then think those ideas into form. After the mental image is clear they give a material body to each idea for others to interpret in the measure of their knowing. To sum this up we might say that meditation is a sequential journey from the zero of Mind knowing through the action of Mind thinking to the rest point which centers two-way thinking, and back again to that zero of Mind knowing.
+
+The more intensely you can comprehend this definition the more simply you will find all things in life, for we do not depart from the above formula in any decision or action of life or the solution of any problem of life. Nor do we depart from it during this entire course of lessons. It is very basic, as you will find out as we proceed, I urge you therefore, to give deep thought to it, and recognize its prototype in principle in every thing as we proceed.
+
+Desire in God to manifest His Being by producing imaged forms by projecting in light waves of motion from the stillness of His Light of knowing is the energy of the universe which He is eternally creating. Desire in you is, likewise, the energy which enables you to create your universe. We will talk much, later on, about your energy and God's energy in relation to the motive power extended to you from God, and your use of it.
+
+Constant communion with your Source of energy will give you both knowledge and power to use it by giving form to your inspired conceptions under your cosmic control instead of under your sensed control.
+
+THE LOVE NATURE OF GOD
+----------------------
+
+Yesterday I endeavored to take one step nearer to giving you the simplicity which underlies your interchange between knowing and thinking. Today I wish to take another step in that direction by having you understand the love Nature of the universe and how that love principle parallels the simple formula I gave you yesterday.
+
+Communion with God exalts you to the ecstasy of that universal love principle of God and of Nature Ecstasy is the one undivided emotion--the balanced ecstasy of love for which there are no opposites.
+
+The reaction to the giving of love is love regiven.
+
+When your meditation gives to you the love nature of God you will then know that there is no evil, nor sin, nor bad in God or in Nature. There is naught but GOOD in God's universe.
+
+In communing with God directly, or through those moods of Nature which lead you to God, you become aware that His nature is your nature. In your deep communion you feel only the universal love nature of God extending through you to all the universe. You then love all things for there is naught but love extending through you and from you. Your own ecstasy tells you that.
+
+Imagine yourself communing with God indirectly, such as listening to the heavenly rhythms of God's heartbeat in a masterful symphony. While thus enraptured by the divine rhythms reaching your very Soul can you possibly imagine yourself thinking evil, or thinking sinfully by planning to cheat, or lie, or steal? No--of course you cannot. The reason you cannot is because you are reflecting the love nature of the universe in your spiritual Self in its entirety, and there is no sin in that love nature to reflect.
+
+That is why you should seek God in meditation immediately if you indulge in an angry, or even unkind thought to find balance in the universal love principle, else the toxins of unbalanced conditions brought on by yourself will upset your balanced body rhythms which all illnesses are.
+
+Form the constant habit of meditation. Make it a moment to moment, continuous attitude of your Mind in order to keep in tune with the universal rhythms of God's balanced thinking. Be in tune with them always. Never stray far enough from God-awareness to allow the slightest imperfection in your work, your health, your friendships, your business plans or any achievement whatsoever.
+
+The more you become fully aware that you cannot do anything of yourself alone, and desire partnership with the whole universe you will find that you can say, in the deep depths of your communion: "I am the universe. I am all that is, for the Light of my Father is all that is, and I am that Light. I and my Father are ONE".
+
+That is cosmic meditation, for that is the thinking of the new race of cosmic man now in its borning. In those deep depths you can desire what you will, "and behold, it standeth before you".
+
+ALL NATURE MANIFESTS LOVE
+-------------------------
+
+The entirety of Creation is the manifestation of love.
+
+Every effect of motion in nature is a manifestation of the nature of God, for Nature gives of its all in every action and regives equally in every reaction. If that were not so the movements of the planets would not be predictable.
+
+The electric heartbeat of Nature expresses love in both halves of each cycle of the universal heartbeat. Nature never takes for God never takes. Nature never gives unequally for God never gives unequally.
+
+God's equally balanced giving for regiving is never violated in Nature. It could not be violated for Nature is an extension of God's nature. For this reason the balance of Nature can never be upset.
+
+When you commune with God do not have desire written upon your heart for that which is to be given to you. Ask, rather, to be inspired as to what you can give, and how, in order to be worthy of that which will surely be given you if you first give.
+
+Unless you first give you will not be regiven.
+
+Let your thinking be energized to express love by first giving love in order that its inviolate reaction will regive love.
+
+To give possessions is not giving love. Love can be given only from your Self to another Self, and gold given without Self is like unto sounds of music given without also giving Soul.
+
+Even though the candle is still the same light unchanged, even though it has given of itself to all the universe for its regiving, so are you the Light of love which you can give to all the world unchanged, and still have that which you have given with all else added unto it.
+
+To extend love is to multiply the Light of it a thousand fold. To take love is to lose the Light and take on the dark.
+
+To the extent which you are illumined with the Light of love which comes only from communion with the Source of love, you will be enabled to manifest your genius in masterly creations of your own. The very purpose of meditation is to enable you to give body forms to ideas conceived by your Mind.
+
+Unless the Light of love which illumines you is extended into your creations they are but dead things which cannot endure.
+
+The one point I wish to accentuate is that what I am now telling you is universal law, inescapable and inevitable law, which cannot be violated or set aside.
+
+For me to tell you this is not enough. Talk it over with God in your heart and you will really know that if you break it to the slightest extent it will break you equally, while if you work with that law it will work with you to the fulfillment of your every desire.
+
+HOW DOES MEDITATION HELP TO CREATE?
+-----------------------------------
+
+A musician asks how meditation helps a musician to compose a symphony. He claims that teachers are more necessary because of its technique.
+
+Teachers can never teach you to be a poet, musician, artist, inventor, or creator of anything. God is the only one who can teach you to create. A teacher can tell you how to give a material body to your concept but only God can give you your inspired concept.
+
+In other words a teacher can give you a technique for expressing your idea but he cannot become your Soul from which your concept extends.
+
+If the teacher can reinspire you with his inspiration that inspiration of his, reflected in you, awakens the sleeping genius which is within you, but no one can teach you that. If, for example, you have been inspired by listening to Paderewski you have not been taught anything except the fact that you have been enabled to recognise the Light within your Self by his re-illumining.
+
+The beauty of music is not in its technique, it is in the Soul of its creator. Neither is it in the sound vibrations of of music, it is in the silence of the Light from which the sound sprang.
+
+You can KNOW music and THINK it without having acquired the technique of expressing it, or without producing sounds to give it a body. Your inner ears can hear the music in the silence of God's eternal rhythms, and you can interpret your moods into the rhythms of the universal heartbeat, as Beethoven interpreted the mood of the moonlight into the rhythms of it without having any teacher but his God-Self.
+
+Consider the life of any great musical genius. What he finally produces in a written composition first begins in his Soul. He must first find aloneness with his Self by getting away from all other people, and even from his own body awareness. He must suppress all outer influences to seek that stillness from within from which the inner ears of his Soul can hear the rhythms of the universal heartbeat of God's creative thinking.
+
+To find that stillness in the Light of knowing he must stop thinking, in order that he can conceive idea from the Light of all-knowing. From the ecstasy of that stillness the inspiration is born in his very Soul. The motive for his symphony gradually takes form through the heartbeat of his thinking which he extends from the stillness of his Soul, then ceases to extend it to again find the stillness of the Light which is gradually giving him his motive by its inspiring illumining within him.
+
+This is the mood of all creative geniuses during the inspiring and ecstatic hours during which they commune with God. By such communion you unfold your own genius. There is no other way to become a cosmic being for there is no other way to acquire inspired knowledge which uplifts you from earth unto the high heavens of the kingdom of the Soul where cosmic man dwells.
+
+Up to this inspired stage of concept no teacher can become a part of it. Not until the creator of a cosmic idea wishes to give it a material body can the teacher be of any help.
+
+By giving it a material body I mean to extend the conception from the Consciousness of Mind, through thinking, to the sounds of a musical instrument, or the symbols of a written manuscript. That is purely a question of technique. The teacher is helpful in the acquirement of a technique, and all the mechanics which go with it, which anybody of average intelligence can also learn from a teacher.
+
+In giving your conception a material body many years of technical and scientific practice is needed. The science of the octave spectrum of color or tone is needed for expressing each of the arts, for from those octave wave rhythms the poet, painter, architect, sculptor or musician gives rhythmic bodies to his inspired conceptions.
+
+The architect must first go to the Source of all inspiration for his conception. He does not need to be an engineer or mathematician for that, but when he builds the cathedral of his inspired imaginings he must know the technique of the engineer and mathematician in order to give a material body to his imaged one.
+
+Likewise the painter, sculptor, poet or musician needs to be informed, either by books, teachers, experimentation of experience regarding the techniques of giving bodies to his spiritually conceived ideas.
+
+Remember, however, that technical information is not knowledge. You can be informed through the senses but you can acquire knowledge only through desire of the Soul for illumining with the Light of all-knowing.
+
+Knowledge is of the Soul and the Soul is not concerned with techniques. To the Soul they have no existence, for your Consciousness can conceive a greater symphony, poem, monument, painting or temple than you could ever give a material body to, no matter how perfect your technique is.
+
+The Soul's greatest masterpieces are never produced on Earth. They never descend from their high heavens of the Mind universe. No musical master can produce in sound the music which he hears in his Soul while in communion with God. Physical sounds can be heard by anyone but the silences from which they spring can be heard only by a cosmic God-conscious being while his Soul is in communion with the universal Soul.
+
+Speaking again of techniques, an electric machine can remember information recorded upon it electrically, and it can repeat it countless times with accuracy. The electric machine is sensed for that purpose. It is a body without a Soul which obeys the will of an intelligence which presses a button.
+
+Many humans are but electric machines which remember and repeat information recorded-upon their senses. People say of such persons that their technique is perfect but Soulless. That means that God awareness in them has not yet been awakened. That is what I mean by saying that teachers can give you techniques but only God can awaken the Light of cosmic inspiration in you.
+
+Many unawakened humans forever repeat the ideas of others like those who stand in assembly lines, each one electrically sensed to do his unthinking-unknowing part like an electrically driven automaton.
+
+But many there are also who stand in assembly lines all day and perform work automatically with their bodies while their Souls are in communion with God in His high heavens. These are the cosmic ones among men who are seeking to find the kingdom of the Soul's high heavens. These who desire the Light shall find the Light by meditation with God.
+
+John Jones of the assembly line can escape from John Jones and be also Rachmaninoff, or Shakespeare, or Phidias at will. Through meditation John Jones can roam the universe and be alone with God in the deep woods hearing the rippling fall of waters, or the breezes in the pines above the crash of factory wheels or gears.
+
+No matter how heavy the burden of the treadmill of life may be, nor how bitterly your body may be chained to Earth you may escape from it and be exalted among men by hearing the still small voice within you whispering inspired words to you in God's language of Light.

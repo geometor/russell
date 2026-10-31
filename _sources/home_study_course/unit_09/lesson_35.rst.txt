@@ -1,0 +1,231 @@
+:layout: book
+
+.. _hsc-lesson-35:
+
+LESSON NUMBER 35 HARD FACTS MAN MUST FACE OR PERISH FROM THE EARTH
+==================================================================
+
+UNITY is the one great unlearned lesson of the ages.
+
+Unity of man has always been impossible in a world of fear and discontent where every man, fears every other man as an enemy.
+
+Until man learns this one essential of collective human existence every attempt to build a stable civilization will fail, as this present effort of the last seven centuries is failing.
+
+Why have we never learned this lesson of unity and the universal brother-hood of man, which would have given the world a united civilization of contented people? We are now paying the price of world degeneration because we have not learned it.
+
+First--let us face squarely the cause of discontent in our human relations which makes disunity unavoidable and unity impossible.
+
+Why do we have disunity in every department of our lives, in our HOMES, in INDUSTRY, in RELIGION, in SCIENCE, in GOVERNMENT, and in EDUCATION?
+
+It is because we have violated GOD'S ONE LAW over and over again--periodically--ever since we emerged from the jungle. The reaction to our own actions is sending us back to the jungle. We cannot escape our return except by reversing those reactions. Universal Law is inexorable.
+
+God, the Creator of this universe, divided every unit of His Creation into TWO. Each of these two are equal and opposite halves of the other.
+
+God issued but ONE COMMAND to all units, and all pairs of units of His Creation. That ONE COMMAND is that every unit of His Creation must give to its opposite--and that opposites must regive EQUALLY.
+
+Out of that One Command came GOD'S ONE LAW OF LOVE, which is that there must be a RHYTHMIC BALANCED INTERCHANGE BETWEEN ALL PAIRS OF OPPOSITES OF EVERY UNIT OF CREATION.
+
+Nature gives to its opposite--and is regiven equally. Nature never takes. The measure of giving is the measure which will be regiven.
+
+The earth gives to the heavens and the heavens regive in equal measure.
+
+Man gives service to earth--and earth regives product in equal measure.
+
+Man's abundance from earth's givings to man is the measure of man abundant givings to earth. He who withholds his givings withholds also his regivings.
+
+Earth gave man his body, and continues the gift. Man must regive his body to earth in equal measure.
+
+This is LAW--inviolate LAW. Action and reaction are opposite and equal.
+
+The pendulum swings each way equally. A light shone into a mirror does not regive MORE light, or LESS, than that which was given to it. The interchange is equal. One opposite of the divided pair balances its gift with its other opposite.
+
+The seller who gives less than he fairly should to his buyer does not add to his gain. He has but bred distrust which may lose for him many buyers. If he gives more than is expected of him, more will be regiven.
+
+If man breathes fully out as his gift to space, space will regive equally; but if man withholds his breath, rather than give, it will weaken him, instead of strengthening. It is like the withholding of fuel to your car which immediately responds by withholding speed in equal measure. Compression and expansion are equal and opposite. It is impossible to compress without expanding equally--nor can you heat without cooling. The wealth and power of man is the measure of what he has given in love in equal measure. No more. No less.
+
+No man has more than he has given, nor can he possess more.
+
+He who takes from another that which is not given in love and thinks himself enriched by it will find himself accursed. It will fester in him until he becomes a stench unto himself and to all men. That which is law for one man is law for a world of men.
+
+If waves of the ocean give and regive to each other equally they will repeat each other rhythmically. If slanting sands of shore unbalance their equal interchange the rhythm of their repetition ceases, and waves break upon the sands and cease to be.
+
+Likewise, when men deal with other men equally-they repeat their dealings ceaselessly in the rhythm which is the measure of their interchangings. When man unbalances his dealings with other men, and gives less than is expected of him, he is taking that which has not been given to him in love. He has destroyed the rhythm of endless repetition which would eternally bless him, and will break himself as surely as unbalanced waves break upon ocean's sands.
+
+THE SUPREME LESSON OF LIFE
+--------------------------
+
+The supreme lesson of life is to learn how to give with love. There is naught else to learn. Man who but takes belongs to the jungle. No matter how far he climbs away from it he still belongs to the jungle where self-survival is man's first thought. Nor will he who takes climb far before he, himself, will condemn himself to fall from the heights of his climbing.
+
+Some day, in his many upward climbings, man will know that an individual independent life is impossible--that every man is an interdependent unit of an interdependent whole--that each man is as dependent upon every other man as each cell of his body is dependent upon every other cell, and that the hurt of any man on earth is the hurt of every other man. All men are ONE. All are united by invisible threads of light. Man is not local, or separable. He is UNIVERSAL.
+
+When a civilization learns these lessons it will then know the meaning of THE UNIVERSAL BROTHERHOOD OF MAN. When man finally recognizes this, his civilization will endure--but not until.
+
+God said: "All men will come to me in due time, but theirs is the agony of awaiting". From The Divine Iliad.
+
+WE SEE OURSELVES FACE TO FACE
+-----------------------------
+
+We have built our unstable civilization by dividing the peoples of the earth into two unequal classes and [have] forced upon these two classes an inequality of interchange in all of life's values.
+
+This inequality of divided mankind has resulted in a disunited and discontented race of humans who hate and fear each other. There could be no other result than this disastrous warring civilization because unequal interchange between all pairs of opposites which MUST INTERCHANGE for each other's continuance, violates God's ONE LAW of LOVE. God has no other law but that ONE. The universe is founded upon that ONE INEXORABLE LAW. He who defies that law will, himself, be broken in the measure of his defiance of it.
+
+DISUNITY on a world-size scale causes wars on a world-size scale, but we have continuous wars everywhere, in every human relation, because of DISUNITY arising from discontent in our small scale human relations.
+
+DISUNITY IN THE HOME
+--------------------
+
+The strength of a nation is the measure of love expressed in its homes.
+
+That which is true of a nation of homes is true of one home. Unity in the home is impossible without love given and regiven equally. A man "who is master in his own home" pays dearly for his assertion of supremacy by loss of that which he most values. A husband or wife who subtract from loyalty to each other, even by a thought, lowers the potential of the greatest source of power a man or woman can attain--which is possible only through balanced interchange.
+
+In countries where women have been suppressed their progress has been retarded to a point where they stand almost still. Wherever any reforms have been made toward equalizing[ation], the standards of their cultures have arisen proportionately.
+
+When you find a man or woman whose home is united you will also find the strength of unity in all of their interests in life. AS THE HOME IS SO IS THE NATION.
+
+DISUNITY IN INDUSTRY
+--------------------
+
+In INDUSTRY we have divided the producer of goods into owner and worker UNEQUALLY. Owners have exploited workers for selfish purposes. There can be no other result than the discontent and disunity which has caused the vast worker-world to rise up and slay the world of owners who have taken UNEQUALLY from the product of both. America has awakened to this fact, and has done much to counterbalance disunity between CREATORS of ideas and PRODUCERS of them, whom we have unfairly, and unjustly termed CAPITAL and LABOR. This in its very essence divides man and stratifies him into a high superior level and a low inferior one.
+
+CREATORS are those who conceive ideas. PRODUCERS are those who give material bodies to ideas. Those men who produce necessities for other men should not be given a name which connotes ignominy, for work is service given. Work is noble, and nobility attaches to him, who thus serves man, in greater measure than to the titled aristocrat who does not serve him.
+
+We will talk at length about Industry later, for it is destined that [if] civilization [is] if awakened in time, [it] will be through the mighty power of a united Industry working knowingly with God's inexorable Universal Law.
+
+Unified and balanced Industry is the only national and international power which would be the strongest force in the world if its pairs of opposites became ONE, stronger than all the governments in the world which now seek, and plan, to overthrow free enterprise as loot for a discontented bureaucracy to create a new kind of slave world. We will expand this idea later in this lesson.
+
+We MUST look to INDUSTRY, for it can be unified in time to save mankind while religion cannot. RELIGION is more disunited than any of the essential elements of life. A united world cannot grow out of a disunited one until disunity is voided.
+
+DISUNITY IN RELIGION
+--------------------
+
+RELIGION has too many Gods, too many creeds and doctrines which are a source of continual war between the followers of all of them. Man needs religion vitally, but it must be a unified religion which worships but ONE GOD, the God of Love. Many of our disunited religions worship a God of fear and wrath and command its followers to be God-fearing men. These breed intolerance and the fear that they preach.
+
+"In a world of love hate cannot also be." From The Divine Iliad.
+
+Religion can never be united as ONE until it has but ONE GOD, and until it replaces all of its unnatural creeds and doctrines with God's One Law of Love. We must become a nation of God-loving men, not God-fearing men. Why should man fear God from whom all of our blessings flow? Such teachings keep fear alive and breed war in all communities of men who walk many different roads on Sabbaths to find their different Gods.
+
+We cannot, therefore, look to religion to save us from the chaos toward which we are heading. Nor can we look to Government.
+
+DISUNITY IN GOVERNMENT
+----------------------
+
+GOVERNMENT is divided unto itself into parties which have different ideals and different motives. Likewise the separate units of each party have different ideals and motives. A small minority of our governing body have patriotic ideas of a government FOR the people BY the people. The large majority have forgotten the Washington and Jefferson ideals and the higher seats in government have plainly in view a desire for dictatorial rule by subsidizing enough voters, through patronage, the dole and bureaucracy, to keep their ruling seats permanently.
+
+Government is likewise, unbalanced because of its masculinity. The balance which comes from husband and wife working together with the equality which love alone gives, is lacking in Government. The positive element which desires to draw everything unto itself, is not balanced by the negative spiritual element, which desires to extend that which it is to others throughout the nation.
+
+Until the spiritual element which is stronger in women is added to Government to balance the material element, we will always have the disunity which comes in every body where the MAN is supreme and WOMAN is ignored.
+
+For that reason we cannot look to Government to save civilization. Instead of that we must either change the present trend of Government immediately or begin to look upon our Government as our No. 1 enemy which can be rendered helpless in carrying out its present trend only by building a more powerful force to neutralize its growing power.
+
+War, and more wars, are helping Government to siphon the earnings of its people into its treasury for its own selfish purposes, which is to rule the people for the Government instead of for the purpose of serving the people. When will the people see that the very taxes they pay are building a power to be used against them?
+
+The effect of this is to divide the allegiance of officials to giving first allegiance to party and second to the people. When government grows to such huge proportions because of being nourished by huge war expenditures this evil of a divided allegiance becomes a two-way Frankenstein which first destroys its creator and then itself.
+
+WHEN WILL THE SCALES BE REMOVED FROM MAN'S EYES?
+------------------------------------------------
+
+Our government is now following this trend which has multiplied its own self-interests by intolerance, corruption and unethical practices, which [These] are adding to the moral degeneracy of the whole nation.
+
+The word "treason" has lost its ominous meaning because so many varied degrees of treason are infiltrating through so many departments that committee after committee is being formed to investigate criminal charges against high officials.
+
+A century ago the country was stunned by the discovery of just ONE traitor midst. Today the whole country, including Government, is honey combed with known traitors whom we protect, and "near traitors" whom the law cannot touch, and we refuse to be shocked. Multiplicity of it has rendered us almost shock proof to crimes in high office which would have had a volcanic effect in Washington's, or Jefferson's day.
+
+Cries of impeachment of the highest officials in the land no longer shock the nation. They are not even front page news.
+
+Statesmen are becoming more rare as power politicians multiply so menacingly. Honorable men in office are more frequently resigning rather than either becoming tainted by the practices of government, or closing their eyes to them. Likewise, men of high integrity are not so eagerly seeking office as they did in the days when office in government was a high honor attended with dignity which only the highly qualified could fulfill.
+
+Where is this dignity of office today? Where is the necessity for highly qualified men of unquestioned honor? Dignity has vanished from office. The least qualified are occupying high posts at high salaries. These are not needed for service to the people. They are needed for service to power politics to bolster the plan of power politics to render the people helpless against their ultimate rule. Immoral use of the power to tax is weakening the people and multiplying the power of government to enslave the people.
+
+Honorable investigators of crime in office are vilified, even crucified, while those whom they find guilty are whitewashed by political committees and highly paid propagandists appointed by power politics for that very purpose.
+
+EASY MONEY FOR THE DISCONTENTED
+-------------------------------
+
+The discontented are seeking bureaucratic jobs and the dole in Government, and [also] subsidies to earn more from not planting than by working to plant. These discontented ones forget that the security they seek will never come from the one master whom they must serve to find only a false content. Security can never come to one who is dependent upon one master. Security and contentment can come only through interdependence of every man upon every other man.
+
+Communism is fanned by promises of security and contentment made by a master to an intended slave. Communists are building up a slave state of unprecedented power to deprive its victims of every freedom they are hoping to achieve.
+
+One step toward communism is socialism. If we keep this country free from the socialist and communist trend for nine years, and use that nine years to unify industry upon the lines laid down in this chapter which conform to God's One Law, the rest of the world will emulate our example gradually and help to reverse our present self-destructive system of human relations.
+
+This recital of trend in government is not made to criticize people in government. It is made solely to bring strongly home to you a realization of the inexorable workings of God's One Law of RHYTHMIC BALANCED INTERCHANGE between the opposite halves of every unit of Creation. A divided house cannot stand unless [,it must become] balanced EQUALLY by EQUAL swings of its pendulum between its two interchanging conditions.
+
+It is also written to demonstrate that unbalance multiplies at a terrific ratio, once it is given enough of an impetus. Corruption, for example, spreads its corruption to the honest who find their very survival threatened unless they either yield, or compromise by closing their eyes to it all.
+
+This multiplication of speed toward degeneracy is just one more of the accumulating causes of our rapid world plunge toward chaos.
+
+SEVEN DEVASTATING WORLD CATASTROPHIES IN FIFTY YEARS
+----------------------------------------------------
+
+If you give deep thought to these facts you will realize that each great catastrophy of the nation has increased the Governmental power to tax, and has weakened the power of industry and free enterprise through bureaucratic interference by multiplying form filling red tape.
+
+There have been seven of these major catastrophies in seven year periods for half a century. Each one has weakened the power of the people and has each one--strengthened the power of government to tax--tax--and tax until freedom and security for the people is on the verge of disappearing into a tyrannical despotism. We will enumerate these seven.
+
+1. THE PANIC OF 1907 was world wide and left each country staggering. THIS WAS WORLD WAR NO. 1. It so impoverished this nation that the Constitution was amended to make it possible to tax the incomes of all people. Thus began the Fall of Man.
+
+2. WORLD WAR NO. 2 of 1914. The war with Germany was a war of a discontented Empire Builder who desired to redistribute the loot of other Empire Builders. Emperor William resented the "cramped quarters" which the greed of other conquerors had forced his growing nation to occupy and followed the familiar pattern of Empire Builders by drawing his sword. The aggressor did not alone make that war. The defenders made it with him--EQUALLY.
+
+War savings bonds and increased debt limit, with increased income taxes, impoverished the people but multiplied the cost of government as well as increasing its bureaucratic powers. By 1921 the world was at a very low level of morale. The Fall of Man accelerated its speed.
+
+3. WORLD WAR NO. 3. THE WAR OF GREED of 1921, All of man's wars are based upon TAKING. There could be no war based upon GIVING. Wars of taking other peoples lands by force are fought with guns. The war of 1921 to 1928 was fought with money to take other people's money. It was a gambler's war--a get-rich-quick-without giving service war. It was a war of MAN VERSUS GOLD--to make gold do for man that which it could not do.
+
+The nation went mad in wild speculation and stock manipulation in Wall Street, land speculation in Florida, and the building of financial mirages of no substance, everywhere. Its tragic collapse in 1928 was an avalanche which carried FALLING MAN with it into deeper depths.
+
+4. WORLD WAR NO. 4 of 1928. THE SLAVE AWAKENS to slay his master. He searches for a demon to lead him--and finds him in Hitler. In the thunder of the avalanche which drowned out the fall of billions of dollars of phantom wealth, another slave of man arose to slay its master. It started a war of its own--THE WAR OF GOLD VERSUS MAN. Gold which man had enslaved for centuries arose to enslave man with shackles stronger than man can forge, or sever.
+
+Man has for so long abused the use of gold that he is now helpless in its grasp. Man can no longer master gold. We tried it by burying it in a mountain. England tried it by going off the gold standard. Banks tried it by bolting their doors. The world writhed in its tentacles and will still writhe until we find that God's One Law works WITH us if we deal with gold on an EQUAL basis as strongly as it has worked against us for working against it UNEQUALLY.
+
+Why have men been so blind that they could not see the ominous portent of those long years since 1914, during which we so naively believed we were fighting wars to end wars--to preserve democracy and the freedom of man?
+
+Why could we not see that the Empire Builders who fought for the preservation of their illgotten Empires were working with the slave world to help it enslave its conquerors?
+
+Why could not we who fought see that we were helping to destroy one slave leader by helping to create another one, to whom we gave shackles to bind us?
+
+Why could we not also see that we who fought were nurturing slave leaders in our own respective countries by giving them the means to create self -perpetuating Oligarchies with hundreds of thousands of bureaucratic slave drivers, who have already begun to use their whips in your office and in the offices of your neighbors? You have not yet felt its sting in your flesh as you will when their votes render you impotent.
+
+In two more presidential elections bureaucrats can elect whomsoever they choose. It is then that you will feel the sting of their lashes deep into your flesh. It is then that you will awaken to the fact that your freedom is gone and your slavery has begun. But it will be too late.
+
+Do you realize how well trained to use the whip are the slave drivers of iron curtain countries? Do you realize that they themselves must have all kindness drained from them until they become sadist brutes? These are well trained to dehumanize--and they must be inhuman to dehumanize. When this country is behind the iron curtain you will know how thousands upon thousands of free men just like you have lost all awareness of their Souls.
+
+If you choose to take this lightly, as though it could not happen here, give thought to the fact that these many bureaucratic slave drivers of the future held the balance of power in the last election and dutifully elected the hand which fed them. We are creating a political machine to crush us instead of a government to serve us.
+
+Should we not awaken from our lethargy while there is yet time? Shall we continue the suicidal policy of doing too little, too late?
+
+From 1928 to 1935 were the blind years of man, HE FELL FAR TOWARD THE DARK, for he could not see his way, AND NO HAND GUIDED HIM.
+
+5. WORLD WAR NO. 5. From 1935 to 1941. THE SLAVE STRIKES AT HIS MASTER. He grows stronger. We do "business as usual". He threatens. We appease. Italy reaches into Africa for Empire. We scold. Japan reaches into China. We plead. The world conqueror-to-be sees a bigger world conqueror awaiting to gather in his spoils and reaches out to slay him. We the intended victims of the bigger one, slay the lesser one.
+
+Cities are leveled--millions killed--more millions tortured--burned alive,--the world's in agony. Freedom loses. Slavery wins. Bureaucracy wins. CHAOS DRAWS NEARER.
+
+6. WORLD WAR NO. 6. From 1941 to 1948. THE WAR FOR AUTOCRACY. Did Pearl Harbor really surprise us? A hard blow for the people--but bureaucracy fattened and looked at its whips. Free men made money to pay for the wars. Everyone made money to pay for the wars. There is plenty of money whenever we have wars. Workers strike for more money while brothers die in agony--and mothers tears are dried from weeping.
+
+Autocratic powers are needed for the fighting of wars. More power is given--given freely with much faith. More money is needed for the fighting of wars. More money is given--given freely with much faith. More "payrollees" are needed--not to fight wars --but to collect money--and count money--and spend money not needed for wars.
+
+And a great cry goes up into the high heavens calling out the death knell of freedom in the too familiar words TAX--TAX--and TAX until it hurts. Tax our incomes--tax our comings, and our goings. Tax our food and our clothing--and if we seek leisure tax us for that also and withhold nothing from us which is not taxed--and taxed--and taxed.
+
+And another great cry calls out to warn against changing horses while crossing a stream--and we do not change horses --again and again. We are a blind people without vision--without a leader whose inner vision would lead us safely to peaceful shores.
+
+And thousands of our own people are our deadly enemies. They consort with deadly enemies who sit at our table and eat of our sustenance. These enemies from another country do not come with guns, for if they did we would be justified in shooting them--so they carry on their enslaving process without guns as they have done over and over again in other countries which they enslaved without guns.
+
+When we, ourselves are enslaved, we will have much time to condemn ourselves in concentration camps. Why not awaken NOW--before it is too late?
+
+Darkness always deepens before the dawn.
+
+7. WORLD WAR NO. 7. 1949 to 1956. THE COLD WAR FOR OBLIVION. For years the free world has been nurturing the greatest enemy man has ever known--the enemy whose one desire is to subjugate the Soul of Man by taking God away from him and leaving him naught but the hopelessness of the dark in the empty shell of man who has for so long been groping his way out of the dark to seek the Light.
+
+The free world saved the slave world so that its leader might rise to strike us in his own time and in his own way--a way which free men do not understand, even when free men fight to slay free men--a way of treachery, lies, deceit, iniquity deeper than man has yet known.
+
+This enemy DID rise and strike in his own time and in his own way--and his way was the drawing of a veil over the face of man so that he could no longer see his way toward the Light of his seeking. We call that veil "the iron curtain"
+
+We call his kind of war "the cold war" for it is not fought with guns. One by one he is enshrouding free-world countries with that veil and drawing them behind his iron curtain of bloodhound, fiend protected boundaries.
+
+He does not fight with guns. He cannot fight with guns. He could not conquer little Finland with guns. He would have been destroyed by Hitler's guns had we not saved him to conquer us. His own armies turned against him. They are awaiting a chance to again turn against him. There are enough of the discontented behind the iron curtain to destroy its [the] leader if he fights with guns.
+
+He fights a cold war of intrigue and treachery to weaken the free world. He sows treachery among free men. By treachery he makes free men turn against free men--sell them out, as we sold out Czechoslovokia and China to weaken the free world.
+
+He undermines from within, as the termite undermines. He sows treachery to reap harvests of traitors who sell their own countries out. He weakens by inciting war outside his borders, but not within where his own might turn on him. Of that he is afraid--very much afraid. He fears disloyalty because he has not given loyalty. He has seen Hitler die in a cellar, and Mussolini hanged by his own, and spat upon. He is afraid to send armies into Yugoslavia for fear they will not return. For the same reason he is afraid to send planes over America lest they seek protection here and show his weakness to all the world.
+
+He does not need to do these things, for he is conquering without them--and we are helping him--for that is his way, and he awaits his own time to weaken us enough to draw the veil around all of the free world, one country at a time as his termites work--work--work--to undermine one country at a time.
+
+And we feed the termites while they work--for we fear only guns. We have never yet learned to fear treason, and treachery, and the power of veto. We will never surrender en masse for we will not be allowed to. We are surrendering moment by moment, day by day. Do not say: "God help us... God show us the way", for God has shown us the way.
+
+God has given us His full directions for saving the world, if we will but stop working against His One Law and work with Him. We will tell you His plan as He gave it in His Message of The Divine Iliad. You must either listen to it or perish. There is no other way. God's law works. It never fails. Man cannot continue to work against it and escape its results. Therefore, we say, AWAKEN and ACT. It is not yet too late.

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" width="880" height="620" class="russell-graphic">
+
+  <style>
+    .russell-graphic {
+      font-family: "Fira Sans Condensed", "Fira Sans", "DejaVu Sans", sans-serif;
+      background-color: #0c0e14;
+    }
+    .plate-bg { fill: #0c0e14; }
+    .panel-bg { fill: #121621; stroke: #262e42; stroke-width: 1.2; }
+    .frame-outer { fill: none; stroke: #ebe6dc; stroke-width: 2; opacity: 0.85; }
+    .frame-inner { fill: none; stroke: #e8b85a; stroke-width: 0.9; opacity: 0.6; }
+    .rule-divider { stroke: #262e42; stroke-width: 1.4; }
+    .zero-line { stroke: #e8b85a; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .zero-dashed { stroke: #e8b85a; stroke-width: 1.5; stroke-dasharray: 5, 4; fill: none; opacity: 0.85; }
+    .zero-plane { fill: #e8b85a; fill-opacity: 0.16; stroke: #e8b85a; stroke-width: 1.3; }
+    .pos-line { stroke: #fb7185; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .pos-fill { fill: #fb7185; fill-opacity: 0.16; stroke: #fb7185; stroke-width: 1.6; }
+    .neg-line { stroke: #38bdf8; stroke-width: 2.2; fill: none; stroke-linecap: round; }
+    .neg-fill { fill: #38bdf8; fill-opacity: 0.16; stroke: #38bdf8; stroke-width: 1.6; }
+    .fg-line { stroke: #ebe6dc; stroke-width: 1.9; fill: none; stroke-linecap: round; }
+    .fg-dashed { stroke: #949eb0; stroke-width: 1.3; stroke-dasharray: 4, 4; fill: none; }
+    .node-zero { fill: #151924; stroke: #e8b85a; stroke-width: 2.2; }
+    .node-pos { fill: #151924; stroke: #fb7185; stroke-width: 2.2; }
+    .node-neg { fill: #151924; stroke: #38bdf8; stroke-width: 2.2; }
+    .node-amp { fill: #e8b85a; stroke: #fef08a; stroke-width: 2.6; }
+    .title-text { fill: #ebe6dc; font-size: 16px; font-weight: bold; letter-spacing: 1.4px; text-anchor: middle; }
+    .subtitle-text { fill: #e8b85a; font-size: 11.5px; font-weight: bold; letter-spacing: 1.1px; text-anchor: middle; }
+    .panel-title { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1px; text-anchor: middle; }
+    .label-text { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; }
+    .label-center { fill: #ebe6dc; font-size: 11.5px; font-weight: bold; text-anchor: middle; dominant-baseline: central; }
+    .label-small { fill: #949eb0; font-size: 10px; font-weight: normal; }
+    .caption-box { fill: #0c0e14; stroke: #262e42; stroke-width: 1; }
+    .caption-text { fill: #ebe6dc; font-size: 10.5px; font-weight: normal; letter-spacing: 0.3px; text-anchor: middle; }
+    .fig-tag { fill: #e8b85a; font-size: 12px; font-weight: bold; letter-spacing: 1.2px; }
+    .sig-tag { fill: #949eb0; font-size: 10.5px; font-weight: bold; letter-spacing: 1.5px; text-anchor: end; }
+  </style>
+  <defs>
+    <marker id="arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#fb7185"/>
+    </marker>
+    <marker id="arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#38bdf8"/>
+    </marker>
+    <marker id="arrow-zero" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#e8b85a"/>
+    </marker>
+    <marker id="arrow-fg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="#ebe6dc"/>
+    </marker>
+    <radialGradient id="sun-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#fb7185" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#e8b85a" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lens-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity="0.40"/>
+      <stop offset="55%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="880" height="620" class="plate-bg"/>
+  <rect x="12" y="12" width="856" height="596" class="frame-outer"/>
+  <rect x="16" y="16" width="848" height="588" class="frame-inner"/>
+  <text x="440.0" y="40" class="title-text">GYROSCOPIC EVOLUTION OF ATOMIC AND STELLAR SYSTEMS</text>
+  <text x="440.0" y="58" class="subtitle-text">LESSONS 42–43 • WHY TRUE SPHERES ONLY FORM AT 90° WAVE AMPLITUDE (FIGS. 95–104)</text>
+  <line x1="28" y1="68" x2="852" y2="68" class="rule-divider"/>
+
+  <rect x="32" y="82" width="816" height="482" rx="4" class="panel-bg"/>
+  <text x="440" y="106" class="panel-title">GYROSCOPIC WINDING (CENTRIPETAL +) TO TRUE SPHERE AT AMPLITUDE AND UNWINDING (CENTRIFUGAL -)</text>
+
+  <!-- Zero Inert Gas Baseline & Wave Amplitude Vertical Axis -->
+  <line x1="65" y1="430" x2="815" y2="430" class="zero-line" style="stroke-width:2.4;"/>
+  <line x1="440" y1="130" x2="440" y2="465" class="zero-dashed" style="stroke-width:1.8;"/>
+  <text x="440" y="124" class="label-center" style="fill:#e8b85a;font-weight:700;">WAVE AMPLITUDE CREST (4+ / 0 / 4- • 90°)</text>
+
+  <!-- Octave Arch Curve -->
+  <polyline points="80.0,430.0 84.0,426.0 88.0,422.0 92.0,418.0 96.0,414.0 100.0,410.0 104.0,406.0 108.0,402.0 112.0,398.0 116.0,394.0 120.0,390.1 124.0,386.1 128.0,382.2 132.0,378.3 136.0,374.4 140.0,370.5 144.0,366.6 148.0,362.8 152.0,358.9 156.0,355.1 160.0,351.3 164.0,347.6 168.0,343.8 172.0,340.1 176.0,336.5 180.0,332.8 184.0,329.2 188.0,325.6 192.0,322.0 196.0,318.5 200.0,315.0 204.0,311.5 208.0,308.1 212.0,304.7 216.0,301.4 220.0,298.1 224.0,294.8 228.0,291.6 232.0,288.4 236.0,285.3 240.0,282.2 244.0,279.1 248.0,276.1 252.0,273.1 256.0,270.2 260.0,267.4 264.0,264.6 268.0,261.8 272.0,259.1 276.0,256.4 280.0,253.8 284.0,251.3 288.0,248.8 292.0,246.3 296.0,243.9 300.0,241.6 304.0,239.3 308.0,237.1 312.0,234.9 316.0,232.9 320.0,230.8 324.0,228.8 328.0,226.9 332.0,225.1 336.0,223.3 340.0,221.5 344.0,219.9 348.0,218.3 352.0,216.7 356.0,215.3 360.0,213.9 364.0,212.5 368.0,211.3 372.0,210.0 376.0,208.9 380.0,207.8 384.0,206.8 388.0,205.9 392.0,205.0 396.0,204.2 400.0,203.5 404.0,202.8 408.0,202.2 412.0,201.7 416.0,201.3 420.0,200.9 424.0,200.6 428.0,200.3 432.0,200.1 436.0,200.0 440.0,200.0 444.0,200.0 448.0,200.1 452.0,200.3 456.0,200.6 460.0,200.9 464.0,201.3 468.0,201.7 472.0,202.2 476.0,202.8 480.0,203.5 484.0,204.2 488.0,205.0 492.0,205.9 496.0,206.8 500.0,207.8 504.0,208.9 508.0,210.0 512.0,211.3 516.0,212.5 520.0,213.9 524.0,215.3 528.0,216.7 532.0,218.3 536.0,219.9 540.0,221.5 544.0,223.3 548.0,225.1 552.0,226.9 556.0,228.8 560.0,230.8 564.0,232.9 568.0,234.9 572.0,237.1 576.0,239.3 580.0,241.6 584.0,243.9 588.0,246.3 592.0,248.8 596.0,251.3 600.0,253.8 604.0,256.4 608.0,259.1 612.0,261.8 616.0,264.6 620.0,267.4 624.0,270.2 628.0,273.1 632.0,276.1 636.0,279.1 640.0,282.2 644.0,285.3 648.0,288.4 652.0,291.6 656.0,294.8 660.0,298.1 664.0,301.4 668.0,304.7 672.0,308.1 676.0,311.5 680.0,315.0 684.0,318.5 688.0,322.0 692.0,325.6 696.0,329.2 700.0,332.8 704.0,336.5 708.0,340.1 712.0,343.8 716.0,347.6 720.0,351.3 724.0,355.1 728.0,358.9 732.0,362.8 736.0,366.6 740.0,370.5 744.0,374.4 748.0,378.3 752.0,382.2 756.0,386.1 760.0,390.1 764.0,394.0 768.0,398.0 772.0,402.0 776.0,406.0 780.0,410.0 784.0,414.0 788.0,418.0 792.0,422.0 796.0,426.0 800.0,430.0" class="fg-line" style="stroke-width:2.5;"/>
+
+  <!-- Stage 0 Left: Inert Gas Ring (0) -->
+  <ellipse cx="95" cy="430" rx="28" ry="8" class="zero-plane"/>
+  <text x="95" y="458" class="label-center" style="fill:#e8b85a;">0 • INERT GAS</text>
+  <text x="95" y="473" class="label-center label-small">(Nebular Seed)</text>
+
+  <!-- Stage 1+: Spiral / Prolate Ring Nebula (x=175, y=342) -->
+  <g transform="translate(175, 342) rotate(-28)">
+    <ellipse cx="0" cy="0" rx="16" ry="38" class="pos-fill"/>
+    <line x1="0" y1="-46" x2="0" y2="46" class="pos-line"/>
+  </g>
+  <text x="165" y="282" class="label-center" style="fill:#fb7185;">1+ • PROLATE NEBULA</text>
+
+  <!-- Stage 2+: Compressing Prolate Spheroid (x=255, y=252) -->
+  <g transform="translate(255, 252) rotate(-18)">
+    <ellipse cx="0" cy="0" rx="22" ry="34" class="pos-fill"/>
+    <line x1="0" y1="-42" x2="0" y2="42" class="pos-line"/>
+  </g>
+  <text x="242" y="196" class="label-center" style="fill:#fb7185;">2+ • WINDING</text>
+
+  <!-- Stage 3+: High-Compression Spheroid (x=340, y=188) -->
+  <g transform="translate(340, 188) rotate(-8)">
+    <ellipse cx="0" cy="0" rx="28" ry="32" class="pos-fill"/>
+    <line x1="0" y1="-40" x2="0" y2="40" class="pos-line"/>
+  </g>
+  <text x="330" y="140" class="label-center" style="fill:#fb7185;">3+ • INTEGRATING</text>
+
+  <!-- Stage 4+-4: TRUE SPHERE AT AMPLITUDE (x=440, y=200) -->
+  <circle cx="440" cy="200" r="56" fill="url(#sun-glow)"/>
+  <circle cx="440" cy="200" r="34" class="node-amp"/>
+  <!-- Orbiting Equatorial Plane at 90 degrees -->
+  <ellipse cx="440" cy="200" rx="64" ry="12" fill="none" stroke="#ebe6dc" stroke-width="1.8"/>
+  <circle cx="376" cy="200" r="4.5" class="node-zero"/>
+  <circle cx="504" cy="200" r="4.5" class="node-zero"/>
+  <text x="440" y="200" class="label-center" style="fill:#0c0e14;font-weight:800;">TRUE SPHERE</text>
+  <text x="440" y="274" class="label-center" style="fill:#e8b85a;font-weight:700;">SUN / CARBON (4±)</text>
+
+  <!-- Stage 3-: Flattening Oblate Planet (x=540, y=188) -->
+  <g transform="translate(540, 188) rotate(8)">
+    <ellipse cx="0" cy="0" rx="34" ry="26" class="neg-fill"/>
+    <ellipse cx="0" cy="0" rx="48" ry="9" fill="none" stroke="#38bdf8" stroke-width="1.4"/>
+  </g>
+  <text x="552" y="140" class="label-center" style="fill:#38bdf8;">3- • OBLATE</text>
+
+  <!-- Stage 2-: Ringed Planet / Saturn (x=625, y=252) -->
+  <g transform="translate(625, 252) rotate(18)">
+    <ellipse cx="0" cy="0" rx="36" ry="20" class="neg-fill"/>
+    <ellipse cx="0" cy="0" rx="54" ry="11" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+    <ellipse cx="0" cy="0" rx="64" ry="14" fill="none" stroke="#e8b85a" stroke-width="1.2"/>
+  </g>
+  <text x="645" y="196" class="label-center" style="fill:#38bdf8;">2- • RINGED SYSTEM</text>
+
+  <!-- Stage 1-: Expanding Ring Nebula (x=705, y=342) -->
+  <g transform="translate(705, 342) rotate(28)">
+    <ellipse cx="0" cy="0" rx="42" ry="14" class="neg-fill" stroke-dasharray="4,3"/>
+    <circle cx="0" cy="0" r="8" class="node-neg"/>
+  </g>
+  <text x="720" y="282" class="label-center" style="fill:#38bdf8;">1- • RING NEBULA</text>
+
+  <!-- Stage 0 Right: Return to Inert Gas Rest (x=785, y=430) -->
+  <ellipse cx="785" cy="430" rx="28" ry="8" class="zero-plane"/>
+  <text x="785" y="458" class="label-center" style="fill:#e8b85a;">0 • INERT GAS</text>
+  <text x="785" y="473" class="label-center label-small">(Rebirth in Space)</text>
+
+  <!-- Caption Box -->
+  <rect x="64" y="498" width="752" height="52" rx="3" class="caption-box"/>
+  <text x="440" y="516" class="caption-text">"ANY SYSTEM, WHETHER OF AN ATOM OF THE ELEMENTS OR A SOLAR SYSTEM IN OUR MILKY WAY,</text>
+  <text x="440" y="531" class="caption-text">IF UPON THE AMPLITUDE OF ITS WAVE AND NINETY DEGREES FROM ITS WAVE AXIS, ITS CENTRAL SUN</text>
+  <text x="440" y="545" class="caption-text">IS A TRUE SPHERE AND ALL OF ITS PLANETS REVOLVE UPON THE PLANE OF THEIR SUN'S EQUATOR." (FIG. 103)</text>
+
+  <text x="28" y="596" class="fig-tag">FIGS. 95–104</text>
+  <text x="852" y="596" class="sig-tag">W. R. • GEOMETOR</text>
+</svg>

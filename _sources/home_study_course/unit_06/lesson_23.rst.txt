@@ -1,0 +1,186 @@
+:layout: book
+
+.. _hsc-lesson-23:
+
+LESSON NUMBER 23 CONFUSION OF IDEAS REGARDING SPIRITUAL AND PHYSICAL
+====================================================================
+
+Before entering the second six months of clarification of the relations between the Light of the undivided magnetic universe of MIND-KNOWING and the divided universe of MIND-THINKING it is well to summarize and review the preparations for better understanding which the first six months have covered. In so doing we will enter the second half of the Study Course with less confusion.
+
+There have been so many teachings based upon blind reasoning, so many theories based upon misunderstood mental and physical experiences, so many misconceptions of God and Mind based upon sensing, that it is well to so vividly define these relations from a scientific basis so that all guessing will be entirely eliminated from future comprehension.
+
+The confusion of ideas and theories has arisen because of the impossibility of penetrating the veil of the invisible universe of Mind-KNOWING through the senses of the body. The miscomprehension of man that he is thinking with his Mind when he is only sensing with his body has given rise to the many misconceptions regarding both Mind and body.
+
+That is why we hear so much that is popularly believed about such non-existent things and conditions as unconsciousness, conscious Mind, sub-conscious Mind, super-conscious Mind, the human mind, mortal mind, and other terms. These all arise from the misbelief that people are thinking, when they are but sensing with their electric senses which do not think and cannot know anything.
+
+The more you study pages 137 to 144, until those first principles become a part of your knowing, the more you will find yourself beyond the possibility of confusion.
+
+To these pages I would add a brief explanation of what causes such strange misconceptions. In the following lessons I wish to stimulate your imagination with a different presentation of the difference between the spiritual and physical universes than you have ever yet heard. I will do this in order to help you see the material universe as I see it and the spiritual universe as God taught me to KNOW it.
+
+THE EXPLANATION OF UNCONSCIOUSNESS
+----------------------------------
+
+There is no such condition as unconsciousness.
+
+When you are wide awake your body is like the rippled surface of a lake. It is vibrant with waves. Those vibrating waves of motion are your electric senses. Those vibrating waves of motion are also your body.
+
+Give thought to this fact for just a moment. When you fully realize that your body is only electric waves of vibrant motion you could not possibly think of your spiritual self, the Being which is YOU, as being only waves of motion.
+
+You have inspired thoughts, deep emotions, glorious conceptions. You cannot possibly attribute your love of beauty, your family and friends, or your rapture of Soul in contemplation of Nature, or your inventive genius to waves of motion.
+
+Nor can you think of your knowledge as being only motion.
+
+Your vibrating senses do not know anything. They are not conscious of anything. All they can do is to sense other motion. In other words all they can do is to feel. Senses are made to feel other motion, and that is all they do--and nothing more.
+
+We say that we have five senses, that of seeing, tasting, smelling, hearing and feeling. All of these are one. We feel differently with our eyes, ears, nose, tongue and body but they are all just that one sense of feeling. And that is all that the whole physical universe is composed of--just senses--sensed waves--sensed bodies of motion which feel other sensed bodies of motion.
+
+Moreover, no sensed body in the universe could even move if not "told to do so" by The Intelligence which centers it. Just as your car cannot move without desire extended to it by its centering Intelligence, so, likewise, your body and all other bodies move only because of desire of The Universal Intelligence centering them, and not otherwise. And this is as true of the atom or stellar system as it is true of the little finger of your body.
+
+Your senses are the intercommunicating system of your body. They all feel each other's motions. They are all extensions from a "central switchboard" which is your brain. We have before stated that our brain does not know anything, for it also is but motion. Our senses send messages to each other through the brain. The senses of the whole universe likewise send messages to all the rest of the Universal Body through the centering nerve ganglions of each atom in the universe, for the entire universe is but one intercommunicating sensed body, each atom of it being centered by the Universal Intelligence which created it and is controlling it.
+
+For ages people have thought that the sensing of one state of motion by another state of motion in one's body is THINKING, instead of just merely FEELING. Sensed feeling of motion by other motion has no relation to thinking whatsoever, for thinking is a manifestation of knowing. As sensed matter cannot know anything it cannot, and does not, think.
+
+If the senses of man could think, or have knowledge, the human race would have had such discoveries as the flame, the wheel or the boat, ages and ages ago, for the senses could feel as well then as they do now, but thinking did not begin in man until the dawn of Consciousness. Likewise the senses of animals can feel as well, or even better than humans, but animals do not invent or discover laws, processes nor principles in Nature.
+
+Animals reason, just as men do, but reasoning is but weighing one effect of sensed experience with other effects which arise from our "sense of observation".
+
+What we mistake for the mental action of thinking is purely an electric awareness of motion. It is not Consciousness at all. Nor is conscious Mind aware of motion, for it does not even KNOW of it.
+
+Electric awareness is the awareness of one sense of motion by another sense of motion, and that electric awareness ceases when motion ceases. The whole universe is "wired" from every point in the universe to ever other point to transfer any sensation anywhere to every other where.
+
+If, for example your body is in balance with its environment, which means if it is comfortable, you cannot sense that fact because the senses will not vibrate in an equilibrium. When there is no sensation the nerve wiring of your body is "dead". You must be unbalanced, or uncomfortable, before the senses will vibrate to tell all your other electrically sensed nerves that your body is cold. That electric awareness then causes you to get a coat for your body. Or if you are hungry, or wet, or fall out of balance, your senses will immediately vibrate, but not otherwise.
+
+A great deal of concentrative energy is expended to keep your sensed body vibrating sufficiently for you to be electrically aware of either your body or its sensations. That is what I mean by saying: "when you are wide awake your body is like the rippling surface of a lake, vibrant with wave motion".
+
+When you are asleep, either from fatigue or from an anesthetic, your body is no longer vibrant with wave motion. The waves "lie down to rest" because they are depolarized. Wakefulness is a polarized condition which induces strong electric current.
+
+You sleep when your senses become too fatigued to vibrate, BUT YOU DO NOT BECOME UNCONSCIOUS. As I before stated there is no such condition of the Mind as unconsciousness. You do not say that your tooth is unconscious when anesthetized.
+
+Mind is unchanging and unconditioned. The thinking of Mind changes but thoughts of Mind are not Mind. Thoughts are motion and Mind is still. Thoughts manifest knowledge but thoughts are not knowledge.
+
+The silent harp string has in it the Soul of an idea. The vibrating harp string gives that idea a body which you can hear as sound. Sounds are sensations. All bodies are sensations. When the sound vibrations "lie down to rest" in the equilibrium of the harp string the idea of that harp string is still there in the silence from which the sound sprang. You can still know the sound but you cannot sense it.
+
+SUB-CONSCIOUS, AND SUPER-CONSCIOUS MIND
+---------------------------------------
+
+These terms are commonly accepted terms by practically all metaphysicians, writers, workers in the arts, psychiatrists and others who give thought to human mental processes.
+
+There are no such conditions as either sub-conscious or super-conscious states of Mind.
+
+The confusion of ideas which borned such concepts arose from the mistaken belief that sensations of the body were mental. Body sensing has been mistaken for thinking, so when the electric current which caused sensations in the body weakened sufficiently to reduce the body's electric awareness of motion sufficiently to deaden, or stupify the senses, people concluded that they were unconscious because their bodies had lost all awareness. Consciousness is the state of KNOWING. There is no activity in KNOWING, but there is activity in THINKING.
+
+Mind is not stratified into sub or super layers. Mind is universal. It is all there is, and it is everywhere the same unchanging One Undivided Light of all-knowing from which all motion springs.
+
+Consciousness never changes. Everyone is always conscious but few are aware of it. The human race has not yet unfolded to the point where it is cosmically aware of its Conscious Soul.
+
+THE SUPREME HOPE OF MANKIND
+---------------------------
+
+It is my desire to close this first half year of these lessons by climaxing all that has gone before with some ideas for you to give deep thought to for the unfoldment of your own higher powers. I am mindful of the fact that the reason that you are studying these lessons is because you are very far ahead of the masses of mankind. You have had sufficient cosmic awakening to have generated within your spiritual Self an intense desire for the Light of all-knowing which will transform you from the human animal stage of unfolding man, whose body senses have been preponderant in dominating your life, to the divine Cosmic Being whose Soul-Will will be the absolute master of your body sensing. YOUR awakening to the Light of Love will awaken your brother to the Light. You are the Light of the World. You are the saviour of man from himself.
+
+I want to point out to you the fact that the whole human race has become divided into two groups--a renascent few of the many whose ascension is toward the Light, and the decadent millions whose descension is toward the dark.
+
+The world is undergoing the agonies of a cataclysmic rebirth from body sensing to Mind-knowing. You who are becoming aware of your Soul will become the seed for saving the human race from its deep plunge into the darkest of all of its dark ages since the dawn of Consciousness in man.
+
+Civilization has been self-destroyed many times during the past six thousand years, and is again being self-destroyed, and all for the same reasons--SELFISHNESS OF BODIES, AND DESIRES OF BODIES FOR SENSATIONS OF BODIES.
+
+Civilization can be reborn only through LOVE OF MIND EXPRESSED IN BROTHERHOOD OF BODIES.
+
+For thousands of years men have been hurting each other to gain something for themselves. They have not yet found out that they cannot hurt another but can hurt only themselves.
+
+The reason for the present decadence of the human race is because of the accumulation of the self-punishments resulting from the continued hurting of man's own self BY HIMSELF, while attempting to hurt other men.
+
+Empires are being disintegrated because of man's attempt to gain happiness, wealth, power and prosperity for himself by destroying the happiness, wealth, power and prosperity of others.
+
+New empires are attempting to be built by destroying other empires. Empire builders have themselves created their own destroyers. To live by the sword is to die by the sword.
+
+Empires are not only being destroyed from without, but from within. Graft and corruption are rampant in Governments. An era of unprecedented crime is undermining our own country as termites undermine buildings.
+
+Nations which were built upon crime are being destroyed by crime, nation by nation and man by man. That which man gave to man is being regiven to him in his own image.
+
+There is deep decadence in all the arts. Beauty has been replaced by ugliness in painting and sculpture.
+
+Culture is at a lowering ebb all over the world. No great men are being produced of such majestic standards as those great geniuses who have given us our present world culture.
+
+THE GREAT DESTROYER OF UNFOLDING MAN
+------------------------------------
+
+The supreme tragedy of this age is not alone in its wars. Wars destroy the best blood of a small percentage of whole peoples, but alcohol, tobacco and other drugs are destroying an extremely large percentage of men, women and teen age children of the whole world who are slaves to the slow mental and physical poisoning of nicotine and other drugs and narcotics.
+
+For a whole century this decaying process of man has been growing upon so huge a scale that it is now rated as one of the five greatest "industries" of the world.
+
+The great danger in the use of such drugs as tobacco lies in the ignorance of people as to what such drugs are doing to them.
+
+WHAT DRUGS ARE DOING TO THE HUMAN RACE
+--------------------------------------
+
+Awakening man is unfolding in the direction of his spiritual, divine Self. A small fraction of the human race has already been sufficiently illumined with the Light of God-awareness to deeply desire to live in the Light and know its ecstasy.
+
+To these few of the many, Soul-Will absolutely dominates the matter which is their bodies. These few are finding the kingdom of heaven within their Consciousness and can know its heavenly rhythms by being enabled to completely forget their bodies.
+
+Forgetfulness of body and command of body by Soul-Will, is the supreme achievement of the mystic and the genius who knows the ecstasy of the divine Light.
+
+It has taken millions of years and countless reincarnations for the unfolding of Cosmic Man to that high stage where he can sever body sensation from his Consciousness to the extent that he can be entirely freed from domination by his sensed body and master it by his own Soul.
+
+Millions upon millions of humans have already arrived at that very door to the kingdom of heaven who are now closing that door by becoming enslaved by their own bodies through nicotine, that simple, seemingly harmless, but insidious and treacherous slow acting drug which is closing the long sought door to the Light for countless millions.
+
+People who habitually smoke cannot either forget or rule their bodies. Drug addicts are ruled by their bodies to the exclusion of Soul awareness except at rare intervals when just the right amount of drugs balance their changed normality for a few moments in intervals between the action and reaction cycles of the drug poisoning.
+
+It is claimed that smoking does not injure the body, physically. That is not true, for it causes innumerable injuries ranging from stomach ulcers, lung and throat affections, to cancers and heart weakness. But that is not important because the body is not of the first importance. The important fact is that smoking gradually, depolarizes the thought processes to such an extent that time cycles develop in which the body periodically demands nicotine to stimulate the brain cells. Then the body demands another cigarette.
+
+Some smokers bodies demand only six or so cigarettes a day. Others demand one every twenty minutes. These become "chain smokers" who have lost practically all Soul-Will. Chain smokers are body slaves to a drug. He who would deny his slavery to nicotine may prove his freedom from it by asserting his will over the power of nicotine.
+
+Not one in a thousand long time smokers ever succeed in proving their own will power over nicotine to be greater than the power of nicotine over them.
+
+That fact of body slavery is the important thing for any man to ponder over who is in search for his own Soul and its dwelling place in the high heavens of God's Light.
+
+Man is divine. He is the Son of God when he KNOWS he is--but he can never know it through body sensing. He can only know it through the ecstasy of inspiration while in the Light.
+
+Eternal man is Omnipotent, Omniscient and Omnipresent but the body of man is but sensed clay and has neither power nor knowledge. Just so long as man is but sensed clay he is but sensed clay--and no more.
+
+The human race is seeking the kingdom of heaven through the spirit. The Inner Voice of God is always directing every man to the door of Light--but so long as man is but sensed clay he cannot hear that Inner Voice. Therein lies the tragedy of man's suicide of the spirit by the use of drugs.
+
+Habitual users of nicotine and alcohol so effectually change the polarity of their bodies that they more and more effectually shut out the Inner Voice as they suppress spirit in favor of [satisfying] the senses. Even the genius Mind who becomes addicted [to] either nicotine or alcohol in excess is unable to express his genius until the stimulation of the drug allows him to become [aware] of the Light of him for just a short interval, then nicotine [or] alcohol calls loudly to his senses--and he reaches out for the drug to which his body is enslaved.
+
+I know of a great orator who could not make a speech until he had given his body a quart of whisky. That amount of drug raised his polarity to the point where he could think brilliantly for a little while. Then came the reaction and the Light which shone from him for just a little while grew dim, then darkened--and this otherwise great man wept because of what his slavery cost him.
+
+The great spiritual awakening of unfolding man can come only through awareness of the Light in man. Alcohol and nicotine, taken into the body in sufficient quantities change one's polarity so much that the normal body polarity is lowered to an artificial one and prevents any user of such drugs from manifesting God in him except during those ever lessening intervals when the drug stimulates him enough to allow him to reach his artificial normalcy.
+
+For brief moments he may even look upon the face of God and create inspired art while momentarily free, but those moments ever lessen as the bonds of slavery tighten to tear him from his high throne of the spirit of eternal man to again become but sensed clay of earth.
+
+God's words in His Message are so clear and explicit upon this subject that we will write them here for your deep meditations.
+
+"For I say that man who senses but clay of earth in him is bound to earth as clayed image of earth.
+
+"Clayed images of My imagining who know not Me in them are but dwellers of earth's dark. To sensed man the doors of My Kingdom are self-barred by darkness until the Light of Me in him is known by Him as Me.
+
+"Until then he is but moving clay, manifesting not Me in him while sensing naught but moving clay of him; knowing not the glory of My Light in him.
+
+"Wherefore, I say to thee, exalt thou thyself beyond thy sensing. Know Me as fulcrum of thy thinking. Be Me as deep well of thy knowing" --From The Divine Iliad. (P. 59 The Secret of Light)
+
+CONCLUSION
+----------
+
+Life is an aeons long journey to search for happiness. Happiness in man is an emotion which springs from love. To find happiness man must find love. The journey of life is for the finding of love.
+
+God is Love.
+
+When you find God you find love. When you find God you find the kingdom of heaven. When you find the kingdom of heaven the purpose of life has been fulfilled. All else is added unto it.
+
+In the search for happiness, and love, and God in His high heavens you make discoveries. In the long, long aeons of making discoveries you discover that what you have searched for during the aeons you already have.
+
+You never find out that you have it until you desire to give it. You then discover that you have it to give. From the moment of that discovery you find happiness and love in the measure of your giving.
+
+In your search for wealth you discover that you already have wealth the moment you begin to give it. The measure of your wealth is the measure of your giving it.
+
+Do you doubt your power? Give of what you have and you will discover that all the power in all the universe is yours to give. It is at the moment of your first giving that you discover your Omnipotence.
+
+You have searched and you have found. Countless millions are also searching but have not yet found even the path to the kingdom.
+
+A new dawn of unfolding man is breaking. Millions of searchers for the kingdom of heaven will die while searching for what you have found.
+
+You shall give them what they seek. You are the savior of mankind in his new day. This our Father-Mother commands of you as He has of Me.
+
+Every man loses his life a million times to find eternal life but he who has found eternal life and immortality shall bestow immortality upon him who seeks, but has not yet found.
+
+Yea, millions will die, but God leaves His Messengers to await rebirth in man. The long journey of man's search for the Light will forever continue and the Light of Love will ever await the coming of man into His knowing of the Light--but the agony of that awaiting shall be man's alone.
