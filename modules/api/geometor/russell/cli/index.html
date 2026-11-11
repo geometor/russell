@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=69acf51f" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=66998e95" />
   <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -65,7 +65,10 @@
         <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
         <table class="autosummary longtable docutils align-default">
         <tbody>
-        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.cli.main" title="geometor.russell.cli.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>() → None</p></td>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.cli.build_parser" title="geometor.russell.cli.build_parser"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_parser</span></code></a>() → argparse.ArgumentParser</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.cli.main" title="geometor.russell.cli.main"><code class="xref py py-obj docutils literal notranslate"><span class="pre">main</span></code></a>([argv]) → int</p></td>
         <td><p>Run the geometor-russell CLI.</p></td>
         </tr>
         </tbody>
@@ -74,8 +77,13 @@
         <section class="level-2" id="module-contents">
         <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
         <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.cli.build_parser">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.cli.</span></span><span class="sig-name descname"><span class="pre">build_parser</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/argparse.html#argparse.ArgumentParser" title="(in Python v3.13)"><span class="pre">argparse.ArgumentParser</span></a></span></span><a class="headerlink" href="#geometor.russell.cli.build_parser" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
         <dt class="sig sig-object py" id="geometor.russell.cli.main">
-        <span class="sig-prename descclassname"><span class="pre">geometor.russell.cli.</span></span><span class="sig-name descname"><span class="pre">main</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span></span><a class="headerlink" href="#geometor.russell.cli.main" title="Link to this definition">¶</a></dt>
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.cli.</span></span><span class="sig-name descname"><span class="pre">main</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">argv</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span></span><a class="headerlink" href="#geometor.russell.cli.main" title="Link to this definition">¶</a></dt>
         <dd><p>Run the geometor-russell CLI.</p>
         </dd></dl>
 
@@ -128,11 +136,12 @@
 
   <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
   <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../../../../_static/documentation_options.js?v=938c9ccc"></script>
   <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
-  <script src="../../../../../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../../../_static/js/russell_3d_codex.js?v=c0b041fa"></script>
   <script src="../../../../../_static/js/search_highlight.js"></script>
 
 </body>

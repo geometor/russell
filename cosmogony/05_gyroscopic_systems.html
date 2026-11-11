@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=69acf51f" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -74,19 +74,29 @@
         <p>Both atomic systems and stellar/planetary systems evolve along the same gyroscopic wave path from stillness (<cite>0</cite>) to wave amplitude (<cite>4±</cite>) and back to stillness (<cite>0</cite>):</p>
         <ul class="simple">
         <li><p><strong>Centripetal Winding (`1+ -&gt; 2+ -&gt; 3+`)</strong>:
-        Beginning as an expanded inert-gas ring in space (<cite>0</cite>), centripetal compression winds the ring through <strong>prolate</strong> (polar-elongated) spheroids whose axes precess toward the wave amplitude perpendicular.</p></li>
+        Beginning as an expanded inert-gas ring in space (<cite>0</cite>), centripetal compression winds the ring through <strong>prolate</strong> (polar-elongated, $c/a &gt; 1$) spheroids whose spin axes precess ($22.5^\circ, 45^\circ, 67.5^\circ$) toward the wave amplitude perpendicular.</p></li>
         <li><p><strong>The True Sphere at Wave Amplitude (`4+ / 0 / 4-`)</strong>:
-        Only when a system locks squarely upon the $90^\circ$ wave amplitude crest does its central nucleus become a <strong>true incandescent sphere</strong> (such as <strong>Carbon</strong> in the elements or a mature <strong>Sun</strong> in a solar system), with its planets revolving in its equatorial plane (<cite>Fig. 103</cite>).</p></li>
+        Only when a system locks squarely upon the $90^\circ$ wave amplitude crest does its central nucleus become a <strong>true incandescent sphere</strong> ($c/a = 1$, such as <strong>Carbon</strong> in the elements or a mature <strong>Sun</strong> in a solar system), with its planets revolving in its equatorial plane (<cite>Fig. 103</cite>).</p></li>
         <li><p><strong>Centrifugal Unwinding (`3- -&gt; 2- -&gt; 1- -&gt; 0`)</strong>:
-        Past the amplitude crest, centrifugal radiation flattens the sphere at its poles and bulges its equator into <strong>oblate spheroids</strong>, <strong>ringed planets</strong> (like Saturn), and <strong>ring nebulae</strong> (like the Ring Nebula in Lyra or Hydra), unwinding back into the inert gases of space.</p></li>
+        Past the amplitude crest ($112.5^\circ, 135^\circ, 157.5^\circ$), centrifugal radiation flattens the sphere at its poles ($c/a &lt; 1$) and bulges its equator into <strong>oblate spheroids</strong>, <strong>ringed planets</strong> (like Saturn), and <strong>ring nebulae</strong> (like the Ring Nebula in Lyra), unwinding back into the inert gases of space.</p></li>
         </ul>
-        <figure class="align-center" id="id1">
+        <section class="level-2" id="interactive-3d-gyroscopic-precession-spheroid-morphing">
+        <h2>Interactive 3D Gyroscopic Precession &amp; Spheroid Morphing<a class="headerlink" href="#interactive-3d-gyroscopic-precession-spheroid-morphing" title="Link to this heading">¶</a></h2>
+        <p>Drag the <strong>Octave Precession</strong> slider below from <cite>0°</cite> (<cite>0</cite> Inert Gas) to <strong>`90°` (`4±` True Sphere)</strong> and <cite>180°</cite> (<cite>0</cite> Rebirth) to watch the 3D wireframe system precess and morph from prolate winding to true sphere to oblate Saturnian ring ejection:</p>
+        <div class="russell-3d-mount" data-russell-scene="gyroscopic"></div>
+        <p style="text-align:right;font-size:12px;margin-top:-12px;margin-bottom:20px;">
+          <strong>Parametric 3D Geometry Exports:</strong>
+          <a href="../_static/models3d/gyroscopic_octave.obj" download>Wavefront OBJ (<code>gyroscopic_octave.obj</code>)</a>
+          &nbsp;·&nbsp;
+          <a href="../_static/models3d/gyroscopic_octave.json" download>Scene JSON (<code>gyroscopic_octave.json</code>)</a>
+        </p><figure class="align-center" id="id1">
         <a class="reference internal image-reference" href="../_images/06_nebula_gyroscopic_oblateness.svg"><img alt="../_images/06_nebula_gyroscopic_oblateness.svg" src="../_images/06_nebula_gyroscopic_oblateness.svg" style="width: 98%;" />
         </a>
         <figcaption>
         <p><span class="caption-text"><strong>Plate VI (Figs. 95–104)</strong>: Gyroscopic evolution from prolate winding (<cite>1+, 2+, 3+</cite>) to the True Sphere at $90^\circ$ Wave Amplitude (<cite>4±</cite>) and oblate/ringed unwinding (<cite>3-, 2-, 1-</cite>).</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
         </figcaption>
         </figure>
+        </section>
         </section>
 
       </div>
@@ -137,11 +147,12 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../_static/documentation_options.js?v=938c9ccc"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
-  <script src="../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../_static/js/russell_3d_codex.js?v=c0b041fa"></script>
   <script src="../_static/js/search_highlight.js"></script>
 
 </body>

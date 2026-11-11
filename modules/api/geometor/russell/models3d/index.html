@@ -1,0 +1,596 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.russell.models3d &mdash; GEOMETOR • russell</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <h1>GEOMETOR • russell</h1>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">russell</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../cosmogony/index.html"  >THE WAVE-FIELD COSMOGONY OF WALTER RUSSELL</a>
+        </li>
+        <li>
+          <a href="../../../../../home_study_course/index.html"  >HOME STUDY COURSE</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; russell</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • russell</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.russell.models3d">
+        <span id="geometor-russell-models3d"></span><h1>geometor.russell.models3d<a class="headerlink" href="#module-geometor.russell.models3d" title="Link to this heading">¶</a></h1>
+        <p>Parametric 3D geometry generators for Walter Russell’s Wave-Field Cosmogony.</p>
+        <p>Almost all 180 chalkboard figures in Russell’s <em>Home Study Course</em> (1950–1952)
+        are orthographic slices or camera projections of five coupled 3D structures:</p>
+        <ol class="arabic simple">
+        <li><p><code class="docutils literal notranslate"><span class="pre">CubeSphereLattice</span></code> (Figs. 105–124):
+        Bounding Cube <code class="docutils literal notranslate"><span class="pre">[-1,</span> <span class="pre">1]^3</span></code> of Still Magnetic Light, inscribed unit Sphere,
+        27 zero-nodes <code class="docutils literal notranslate"><span class="pre">{-1,</span> <span class="pre">0,</span> <span class="pre">1}^3</span></code>, 3 orthogonal zero-curvature planes, and
+        6 diagonal bisecting zero-curvature planes (total = 9 Equators).</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">ConicalVortexField</span></code> (Figs. 38–47, 117–124, 158–161):
+        Six centripetal (<code class="docutils literal notranslate"><span class="pre">+</span></code>) cones projecting inward from the 6 cube faces to the
+        common gravitational apex <code class="docutils literal notranslate"><span class="pre">(0,</span> <span class="pre">0,</span> <span class="pre">0)</span></code>, paired with centrifugal (<code class="docutils literal notranslate"><span class="pre">-</span></code>)
+        unwinding spirals and curved pressure equators.</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">LightSphereLens</span></code> (Figs. 170–172):
+        3D octant-divided optical wave-field whose field trajectories pass through
+        zero curvature (<code class="docutils literal notranslate"><span class="pre">kappa</span> <span class="pre">=</span> <span class="pre">0</span></code>) on the 3 orthogonal equators and reverse
+        concavity across adjacent octants while ejecting equatorial rings.</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">GyroscopicOctaveSystem</span></code> (Figs. 95–104):
+        Nine gyroscopic precession stages (<code class="docutils literal notranslate"><span class="pre">0</span> <span class="pre">-&gt;</span> <span class="pre">1+</span> <span class="pre">-&gt;</span> <span class="pre">2+</span> <span class="pre">-&gt;</span> <span class="pre">3+</span> <span class="pre">-&gt;</span> <span class="pre">4±</span> <span class="pre">-&gt;</span> <span class="pre">3-</span> <span class="pre">-&gt;</span> <span class="pre">2-</span> <span class="pre">-&gt;</span> <span class="pre">1-</span> <span class="pre">-&gt;</span> <span class="pre">0</span></code>)
+        precessing from <code class="docutils literal notranslate"><span class="pre">0°</span></code> to <code class="docutils literal notranslate"><span class="pre">90°</span></code> (True Sphere at Wave Amplitude <code class="docutils literal notranslate"><span class="pre">4±</span></code>) to <code class="docutils literal notranslate"><span class="pre">180°</span></code>
+        while morphing from prolate spheroids to a true sphere to oblate ringed systems.</p></li>
+        <li><p><code class="docutils literal notranslate"><span class="pre">PeriodicHelix9Octave</span></code> (Figs. 177, 179–180):
+        Unified 3D 9-octave conical helical wave of the elements whose axial camera
+        projection reproduces Russell’s concentric chart (Fig. 177) and whose lateral
+        camera projection reproduces the corkscrew octave wave (Fig. 180).</p></li>
+        </ol>
+        <section class="level-2" id="attributes">
+        <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Vec3</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.PALETTE" title="geometor.russell.models3d.PALETTE"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PALETTE</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.GYRO_STAGES" title="geometor.russell.models3d.GYRO_STAGES"><code class="xref py py-obj docutils literal notranslate"><span class="pre">GYRO_STAGES</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.MODEL_REGISTRY" title="geometor.russell.models3d.MODEL_REGISTRY"><code class="xref py py-obj docutils literal notranslate"><span class="pre">MODEL_REGISTRY</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.Polyline3D" title="geometor.russell.models3d.Polyline3D"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Polyline3D</span></code></a></p></td>
+        <td><p>A 3D curve or wireframe edge sequence.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.Polygon3D" title="geometor.russell.models3d.Polygon3D"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Polygon3D</span></code></a></p></td>
+        <td><p>A planar 3D face (such as one of the 9 zero-curvature equators).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.Node3D" title="geometor.russell.models3d.Node3D"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Node3D</span></code></a></p></td>
+        <td><p>A discrete 3D locus (zero-node, focal apex, or locked element).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Scene3D</span></code></a></p></td>
+        <td><p>Complete parametric 3D model ready for .obj, .json, or SVG projection.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.GyroStage" title="geometor.russell.models3d.GyroStage"><code class="xref py py-obj docutils literal notranslate"><span class="pre">GyroStage</span></code></a></p></td>
+        <td><p>Parameters of one locking stage along the 0 -&gt; 4± -&gt; 0 gyroscopic arch.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_add" title="geometor.russell.models3d.vec_add"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_add</span></code></a>(a, b) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_sub" title="geometor.russell.models3d.vec_sub"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_sub</span></code></a>(a, b) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_scale" title="geometor.russell.models3d.vec_scale"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_scale</span></code></a>(v, s) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_dot" title="geometor.russell.models3d.vec_dot"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_dot</span></code></a>(a, b) → float</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_cross" title="geometor.russell.models3d.vec_cross"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_cross</span></code></a>(a, b) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_length" title="geometor.russell.models3d.vec_length"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_length</span></code></a>(v) → float</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.vec_normalize" title="geometor.russell.models3d.vec_normalize"><code class="xref py py-obj docutils literal notranslate"><span class="pre">vec_normalize</span></code></a>(v) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.rotate_z" title="geometor.russell.models3d.rotate_z"><code class="xref py py-obj docutils literal notranslate"><span class="pre">rotate_z</span></code></a>(v, rad) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.rotate_x" title="geometor.russell.models3d.rotate_x"><code class="xref py py-obj docutils literal notranslate"><span class="pre">rotate_x</span></code></a>(v, rad) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.rotate_y" title="geometor.russell.models3d.rotate_y"><code class="xref py py-obj docutils literal notranslate"><span class="pre">rotate_y</span></code></a>(v, rad) → Vec3</p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_cube_sphere_lattice" title="geometor.russell.models3d.build_cube_sphere_lattice"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_cube_sphere_lattice</span></code></a>([include_diagonal_planes, ...]) → Scene3D</p></td>
+        <td><p>Build the Cube-Sphere Wave-Field of Nine Equators (Fig. 114).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_conical_vortex_field" title="geometor.russell.models3d.build_conical_vortex_field"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_conical_vortex_field</span></code></a>([vitality, turns, ...]) → Scene3D</p></td>
+        <td><p>Build the 3D Interpenetrating Conical Vortex Field (Figs. 38–47, 119, 158–161).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.lens_inflection_curve" title="geometor.russell.models3d.lens_inflection_curve"><code class="xref py py-obj docutils literal notranslate"><span class="pre">lens_inflection_curve</span></code></a>(s[, amplitude]) → float</p></td>
+        <td><p>Odd-symmetric octant deflection <code class="docutils literal notranslate"><span class="pre">d(s)</span> <span class="pre">=</span> <span class="pre">A</span> <span class="pre">*</span> <span class="pre">sin(pi</span> <span class="pre">*</span> <span class="pre">s)</span></code> for <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">in</span> <span class="pre">[-1,</span> <span class="pre">1]</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_light_sphere_lens" title="geometor.russell.models3d.build_light_sphere_lens"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_light_sphere_lens</span></code></a>([rays_per_meridian, ...]) → Scene3D</p></td>
+        <td><p>Build the 3D 8-Octant Curvature-Reversing Light-Sphere Lens (Figs. 170–172).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_gyroscopic_octave_system" title="geometor.russell.models3d.build_gyroscopic_octave_system"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_gyroscopic_octave_system</span></code></a>([parallels, meridians]) → Scene3D</p></td>
+        <td><p>Build the 3D Gyroscopic Precession &amp; Spheroid Morphing Wave (Figs. 95–104).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_periodic_helix_9_octave" title="geometor.russell.models3d.build_periodic_helix_9_octave"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_periodic_helix_9_octave</span></code></a>([points_per_octave]) → Scene3D</p></td>
+        <td><p>Build the Unified 3D Nine-Octave Conical Spiral of the Elements (Figs. 177 &amp; 180).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.russell.models3d.build_all_models" title="geometor.russell.models3d.build_all_models"><code class="xref py py-obj docutils literal notranslate"><span class="pre">build_all_models</span></code></a>() → dict[str, Scene3D]</p></td>
+        <td><p>Instantiate all five canonical 3D Russell cosmogony models.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Vec3">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">Vec3</span></span><a class="headerlink" href="#geometor.russell.models3d.Vec3" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.PALETTE">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">PALETTE</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.PALETTE" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_add">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_add</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_add" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_sub">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_sub</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_sub" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_scale">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_scale</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">s</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_scale" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_dot">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_dot</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_dot" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_cross">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_cross</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">a</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">b</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_cross" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_length">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_length</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_length" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.vec_normalize">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">vec_normalize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.vec_normalize" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.rotate_z">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">rotate_z</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">rad</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.rotate_z" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.rotate_x">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">rotate_x</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">rad</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.rotate_x" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.rotate_y">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">rotate_y</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">v</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">rad</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.rotate_y" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">Polyline3D</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D" title="Link to this definition">¶</a></dt>
+        <dd><p>A 3D curve or wireframe edge sequence.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.points">
+        <span class="sig-name descname"><span class="pre">points</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.points" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.role">
+        <span class="sig-name descname"><span class="pre">role</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'frame'</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.role" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.group">
+        <span class="sig-name descname"><span class="pre">group</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'default'</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.group" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.closed">
+        <span class="sig-name descname"><span class="pre">closed</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">False</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.closed" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.width">
+        <span class="sig-name descname"><span class="pre">width</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">1.6</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.width" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.dashed">
+        <span class="sig-name descname"><span class="pre">dashed</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">False</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.dashed" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polyline3D.label">
+        <span class="sig-name descname"><span class="pre">label</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">''</span></span><a class="headerlink" href="#geometor.russell.models3d.Polyline3D.label" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">Polygon3D</span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D" title="Link to this definition">¶</a></dt>
+        <dd><p>A planar 3D face (such as one of the 9 zero-curvature equators).</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.vertices">
+        <span class="sig-name descname"><span class="pre">vertices</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.vertices" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.normal">
+        <span class="sig-name descname"><span class="pre">normal</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.normal" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.role">
+        <span class="sig-name descname"><span class="pre">role</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'zero'</span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.role" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.group">
+        <span class="sig-name descname"><span class="pre">group</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'planes'</span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.group" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.opacity">
+        <span class="sig-name descname"><span class="pre">opacity</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">0.14</span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.opacity" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Polygon3D.label">
+        <span class="sig-name descname"><span class="pre">label</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">''</span></span><a class="headerlink" href="#geometor.russell.models3d.Polygon3D.label" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">Node3D</span></span><a class="headerlink" href="#geometor.russell.models3d.Node3D" title="Link to this definition">¶</a></dt>
+        <dd><p>A discrete 3D locus (zero-node, focal apex, or locked element).</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.position">
+        <span class="sig-name descname"><span class="pre">position</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#geometor.russell.models3d.Vec3" title="geometor.russell.models3d.Vec3"><span class="pre">Vec3</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.position" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.label">
+        <span class="sig-name descname"><span class="pre">label</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.label" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.role">
+        <span class="sig-name descname"><span class="pre">role</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'zero'</span></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.role" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.group">
+        <span class="sig-name descname"><span class="pre">group</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">'nodes'</span></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.group" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.radius">
+        <span class="sig-name descname"><span class="pre">radius</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">5.0</span></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.radius" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Node3D.metadata">
+        <span class="sig-name descname"><span class="pre">metadata</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.Node3D.metadata" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">Scene3D</span></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D" title="Link to this definition">¶</a></dt>
+        <dd><p>Complete parametric 3D model ready for .obj, .json, or SVG projection.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.name">
+        <span class="sig-name descname"><span class="pre">name</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.name" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.title">
+        <span class="sig-name descname"><span class="pre">title</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.title" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.figures">
+        <span class="sig-name descname"><span class="pre">figures</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.figures" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.description">
+        <span class="sig-name descname"><span class="pre">description</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.description" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.polylines">
+        <span class="sig-name descname"><span class="pre">polylines</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.Polyline3D" title="geometor.russell.models3d.Polyline3D"><span class="pre">Polyline3D</span></a><span class="p"><span class="pre">]</span></span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">[]</span></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.polylines" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.polygons">
+        <span class="sig-name descname"><span class="pre">polygons</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.Polygon3D" title="geometor.russell.models3d.Polygon3D"><span class="pre">Polygon3D</span></a><span class="p"><span class="pre">]</span></span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">[]</span></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.polygons" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.nodes">
+        <span class="sig-name descname"><span class="pre">nodes</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.Node3D" title="geometor.russell.models3d.Node3D"><span class="pre">Node3D</span></a><span class="p"><span class="pre">]</span></span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">[]</span></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.nodes" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py method">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.Scene3D.to_dict">
+        <span class="sig-name descname"><span class="pre">to_dict</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.russell.models3d.Scene3D.to_dict" title="Link to this definition">¶</a></dt>
+        <dd><p>Serialize the 3D scene to a JSON-compatible dictionary.</p>
+        </dd></dl>
+
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_cube_sphere_lattice">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_cube_sphere_lattice</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">include_diagonal_planes</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">True</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">circle_segments</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">64</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.build_cube_sphere_lattice" title="Link to this definition">¶</a></dt>
+        <dd><p>Build the Cube-Sphere Wave-Field of Nine Equators (Fig. 114).</p>
+        <p>Contains:
+        - Outer bounding Cube <code class="docutils literal notranslate"><span class="pre">[-1,</span> <span class="pre">1]^3</span></code> (12 edges)
+        - 3 Orthogonal Zero-Curvature Planes (<code class="docutils literal notranslate"><span class="pre">x=0</span></code>, <code class="docutils literal notranslate"><span class="pre">y=0</span></code>, <code class="docutils literal notranslate"><span class="pre">z=0</span></code>)
+        - 6 Diagonal Bisecting Zero-Curvature Planes (<code class="docutils literal notranslate"><span class="pre">x±y=0</span></code>, <code class="docutils literal notranslate"><span class="pre">y±z=0</span></code>, <code class="docutils literal notranslate"><span class="pre">z±x=0</span></code>)
+        - Inscribed Unit Sphere (3 great circles + latitude parallels)
+        - All 27 Zero-Nodes <code class="docutils literal notranslate"><span class="pre">{-1,</span> <span class="pre">0,</span> <span class="pre">1}^3</span></code></p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_conical_vortex_field">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_conical_vortex_field</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">vitality</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1.0</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">turns</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">3.5</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">all_six_axes</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#bool" title="(in Python v3.13)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">True</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">steps</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">120</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.build_conical_vortex_field" title="Link to this definition">¶</a></dt>
+        <dd><p>Build the 3D Interpenetrating Conical Vortex Field (Figs. 38–47, 119, 158–161).</p>
+        <p>In 3D, each of the 6 square zero-curvature faces of the bounding Cube projects
+        a centripetal (<code class="docutils literal notranslate"><span class="pre">+</span></code>) spiral cone inward to the common gravitational center
+        <code class="docutils literal notranslate"><span class="pre">(0,</span> <span class="pre">0,</span> <span class="pre">0)</span></code>, while centrifugal (<code class="docutils literal notranslate"><span class="pre">-</span></code>) spirals unwind back toward the cube faces.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.lens_inflection_curve">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">lens_inflection_curve</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">s</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">amplitude</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">0.24</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.lens_inflection_curve" title="Link to this definition">¶</a></dt>
+        <dd><p>Odd-symmetric octant deflection <code class="docutils literal notranslate"><span class="pre">d(s)</span> <span class="pre">=</span> <span class="pre">A</span> <span class="pre">*</span> <span class="pre">sin(pi</span> <span class="pre">*</span> <span class="pre">s)</span></code> for <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">in</span> <span class="pre">[-1,</span> <span class="pre">1]</span></code>.</p>
+        <p>Guarantees exact zero value <code class="docutils literal notranslate"><span class="pre">d(0)</span> <span class="pre">=</span> <span class="pre">0</span></code> and exact zero curvature <code class="docutils literal notranslate"><span class="pre">d''(0)</span> <span class="pre">=</span> <span class="pre">0</span></code>
+        on the orthogonal zero-curvature equator <code class="docutils literal notranslate"><span class="pre">s</span> <span class="pre">=</span> <span class="pre">0</span></code>, with opposite concavity
+        (<code class="docutils literal notranslate"><span class="pre">d''(s)</span> <span class="pre">&lt;</span> <span class="pre">0</span></code> vs <code class="docutils literal notranslate"><span class="pre">d''(s)</span> <span class="pre">&gt;</span> <span class="pre">0</span></code>) across adjacent octants!</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_light_sphere_lens">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_light_sphere_lens</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">rays_per_meridian</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">8</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">coronal_rings</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">3</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">steps</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">80</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.build_light_sphere_lens" title="Link to this definition">¶</a></dt>
+        <dd><p>Build the 3D 8-Octant Curvature-Reversing Light-Sphere Lens (Figs. 170–172).</p>
+        <p>Contains:
+        - 3 Circular Zero-Curvature Equators dividing the unit sphere into 8 octants
+        - Inflecting 3D light-ray trajectories whose curvature vanishes on the equators</p>
+        <blockquote>
+        <div><p>and reverses sign in opposite octants (Fig. 170–171)</p>
+        </div></blockquote>
+        <ul class="simple">
+        <li><p>Equatorial coronal rings &amp; condensing planetary nodes (Fig. 172)</p></li>
+        </ul>
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">GyroStage</span></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage" title="Link to this definition">¶</a></dt>
+        <dd><p>Parameters of one locking stage along the 0 -&gt; 4± -&gt; 0 gyroscopic arch.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.tone">
+        <span class="sig-name descname"><span class="pre">tone</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.tone" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.title">
+        <span class="sig-name descname"><span class="pre">title</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.title" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.inclination_deg">
+        <span class="sig-name descname"><span class="pre">inclination_deg</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.inclination_deg" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.eq_radius">
+        <span class="sig-name descname"><span class="pre">eq_radius</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.eq_radius" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.polar_radius">
+        <span class="sig-name descname"><span class="pre">polar_radius</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.polar_radius" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.rings">
+        <span class="sig-name descname"><span class="pre">rings</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.rings" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GyroStage.role">
+        <span class="sig-name descname"><span class="pre">role</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a></span><a class="headerlink" href="#geometor.russell.models3d.GyroStage.role" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.GYRO_STAGES">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">GYRO_STAGES</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#tuple" title="(in Python v3.13)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.russell.models3d.GyroStage" title="geometor.russell.models3d.GyroStage"><span class="pre">GyroStage</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.GYRO_STAGES" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_gyroscopic_octave_system">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_gyroscopic_octave_system</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">parallels</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">5</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">meridians</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">8</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.build_gyroscopic_octave_system" title="Link to this definition">¶</a></dt>
+        <dd><p>Build the 3D Gyroscopic Precession &amp; Spheroid Morphing Wave (Figs. 95–104).</p>
+        <p>Demonstrates why ONLY the <code class="docutils literal notranslate"><span class="pre">90°</span></code> Wave Amplitude crest (<code class="docutils literal notranslate"><span class="pre">4±</span></code>) produces a
+        <strong>True Sphere</strong> (<code class="docutils literal notranslate"><span class="pre">eq_radius</span> <span class="pre">==</span> <span class="pre">polar_radius</span></code>), flanked by prolate centripetal
+        winding stages (<code class="docutils literal notranslate"><span class="pre">1+,</span> <span class="pre">2+,</span> <span class="pre">3+</span></code>) and oblate/ringed centrifugal unwinding stages
+        (<code class="docutils literal notranslate"><span class="pre">3-,</span> <span class="pre">2-,</span> <span class="pre">1-</span></code>).</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_periodic_helix_9_octave">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_periodic_helix_9_octave</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">points_per_octave</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#int" title="(in Python v3.13)"><span class="pre">int</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">64</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a></span></span><a class="headerlink" href="#geometor.russell.models3d.build_periodic_helix_9_octave" title="Link to this definition">¶</a></dt>
+        <dd><p>Build the Unified 3D Nine-Octave Conical Spiral of the Elements (Figs. 177 &amp; 180).</p>
+        <p>Coordinate design unifies Russell’s two periodic charts into ONE 3D geometry:
+        - <strong>Axial Projection ``(X, Y)``</strong> looking down the <code class="docutils literal notranslate"><span class="pre">Z</span></code> wave axis reproduces</p>
+        <blockquote>
+        <div><p><em>The Russell Periodic Chart of the Elements, No. 2</em> (<code class="docutils literal notranslate"><span class="pre">Fig.</span> <span class="pre">177</span></code>, 1926):
+        concentric expanding spiral turns with Inert Gases on the horizontal <code class="docutils literal notranslate"><span class="pre">Y</span> <span class="pre">=</span> <span class="pre">0</span></code>
+        Zero-Equator and Carbon/Silicon/etc. on the vertical <code class="docutils literal notranslate"><span class="pre">X</span> <span class="pre">=</span> <span class="pre">0,</span> <span class="pre">Y</span> <span class="pre">&gt;</span> <span class="pre">0</span></code> <code class="docutils literal notranslate"><span class="pre">4±</span></code> Crest.</p>
+        </div></blockquote>
+        <ul class="simple">
+        <li><p><strong>Lateral Projection ``(Z, Y)``</strong> looking perpendicular to the <code class="docutils literal notranslate"><span class="pre">Z</span></code> wave axis
+        reproduces the 9-Octave Wave Arch &amp; Corkscrew Vortex (<code class="docutils literal notranslate"><span class="pre">Figs.</span> <span class="pre">179–180</span></code>)!</p></li>
+        </ul>
+        </dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.MODEL_REGISTRY">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">MODEL_REGISTRY</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.russell.models3d.MODEL_REGISTRY" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.russell.models3d.build_all_models">
+        <span class="sig-prename descclassname"><span class="pre">geometor.russell.models3d.</span></span><span class="sig-name descname"><span class="pre">build_all_models</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference internal" href="#geometor.russell.models3d.Scene3D" title="geometor.russell.models3d.Scene3D"><span class="pre">Scene3D</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.russell.models3d.build_all_models" title="Link to this definition">¶</a></dt>
+        <dd><p>Instantiate all five canonical 3D Russell cosmogony models.</p>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • russell</a>
+          </div>
+          <div class="book-nav-next">
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+  </div>
+  <footer>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1950–1952, Walter and Lao Russell • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=938c9ccc"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../../../_static/js/russell_3d_codex.js?v=c0b041fa"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

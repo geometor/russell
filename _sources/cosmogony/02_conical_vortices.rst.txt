@@ -5,9 +5,9 @@
 Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation
 ===================================================================================
 
-.. rubric:: The Two-Way Spiral Engine of Life, Growth, and Magnetism (Lessons 18, 29 & 46)
+.. rubric:: The Two-Way Spiral Engine of Life, Growth, and Magnetism (Lessons 18, 29, 43 & 46)
 
-In Russell's wave mechanics, there are no straight lines in the moving electric universe, nor do cylindrical bar magnets exist in Nature. Every wave-field is wound and unwound by **two opposing interpenetrating cones** operating between the flat planes of zero curvature and the central gravitational nucleus.
+In Russell's wave mechanics, there are no straight lines in the moving electric universe, nor do cylindrical bar magnets exist in Nature. Every cubic wave-field is wound and unwound in three dimensions by **six centripetal spiral cones** projecting inward from the six flat cube faces to the common gravitational apex ``(0, 0, 0)``, paired with **centrifugal unwinding spirals** radiating outward.
 
 The Electric Cycle of Vitality (`Figs. 38–47`)
 ----------------------------------------------
@@ -24,6 +24,21 @@ Vitality in any system—whether an oak tree, a human body, or a stellar sun—i
    :width: 98%
 
    **Plate II (Figs. 38–47)**: The ten-stage electric cycle of polarization (growth/life) and depolarization (decay/rest) governed by opposing spiral cones.
+
+Interactive 3D Six-Face Conical Vortex & Vitality Engine
+--------------------------------------------------------
+
+Orbit the 3D six-axis conical vortex below, toggle between a single polar magnet pair (`±Y`) and all six interpenetrating cube-face cones (`±X, ±Y, ±Z`), inspect the curved pressure equators (`Fig. 159`), and scrub **Vitality** from dormant seed (`0%`) to full polarization (`100%`):
+
+.. raw:: html
+
+   <div class="russell-3d-mount" data-russell-scene="conical_vortex"></div>
+   <p style="text-align:right;font-size:12px;margin-top:-12px;margin-bottom:20px;">
+     <strong>Parametric 3D Geometry Exports:</strong>
+     <a href="../_static/models3d/conical_vortex.obj" download>Wavefront OBJ (<code>conical_vortex.obj</code>)</a>
+     &nbsp;·&nbsp;
+     <a href="../_static/models3d/conical_vortex.json" download>Scene JSON (<code>conical_vortex.json</code>)</a>
+   </p>
 
 Why All of Nature's Magnets Are Cones (`Figs. 158–161`)
 -------------------------------------------------------

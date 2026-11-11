@@ -1,0 +1,380 @@
+geometor.russell.models3d
+=========================
+
+.. py:module:: geometor.russell.models3d
+
+.. autoapi-nested-parse::
+
+   Parametric 3D geometry generators for Walter Russell's Wave-Field Cosmogony.
+
+   Almost all 180 chalkboard figures in Russell's *Home Study Course* (1950–1952)
+   are orthographic slices or camera projections of five coupled 3D structures:
+
+   1. ``CubeSphereLattice`` (Figs. 105–124):
+      Bounding Cube ``[-1, 1]^3`` of Still Magnetic Light, inscribed unit Sphere,
+      27 zero-nodes ``{-1, 0, 1}^3``, 3 orthogonal zero-curvature planes, and
+      6 diagonal bisecting zero-curvature planes (total = 9 Equators).
+   2. ``ConicalVortexField`` (Figs. 38–47, 117–124, 158–161):
+      Six centripetal (``+``) cones projecting inward from the 6 cube faces to the
+      common gravitational apex ``(0, 0, 0)``, paired with centrifugal (``-``)
+      unwinding spirals and curved pressure equators.
+   3. ``LightSphereLens`` (Figs. 170–172):
+      3D octant-divided optical wave-field whose field trajectories pass through
+      zero curvature (``kappa = 0``) on the 3 orthogonal equators and reverse
+      concavity across adjacent octants while ejecting equatorial rings.
+   4. ``GyroscopicOctaveSystem`` (Figs. 95–104):
+      Nine gyroscopic precession stages (``0 -> 1+ -> 2+ -> 3+ -> 4± -> 3- -> 2- -> 1- -> 0``)
+      precessing from ``0°`` to ``90°`` (True Sphere at Wave Amplitude ``4±``) to ``180°``
+      while morphing from prolate spheroids to a true sphere to oblate ringed systems.
+   5. ``PeriodicHelix9Octave`` (Figs. 177, 179–180):
+      Unified 3D 9-octave conical helical wave of the elements whose axial camera
+      projection reproduces Russell's concentric chart (Fig. 177) and whose lateral
+      camera projection reproduces the corkscrew octave wave (Fig. 180).
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.russell.models3d.Vec3
+   geometor.russell.models3d.PALETTE
+   geometor.russell.models3d.GYRO_STAGES
+   geometor.russell.models3d.MODEL_REGISTRY
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.russell.models3d.Polyline3D
+   geometor.russell.models3d.Polygon3D
+   geometor.russell.models3d.Node3D
+   geometor.russell.models3d.Scene3D
+   geometor.russell.models3d.GyroStage
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.russell.models3d.vec_add
+   geometor.russell.models3d.vec_sub
+   geometor.russell.models3d.vec_scale
+   geometor.russell.models3d.vec_dot
+   geometor.russell.models3d.vec_cross
+   geometor.russell.models3d.vec_length
+   geometor.russell.models3d.vec_normalize
+   geometor.russell.models3d.rotate_z
+   geometor.russell.models3d.rotate_x
+   geometor.russell.models3d.rotate_y
+   geometor.russell.models3d.build_cube_sphere_lattice
+   geometor.russell.models3d.build_conical_vortex_field
+   geometor.russell.models3d.lens_inflection_curve
+   geometor.russell.models3d.build_light_sphere_lens
+   geometor.russell.models3d.build_gyroscopic_octave_system
+   geometor.russell.models3d.build_periodic_helix_9_octave
+   geometor.russell.models3d.build_all_models
+
+
+Module Contents
+---------------
+
+.. py:data:: Vec3
+
+.. py:data:: PALETTE
+   :type:  dict[str, str]
+
+.. py:function:: vec_add(a: Vec3, b: Vec3) -> Vec3
+
+.. py:function:: vec_sub(a: Vec3, b: Vec3) -> Vec3
+
+.. py:function:: vec_scale(v: Vec3, s: float) -> Vec3
+
+.. py:function:: vec_dot(a: Vec3, b: Vec3) -> float
+
+.. py:function:: vec_cross(a: Vec3, b: Vec3) -> Vec3
+
+.. py:function:: vec_length(v: Vec3) -> float
+
+.. py:function:: vec_normalize(v: Vec3) -> Vec3
+
+.. py:function:: rotate_z(v: Vec3, rad: float) -> Vec3
+
+.. py:function:: rotate_x(v: Vec3, rad: float) -> Vec3
+
+.. py:function:: rotate_y(v: Vec3, rad: float) -> Vec3
+
+.. py:class:: Polyline3D
+
+   A 3D curve or wireframe edge sequence.
+
+
+   .. py:attribute:: points
+      :type:  tuple[Vec3, ...]
+
+
+   .. py:attribute:: role
+      :type:  str
+      :value: 'frame'
+
+
+
+   .. py:attribute:: group
+      :type:  str
+      :value: 'default'
+
+
+
+   .. py:attribute:: closed
+      :type:  bool
+      :value: False
+
+
+
+   .. py:attribute:: width
+      :type:  float
+      :value: 1.6
+
+
+
+   .. py:attribute:: dashed
+      :type:  bool
+      :value: False
+
+
+
+   .. py:attribute:: label
+      :type:  str
+      :value: ''
+
+
+
+.. py:class:: Polygon3D
+
+   A planar 3D face (such as one of the 9 zero-curvature equators).
+
+
+   .. py:attribute:: vertices
+      :type:  tuple[Vec3, ...]
+
+
+   .. py:attribute:: normal
+      :type:  Vec3
+
+
+   .. py:attribute:: role
+      :type:  str
+      :value: 'zero'
+
+
+
+   .. py:attribute:: group
+      :type:  str
+      :value: 'planes'
+
+
+
+   .. py:attribute:: opacity
+      :type:  float
+      :value: 0.14
+
+
+
+   .. py:attribute:: label
+      :type:  str
+      :value: ''
+
+
+
+.. py:class:: Node3D
+
+   A discrete 3D locus (zero-node, focal apex, or locked element).
+
+
+   .. py:attribute:: position
+      :type:  Vec3
+
+
+   .. py:attribute:: label
+      :type:  str
+
+
+   .. py:attribute:: role
+      :type:  str
+      :value: 'zero'
+
+
+
+   .. py:attribute:: group
+      :type:  str
+      :value: 'nodes'
+
+
+
+   .. py:attribute:: radius
+      :type:  float
+      :value: 5.0
+
+
+
+   .. py:attribute:: metadata
+      :type:  dict[str, Any]
+
+
+.. py:class:: Scene3D
+
+   Complete parametric 3D model ready for .obj, .json, or SVG projection.
+
+
+   .. py:attribute:: name
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: figures
+      :type:  str
+
+
+   .. py:attribute:: description
+      :type:  str
+
+
+   .. py:attribute:: polylines
+      :type:  list[Polyline3D]
+      :value: []
+
+
+
+   .. py:attribute:: polygons
+      :type:  list[Polygon3D]
+      :value: []
+
+
+
+   .. py:attribute:: nodes
+      :type:  list[Node3D]
+      :value: []
+
+
+
+   .. py:method:: to_dict() -> dict[str, Any]
+
+      Serialize the 3D scene to a JSON-compatible dictionary.
+
+
+
+.. py:function:: build_cube_sphere_lattice(include_diagonal_planes: bool = True, circle_segments: int = 64) -> Scene3D
+
+   Build the Cube-Sphere Wave-Field of Nine Equators (Fig. 114).
+
+   Contains:
+   - Outer bounding Cube ``[-1, 1]^3`` (12 edges)
+   - 3 Orthogonal Zero-Curvature Planes (``x=0``, ``y=0``, ``z=0``)
+   - 6 Diagonal Bisecting Zero-Curvature Planes (``x±y=0``, ``y±z=0``, ``z±x=0``)
+   - Inscribed Unit Sphere (3 great circles + latitude parallels)
+   - All 27 Zero-Nodes ``{-1, 0, 1}^3``
+
+
+.. py:function:: build_conical_vortex_field(vitality: float = 1.0, turns: float = 3.5, all_six_axes: bool = True, steps: int = 120) -> Scene3D
+
+   Build the 3D Interpenetrating Conical Vortex Field (Figs. 38–47, 119, 158–161).
+
+   In 3D, each of the 6 square zero-curvature faces of the bounding Cube projects
+   a centripetal (``+``) spiral cone inward to the common gravitational center
+   ``(0, 0, 0)``, while centrifugal (``-``) spirals unwind back toward the cube faces.
+
+
+.. py:function:: lens_inflection_curve(s: float, amplitude: float = 0.24) -> float
+
+   Odd-symmetric octant deflection ``d(s) = A * sin(pi * s)`` for ``s in [-1, 1]``.
+
+   Guarantees exact zero value ``d(0) = 0`` and exact zero curvature ``d''(0) = 0``
+   on the orthogonal zero-curvature equator ``s = 0``, with opposite concavity
+   (``d''(s) < 0`` vs ``d''(s) > 0``) across adjacent octants!
+
+
+.. py:function:: build_light_sphere_lens(rays_per_meridian: int = 8, coronal_rings: int = 3, steps: int = 80) -> Scene3D
+
+   Build the 3D 8-Octant Curvature-Reversing Light-Sphere Lens (Figs. 170–172).
+
+   Contains:
+   - 3 Circular Zero-Curvature Equators dividing the unit sphere into 8 octants
+   - Inflecting 3D light-ray trajectories whose curvature vanishes on the equators
+     and reverses sign in opposite octants (Fig. 170–171)
+   - Equatorial coronal rings & condensing planetary nodes (Fig. 172)
+
+
+.. py:class:: GyroStage
+
+   Parameters of one locking stage along the 0 -> 4± -> 0 gyroscopic arch.
+
+
+   .. py:attribute:: tone
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: inclination_deg
+      :type:  float
+
+
+   .. py:attribute:: eq_radius
+      :type:  float
+
+
+   .. py:attribute:: polar_radius
+      :type:  float
+
+
+   .. py:attribute:: rings
+      :type:  int
+
+
+   .. py:attribute:: role
+      :type:  str
+
+
+.. py:data:: GYRO_STAGES
+   :type:  tuple[GyroStage, ...]
+
+.. py:function:: build_gyroscopic_octave_system(parallels: int = 5, meridians: int = 8) -> Scene3D
+
+   Build the 3D Gyroscopic Precession & Spheroid Morphing Wave (Figs. 95–104).
+
+   Demonstrates why ONLY the ``90°`` Wave Amplitude crest (``4±``) produces a
+   **True Sphere** (``eq_radius == polar_radius``), flanked by prolate centripetal
+   winding stages (``1+, 2+, 3+``) and oblate/ringed centrifugal unwinding stages
+   (``3-, 2-, 1-``).
+
+
+.. py:function:: build_periodic_helix_9_octave(points_per_octave: int = 64) -> Scene3D
+
+   Build the Unified 3D Nine-Octave Conical Spiral of the Elements (Figs. 177 & 180).
+
+   Coordinate design unifies Russell's two periodic charts into ONE 3D geometry:
+   - **Axial Projection ``(X, Y)``** looking down the ``Z`` wave axis reproduces
+     *The Russell Periodic Chart of the Elements, No. 2* (``Fig. 177``, 1926):
+     concentric expanding spiral turns with Inert Gases on the horizontal ``Y = 0``
+     Zero-Equator and Carbon/Silicon/etc. on the vertical ``X = 0, Y > 0`` ``4±`` Crest.
+   - **Lateral Projection ``(Z, Y)``** looking perpendicular to the ``Z`` wave axis
+     reproduces the 9-Octave Wave Arch & Corkscrew Vortex (``Figs. 179–180``)!
+
+
+.. py:data:: MODEL_REGISTRY
+   :type:  dict[str, Any]
+
+.. py:function:: build_all_models() -> dict[str, Scene3D]
+
+   Instantiate all five canonical 3D Russell cosmogony models.
+
+

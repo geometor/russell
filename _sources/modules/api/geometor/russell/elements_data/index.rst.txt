@@ -1,0 +1,117 @@
+geometor.russell.elements_data
+==============================
+
+.. py:module:: geometor.russell.elements_data
+
+.. autoapi-nested-parse::
+
+   Structured 9-Octave Periodic Element data for Walter Russell's Cosmogony.
+
+   Maps Russell's nine octaves of matter (from primordial Hydrogen/Inert-Gas seeds
+   through Carbon, Silicon, and the heavy radioactive octaves) with their locking
+   tones (0, 1+, 2+, 3+, 4±, 3-, 2-, 1-), polarity classes, and gyroscopic angles.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.russell.elements_data.OCTAVE_SPECS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.russell.elements_data.RussellElement
+   geometor.russell.elements_data.OctaveSpec
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.russell.elements_data.classify_tone_polarity
+   geometor.russell.elements_data.build_periodic_elements
+
+
+Module Contents
+---------------
+
+.. py:class:: RussellElement
+
+   An element positioned on Walter Russell's 9-Octave Periodic Wave.
+
+
+   .. py:attribute:: symbol
+      :type:  str
+
+
+   .. py:attribute:: name
+      :type:  str
+
+
+   .. py:attribute:: octave
+      :type:  int
+
+
+   .. py:attribute:: tone
+      :type:  str
+
+
+   .. py:attribute:: polarity
+      :type:  str
+
+
+   .. py:attribute:: azimuth_deg
+      :type:  float
+
+
+   .. py:attribute:: atomic_number
+      :type:  int | None
+      :value: None
+
+
+
+.. py:class:: OctaveSpec
+
+   Specification of a single octave wave from Inert Gas (0) to Inert Gas (0).
+
+
+   .. py:attribute:: number
+      :type:  int
+
+
+   .. py:attribute:: roman
+      :type:  str
+
+
+   .. py:attribute:: inert_start
+      :type:  tuple[str, str, int | None]
+
+
+   .. py:attribute:: members
+      :type:  tuple[tuple[str, str, str, int | None], ...]
+
+
+   .. py:attribute:: inert_end
+      :type:  tuple[str, str, int | None]
+
+
+.. py:data:: OCTAVE_SPECS
+   :type:  tuple[OctaveSpec, ...]
+
+.. py:function:: classify_tone_polarity(tone: str) -> str
+
+   Classify a Russell tone string into its visual/physical polarity role.
+
+
+.. py:function:: build_periodic_elements() -> list[RussellElement]
+
+   Return the complete ordered list of Russell elements across Octaves I–IX.
+
+

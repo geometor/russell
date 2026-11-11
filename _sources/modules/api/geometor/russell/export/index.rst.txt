@@ -1,0 +1,50 @@
+geometor.russell.export
+=======================
+
+.. py:module:: geometor.russell.export
+
+.. autoapi-nested-parse::
+
+   Exporters for GEOMETOR Russell 3D Cosmogony scenes (.obj, .json, .svg).
+
+   Allows exact mathematical sharing between:
+   - Blender / MeshLab / CAD pipelines (Wavefront ``.obj``)
+   - Interactive WebGL / Canvas studios (``.json``)
+   - Print & Book Codex vector plates (depth-sorted 3D camera ``.svg``)
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.russell.export.export_json
+   geometor.russell.export.export_obj
+   geometor.russell.export.project_point
+   geometor.russell.export.export_svg_projection
+
+
+Module Contents
+---------------
+
+.. py:function:: export_json(scene: geometor.russell.models3d.Scene3D, out_path: pathlib.Path | None = None, indent: int = 2) -> str
+
+   Serialize ``scene`` to JSON and optionally write to ``out_path``.
+
+
+.. py:function:: export_obj(scene: geometor.russell.models3d.Scene3D, out_path: pathlib.Path | None = None) -> str
+
+   Export ``scene`` to Wavefront ``.obj`` format (polygons ``f``, polylines ``l``, nodes as octahedra).
+
+
+.. py:function:: project_point(pt: geometor.russell.models3d.Vec3, yaw_deg: float = 34.0, pitch_deg: float = 22.0, width: int = 800, height: int = 640, scale: float = 185.0, perspective: float = 0.22) -> tuple[float, float, float]
+
+   Project a 3D point ``(x, y, z)`` to ``(sx, sy, depth_z)``.
+
+
+.. py:function:: export_svg_projection(scene: geometor.russell.models3d.Scene3D, out_path: pathlib.Path | None = None, yaw_deg: float = 34.0, pitch_deg: float = 22.0, width: int = 800, height: int = 640, scale: float = 185.0, perspective: float = 0.22) -> str
+
+   Render a depth-sorted 3D camera projection of ``scene`` to a standalone SVG.
+
+

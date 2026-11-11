@@ -14,13 +14,16 @@ Functions
 
 .. autoapisummary::
 
+   geometor.russell.cli.build_parser
    geometor.russell.cli.main
 
 
 Module Contents
 ---------------
 
-.. py:function:: main() -> None
+.. py:function:: build_parser() -> argparse.ArgumentParser
+
+.. py:function:: main(argv: list[str] | None = None) -> int
 
    Run the geometor-russell CLI.
 
