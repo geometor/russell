@@ -17,12 +17,19 @@ from __future__ import annotations
 import html
 import re
 import shutil
+import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "src"))
+
+from geometor.russell.export import export_json, export_obj
+from geometor.russell.models3d import build_all_models
+
 EPUB_DIR = ROOT / "resources" / "home_study_course" / "epub" / "OEBPS"
 PLATES_OUT = ROOT / "docsrc" / "_static" / "plates"
+MODELS_OUT = ROOT / "docsrc" / "_static" / "models3d"
 HSC_OUT = ROOT / "docsrc" / "home_study_course"
 COS_OUT = ROOT / "docsrc" / "cosmogony"
 
@@ -366,306 +373,26 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
     return concordance
 
 
-INTERACTIVE_3D_CUBE_SPHERE_HTML = """
+def export_3d_assets() -> None:
+    """Export all 5 canonical parametric 3D models to Wavefront .obj and .json in docsrc/_static/models3d/."""
+    MODELS_OUT.mkdir(parents=True, exist_ok=True)
+    for key, scene in build_all_models().items():
+        export_obj(scene, MODELS_OUT / f"{key}.obj")
+        export_json(scene, MODELS_OUT / f"{key}.json")
+
+
+def render_3d_widget_rst(scene_key: str, asset_key: str) -> str:
+    """Return RST embedding the interactive 3D viewport and downloadable .obj / .json links."""
+    return f"""
 .. raw:: html
 
-   <div style="background:#0c0e14;border:1.5px solid #262e42;border-radius:8px;padding:18px;margin:24px 0;color:#ebe6dc;font-family:'Fira Sans Condensed','Inter',sans-serif;">
-     <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;border-bottom:1px solid #262e42;padding-bottom:10px;">
-       <div>
-         <strong style="color:#e8b85a;letter-spacing:1px;font-size:15px;">INTERACTIVE 3D MODEL • THE CUBE-SPHERE WAVE-FIELD &amp; NINE EQUATORS</strong>
-         <div style="font-size:12px;color:#949eb0;">Drag to orbit in 3D • Toggle the 3 Orthogonal &amp; 6 Diagonal Zero-Curvature Planes, Opposing Spiral Cones, and Breathing Cycle</div>
-       </div>
-       <div style="display:flex;gap:8px;flex-wrap:wrap;">
-         <button id="btn-ortho" style="background:#1e2638;color:#e8b85a;border:1px solid #e8b85a;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;">3 Ortho Planes: ON</button>
-         <button id="btn-diag" style="background:#121621;color:#949eb0;border:1px solid #262e42;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;">6 Diag Planes: OFF</button>
-         <button id="btn-cones" style="background:#1e2638;color:#fb7185;border:1px solid #fb7185;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;">Spiral Cones: ON</button>
-         <button id="btn-nodes" style="background:#1e2638;color:#38bdf8;border:1px solid #38bdf8;padding:4px 10px;border-radius:4px;cursor:pointer;font-size:12px;">27 Zero Nodes: ON</button>
-       </div>
-     </div>
-     <canvas id="russell-cube-sphere-canvas" width="780" height="480" style="width:100%;max-width:780px;height:auto;display:block;margin:0 auto;cursor:grab;"></canvas>
-     <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px;font-size:12px;color:#949eb0;">
-       <span><span style="color:#e8b85a;">●</span> Cube &amp; 9 Zero Equators (Still Magnetic Light)</span>
-       <span><span style="color:#fb7185;">●</span> Centripetal Winding Cones (+1 → +4)</span>
-       <span><span style="color:#38bdf8;">●</span> Inscribed Sphere &amp; Centrifugal Unwinding (-4 → 0)</span>
-     </div>
-   </div>
-   <script>
-   (function() {
-     const canvas = document.getElementById('russell-cube-sphere-canvas');
-     if (!canvas) return;
-     const ctx = canvas.getContext('2d');
-     let rotY = 0.62, rotX = 0.42;
-     let dragging = false, lastX = 0, lastY = 0;
-     let showOrtho = true, showDiag = false, showCones = true, showNodes = true;
-     let phase = 0;
-
-     function bindToggle(id, getter, setter, label, activeColor) {
-       const btn = document.getElementById(id);
-       if (!btn) return;
-       btn.addEventListener('click', () => {
-         const v = !getter();
-         setter(v);
-         btn.textContent = label + (v ? ': ON' : ': OFF');
-         btn.style.color = v ? activeColor : '#949eb0';
-         btn.style.borderColor = v ? activeColor : '#262e42';
-         btn.style.background = v ? '#1e2638' : '#121621';
-       });
-     }
-     bindToggle('btn-ortho', () => showOrtho, v => showOrtho = v, '3 Ortho Planes', '#e8b85a');
-     bindToggle('btn-diag', () => showDiag, v => showDiag = v, '6 Diag Planes', '#e8b85a');
-     bindToggle('btn-cones', () => showCones, v => showCones = v, 'Spiral Cones', '#fb7185');
-     bindToggle('btn-nodes', () => showNodes, v => showNodes = v, '27 Zero Nodes', '#38bdf8');
-
-     canvas.addEventListener('mousedown', e => { dragging = true; lastX = e.clientX; lastY = e.clientY; });
-     window.addEventListener('mouseup', () => dragging = false);
-     window.addEventListener('mousemove', e => {
-       if (!dragging) return;
-       rotY += (e.clientX - lastX) * 0.008;
-       rotX = Math.max(-1.4, Math.min(1.4, rotX + (e.clientY - lastY) * 0.008));
-       lastX = e.clientX; lastY = e.clientY;
-     });
-
-     function project(x, y, z) {
-       const cy = Math.cos(rotY), sy = Math.sin(rotY);
-       const cx = Math.cos(rotX), sx = Math.sin(rotX);
-       const x1 = x * cy - z * sy;
-       const z1 = x * sy + z * cy;
-       const y2 = y * cx - z1 * sx;
-       const z2 = y * sx + z1 * cx;
-       const fov = 4.2 / (4.2 + z2 * 0.45);
-       const scale = 148 * fov;
-       return [canvas.width / 2 + x1 * scale, canvas.height / 2 - y2 * scale, z2, scale];
-     }
-
-     function drawPoly(pts3d, fillStyle, strokeStyle, width) {
-       const pts = pts3d.map(p => project(p[0], p[1], p[2]));
-       ctx.beginPath();
-       pts.forEach((p, i) => i === 0 ? ctx.moveTo(p[0], p[1]) : ctx.lineTo(p[0], p[1]));
-       ctx.closePath();
-       if (fillStyle) { ctx.fillStyle = fillStyle; ctx.fill(); }
-       if (strokeStyle) { ctx.strokeStyle = strokeStyle; ctx.lineWidth = width || 1; ctx.stroke(); }
-     }
-
-     function render() {
-       phase += 0.018;
-       if (!dragging) rotY += 0.0035;
-       ctx.fillStyle = '#0c0e14';
-       ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-       // 3 Orthogonal Planes of Zero Curvature
-       if (showOrtho) {
-         const ortho = [
-           [[0,-1,-1],[0,1,-1],[0,1,1],[0,-1,1]],
-           [[-1,0,-1],[1,0,-1],[1,0,1],[-1,0,1]],
-           [[-1,-1,0],[1,-1,0],[1,1,0],[-1,1,0]]
-         ];
-         ortho.forEach(pl => drawPoly(pl, 'rgba(232,184,90,0.13)', 'rgba(232,184,90,0.65)', 1.3));
-       }
-
-       // 6 Diagonal Bisecting Planes of Zero Curvature
-       if (showDiag) {
-         const diag = [
-           [[-1,-1,-1],[1,1,-1],[1,1,1],[-1,-1,1]],
-           [[-1,1,-1],[1,-1,-1],[1,-1,1],[-1,1,1]],
-           [[-1,-1,-1],[1,-1,1],[1,1,1],[-1,1,-1]],
-           [[-1,1,-1],[1,1,1],[1,-1,1],[-1,-1,-1]]
-         ];
-         diag.forEach(pl => drawPoly(pl, 'rgba(56,189,248,0.08)', 'rgba(56,189,248,0.45)', 1.0));
-       }
-
-       // Outer Cube Wireframe
-       const corners = [-1, 1];
-       ctx.strokeStyle = 'rgba(235,230,220,0.75)';
-       ctx.lineWidth = 1.6;
-       for (let a of corners) {
-         for (let b of corners) {
-           const segs = [
-             [[-1,a,b],[1,a,b]],
-             [[a,-1,b],[a,1,b]],
-             [[a,b,-1],[a,b,1]]
-           ];
-           segs.forEach(s => {
-             const p1 = project(...s[0]), p2 = project(...s[1]);
-             ctx.beginPath(); ctx.moveTo(p1[0], p1[1]); ctx.lineTo(p2[0], p2[1]); ctx.stroke();
-           });
-         }
-       }
-
-       // Opposing Double-Cone Spiral Vortex (from Y=-1 and Y=+1 faces to (0,0,0) center)
-       if (showCones) {
-         for (let dir of [-1, 1]) {
-           ctx.beginPath();
-           const steps = 110;
-           for (let i = 0; i <= steps; i++) {
-             const t = i / steps; // 0 at cube face, 1 at center
-             const y = dir * (1 - t);
-             const r = (1 - t) * 0.92;
-             const ang = t * 5 * Math.PI * 2 + phase * dir * 2;
-             const x = r * Math.cos(ang);
-             const z = r * Math.sin(ang);
-             const p = project(x, y, z);
-             if (i === 0) ctx.moveTo(p[0], p[1]); else ctx.lineTo(p[0], p[1]);
-           }
-           ctx.strokeStyle = dir > 0 ? '#fb7185' : '#38bdf8';
-           ctx.lineWidth = 2.0;
-           ctx.stroke();
-         }
-       }
-
-       // Breathing Inscribed Sphere at Center
-       const centerP = project(0, 0, 0);
-       const pulse = 0.85 + 0.15 * Math.sin(phase * 1.5);
-       const sphereR = centerP[3] * pulse;
-       const grad = ctx.createRadialGradient(centerP[0], centerP[1], 4, centerP[0], centerP[1], sphereR);
-       grad.addColorStop(0, 'rgba(254,240,138,0.85)');
-       grad.addColorStop(0.25, 'rgba(251,113,133,0.32)');
-       grad.addColorStop(0.75, 'rgba(56,189,248,0.14)');
-       grad.addColorStop(1, 'rgba(12,14,20,0)');
-       ctx.fillStyle = grad;
-       ctx.beginPath();
-       ctx.arc(centerP[0], centerP[1], sphereR, 0, Math.PI * 2);
-       ctx.fill();
-       ctx.strokeStyle = 'rgba(56,189,248,0.65)';
-       ctx.setLineDash([5, 4]);
-       ctx.stroke();
-       ctx.setLineDash([]);
-
-       // 27 Zero-Nodes of the 3x3x3 Cube-Sphere Lattice
-       if (showNodes) {
-         for (let ix of [-1, 0, 1]) {
-           for (let iy of [-1, 0, 1]) {
-             for (let iz of [-1, 0, 1]) {
-               const p = project(ix, iy, iz);
-               const isCenter = (ix === 0 && iy === 0 && iz === 0);
-               ctx.beginPath();
-               ctx.arc(p[0], p[1], isCenter ? 8 : 4.5, 0, Math.PI * 2);
-               ctx.fillStyle = isCenter ? '#fef08a' : '#151924';
-               ctx.fill();
-               ctx.strokeStyle = isCenter ? '#fb7185' : '#e8b85a';
-               ctx.lineWidth = isCenter ? 2.2 : 1.5;
-               ctx.stroke();
-             }
-           }
-         }
-       }
-
-       requestAnimationFrame(render);
-     }
-     render();
-   })();
-   </script>
-"""
-
-
-INTERACTIVE_3D_HELIX_HTML = """
-.. raw:: html
-
-   <div style="background:#0c0e14;border:1.5px solid #262e42;border-radius:8px;padding:18px;margin:24px 0;color:#ebe6dc;font-family:'Fira Sans Condensed','Inter',sans-serif;">
-     <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;margin-bottom:12px;border-bottom:1px solid #262e42;padding-bottom:10px;">
-       <div>
-         <strong style="color:#e8b85a;letter-spacing:1px;font-size:15px;">INTERACTIVE 3D MODEL • THE HELICAL OCTAVE WAVE OF MATTER (0 → 4± → 0)</strong>
-         <div style="font-size:12px;color:#949eb0;">Drag to tilt &amp; rotate • Watch the 4 Pairs of Tone-Elements wind from Inert Gas (0) to Carbon Amplitude (4±) and unwind</div>
-       </div>
-     </div>
-     <canvas id="russell-helix-canvas" width="780" height="400" style="width:100%;max-width:780px;height:auto;display:block;margin:0 auto;cursor:grab;"></canvas>
-   </div>
-   <script>
-   (function() {
-     const canvas = document.getElementById('russell-helix-canvas');
-     if (!canvas) return;
-     const ctx = canvas.getContext('2d');
-     let pitch = 0.28, yaw = -0.35, tPhase = 0;
-     let dragging = false, lx = 0, ly = 0;
-
-     canvas.addEventListener('mousedown', e => { dragging = true; lx = e.clientX; ly = e.clientY; });
-     window.addEventListener('mouseup', () => dragging = false);
-     window.addEventListener('mousemove', e => {
-       if (!dragging) return;
-       yaw += (e.clientX - lx) * 0.007;
-       pitch = Math.max(-1.1, Math.min(1.1, pitch + (e.clientY - ly) * 0.007));
-       lx = e.clientX; ly = e.clientY;
-     });
-
-     const tones = [
-       { u: -1.0, lbl: '0 • He (Inert Gas)', col: '#e8b85a', r: 0.15 },
-       { u: -0.75, lbl: '1+ • Li', col: '#fb7185', r: 0.42 },
-       { u: -0.50, lbl: '2+ • Be', col: '#fb7185', r: 0.68 },
-       { u: -0.25, lbl: '3+ • B', col: '#fb7185', r: 0.90 },
-       { u:  0.00, lbl: '4± • CARBON (Amplitude)', col: '#fef08a', r: 1.12 },
-       { u:  0.25, lbl: '3- • N', col: '#38bdf8', r: 0.90 },
-       { u:  0.50, lbl: '2- • O', col: '#38bdf8', r: 0.68 },
-       { u:  0.75, lbl: '1- • F', col: '#38bdf8', r: 0.42 },
-       { u:  1.00, lbl: '0 • Ne (Inert Gas)', col: '#e8b85a', r: 0.15 }
-     ];
-
-     function proj(x, y, z) {
-       const cy = Math.cos(yaw), sy = Math.sin(yaw);
-       const cp = Math.cos(pitch), sp = Math.sin(pitch);
-       const x1 = x * cy - z * sy;
-       const z1 = x * sy + z * cy;
-       const y2 = y * cp - z1 * sp;
-       const z2 = y * sp + z1 * cp;
-       const s = 135 * (4.5 / (4.5 + z2 * 0.35));
-       return [canvas.width / 2 + x1 * s, canvas.height / 2 - y2 * s];
-     }
-
-     function draw() {
-       tPhase += 0.025;
-       ctx.fillStyle = '#0c0e14';
-       ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-       // Central Zero Wave Axis
-       const a1 = proj(-2.2, 0, 0), a2 = proj(2.2, 0, 0);
-       ctx.strokeStyle = '#e8b85a';
-       ctx.lineWidth = 2;
-       ctx.beginPath(); ctx.moveTo(a1[0], a1[1]); ctx.lineTo(a2[0], a2[1]); ctx.stroke();
-
-       // Helical Double-Cone Wave Path
-       ctx.beginPath();
-       const steps = 160;
-       for (let i = 0; i <= steps; i++) {
-         const u = -1.0 + 2.0 * (i / steps);
-         const env = 0.15 + 0.97 * Math.cos(u * Math.PI * 0.5);
-         const ang = u * Math.PI * 4 - tPhase;
-         const p = proj(u * 2.0, env * Math.sin(ang), env * Math.cos(ang));
-         if (i === 0) ctx.moveTo(p[0], p[1]); else ctx.lineTo(p[0], p[1]);
-       }
-       ctx.strokeStyle = 'rgba(235,230,220,0.65)';
-       ctx.lineWidth = 2;
-       ctx.stroke();
-
-       // Gyroscopic Locking Wheels & Element Nodes
-       tones.forEach((t, idx) => {
-         const x = t.u * 2.0;
-         ctx.beginPath();
-         for (let k = 0; k <= 36; k++) {
-           const a = (k / 36) * Math.PI * 2;
-           const p = proj(x, t.r * Math.sin(a), t.r * Math.cos(a));
-           if (k === 0) ctx.moveTo(p[0], p[1]); else ctx.lineTo(p[0], p[1]);
-         }
-         ctx.strokeStyle = t.col;
-         ctx.lineWidth = idx === 4 ? 2.4 : 1.3;
-         ctx.stroke();
-
-         const ang = t.u * Math.PI * 4 - tPhase;
-         const np = proj(x, t.r * Math.sin(ang), t.r * Math.cos(ang));
-         ctx.beginPath();
-         ctx.arc(np[0], np[1], idx === 4 ? 8 : 5.5, 0, Math.PI * 2);
-         ctx.fillStyle = t.col;
-         ctx.fill();
-
-         const lp = proj(x, -t.r - 0.25, 0);
-         ctx.fillStyle = t.col;
-         ctx.font = (idx === 4 ? 'bold 12px' : '11px') + ' sans-serif';
-         ctx.textAlign = 'center';
-         ctx.fillText(t.lbl, lp[0], lp[1]);
-       });
-
-       requestAnimationFrame(draw);
-     }
-     draw();
-   })();
-   </script>
+   <div class="russell-3d-mount" data-russell-scene="{scene_key}"></div>
+   <p style="text-align:right;font-size:12px;margin-top:-12px;margin-bottom:20px;">
+     <strong>Parametric 3D Geometry Exports:</strong>
+     <a href="../_static/models3d/{asset_key}.obj" download>Wavefront OBJ (<code>{asset_key}.obj</code>)</a>
+     &nbsp;·&nbsp;
+     <a href="../_static/models3d/{asset_key}.json" download>Scene JSON (<code>{asset_key}.json</code>)</a>
+   </p>
 """
 
 
@@ -718,7 +445,8 @@ Every action in Nature occurs simultaneously with its equal and opposite reactio
     (COS_OUT / "01_mind_and_motion.rst").write_text(ch1, encoding="utf-8")
 
     # Chapter 2: Opposing Spiral Cones
-    ch2 = """\
+    ch2 = (
+        """\
 :layout: book
 
 .. _cosmogony-ch2:
@@ -726,9 +454,9 @@ Every action in Nature occurs simultaneously with its equal and opposite reactio
 Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation
 ===================================================================================
 
-.. rubric:: The Two-Way Spiral Engine of Life, Growth, and Magnetism (Lessons 18, 29 & 46)
+.. rubric:: The Two-Way Spiral Engine of Life, Growth, and Magnetism (Lessons 18, 29, 43 & 46)
 
-In Russell's wave mechanics, there are no straight lines in the moving electric universe, nor do cylindrical bar magnets exist in Nature. Every wave-field is wound and unwound by **two opposing interpenetrating cones** operating between the flat planes of zero curvature and the central gravitational nucleus.
+In Russell's wave mechanics, there are no straight lines in the moving electric universe, nor do cylindrical bar magnets exist in Nature. Every cubic wave-field is wound and unwound in three dimensions by **six centripetal spiral cones** projecting inward from the six flat cube faces to the common gravitational apex ``(0, 0, 0)``, paired with **centrifugal unwinding spirals** radiating outward.
 
 The Electric Cycle of Vitality (`Figs. 38–47`)
 ----------------------------------------------
@@ -746,6 +474,13 @@ Vitality in any system—whether an oak tree, a human body, or a stellar sun—i
 
    **Plate II (Figs. 38–47)**: The ten-stage electric cycle of polarization (growth/life) and depolarization (decay/rest) governed by opposing spiral cones.
 
+Interactive 3D Six-Face Conical Vortex & Vitality Engine
+--------------------------------------------------------
+
+Orbit the 3D six-axis conical vortex below, toggle between a single polar magnet pair (`±Y`) and all six interpenetrating cube-face cones (`±X, ±Y, ±Z`), inspect the curved pressure equators (`Fig. 159`), and scrub **Vitality** from dormant seed (`0%`) to full polarization (`100%`):
+"""
+        + render_3d_widget_rst("conical_vortex", "conical_vortex")
+        + """
 Why All of Nature's Magnets Are Cones (`Figs. 158–161`)
 -------------------------------------------------------
 
@@ -757,6 +492,7 @@ A man-made cylindrical bar magnet (`Fig. 158`) artificially forces equal density
 
    **Plate III (Figs. 158–161)**: Comparison of the cylindrical bar magnet (`Fig. 158`) with Nature's conical magnets (`Fig. 159`), conical evaporation of solid matter (`Fig. 160`), and the spherical reversal of curved equators and radii (`Fig. 161`).
 """
+    )
     (COS_OUT / "02_conical_vortices.rst").write_text(ch2, encoding="utf-8")
 
     # Chapter 3: The Cube-Sphere Wave-Field
@@ -778,9 +514,9 @@ The Nine Equators and the ``9`` Count of Creation
 
 Within every cubic wave-field, electric motion curves inward to form an **inscribed sphere** divided into eight octants centered by a single zero nucleus:
 
-1. **Three Orthogonal Planes of Zero Curvature**: Bisecting the cube along the $X, Y, Z$ axes, dividing the sphere into 8 octants.
-2. **Six Diagonal Planes of Zero Curvature**: Bisecting the 12 edges of the cube at $45^\\circ$.
-3. **Total Equators = 9**: Every polarized action-reaction cycle counts to **nine**—eight octants (or eight cube corners) centered by zero (`8 + 1 = 9`), expressed along the wave axis as the octave formula:
+1. **Three Orthogonal Planes of Zero Curvature**: Bisecting the cube along the $X, Y, Z$ axes ($x=0, y=0, z=0$), dividing the sphere into 8 octants.
+2. **Six Diagonal Planes of Zero Curvature**: Bisecting all 12 edges of the cube at $45^\\circ$ ($x \\pm y = 0, y \\pm z = 0, z \\pm x = 0$).
+3. **Total Equators = 9**: Every polarized action-reaction cycle counts to **nine**—eight octants (or eight cube corners) centered by zero (`8 + 1 = 9`), anchored by the **27 Zero-Nodes** ($\\{-1, 0, 1\\}^3$) and expressed along the wave axis as the octave formula:
 
 $$0 - 1^- - 2^- - 3^- - 4^- - \\mathbf{0} - 4^+ - 3^+ - 2^+ - 1^+ - 0$$
 
@@ -790,17 +526,18 @@ $$0 - 1^- - 2^- - 3^- - 4^- - \\mathbf{0} - 4^+ - 3^+ - 2^+ - 1^+ - 0$$
 
    **Plate IV (Fig. 114)**: Isometric projection of the Cube-Sphere Wave-Field showing the 3 orthogonal planes of zero curvature, the 27 zero-nodes (`0`) of the $3 \\times 3 \\times 3$ lattice, the inscribed sphere of curved motion, and the 9-count wave octave formula.
 
-Interactive 3D Cube-Sphere & Double-Cone Explorer
--------------------------------------------------
+Interactive 3D Cube-Sphere Lattice & All Nine Equators
+------------------------------------------------------
 
-Use the interactive 3D visualizer below to orbit the Cube-Sphere Wave-Field, inspect the 27 zero-nodes, toggle the 3 orthogonal and 6 diagonal planes of zero curvature, and observe the opposing centripetal/centrifugal spiral cones winding into the central sphere:
+Orbit the 3D Cube-Sphere Lattice below, toggle the **3 Orthogonal Planes** and **all 6 Diagonal Bisecting Planes** (`3 + 6 = 9 Equators`), inspect the **27 Zero-Nodes**, and modulate sphere inscription:
 """
-        + INTERACTIVE_3D_CUBE_SPHERE_HTML
+        + render_3d_widget_rst("cube_sphere", "cube_sphere")
     )
     (COS_OUT / "03_cube_sphere_wave_field.rst").write_text(ch3, encoding="utf-8")
 
     # Chapter 4: Spherical Light-Lenses
-    ch4 = """\
+    ch4 = (
+        """\
 :layout: book
 
 .. _cosmogony-ch4:
@@ -813,12 +550,19 @@ Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity
 In Lesson 46 (`Figs. 170–172`), Russell demonstrates that every spherical wave-field acts as an optical **Light-Sphere Lens** divided into eight sections by the three orthogonal equators of zero curvature:
 
 1. **Curvature Reversal across Zero Equators (`Fig. 170`)**:
-   As light rays pass from one octant to the next across any of the three orthogonal zero-curvature equators, they lose their curvature at the plane of the equator and reverse it in the opposite octant.
+   As light rays pass from one octant to the next across any of the three orthogonal zero-curvature equators, their curvature vanishes ($\\kappa = 0$) at the plane of the equator and reverses concavity in the opposite octant.
 2. **Gravity as Focused Light Compression (`Fig. 171`)**:
    All non-equatorial radii curve inward toward the poles to focus at the center of the lens, creating a **center of gravity** where light compression and heat reach their maximum.
 3. **Coronas Become Rings and Rings Become Systems (`Fig. 172`)**:
    Maximum generation (inward winding) occurs at the poles, while maximum radiation (outward thrust) occurs along the united equator—casting off equatorial coronas that condense into nebulous rings and eventually into orbiting planets or electrons.
 
+Interactive 3D Eight-Octant Light-Sphere Lens
+---------------------------------------------
+
+Orbit the 3D optical lens below to trace how every field ray inflects cleanly across the 3 orthogonal zero-equators while polar compression winds inward and equatorial coronal rings expand outward:
+"""
+        + render_3d_widget_rst("light_lens", "light_lens")
+        + """
 .. figure:: /_static/svg/05_light_sphere_lens.svg
    :align: center
    :width: 98%
@@ -828,7 +572,7 @@ In Lesson 46 (`Figs. 170–172`), Russell demonstrates that every spherical wave
 Archival Comparison (`Fig_172_hires.png`)
 -----------------------------------------
 
-Compare the reconstructed vector plate above with Walter Russell's original white-on-black hand-lettered chalkboard plate from Unit 12, Page 44:
+Compare the 3D optical model and reconstructed vector plate above with Walter Russell's original white-on-black hand-lettered chalkboard plate from Unit 12, Page 44:
 
 .. figure:: /_static/plates/Fig_172_hires.png
    :align: center
@@ -836,10 +580,12 @@ Compare the reconstructed vector plate above with Walter Russell's original whit
 
    **Archival Plate (Figs. 170–172)**: High-resolution (`2481 × 3508`) scan of Walter Russell's original drawing signed ``W. R.``.
 """
+    )
     (COS_OUT / "04_spherical_light_lenses.rst").write_text(ch4, encoding="utf-8")
 
     # Chapter 5: Gyroscopic Precession & Oblateness
-    ch5 = """\
+    ch5 = (
+        """\
 :layout: book
 
 .. _cosmogony-ch5:
@@ -852,18 +598,26 @@ Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems
 Both atomic systems and stellar/planetary systems evolve along the same gyroscopic wave path from stillness (`0`) to wave amplitude (`4±`) and back to stillness (`0`):
 
 * **Centripetal Winding (`1+ -> 2+ -> 3+`)**:
-  Beginning as an expanded inert-gas ring in space (`0`), centripetal compression winds the ring through **prolate** (polar-elongated) spheroids whose axes precess toward the wave amplitude perpendicular.
+  Beginning as an expanded inert-gas ring in space (`0`), centripetal compression winds the ring through **prolate** (polar-elongated, $c/a > 1$) spheroids whose spin axes precess ($22.5^\\circ, 45^\\circ, 67.5^\\circ$) toward the wave amplitude perpendicular.
 * **The True Sphere at Wave Amplitude (`4+ / 0 / 4-`)**:
-  Only when a system locks squarely upon the $90^\\circ$ wave amplitude crest does its central nucleus become a **true incandescent sphere** (such as **Carbon** in the elements or a mature **Sun** in a solar system), with its planets revolving in its equatorial plane (`Fig. 103`).
+  Only when a system locks squarely upon the $90^\\circ$ wave amplitude crest does its central nucleus become a **true incandescent sphere** ($c/a = 1$, such as **Carbon** in the elements or a mature **Sun** in a solar system), with its planets revolving in its equatorial plane (`Fig. 103`).
 * **Centrifugal Unwinding (`3- -> 2- -> 1- -> 0`)**:
-  Past the amplitude crest, centrifugal radiation flattens the sphere at its poles and bulges its equator into **oblate spheroids**, **ringed planets** (like Saturn), and **ring nebulae** (like the Ring Nebula in Lyra or Hydra), unwinding back into the inert gases of space.
+  Past the amplitude crest ($112.5^\\circ, 135^\\circ, 157.5^\\circ$), centrifugal radiation flattens the sphere at its poles ($c/a < 1$) and bulges its equator into **oblate spheroids**, **ringed planets** (like Saturn), and **ring nebulae** (like the Ring Nebula in Lyra), unwinding back into the inert gases of space.
 
+Interactive 3D Gyroscopic Precession & Spheroid Morphing
+--------------------------------------------------------
+
+Drag the **Octave Precession** slider below from `0°` (`0` Inert Gas) to **`90°` (`4±` True Sphere)** and `180°` (`0` Rebirth) to watch the 3D wireframe system precess and morph from prolate winding to true sphere to oblate Saturnian ring ejection:
+"""
+        + render_3d_widget_rst("gyroscopic", "gyroscopic_octave")
+        + """
 .. figure:: /_static/svg/06_nebula_gyroscopic_oblateness.svg
    :align: center
    :width: 98%
 
    **Plate VI (Figs. 95–104)**: Gyroscopic evolution from prolate winding (`1+, 2+, 3+`) to the True Sphere at $90^\\circ$ Wave Amplitude (`4±`) and oblate/ringed unwinding (`3-, 2-, 1-`).
 """
+    )
     (COS_OUT / "05_gyroscopic_systems.rst").write_text(ch5, encoding="utf-8")
 
     # Chapter 6: Making of Matter & 9-Octave Periodic Wave
@@ -876,15 +630,22 @@ Both atomic systems and stellar/planetary systems evolve along the same gyroscop
 Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements
 ================================================================================
 
-.. rubric:: Inert Gas Master-Tones, Octave Locking Points, and Carbon at the Crest (Lesson 47, Figs. 175–180)
+.. rubric:: Unifying the 1926 Concentric Chart (`Fig. 177`) and the Corkscrew Octave Wave (`Fig. 180`) in 3D (Lesson 47)
 
-In Lesson 47 (*We Now Consider the Making of Matter*), Russell applies the Cube-Sphere wave-field directly to chemistry and atomic structure, contrasting the traditional Mendeleev table (`Fig. 175`) with his **Nine-Octave Periodic Chart of the Elements** (`Fig. 177`, copyrighted in 1926).
+In Lesson 47 (*We Now Consider the Making of Matter*), Russell applies the Cube-Sphere wave-field directly to chemistry and atomic structure, contrasting the traditional Mendeleev table (`Fig. 175`) with two seemingly distinct visual forms: his concentric **Nine-Octave Periodic Chart, No. 2** (`Fig. 177`) and his lateral **Gyroscopic Corkscrew Wave** (`Fig. 180`).
 
-1. **Inert Gases as Still Magnetic Master-Tones (`0`)**:
-   The inert gases (`Helium`, `Neon`, `Argon`, `Krypton`, `Xenon`, `Radon`) are not merely "unreactive elements"—they are the **zero-equator recording seeds** of Still Magnetic Light from which each octave of moving matter unfolds and into which it disappears.
-2. **Four Pairs of Gyroscopic Locking Points (`1±, 2±, 3±, 4±`)**:
-   In each octave, four centripetal (`+`) integrating pressure locks (`1+` Alkali metals, `2+` Alkaline earths, `3+` Boron/Aluminum group) wind upward in density and melting point toward the **`4±` Amplitude Crest** (**Carbon**, **Silicon**, **Titanium/Cobalt**, **Zirconium/Rhodium**, **Hafnium/Lutetium**), while four centrifugal (`-`) disintegrating locks (`3-` Pnictogens, `2-` Chalcogens, `1-` Halogens) unwind back to the next Inert Gas (`0`).
+In three dimensions, **both diagrams are orthographic camera projections of a single 3D Nine-Octave Conical Helix**:
 
+1. **Axial Projection (`Fig. 177`)**: Looking straight down the Still Magnetic $Z$ wave axis projects the 9 expanding conical turns onto concentric circles with **Inert Gases (`0`)** aligned along the horizontal zero equator ($Y = 0$) and **Wave Amplitude Capstones (`4±` — Carbon, Silicon, Iron/Cobalt, Ruthenium/Rhodium, Tungsten/Osmium, Uranium)** aligned along the vertical $90^\\circ$ crest ($X = 0$).
+2. **Lateral Projection (`Figs. 179–180`)**: Rotating the camera $90^\\circ$ sideways unfolds the flat concentric chart into the **9-Octave Conical Corkscrew Wave** of integrating (`+`) and disintegrating (`-`) gyroscopic wheels!
+
+Interactive 3D Nine-Octave Periodic Helix (`Fig. 177` ↔ `Fig. 180`)
+-------------------------------------------------------------------
+
+Click **Axial Chart (`Fig. 177`)**, **3D Conical Vortex**, and **Lateral Wave (`Fig. 180`)** below to watch Russell's 1926 concentric periodic table unfold in real time into the 3D corkscrew wave, and hover over any element node across Octaves I–IX:
+"""
+        + render_3d_widget_rst("periodic_helix", "periodic_helix")
+        + """
 .. figure:: /_static/svg/07_octave_matter_wave_locks.svg
    :align: center
    :width: 98%
@@ -898,14 +659,8 @@ The Russell Nine-Octave Periodic Chart (`Fig. 177`)
    :align: center
    :width: 98%
 
-   **Plate VIII (Fig. 177)**: GEOMETOR vector reconstruction of *The Russell Periodic Chart of the Elements, No. 2* (1926), showing the concentric octave waves centered on the horizontal Inert Gas zero-axis (`0 — 0`) and peaking along the vertical `-4 • 0 • +4` Amplitude axis.
-
-Interactive 3D Helical Octave Wave of Matter
---------------------------------------------
-
-Explore the 3D corkscrew geometry of a single Russell Octave (`He -> Li -> Be -> B -> C -> N -> O -> F -> Ne`) as gyroscopic wheels locking at discrete pressure planes along the wave axis:
+   **Plate VIII (Fig. 177)**: GEOMETOR vector reconstruction of *The Russell Periodic Chart of the Elements, No. 2* (1926), corresponding to the axial camera projection of the 3D 9-octave helix above.
 """
-        + INTERACTIVE_3D_HELIX_HTML
     )
     (COS_OUT / "06_making_of_matter.rst").write_text(ch6, encoding="utf-8")
 
@@ -1041,11 +796,11 @@ Conspectus of Chapters
 ----------------------
 
 * :ref:`Chapter I: The Undivided Light of Mind & The Divided Electric Wave-Lever <cosmogony-ch1>` (`Plate I`, `Figs. 7–16, 28–33`)
-* :ref:`Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation <cosmogony-ch2>` (`Plates II–III`, `Figs. 38–47, 158–161`)
-* :ref:`Chapter III: The Cube-Sphere Wave-Field & The Nine Equators of Zero Curvature <cosmogony-ch3>` (`Plate IV`, `Fig. 114` + **Interactive 3D Cube-Sphere Explorer**)
-* :ref:`Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity <cosmogony-ch4>` (`Plate V`, `Figs. 170–172` + Archival Comparison)
-* :ref:`Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems <cosmogony-ch5>` (`Plate VI`, `Figs. 95–104`)
-* :ref:`Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements <cosmogony-ch6>` (`Plates VII–VIII`, `Figs. 177, 179–180` + **Interactive 3D Helical Octave Animator**)
+* :ref:`Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation <cosmogony-ch2>` (`Plates II–III` + **Interactive 3D 6-Face Conical Vortex**)
+* :ref:`Chapter III: The Cube-Sphere Wave-Field & The Nine Equators of Zero Curvature <cosmogony-ch3>` (`Plate IV` + **Interactive 3D Cube-Sphere & All 9 Equators**)
+* :ref:`Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity <cosmogony-ch4>` (`Plate V` + **Interactive 3D 8-Octant Light-Sphere Lens**)
+* :ref:`Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems <cosmogony-ch5>` (`Plate VI` + **Interactive 3D Gyroscopic Precession Morphing**)
+* :ref:`Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements <cosmogony-ch6>` (`Plates VII–VIII` + **Interactive 3D Unified 9-Octave Helix: Fig. 177 ↔ Fig. 180**)
 * :ref:`Chapter VII: Complete Concordance of the 102 Plates & 180 Figures <cosmogony-ch7>` (`Figs. 1–180`)
 * **Scholarly Apparatus**: :ref:`Technical Glossary <glossary>` · :ref:`Biographical Register <persons>` · :ref:`Bibliography & Primary Sources <bibliography>`
 
@@ -1100,7 +855,7 @@ Book Codices (*Opera*)
 :doc:`The Wave-Field Cosmogony of Walter Russell <cosmogony/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Opposing Spiral Cones (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Spherical Light-Lenses (`Figs. 170–172`)**, and the **Nine-Octave Periodic Wave of Matter (`Figs. 177–180`)**—equipped with interactive 3D Canvas models and apparatus (:ref:`Glossary <glossary>` · :ref:`Persons <persons>` · :ref:`Bibliography <bibliography>`).
+A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Six-Axis Conical Vortices (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Eight-Octant Spherical Light-Lenses (`Figs. 170–172`)**, **Gyroscopic Precession (`Figs. 95–104`)**, and the **Unified 3D Nine-Octave Periodic Helix (`Figs. 177–180`)**—equipped with five interactive 3D models, downloadable Wavefront `.obj` meshes, and apparatus (:ref:`Glossary <glossary>` · :ref:`Persons <persons>` · :ref:`Bibliography <bibliography>`).
 
 :doc:`Home Study Course in Universal Law, Natural Science and Philosophy (1950–1952) <home_study_course/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1121,10 +876,11 @@ The complete 3rd Edition of **Walter and Lao Russell**'s 12-Unit, 48-Lesson *Hom
 
 def main() -> None:
     copy_plates()
+    export_3d_assets()
     concordance = build_home_study_course()
     build_cosmogony_book(concordance)
     update_root_index()
-    print(f"Built Home Study Course Codex (48 lessons, {len(concordance)} plate entries) and Cosmogony Book Codex (7 chapters).")
+    print(f"Built Home Study Course Codex (48 lessons, {len(concordance)} plate entries), Cosmogony Book Codex (7 chapters), and 5 3D OBJ/JSON models.")
 
 
 if __name__ == "__main__":

@@ -21,7 +21,7 @@ Book Codices (*Opera*)
 :doc:`The Wave-Field Cosmogony of Walter Russell <cosmogony/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Opposing Spiral Cones (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Spherical Light-Lenses (`Figs. 170–172`)**, and the **Nine-Octave Periodic Wave of Matter (`Figs. 177–180`)**—equipped with interactive 3D Canvas models and apparatus (:ref:`Glossary <glossary>` · :ref:`Persons <persons>` · :ref:`Bibliography <bibliography>`).
+A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Six-Axis Conical Vortices (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Eight-Octant Spherical Light-Lenses (`Figs. 170–172`)**, **Gyroscopic Precession (`Figs. 95–104`)**, and the **Unified 3D Nine-Octave Periodic Helix (`Figs. 177–180`)**—equipped with five interactive 3D models, downloadable Wavefront `.obj` meshes, and apparatus (:ref:`Glossary <glossary>` · :ref:`Persons <persons>` · :ref:`Bibliography <bibliography>`).
 
 :doc:`Home Study Course in Universal Law, Natural Science and Philosophy (1950–1952) <home_study_course/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

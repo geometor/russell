@@ -29,11 +29,11 @@ Conspectus of Chapters
 ----------------------
 
 * :ref:`Chapter I: The Undivided Light of Mind & The Divided Electric Wave-Lever <cosmogony-ch1>` (`Plate I`, `Figs. 7–16, 28–33`)
-* :ref:`Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation <cosmogony-ch2>` (`Plates II–III`, `Figs. 38–47, 158–161`)
-* :ref:`Chapter III: The Cube-Sphere Wave-Field & The Nine Equators of Zero Curvature <cosmogony-ch3>` (`Plate IV`, `Fig. 114` + **Interactive 3D Cube-Sphere Explorer**)
-* :ref:`Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity <cosmogony-ch4>` (`Plate V`, `Figs. 170–172` + Archival Comparison)
-* :ref:`Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems <cosmogony-ch5>` (`Plate VI`, `Figs. 95–104`)
-* :ref:`Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements <cosmogony-ch6>` (`Plates VII–VIII`, `Figs. 177, 179–180` + **Interactive 3D Helical Octave Animator**)
+* :ref:`Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation <cosmogony-ch2>` (`Plates II–III` + **Interactive 3D 6-Face Conical Vortex**)
+* :ref:`Chapter III: The Cube-Sphere Wave-Field & The Nine Equators of Zero Curvature <cosmogony-ch3>` (`Plate IV` + **Interactive 3D Cube-Sphere & All 9 Equators**)
+* :ref:`Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity <cosmogony-ch4>` (`Plate V` + **Interactive 3D 8-Octant Light-Sphere Lens**)
+* :ref:`Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems <cosmogony-ch5>` (`Plate VI` + **Interactive 3D Gyroscopic Precession Morphing**)
+* :ref:`Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements <cosmogony-ch6>` (`Plates VII–VIII` + **Interactive 3D Unified 9-Octave Helix: Fig. 177 ↔ Fig. 180**)
 * :ref:`Chapter VII: Complete Concordance of the 102 Plates & 180 Figures <cosmogony-ch7>` (`Figs. 1–180`)
 * **Scholarly Apparatus**: :ref:`Technical Glossary <glossary>` · :ref:`Biographical Register <persons>` · :ref:`Bibliography & Primary Sources <bibliography>`
 
