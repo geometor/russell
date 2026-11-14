@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-12:
 
 Unit XII (Lessons 45–48): As on Earth So in Heaven & The Making of Matter

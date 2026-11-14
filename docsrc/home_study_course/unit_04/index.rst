@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-04:
 
 Unit IV (Lessons 13–16): Mind, Motion & Man Must Know Man

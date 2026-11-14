@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-03:
 
 Unit III (Lessons 9–12): First Principles & This Sexed Electric Universe

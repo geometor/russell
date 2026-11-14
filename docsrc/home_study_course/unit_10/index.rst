@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-10:
 
 Unit X (Lessons 37–40): Reincarnation Continued & Multiplication into Transcendent Beings

@@ -1,7 +1,7 @@
 :navigation: header
 :order: 2
+:nav_title: Home Study Course
 :layout: book
-:title: Home Study Course (1950–1952)
 :book_title: Home Study Course
 :book_subtitle: Universal Law, Natural Science and Philosophy (Lessons 1–48)
 :author: Walter and Lao Russell
@@ -10,10 +10,16 @@
 
 .. _home-study-course-index:
 
-HOME STUDY COURSE
+Home Study Course
 =================
 
 .. rubric:: Universal Law, Natural Science and Philosophy — Third Edition (1950–1952) by Walter and Lao Russell
+
+.. container:: title-page
+
+   | **Authors:** :person:`Walter Russell <russell>` & :person:`Lao Russell <lao-russell>`
+   | **Original Edition:** Third Edition (1950–1952), Walter Russell Foundation, Swannanoa, Waynesboro, Virginia (12 Units, 48 Lessons, 102 diagram plates).
+   | **Digital Edition:** Complete GEOMETOR digital codex enhanced with parametric vector reconstructions.
 
 .. figure:: /_static/plates/cover.png
    :align: center
@@ -23,8 +29,10 @@ HOME STUDY COURSE
 
 Complete digital edition of the 12 Units (48 Lessons) and 102 diagram plates (`Figs. 1–180`) of **Walter and Lao Russell**'s *Home Study Course in Universal Law, Natural Science and Philosophy*, enhanced with **GEOMETOR** parametric vector reconstructions of the core cosmogonic plates.
 
-Conspectus of Units & Lessons
------------------------------
+----
+
+Table of Contents
+-----------------
 
 * :ref:`Prelude to Intimate Home Study Course <hsc-prelude>`
 * :ref:`Unit I (Lessons 1–4): Meditation Scientifically Explained <hsc-unit-01>`
@@ -87,6 +95,13 @@ Conspectus of Units & Lessons
   - :ref:`LESSON NUMBER 46 AS ON EARTH SO IS IT IN HEAVEN <hsc-lesson-46>`
   - :ref:`LESSON NUMBER 47 WE NOW CONSIDER THE MAKING OF MATTER <hsc-lesson-47>`
   - :ref:`LESSON NUMBER 48 THE SUPREME QUESTION AND THE SUPREME MYSTERY OF CREATION <hsc-lesson-48>`
+
+----
+
+Scholarly Apparatus
+-------------------
+
+* :ref:`People <persons>` · :ref:`Bibliography <bibliography>` · :ref:`Technical Glossary <glossary>`
 
 .. toctree::
    :maxdepth: 2

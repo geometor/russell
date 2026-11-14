@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-01:
 
 Unit I (Lessons 1–4): Meditation Scientifically Explained

@@ -1,7 +1,7 @@
 :title: Bibliography of Works by Walter and Lao Russell
 :layout: book
 
-.. _bibliography:
+.. _cosmogony-bibliography:
 
 Bibliography & Primary Sources
 ==============================

@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-08:
 
 Unit VIII (Lessons 29–32): Electric Polarity & Reincarnation
