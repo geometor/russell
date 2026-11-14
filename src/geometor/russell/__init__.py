@@ -23,7 +23,7 @@ from geometor.russell.models3d import (
     build_periodic_helix_9_octave,
 )
 
-__version__ = "0.2.1"
+__version__ = "0.2.2"
 
 __all__ = [
     "GYRO_STAGES",
