@@ -15,18 +15,26 @@ Digital critical edition, reconstructed parametric vector diagrams, interactive 
 
 ----
 
-Book Codices (*Opera*)
-----------------------
+Book Codices
+------------
 
 :doc:`The Wave-Field Cosmogony of Walter Russell <cosmogony/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Six-Axis Conical Vortices (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Eight-Octant Spherical Light-Lenses (`Figs. 170–172`)**, **Gyroscopic Precession (`Figs. 95–104`)**, and the **Unified 3D Nine-Octave Periodic Helix (`Figs. 177–180`)**—equipped with five interactive 3D models, downloadable Wavefront `.obj` meshes, and apparatus (:ref:`Glossary <glossary>` · :ref:`Persons <persons>` · :ref:`Bibliography <bibliography>`).
+A new 7-chapter geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics—from the **Still Magnetic Fulcrum (`0`)** and **Six-Axis Conical Vortices (`+` / `-`)** to the **Cube-Sphere Wave-Field of Nine Equators (`Fig. 114`)**, **Eight-Octant Spherical Light-Lenses (`Figs. 170–172`)**, **Gyroscopic Precession (`Figs. 95–104`)**, and the **Unified 3D Nine-Octave Periodic Helix (`Figs. 177–180`)**—equipped with five interactive 3D models, downloadable Wavefront `.obj` meshes, and apparatus (:ref:`People <persons>` · :ref:`Bibliography <bibliography>`).
 
 :doc:`Home Study Course in Universal Law, Natural Science and Philosophy (1950–1952) <home_study_course/index>`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The complete 3rd Edition of **Walter and Lao Russell**'s 12-Unit, 48-Lesson *Home Study Course*, featuring the Prelude, all 48 Lessons (`Lessons 1–48`), all 102 original diagram plates (`Figs. 1–180`), and side-by-side GEOMETOR vector reconstructions.
+
+----
+
+Scholarly Apparatus & Interactive Exploration
+---------------------------------------------
+
+* :ref:`People <persons>` · :ref:`Bibliography <bibliography>`
+* :doc:`Using This Edition (Reader's Guide) <usage/index>`
 
 .. toctree::
    :maxdepth: 2
@@ -34,5 +42,8 @@ The complete 3rd Edition of **Walter and Lao Russell**'s 12-Unit, 48-Lesson *Hom
 
    cosmogony/index
    home_study_course/index
+   persons
+   bibliography
+   usage/index
    changelog
    connect

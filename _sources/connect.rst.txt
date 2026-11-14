@@ -1,5 +1,8 @@
+:navigation: footer
+:nav_title: Connect
+
 =======
-connect
+Connect
 =======
 
 - **Website**: https://geometor.github.io/russell
