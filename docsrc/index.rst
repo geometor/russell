@@ -33,8 +33,8 @@ The complete 3rd Edition of **Walter and Lao Russell**'s 12-Unit, 48-Lesson *Hom
 Scholarly Apparatus & Interactive Exploration
 ---------------------------------------------
 
+* :doc:`About This Edition <about/index>` · :doc:`Using This Edition (Reader's Guide) <usage/index>`
 * :ref:`People <persons>` · :ref:`Bibliography <bibliography>`
-* :doc:`Using This Edition (Reader's Guide) <usage/index>`
 
 .. toctree::
    :maxdepth: 2
@@ -42,6 +42,7 @@ Scholarly Apparatus & Interactive Exploration
 
    cosmogony/index
    home_study_course/index
+   about/index
    persons
    bibliography
    usage/index
