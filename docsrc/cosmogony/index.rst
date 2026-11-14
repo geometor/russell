@@ -1,7 +1,7 @@
 :navigation: header
 :order: 1
+:nav_title: Wave-Field Cosmogony
 :layout: book
-:title: The Wave-Field Cosmogony of Walter Russell
 :book_title: The Wave-Field Cosmogony of Walter Russell
 :book_subtitle: From Still Magnetic Light to the Cube-Sphere and Nine-Octave Periodic Universe
 :author: Walter & Lao Russell • Reconstructed by GEOMETOR
@@ -10,10 +10,16 @@
 
 .. _cosmogony-index:
 
-THE WAVE-FIELD COSMOGONY OF WALTER RUSSELL
+The Wave-Field Cosmogony of Walter Russell
 ==========================================
 
 .. rubric:: A Geometric, Parametric Vector & Interactive 3D Treatise
+
+.. container:: title-page
+
+   | **Authors:** :person:`Walter Russell <russell>` & :person:`Lao Russell <lao-russell>`
+   | **Digital Reconstruction:** GEOMETOR Digital Scriptorium (2026)
+   | **Interactive Edition:** Synchronized illustrated codex with 8 parametric vector plates and interactive 3D WebGL models.
 
 A new illustrated treatise distilling the wave-field physics, projective crystal geometry, and periodic element mechanics of **Walter and Lao Russell**'s 48-lesson *Home Study Course* into a unified geometric synthesis—featuring **8 revamped parametric SVG plates** and **interactive 3D WebGL/Canvas models**.
 
@@ -25,8 +31,8 @@ A new illustrated treatise distilling the wave-field physics, projective crystal
 
 ----
 
-Conspectus of Chapters
-----------------------
+Table of Contents
+-----------------
 
 * :ref:`Chapter I: The Undivided Light of Mind & The Divided Electric Wave-Lever <cosmogony-ch1>` (`Plate I`, `Figs. 7–16, 28–33`)
 * :ref:`Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation <cosmogony-ch2>` (`Plates II–III` + **Interactive 3D 6-Face Conical Vortex**)
@@ -35,7 +41,13 @@ Conspectus of Chapters
 * :ref:`Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems <cosmogony-ch5>` (`Plate VI` + **Interactive 3D Gyroscopic Precession Morphing**)
 * :ref:`Chapter VI: The Making of Matter — The Nine-Octave Periodic Wave of the Elements <cosmogony-ch6>` (`Plates VII–VIII` + **Interactive 3D Unified 9-Octave Helix: Fig. 177 ↔ Fig. 180**)
 * :ref:`Chapter VII: Complete Concordance of the 102 Plates & 180 Figures <cosmogony-ch7>` (`Figs. 1–180`)
-* **Scholarly Apparatus**: :ref:`Technical Glossary <glossary>` · :ref:`Biographical Register <persons>` · :ref:`Bibliography & Primary Sources <bibliography>`
+
+----
+
+Scholarly Apparatus
+-------------------
+
+* :ref:`People <persons>` · :ref:`Bibliography <bibliography>` · :ref:`Technical Glossary <glossary>`
 
 .. toctree::
    :maxdepth: 2

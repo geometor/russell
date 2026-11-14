@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-02:
 
 Unit II (Lessons 5–8): Prayer & The Story of My Illumining

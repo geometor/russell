@@ -1,7 +1,7 @@
 :title: Biographical Register
 :layout: book
 
-.. _persons:
+.. _cosmogony-persons:
 
 Biographical Register
 =====================

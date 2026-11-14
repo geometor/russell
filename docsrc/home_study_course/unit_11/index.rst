@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-11:
 
 Unit XI (Lessons 41–44): Building the Cube-Sphere Wave-Field of Curved Motion

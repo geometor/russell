@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-07:
 
 Unit VII (Lessons 25–28): Simplicity, Sound, Silence & Wave-Vibrations

@@ -1,5 +1,3 @@
-:layout: book
-
 .. _hsc-unit-06:
 
 Unit VI (Lessons 21–24): Deeper Thoughts of Life, Death & Spiritual-Physical Unity
