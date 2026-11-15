@@ -20,7 +20,6 @@ project = "GEOMETOR • russell"
 author = "Walter and Lao Russell"
 copyright = "1950–1952, Walter and Lao Russell • Digital Edition GEOMETOR"
 
-
 def setup(app):
     app.add_js_file("js/russell_3d_codex.js")
 
