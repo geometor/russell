@@ -1,4 +1,8 @@
 :layout: book
+:order: 0
+:canonical_id: Prelude
+:breadcrumb_title: Prelude
+:folio: 0003
 
 .. _hsc-prelude:
 

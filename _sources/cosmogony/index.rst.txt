@@ -1,12 +1,15 @@
 :navigation: header
-:order: 1
+:order: 2
+:type: book
 :nav_title: Wave-Field Cosmogony
+:breadcrumb_title: Wave-Field Cosmogony
 :layout: book
 :book_title: The Wave-Field Cosmogony of Walter Russell
 :book_subtitle: From Still Magnetic Light to the Cube-Sphere and Nine-Octave Periodic Universe
 :author: Walter & Lao Russell • Reconstructed by GEOMETOR
 :publisher: GEOMETOR Digital Scriptorium
 :year: 2026
+:excerpt: A geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics, cube-sphere wave-fields, and nine-octave periodic table of elements.
 
 .. _cosmogony-index:
 
