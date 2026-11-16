@@ -278,12 +278,12 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
     (HSC_OUT / "prelude.rst").write_text(pre_rst + "\n\n----\n\n" + copy_rst.split("\n", 6)[-1], encoding="utf-8")
 
     concordance: list[tuple[int, str, str, str]] = []
-    unit_lesson_titles: dict[int, list[tuple[int, str]]] = {u: [] for u in range(1, 13)}
+    part_lesson_titles: dict[int, list[tuple[int, str]]] = {u: [] for u in range(1, 13)}
 
     for lesson_num in range(1, 49):
-        unit_num = (lesson_num - 1) // 4 + 1
-        unit_dir = HSC_OUT / f"unit_{unit_num:02d}"
-        unit_dir.mkdir(parents=True, exist_ok=True)
+        part_num = (lesson_num - 1) // 4 + 1
+        part_dir = HSC_OUT / f"part_{part_num:02d}"
+        part_dir.mkdir(parents=True, exist_ok=True)
 
         xhtml_file = text_dir / f"lesson_{lesson_num:02d}.xhtml"
         rst_text, l_title, plates = convert_xhtml_to_rst(
@@ -292,19 +292,19 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
             f"Lesson {lesson_num}",
             lesson_num=lesson_num,
         )
-        (unit_dir / f"lesson_{lesson_num:02d}.rst").write_text(rst_text, encoding="utf-8")
-        unit_lesson_titles[unit_num].append((lesson_num, l_title))
+        (part_dir / f"lesson_{lesson_num:02d}.rst").write_text(rst_text, encoding="utf-8")
+        part_lesson_titles[part_num].append((lesson_num, l_title))
         for img_name, ctx in plates:
             concordance.append((lesson_num, l_title, img_name, ctx))
 
     # Write each Unit's index.rst
-    for unit_num in range(1, 13):
-        unit_dir = HSC_OUT / f"unit_{unit_num:02d}"
-        utitle = UNIT_TITLES[unit_num]
+    for part_num in range(1, 13):
+        part_dir = HSC_OUT / f"part_{part_num:02d}"
+        utitle = UNIT_TITLES[part_num]
         u_lines = [
             ":layout: book",
             "",
-            f".. _hsc-unit-{unit_num:02d}:",
+            f".. _hsc-unit-{part_num:02d}:",
             "",
             utitle,
             "=" * len(utitle),
@@ -313,10 +313,10 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
             "   :maxdepth: 2",
             "",
         ]
-        for l_num, _ in unit_lesson_titles[unit_num]:
+        for l_num, _ in part_lesson_titles[part_num]:
             u_lines.append(f"   lesson_{l_num:02d}")
         u_lines.append("")
-        (unit_dir / "index.rst").write_text("\n".join(u_lines), encoding="utf-8")
+        (part_dir / "index.rst").write_text("\n".join(u_lines), encoding="utf-8")
 
     # Write top-level docsrc/home_study_course/index.rst
     idx_lines = [
@@ -350,9 +350,9 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
         "",
         "* :ref:`Prelude to Intimate Home Study Course <hsc-prelude>`",
     ]
-    for unit_num in range(1, 13):
-        idx_lines.append(f"* :ref:`{UNIT_TITLES[unit_num]} <hsc-unit-{unit_num:02d}>`")
-        for l_num, l_title in unit_lesson_titles[unit_num]:
+    for part_num in range(1, 13):
+        idx_lines.append(f"* :ref:`{UNIT_TITLES[part_num]} <hsc-unit-{part_num:02d}>`")
+        for l_num, l_title in part_lesson_titles[part_num]:
             idx_lines.append(f"  - :ref:`{l_title} <hsc-lesson-{l_num:02d}>`")
 
     idx_lines.extend(
@@ -366,8 +366,8 @@ def build_home_study_course() -> list[tuple[int, str, str, str]]:
             "   prelude",
         ]
     )
-    for unit_num in range(1, 13):
-        idx_lines.append(f"   unit_{unit_num:02d}/index")
+    for part_num in range(1, 13):
+        idx_lines.append(f"   part_{part_num:02d}/index")
     idx_lines.append("")
     (HSC_OUT / "index.rst").write_text("\n".join(idx_lines), encoding="utf-8")
     return concordance
