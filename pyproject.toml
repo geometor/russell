@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "geometor-russell"
 authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
 description = "Digital reconstruction, vector graphics, and 3D cosmogony models of the works of Walter and Lao Russell."
-readme = "README.md"
+readme = "README.rst"
 requires-python = ">=3.10"
 dynamic = ["version"]
 dependencies = [
