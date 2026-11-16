@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ====================
 Walter & Lao Russell
 ====================
 
-The mission of this project is to capture a semantic digital library of the works of **Walter Russell** (1871–1963) and **Lao Russell** (1904–1988), American polymaths and natural philosophers whose *Home Study Course* and wave-field cosmogony formulated rhythmic balanced interchange, the cube-sphere geometry of space, and the nine-octave periodic table.
+The works of **Walter Russell** (1871–1963) and **Lao Russell** (1904–1988), American polymaths and natural philosophers, formulated rhythmic balanced interchange, the cube-sphere wave-field geometry of space, and the nine-octave periodic universe. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these visionary treatises are liberated from static print bounds—decomposed into addressable semantic units, calibrated vector diagrams, primary-source plate provenance, and cross-corpus citations speaking one shared geometric language.
 
 .. collection::
    :type: book

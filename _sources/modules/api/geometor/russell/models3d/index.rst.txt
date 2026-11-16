@@ -305,6 +305,7 @@ Module Contents
    Build the 3D 8-Octant Curvature-Reversing Light-Sphere Lens (Figs. 170–172).
 
    Contains:
+
    - 3 Circular Zero-Curvature Equators dividing the unit sphere into 8 octants
    - Inflecting 3D light-ray trajectories whose curvature vanishes on the equators
      and reverses sign in opposite octants (Fig. 170–171)
@@ -362,6 +363,7 @@ Module Contents
    Build the Unified 3D Nine-Octave Conical Spiral of the Elements (Figs. 177 & 180).
 
    Coordinate design unifies Russell's two periodic charts into ONE 3D geometry:
+
    - **Axial Projection ``(X, Y)``** looking down the ``Z`` wave axis reproduces
      *The Russell Periodic Chart of the Elements, No. 2* (``Fig. 177``, 1926):
      concentric expanding spiral turns with Inert Gases on the horizontal ``Y = 0``
