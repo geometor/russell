@@ -18,8 +18,8 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`The Wave-Field Cosmogony of Walter Russell <https://geometor.github.io/russell/cosmogony/>`_** — Synthesizing still magnetic light, the cube-sphere, opposing spiral cones, and the nine-octave periodic universe.
-- **`Home Study Course <https://geometor.github.io/russell/home_study_course/>`_** — Universal Law, Natural Science and Philosophy (1950–1952), presenting the complete 48 lessons across 12 units with parametric reconstructions of all 180 chalkboard figures.
+- `The Wave-Field Cosmogony of Walter Russell <https://geometor.github.io/russell/cosmogony/>`_ — Synthesizing still magnetic light, the cube-sphere, opposing spiral cones, and the nine-octave periodic universe.
+- `Home Study Course <https://geometor.github.io/russell/home_study_course/>`_ — Universal Law, Natural Science and Philosophy (1950–1952), presenting the complete 48 lessons across 12 units with parametric reconstructions of all 180 chalkboard figures.
 
 Repository Contents
 -------------------
