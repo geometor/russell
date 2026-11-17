@@ -71,5 +71,5 @@ Scholarly Apparatus
    :hidden:
 
    glossary
-   persons
+   people/index
    bibliography
