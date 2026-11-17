@@ -3,6 +3,11 @@ GEOMETOR • russell
 
 **Visit the Online Archive:** https://geometor.github.io/russell/
 
+.. image:: docsrc/_static/plates/Fig_172_hires.png
+   :alt: GEOMETOR • walter-russell featured geometric construction
+   :target: https://geometor.github.io/russell/
+   :align: center
+
 **Walter & Lao Russell • Home Study Course, Wave-Field Cosmogony • semantic digital archive**
 
 Mission
