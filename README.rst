@@ -21,17 +21,6 @@ Books in This Archive
 - `The Wave-Field Cosmogony of Walter Russell <https://geometor.github.io/russell/cosmogony/>`_ — Synthesizing still magnetic light, the cube-sphere, opposing spiral cones, and the nine-octave periodic universe.
 - `Home Study Course <https://geometor.github.io/russell/home_study_course/>`_ — Universal Law, Natural Science and Philosophy (1950–1952), presenting the complete 48 lessons across 12 units with parametric reconstructions of all 180 chalkboard figures.
 
-Python Package & Modules
-------------------------
-
-The ``geometor-russell`` Python package (``import geometor.russell``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``elements_data.py`` — Structured 9-Octave Periodic Element data for Walter Russell's Cosmogony.
-- ``export.py`` — Exporters for GEOMETOR Russell 3D Cosmogony scenes (.obj, .json, .svg).
-- ``models3d.py`` — Parametric 3D geometry generators for Walter Russell's Wave-Field Cosmogony.
-- ``cli.py`` — CLI entry point for geometor.russell.
-
-See the `API Reference <https://geometor.github.io/russell/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
