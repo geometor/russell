@@ -1,3 +1,6 @@
+:navigation: header
+:order: 16
+:nav_title: Glossary
 :title: Technical Glossary of Russell's Wave-Field Cosmogony
 :layout: book
 

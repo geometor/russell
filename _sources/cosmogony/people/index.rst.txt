@@ -1,8 +1,7 @@
-:navigation: header
-:title: Biographical Register
-:layout: book
 :order: 5
 :nav_title: People
+:title: Biographical Register
+:layout: book
 :breadcrumb_title: People
 
 .. _cosmogony-persons:
