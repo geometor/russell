@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/walter-russell",
+  "rights_category": "verify-copyright",
+  "sources": [
+    {
+      "id": "russell-1950-home-study",
+      "title": "Universal Law, Natural Science and Philosophy — Home Study Course (1950–1952)",
+      "author": "Walter Russell & Lao Russell",
+      "year": "1950",
+      "era": "Digital Transcription PDF",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://geometor.github.io/walter-russell/",
+      "local_path": "resources/home_study_course/Russell-HomeStudyCourse.pdf",
+      "pages": 519,
+      "publisher": "University of Science and Philosophy, Swannanoa",
+      "rights": "Verify US copyright renewal for 1950–1952 Home Study Course",
+      "excerpt": "519-page compiled digital transcription (Parts 1–12) used for parametric wave-field modeling."
+    }
+  ]
+}
