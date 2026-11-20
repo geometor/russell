@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • walter-russell Medallion
+   :target: https://geometor.github.io/walter-russell/
+   :width: 150px
+   :align: right
+
 GEOMETOR • russell
 ==================
 
 **Visit the Online Archive:** https://geometor.github.io/russell/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • walter-russell Medallion
-   :target: https://geometor.github.io/walter-russell/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/plates/Fig_172_hires.png
    :alt: GEOMETOR • walter-russell featured geometric construction
