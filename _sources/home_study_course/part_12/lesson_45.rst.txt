@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-45:
 
-LESSON NUMBER 45 PRELUDE TO LAST FOUR LESSONS
-=============================================
+Lesson 45: Prelude to the Last Four Lessons
+===========================================
+
+.. folio:: 0428
+   :page: 428
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -40,6 +43,9 @@ When we explain how Nature perpetually polarizes and depolarizes, in its every e
 
 Mankind has not yet learned the continuity of life and death--and that each leads to the other. When life depolarizes and "dies" it is for the purpose of rebirth. When a business man buys goods or builds a plant he is depolarizing and devitalizing his strength for the purpose of multiplying it. That is also the reason you go to sleep at night. You are devitalized. Your power to polarize has reversed by depolarization. You sleep to again reverse it and awaken to find that you have reversed it.
 
+.. folio:: 0429
+   :page: 429
+
 When we explain to you the process of turning inside-out and outside-in it is for the same reason that you also are engaged in that occupation every moment of your life and do not know it. You find yourself making mistakes and do not know their remedy. You are in trouble and do not know what to do about it. When you do know God's ways you will not make mistakes without knowing
 
 WHY, or be in trouble without knowing how to make of it a steppingstone to greater things.
@@ -65,14 +71,21 @@ An infinite number of radii thus extend outward to meet an infinite number of ra
 
 As each one of these forces have to pass through the other one on their outward or inward journeys,--like a stone falling to earth or vapor rising from it,--each must give way to the other's resistance by bending around each other.
 
+.. folio:: 0430
+   :page: 430
+
 Figures 117 and 118 illustrate this principle. Two opposing forces cannot meet head on, as in 117, so they intertwine as they pass through each other. Figure 118 illustrates that bending of the two opposing forces passing through each other radially. If you examine the wood of an old tree which has lost its bark you will see the effect of that resistance by the spiral growth in the wood from ground to the top of the tree. The slow growth of the tree lengthens the spiral whereas more quickly timed explosions than those of tree growth shorten the spirals.
 
 All through Nature you can see this principle demonstrated in the growth of everything, or in all effects of the motion of waters and winds. You will note this effect in the spiral twisting of water falling down the drain of your bathtub, or in the sudden meetings of winds in whirling the dust at their meeting points, or the violent spirallings of falling and rising air currents which twist so furiously around their zero points of equilibrium that houses are torn from their foundations in the tornado whirlpools while not a blade of grass stirs at their zero centers.
 
+.. folio:: 0431
+   :page: 431
+
 .. figure:: /_static/plates/image077.gif
    :align: center
 
-   Archival Plate (``image077.gif``)
+.. folio:: 0432
+   :page: 432
 
 Figure 119 illustrates the same principle as 117 except that six pairs of oppositely directioned forces are meeting in a wave-field. Note the beginnings of spiral twistings resulting from resistance by each for the passing of the other as illustrated in Figure 120.
 
@@ -97,6 +110,9 @@ The great lesson of life is to learn that the measure of giving is the measure o
 
 The measure of electric potential given out by desire in the seed of a tree is regiven in the measure of the tree. That is not sufficiently great a measure of electric potential to create an earth or sun, but it is sufficient for a tree. The intensity of desire in man to create in large measure is the same in principle as the intensity of desire in Nature to create a solar system. Every action of outgiving by man or nature is regiven toward the point of giving in the measure, quality and pattern of the outgiving.
 
+.. folio:: 0433
+   :page: 433
+
 .. figure:: /_static/plates/image078.gif
    :align: center
 
@@ -105,9 +121,17 @@ The measure of electric potential given out by desire in the seed of a tree is r
 .. figure:: /_static/plates/image079.gif
    :align: center
 
-   Archival Plate (``image079.gif``)
+.. folio:: 0434
+   :page: 434
+
+.. picture:: 0434.g1.png
+   :alt: Figures 124–125 — Wave-Shaft and Radial Pool of Motion
+   :caption: Figures 124–125 — Wave-Shaft and Radial Pool of Motion (Folio 0434)
 
 Let US study Figure 124 together to see the working of the law of equality in all action-reactions.
+
+.. folio:: 0435
+   :page: 435
 
 At the center of the cube is the point of desire for outward giving. It is marked zero. From that point of extension the desire reaches outward, radially, like an outward explosion, such as you see in Figure 121, meeting with the resistance which spirals its effect of polarity, such as you see in Figure 124.
 
@@ -144,6 +168,9 @@ The light within it has been seemingly "taken out" to create dark--and that whic
 
 Darkness is an effect produced by dividing light into long light-waves--and incandescence is the opposite effect produced by multiplying light by shortening its light-waves.
 
+.. folio:: 0436
+   :page: 436
+
 Solidity is thus born out of vacuity. A positive pole is created on one side of a dividing equator and its equal negative opposite is created on the other side.
 
 "Empty space" is thus created simultaneously with its centering suns, just as the two poles of a bar magnet are simultaneously created. As the suns are gradually wound up inside black holes of space the interchange between the two becomes more and more intense. The winding up into centripetal vortices multiplies gravitational power and radiational power alike. The power of gravitation to pull in, however, exceeds the power of radiation to resist it during the half cycle in which true spheres are being formed, and then the power of radiation increases to unwind the spheres in the other half of the cycle. As radiative power increases, the cold black holes of space which are outside of hot suns bore right through the suns and dissipate them centrifugally by making rings of what have been spherical suns for billions of years. There are hundreds of examples of these rings in the heavens but a conspicuously good example of rings in this solar system are those which surround Saturn, (see Figure 135) and a good example among the distant nebulae is the great ring in Lyra, shown in Figure 134. For these and other stellar examples see Figures 136, 137, 138 and 143, in the following lesson, No 46.
@@ -162,6 +189,9 @@ To do this we must replace the following misconceptions which are fundamental be
 
 1. The expanding universe theory. It is believed by science that the universe was created aeons ago as one great ball of fire which is now being divided into stellar systems, all of which are expanding toward a disappearance which they call heat death--or entropy.
 
+.. folio:: 0437
+   :page: 437
+
 Science bases this theory upon the provable fact that all of the great stellar systems which they can see in their telescopes, are rushing away from each other with incredible speeds. This fact is true, and the assumption that the universe is dying a heat death is also true, but that which science does not see is that birth continues to live as death continues to die. It would be equally true to say that all living beings are dying--but they are perpetually borning. They balance each other.
 
 Expansion of heat toward the cold of death is balanced by the contraction of cold toward the heat of life.
@@ -179,6 +209,9 @@ Planets are not falling into their suns, nor are moons falling into their planet
 4. Structure of the atom theory. Science has a strange belief about atomic structure which has no basis in Nature whatsoever. Science conceives that the nucleus of an atom is made up of certain numbers of positive and negative "charges" in corpuscles called protons. These are surrounded by concentric shells of electrons which determine the substance of the element by their number and arrangement in the shells which control their orbits. Every electron added presumably changes the character of the substance to another element.
 
 Nature does not work that way. All matter is electrically polarized to manifest both of its polarized characteristics in every mass. Every corpuscle of matter in the universe, whether atom or sun, is divided by an equator between its two hemispheres, one for its north pole and one for its south pole.
+
+.. folio:: 0438
+   :page: 438
 
 Every particle of matter, or mass like our Earth, radiates and gravitates, and these are not confined to hemispheres where gravitation functions alone in one, and radiation alone in the other. Both function in the whole mass and in both hemispheres. Even the two poles of a bar magnet manifest both positive and negative abilities to pull inward and thrust outward.
 
@@ -208,9 +241,13 @@ Step by numbered step we will unfold the only process which The Creator makes us
 .. figure:: /_static/plates/image080.gif
    :align: center
 
-   Archival Plate (``image080.gif``)
+.. folio:: 0439
+   :page: 439
 
 5. The resultant repetitions of action-reaction sequences caused by the interchange of motion between these two opposing forces in their attempt to conquer the other, become the basis of a universal compression expansion pump which makes of this universe a two-way alternation between visibility, as motion compresses matter into appearance,--and invisibility, as motion expands matter into disappearance.
+
+.. folio:: 0440
+   :page: 440
 
 Let us now demonstrate the workings of the electric pump which is our universe by following the process of its workings upon the accompanying diagrams.
 
@@ -235,9 +272,13 @@ The loops of force in an electric current, such as shown in Figure 130, are exac
 .. figure:: /_static/plates/image081.gif
    :align: center
 
-   Archival Plate (``image081.gif``)
+.. folio:: 0441
+   :page: 441
 
 10. The next step in the process of building bodies after winding them into true spheres is to unwind them centrifugally into disc-like wheels which again form bases of cone pairs whose apices are opposed to each other. Unfolding must follow folding, depolarization must follow polarization. The "living" must "die" to live again in this pulsing two-way universe of waves of motion.
+
+.. folio:: 0442
+   :page: 442
 
 Now again centripetal force winds up the motion of expanded matter into centers of gravity which were the zeros of the black holes of their beginnings. The piston of the universal heartbeat again swings from its expanded condition toward compression.
 

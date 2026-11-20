@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-21:
 
-LESSON NUMBER 21 DEEPER THOUGHTS OF LIFE AND DEATH
-==================================================
+Lesson 21: Deeper Thoughts of Life and Death
+============================================
+
+.. folio:: 0200
+   :page: 200
 
 "Take thou man's death away from him in this new day of man. Give him eternal Life in Me by knowing Me in him."
 
@@ -28,6 +31,9 @@ Reduced to its utmost simplicity this means that life and death are but two oppo
 What could be more simple? Our bodies are but wave cycles of motion. Our bodies simulate eternal life by the eternal repetition of life-death cycles, but our bodies are not our Persons, or Beings, or our divine Selves.
 
 That is the thing God wants the new age of man to know. Past ages have feared death because they did not know its meaning. The dread of death is born out of the belief that man dies when his body no longer functions, and that death of his body is his end.
+
+.. folio:: 0201
+   :page: 201
 
 It is unbelievable how many intelligent people of today actually believe that way. In our acquaintance is a very wealthy, successful, intelligent, kindly man who lives life generously and abundantly who says: "When you are dead you're dead, and that's the end of you." And he sincerely believes it because he thinks of his body as being his Self. He actually believes that his intelligence is within his brain, that his brain is Mind, and that his own individual Self has no connection with any other Self, or with a universal Mind.
 
@@ -51,6 +57,9 @@ Likewise you and I and our neighbor who are seeking happiness, prosperity and gr
 A NEW VIEWPOINT
 ---------------
 
+.. folio:: 0202
+   :page: 202
+
 Let us, therefore, look upon all bodies for what they are, instead of what we think they are. Bodies are but waves of motion, pulsing waves of motion, which increase in violence to express life and decrease to express death.
 
 Bodies of matter in motion have been man's realities for ages. The time has come when the unfolding human race must know the unreality of moving bodies and the reality of their Source of motivation. Reality can never be in motion for motion ceases, but the stillness from which motion extends is as eternal as the silence from which sounds extend. Reality must be eternal in order that it be real.
@@ -72,6 +81,9 @@ Likewise you will better understand the pulsing of the universal heartbeat which
 Likewise you will better understand the mechanics of motion as the concentrative half of the universal pulse compresses large volumes of low potential into small volumes to create visible solids, then "goes into reverse" to expand the compressed solids into invisible space.
 
 Also you will more clearly visualize the universal heartbeat as a universal pump which compresses and expands, simultaneously and sequentially, to seemingly divide the undivided, to change the changeless, to give measure where no measure is and to condition the unconditioned.
+
+.. folio:: 0203
+   :page: 203
 
 Also you will better realize that the energy which motivates all motion is in desire of Mind to express idea in moving forms of idea, and not in the moving forms which result from desire.
 
@@ -98,6 +110,13 @@ The direction of motion which manifests DEATH is the outward radial direction wh
 
 LIFE is in the stillness of the magnetic LIGHT of the universal equilibrium.
 
+.. folio:: 0204
+   :page: 204
+
+.. picture:: 0204.g1.png
+   :alt: Figures 48–51 — Polarization Multiplies Life and Growth
+   :caption: Figures 48–51 — Polarization Multiplies Life and Growth (Folio 0204)
+
 LIFE is manifested in matter by dividing the universal equilibrium into pairs of opposite conditions which we call LIFE and DEATH.
 
 LIFE and GROWTH and GENERATION are manifested in matter by GRAVITATION.
@@ -108,6 +127,9 @@ LIFE and GROWTH and GENERATION are manifested in matter by GRAVITATION.
    Archival Plate (``image048.gif``)
 
 DEATH and DECAY and DEGENERATION are manifested in matter by RADIATION.
+
+.. folio:: 0205
+   :page: 205
 
 LIFE in bodies means increasing power of GRAVITATIONAL CHARGE to pull inward from within to increase their polarization. Increasing polarization means increase of electric potential. Increase of electric potential means increase of the power of positive and negative poles to pull away from each other.
 
@@ -136,6 +158,9 @@ The confusion which has made death so tragic and terrible has arisen from the be
 
 A most common expression regarding anyone whose senses have ceased vibrating for any reason, such as sleep or anesthesia, is that such a one is unconscious. There is no such condition as unconsciousness. What one really means is that one's brain has ceased sensing because of being depolarized.
 
+.. folio:: 0206
+   :page: 206
+
 Mind is always conscious. Mind always knows and desires whether the body is asleep for a night, or for the longer interval of acquiring a new body. The Mind of one can always become ONE with the Mind of another because they are ONE in essence and vary only as to the state of their respective unfolding--which is commonly termed "individuality".
 
 When any one asks that age old question, "Can I contact my father--or other loved one--who has passed on?" they really mean "Can my body contact their bodies? Can my senses contact their senses? Can I ask them questions about whether they are happy, or about a business problem?"
@@ -160,6 +185,9 @@ The Cosmic Age, now dawning, is a far step in the unfolding of that in man which
 
 CONCLUSION
 ----------
+
+.. folio:: 0207
+   :page: 207
 
 The following words of our Father-Mother given in His Message for the Cosmic Age of man will be food for your deep meditation while awaiting further enfoldment of the glory which is man.
 

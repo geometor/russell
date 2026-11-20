@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-28:
 
-LESSON NUMBER 28 QUESTIONS CONCERNING FAITH, BELIEF AND FAITH HEALING
-=====================================================================
+Lesson 28: Questions on Faith, Belief and Faith Healing
+=======================================================
+
+.. folio:: 0252
+   :page: 252
 
 So many questions have come to us from various sources which are so unlike the workings of Natural Law and God's ways of working that they might appropriately belong to the Middle Ages.
 
@@ -22,6 +25,9 @@ It is very gratifying that our close students are practically free from this cha
 Therefore, I say to you that you must have comprehension and knowledge to manifest God, for faith and belief are blind. They are dwellers in the dark and will cause your feet to stumble and bind you to a slavery of dependence upon a basic nothingness where you need a rock of granite for your feet.
 
 You would not expect to write a story, compose a symphony or solve a problem in mathematics upon faith and belief unsupported by knowledge, yet countless prayers go up to God with the hope that faith and belief without intelligent action based upon knowledge, will bring fulfillment of desires.
+
+.. folio:: 0253
+   :page: 253
 
 You do not have faith and belief that you can walk. You KNOW that you can walk. You also KNOW that you can do anything by acquiring the knowledge of how to do it through action, yet many there are who have faith and belief that God will do it for them. God will not do it for them, He will do it only with them.
 
@@ -48,6 +54,9 @@ Such a Mind healing has no relation whatsoever to faith and belief. It is purely
 
 Purely physical abnormalcies, whether a broken bone, a cancer, a cut upon the head, a gunshot wound, paralysis from blood clots on brain, misshapen bodies or other deformities can be "cured" only by physical action. One might just as well ask God in all faith and belief to mend a broken spoke in an automobile wheel as to ask Him to cure a deformed foot without intelligent action.
 
+.. folio:: 0254
+   :page: 254
+
 CAUSE AND EFFECT
 ----------------
 
@@ -68,6 +77,9 @@ So long as man continues to violate God's law he will hurt himself. All the fait
 Therefore, I again say to you that when you ask God for anything, never ask Him to fulfill His part, for He has already done that, but ask Him, rather, to show you what you should do to so harmoniously work with Him that your desire will be fulfilled. Everything which is wrong with you is of your own making, therefore, ask that you be enlightened.
 
 If, for example, you want a roof for your church and your people pray in full faith and belief that God will give it to you, and you then rely solely upon your prayer, your church will not get its roof. If, however, you ask God to give you knowledge to guide your actions in giving service for regiving of money for the roof, you will as surely have your desire fulfilled as the farmer's desire is fulfilled when he does his part by tilling the soil and planting seed.
+
+.. folio:: 0255
+   :page: 255
 
 That is what I mean by the prayers of men who tell God what they wish Him to do instead of asking God to tell them what they should do. That is the great misconception of the power of prayer. The cause of that misconception lies in the fact that people who ask God for fulfillment of their desires forget that requests for material things are created only through two-way action. Material things are not created by rubbing an Alladin lamp, or through wishful thinking. They are created through balanced action and reaction.
 
@@ -104,6 +116,9 @@ YOU MUST HAVE CONFIDENCE IN YOURSELF based upon your KNOWLEDGE, for knowledge is
 
 Therefore, I say to you, whenever you desire to do anything for which you do not feel yourself equipped, do not start doing it with doubt in your Mind, or with blind faith that God will do it FOR you, for you must not start that way.
 
+.. folio:: 0256
+   :page: 256
+
 Stop, rather, and talk with God. "See Him, know Him, be Him," in deep meditation. Seek knowledge through inspiration. That is the only way to build omnipotence into your desire. That is the only way to start with strength to fulfill your desire. Never start anything without inspired knowledge which puts love into your givings--for that which is called WORK should be only joyous givings.
 
 Your weakness lies in asking God to fulfill your desire instead of asking Him to give you the knowledge to work WITH Him in the fulfilling of a universal desire. You render yourself weak in so asking--and you double your weakness by the very thought of having "faith in God". Having "faith in God" implies a doubt of the certainty of His promise, and places God on His honor to grant you your request. That is not the right attitude. You should approach any achievement with an attitude of certainty.
@@ -121,6 +136,9 @@ When you plant corn you do it with knowledge, born of experience, that the corn 
 Corn grows, forests rise in their majesty, vapors rise and storms rend without faith and belief, or even without knowledge. God's law is being fulfilled in them. God's law is also being fulfilled in you. You may break your leg and God's law will heal it just as God's law grows the corn. But if you ask God to do more for you than fulfill His law, in other words, if you ask Him to do something for you which is your part of it, He will not do it, no matter how much you pray, and no matter how much faith and belief you put into your prayer.
 
 To exemplify my meaning, suppose your broken leg is badly twisted out of line, or the bones pass each other, and you ask God to reset the bones, which you yourself should do or have done by a surgeon who KNOWS, you will find that God will do His part by making His universal law work for you, but your twisted leg will be the evidence of your own neglect to do your part of the work that God is doing with you, and you will be a cripple for life, a self-made cripple self-destined to suffer from your own disobedience to God's law.
+
+.. folio:: 0257
+   :page: 257
 
 And therein lies most of the confusion regarding faith healing. God's laws of growth are absolute. They work automatically, and they work whether you pray or do not pray. Conversely, God's laws of decay and disintegration are just as absolute as His laws of construction, and all the prayers which ask God to set aside His laws as a special favor to you, are more than wasted.
 
@@ -147,6 +165,9 @@ But God gave man KNOWLEDGE of how to control those forces by putting his knowled
 
 I cut my finger one day when my hands were soiled. I knew very well that the disintegrative forces would have an excellent opportunity to manifest God's law by infecting my finger if I gave those waiting microbes a chance to return my body to the earth. Destructive microbes are manifesting God's law as purposefully as sunshine and growth are fulfilling it.
 
+.. folio:: 0258
+   :page: 258
+
 I stepped into the bathroom where my host was washing his face and asked for iodine and hot water, whereupon he said to me: "I am amazed that a man with your knowledge would ask for iodine."
 
 "What would you have me do?" I asked. His reply was "Why not let God do it?" "Then why do you not let God wash your face?" I asked. "That is different. I must do this for cleanliness, but you are using medicine", he countered.
@@ -167,6 +188,9 @@ Your body, however, belongs to the divided universe of divided balance between t
 You do not realize that you are asking God to reverse His law and make the destructive force which you have put into your body become the constructive force.
 
 When God divided the undivided He made both divisions perfect. When you use both of them in balance you produce a perfect body, but when you, or all Nature, unbalance the two you are violating God's law and you must blame yourself only for it. Do not blame God or ask Him to void your mistake. You, yourself, must void it by restoring balance.
+
+.. folio:: 0259
+   :page: 259
 
 Two children on a see-saw play with the two opposite forces of the divided universe with great happiness until one or both of them break that equality. Blood then flows from shins by the children's own decisions to manifest unbalance.
 
@@ -195,6 +219,9 @@ I know of such a person who rejects the help of all doctors and surgeons, and bi
 "Yes I do", he replied, "because it requires a surgical operation which would not be necessary if one had proper faith in God."
 
 "If you were dying of hunger would you not eat food to make blood so that you would not die?" I asked.
+
+.. folio:: 0260
+   :page: 260
 
 "Of course I would, but that is God's natural plan, while surgical operations are not. Surgery is a method employed by those who do not know, or believe in God's almighty power". he replied.
 
@@ -225,6 +252,9 @@ Negative polarity divides power in the measure of desire of Mind to rest from ex
 
 One half of every wave, likewise, is alkaline in its chemistry. The alkaline elements are positive and multiply vitality in the direction which expresses LIFE.
 
+.. folio:: 0261
+   :page: 261
+
 The other half of the wave is acid in its chemistry. The acid elements are negative and divide vitality in the direction which expresses DEATH.
 
 For every acid element there is a balancing alkaline one. Both are necessary but each must always balance the other, else the body is thrown out of balance and becomes ill, or develops the destructive growths and malignancies which are so rapidly increasing in the unnatural lives of great cities.
@@ -248,6 +278,9 @@ The actual fact is that there are no perfect living bodies of any kind in Nature
 That oak over in the open meadow seems perfect. A squirrel planted it on good ground. That other oak over in the shadow seems far from perfect. A squirrel planted it on barren ground in the crevice of rocks where its roots could not spread.
 
 That man over there seems to have a fine body, even though one would not call it perfect. He has injured its shape by over-eating. Next to him is a much finer body. He inherited it from long-lived ancestors. But over to the left is a misshapen body given to him by parents who were syphilitic.
+
+.. folio:: 0262
+   :page: 262
 
 In the hospital up the street are rooms full of bodies with twisted feet, hunched backs and other deformities. Surgery is reclaiming many of these to a semblance of perfection. Could you bring happiness or cure to any of these by telling them that God made them perfect? I think not!
 
@@ -275,6 +308,9 @@ It is your own obedience to God's law that has healed you.
 CONCLUSION
 ----------
 
+.. folio:: 0263
+   :page: 263
+
 God is LOVE. The foundation of love is BALANCE.
 
 God's universe is balanced by the two opposite pulsations which manifest love.
@@ -300,6 +336,9 @@ You must feel that trend and purpose for your letters indicate that fact, and th
 Perhaps, though, you might search harder for what is invisibly written between the lines if I put it into words and tell you very plainly what I am aiming at, psychologically. Such words would have been wasted if I stated them several months ago but not now, for these words will have a different meaning today than they would have during the earlier lessons.
 
 We spoke in generalities at that time, telling you, for example, that it was a transition from sensing to knowing, or the unfolding of the Cosmic Man, and such generalities. These terms must have intuitively conveyed our meaning to you and awakened in you the desire for cosmic knowledge but you did not have so dynamic an understanding of what lay behind those terms as you do today.
+
+.. folio:: 0264
+   :page: 264
 
 You must now understand by this time that we are trying to make you live and work KNOWINGLY in both the undivided invisible universe and the divided physical universe of bodies in action. The transition from sensing to knowing actually means living in the Light of inspired knowing all of the time, and extending your inspired knowing to your thoughts when you wish to create thought-bodies to image your thoughts.
 

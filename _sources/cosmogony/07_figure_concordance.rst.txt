@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0002
 
 .. _cosmogony-ch7:
 
 Chapter VII: Concordance of the 102 Plates & 180 Figures
 ========================================================
+
+.. folio:: 0002
+   :page: 2
 
 .. rubric:: Complete Index of Diagrams Across the 48 Lessons of the *Home Study Course*
 

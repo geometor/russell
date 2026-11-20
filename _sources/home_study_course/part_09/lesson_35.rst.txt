@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-35:
 
-LESSON NUMBER 35 HARD FACTS MAN MUST FACE OR PERISH FROM THE EARTH
-==================================================================
+Lesson 35: Hard Facts Man Must Face or Perish
+=============================================
+
+.. folio:: 0311
+   :page: 311
 
 UNITY is the one great unlearned lesson of the ages.
 
@@ -41,6 +44,9 @@ Earth gave man his body, and continues the gift. Man must regive his body to ear
 
 This is LAW--inviolate LAW. Action and reaction are opposite and equal.
 
+.. folio:: 0312
+   :page: 312
+
 The pendulum swings each way equally. A light shone into a mirror does not regive MORE light, or LESS, than that which was given to it. The interchange is equal. One opposite of the divided pair balances its gift with its other opposite.
 
 The seller who gives less than he fairly should to his buyer does not add to his gain. He has but bred distrust which may lose for him many buyers. If he gives more than is expected of him, more will be regiven.
@@ -63,6 +69,9 @@ The supreme lesson of life is to learn how to give with love. There is naught el
 Some day, in his many upward climbings, man will know that an individual independent life is impossible--that every man is an interdependent unit of an interdependent whole--that each man is as dependent upon every other man as each cell of his body is dependent upon every other cell, and that the hurt of any man on earth is the hurt of every other man. All men are ONE. All are united by invisible threads of light. Man is not local, or separable. He is UNIVERSAL.
 
 When a civilization learns these lessons it will then know the meaning of THE UNIVERSAL BROTHERHOOD OF MAN. When man finally recognizes this, his civilization will endure--but not until.
+
+.. folio:: 0313
+   :page: 313
 
 God said: "All men will come to me in due time, but theirs is the agony of awaiting". From The Divine Iliad.
 
@@ -91,6 +100,9 @@ DISUNITY IN INDUSTRY
 
 In INDUSTRY we have divided the producer of goods into owner and worker UNEQUALLY. Owners have exploited workers for selfish purposes. There can be no other result than the discontent and disunity which has caused the vast worker-world to rise up and slay the world of owners who have taken UNEQUALLY from the product of both. America has awakened to this fact, and has done much to counterbalance disunity between CREATORS of ideas and PRODUCERS of them, whom we have unfairly, and unjustly termed CAPITAL and LABOR. This in its very essence divides man and stratifies him into a high superior level and a low inferior one.
 
+.. folio:: 0314
+   :page: 314
+
 CREATORS are those who conceive ideas. PRODUCERS are those who give material bodies to ideas. Those men who produce necessities for other men should not be given a name which connotes ignominy, for work is service given. Work is noble, and nobility attaches to him, who thus serves man, in greater measure than to the titled aristocrat who does not serve him.
 
 We will talk at length about Industry later, for it is destined that [if] civilization [is] if awakened in time, [it] will be through the mighty power of a united Industry working knowingly with God's inexorable Universal Law.
@@ -117,6 +129,9 @@ GOVERNMENT is divided unto itself into parties which have different ideals and d
 
 Government is likewise, unbalanced because of its masculinity. The balance which comes from husband and wife working together with the equality which love alone gives, is lacking in Government. The positive element which desires to draw everything unto itself, is not balanced by the negative spiritual element, which desires to extend that which it is to others throughout the nation.
 
+.. folio:: 0315
+   :page: 315
+
 Until the spiritual element which is stronger in women is added to Government to balance the material element, we will always have the disunity which comes in every body where the MAN is supreme and WOMAN is ignored.
 
 For that reason we cannot look to Government to save civilization. Instead of that we must either change the present trend of Government immediately or begin to look upon our Government as our No. 1 enemy which can be rendered helpless in carrying out its present trend only by building a more powerful force to neutralize its growing power.
@@ -139,6 +154,9 @@ Cries of impeachment of the highest officials in the land no longer shock the na
 Statesmen are becoming more rare as power politicians multiply so menacingly. Honorable men in office are more frequently resigning rather than either becoming tainted by the practices of government, or closing their eyes to them. Likewise, men of high integrity are not so eagerly seeking office as they did in the days when office in government was a high honor attended with dignity which only the highly qualified could fulfill.
 
 Where is this dignity of office today? Where is the necessity for highly qualified men of unquestioned honor? Dignity has vanished from office. The least qualified are occupying high posts at high salaries. These are not needed for service to the people. They are needed for service to power politics to bolster the plan of power politics to render the people helpless against their ultimate rule. Immoral use of the power to tax is weakening the people and multiplying the power of government to enslave the people.
+
+.. folio:: 0316
+   :page: 316
 
 Honorable investigators of crime in office are vilified, even crucified, while those whom they find guilty are whitewashed by political committees and highly paid propagandists appointed by power politics for that very purpose.
 
@@ -164,6 +182,9 @@ If you give deep thought to these facts you will realize that each great catastr
 
 There have been seven of these major catastrophies in seven year periods for half a century. Each one has weakened the power of the people and has each one--strengthened the power of government to tax--tax--and tax until freedom and security for the people is on the verge of disappearing into a tyrannical despotism. We will enumerate these seven.
 
+.. folio:: 0317
+   :page: 317
+
 1. THE PANIC OF 1907 was world wide and left each country staggering. THIS WAS WORLD WAR NO. 1. It so impoverished this nation that the Constitution was amended to make it possible to tax the incomes of all people. Thus began the Fall of Man.
 
 2. WORLD WAR NO. 2 of 1914. The war with Germany was a war of a discontented Empire Builder who desired to redistribute the loot of other Empire Builders. Emperor William resented the "cramped quarters" which the greed of other conquerors had forced his growing nation to occupy and followed the familiar pattern of Empire Builders by drawing his sword. The aggressor did not alone make that war. The defenders made it with him--EQUALLY.
@@ -183,6 +204,9 @@ Why have men been so blind that they could not see the ominous portent of those 
 Why could we not see that the Empire Builders who fought for the preservation of their illgotten Empires were working with the slave world to help it enslave its conquerors?
 
 Why could not we who fought see that we were helping to destroy one slave leader by helping to create another one, to whom we gave shackles to bind us?
+
+.. folio:: 0318
+   :page: 318
 
 Why could we not also see that we who fought were nurturing slave leaders in our own respective countries by giving them the means to create self -perpetuating Oligarchies with hundreds of thousands of bureaucratic slave drivers, who have already begun to use their whips in your office and in the offices of your neighbors? You have not yet felt its sting in your flesh as you will when their votes render you impotent.
 
@@ -211,6 +235,9 @@ And another great cry calls out to warn against changing horses while crossing a
 And thousands of our own people are our deadly enemies. They consort with deadly enemies who sit at our table and eat of our sustenance. These enemies from another country do not come with guns, for if they did we would be justified in shooting them--so they carry on their enslaving process without guns as they have done over and over again in other countries which they enslaved without guns.
 
 When we, ourselves are enslaved, we will have much time to condemn ourselves in concentration camps. Why not awaken NOW--before it is too late?
+
+.. folio:: 0319
+   :page: 319
 
 Darkness always deepens before the dawn.
 

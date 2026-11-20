@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-26:
 
-LESSON NUMBER 26 SOUND, SILENCE AND WAVE-VIBRATIONS
-===================================================
+Lesson 26: Sound, Silence and Wave-Vibrations
+=============================================
+
+.. folio:: 0238
+   :page: 238
 
 We will again consider the making of bodies which appear and disappear to LIVE and DIE from another point of view. Let me recall, as heretofore stated, that all that God does is to make bodies to manifest His all-knowing. Also I stated that that is all you likewise do.
 
@@ -30,6 +33,9 @@ Fig. 53 represents the harp string vibrating so rapidly that you hear one contin
 What really has happened is that a body of sound was given to an idea of music for a cycle of time--then the vibrations ceased. The sound then disappeared into the silence of rest from which it sprang into motion to manifest the idea. The SOUND appeared--and it disappeared and will reappear--but the silent idea is eternal. It will again appear when desire causes it to reappear.
 
 The IDEA of music does not either live or die. That is changeless and eternal. It is the SOUND, which manifests the music, which lives and dies, just as it is only your body which manifests YOU which lives and dies--then again lives and dies forever and forever.
+
+.. folio:: 0239
+   :page: 239
 
 Again we repeat that life and death are but opposite states of motion--centripetal motion which contracts toward gravity, and centrifugal motion which expands toward space.
 
@@ -56,6 +62,9 @@ Sound takes place only upon each side of its equator of silence, for there is mo
 
 If you fully comprehend what I have just told you, you will fully comprehend the relation of the divided universe of motion which forever repeats its sequences of motion to create illusion, to the undivided universe of stillness from which those sequences of motion are projected.
 
+.. folio:: 0240
+   :page: 240
+
 In other words you will be intellectually able to be constantly aware of the two worlds in which you live--the undivided and the divided--instead of just the one divided world of the senses which has dominated man's actions for ages.
 
 The supremacy of man is dependent upon the measure of his ability to live knowingly in the undivided Mind universe. The master makes use of the divided universe of sensed matter as he wills--or dismisses it from his Consciousness when he wills.
@@ -79,11 +88,15 @@ As one step in the unfolding of your greater comprehension of timelessness in th
 .. figure:: /_static/plates/image049.gif
    :align: center
 
-   Archival Plate (``image049.gif``)
+.. folio:: 0241
+   :page: 241
 
 You think of these hundreds of bodies as VIBRATIONS, yet you would not think of your present "life" as but just one unit of a vibration of millions of years in duration instead of one fraction of a second.
 
 I would like to have you begin to think of your body that way, and as the timed manifestation of an idea which is eternal and timeless.
+
+.. folio:: 0242
+   :page: 242
 
 I would like to have you elevate your Consciousness to the level of full awareness of your Self as The Universal Presence--The Universal Being--rather than think of yourself as a body which has a name and address and personality.
 

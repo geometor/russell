@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-25:
 
-LESSON NUMBER 25 WE STILL SEARCH FOR SIMPLICITY
-===============================================
+Lesson 25: We Still Search for Simplicity
+=========================================
+
+.. folio:: 0233
+   :page: 233
 
 We live in a bewildering world which confuses us only because we do not know it. A primate would be similarly confused about a watch. To him its wheels would have no meaning because both the mechanics and purpose of the watch would be incomprehensible to him.
 
@@ -22,6 +25,9 @@ A manufacturer produces a better product in the measure of his knowledge of his 
 The medical profession can make enormous strides in its great service to man by starting upon a basis of greater knowledge of CAUSE of the countless effects it encounters. In its search for CAUSE of effects in matter its beginnings should be in a greater knowledge of motion which matter is, and the relation of Mind to motion which polarizes or depolarizes body structure, or unbalances its polarity to form destructive tissues and destructive electro-chemical reactions.
 
 It is for this reason that we must talk in simple language while taking matter apart to see how and why it ticks as we have to take the watch apart for the same reason. The need for simple language is great because the things which shall be told to you about motion needs the replacing of old concepts with new ones. These new concepts must become new foundations for comprehension of things not yet known or even dreamed of in Nature.
+
+.. folio:: 0234
+   :page: 234
 
 All mankind is still in as primate a stage concerning the CAUSE and PURPOSEFULNESS of all effects of motion as the early man to whom you are trying to explain the watch. When you have finished explaining one thing to him in the simplest words you could find you would have to explain one thing after another about the wheels, the gears, the central shaft and its extensions before he even faintly comprehended its mechanism. Even then he would know nothing of its motivating force nor the principle of time itself.
 
@@ -43,6 +49,9 @@ No matter which pair of words I used they would all have the same meaning. They 
 It is not helpful to talk about REALITY and UNREALITY abstractly. These phrases, and many like them, such as the divided and the undivided, the physical and the spiritual or mortal mind and divine Mind, are commonly used, but if most people were pinned down with the necessity of explaining them to someone who "wanted to know" they would find themselves in a quandary. But you who are acquiring this new knowledge are able to explain all of such phrases.
 
 Knowing what they mean gives you a supremacy of power over all things, of your own body as well as the universal body, of cultural things as well as physical, for out of the rhythms of the divided universe come the expression of all of the arts,--and from the undivided Light comes the Soul of idea which is extended to cultural and intellectual expression in the arts. Likewise, your knowledge of the secrets which lie hidden within the wave gives you mastery of universal mechanics, mathematics and energy expression.
+
+.. folio:: 0235
+   :page: 235
 
 Conversations are too much filled with abstractions and affirmations without comprehension of their meaning.
 
@@ -71,6 +80,9 @@ Deep thought upon this idea should reveal to you that LIFE is but desire for MOT
 
 Likewise, both LIFE and DEATH are but bodies of thoughts formed in the image of thoughts which come and go in thinking Mind forever.
 
+.. folio:: 0236
+   :page: 236
+
 The greater the vitality which generates power to multiply motion the greater is your ability to manifest LIFE--but the moment you divide that power, by depolarization, or fatigue, or anything whatsoever which reduces the power of your body cells to pump vigourously--that moment you express DEATH.
 
 Now consider your desire in the morning to get into action, and to express that power vitally all day. Do you not equally desire to cease from action at night to relax--then still later to cease even the action of thinking by fully resting in sleep?
@@ -95,6 +107,9 @@ Grief, suffering, loneliness and kindred emotions are as purposeful in the Divin
 Sunshine in Nature would be a calamity without shadow--and an artist's picture would be purposeless and valueless without both sunshine and shadow in their balanced relations.
 
 No matter how great your knowledge of the unreality of death may be,--no matter how strongly you may live in the spiritual world--you must not forget that you have a physical body which manifests spiritual idea--and that you live in both the divided and the undivided universes of CAUSE and EFFECT.
+
+.. folio:: 0237
+   :page: 237
 
 To have so much knowledge of the undivided universe that it leaves you cold to the emotions of the divided universe is to hold yourself aloof from the play, and render you purposeless.
 

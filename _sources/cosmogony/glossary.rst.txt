@@ -3,11 +3,15 @@
 :nav_title: Glossary
 :title: Technical Glossary of Russell's Wave-Field Cosmogony
 :layout: book
+:folio: 0412
 
 .. _glossary:
 
 Technical Glossary
 ==================
+
+.. folio:: 0412
+   :page: 412
 
 .. rubric:: *Lexicon of Walter Russell's Wave-Field Cosmogony*
 

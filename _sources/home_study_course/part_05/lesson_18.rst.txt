@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-18:
 
-LESSON NUMBER 18 FIRST STEPS TOWARD EXPLAINING THE SUPREME MYSTERY OF LIFE AND DEATH
-====================================================================================
+Lesson 18: First Steps Toward the Mystery of Life and Death
+===========================================================
+
+.. folio:: 0167
+   :page: 167
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -47,6 +50,9 @@ Our Selves are eternal. Our Personal Selves have not been created. We but manife
 The only things which come and go are B O D I E S.
 
 Bodies do not live--nor do they die. They but function as tools for the length of their cycles, then wear out. Bodies are but waves of motion, and motion is not life.
+
+.. folio:: 0168
+   :page: 168
 
 Creation is an ever renewing, ever repeating bodily manifestation of Mind thinking. Creating bodies manifest idea, but bodies are not the idea they manifest. Likewise bodies manifest life and death but they are not life and death.
 
@@ -88,6 +94,9 @@ This thought is so beautifully expressed by God's own word in The Divine Iliad:
 
 "I am forever creating My living body and destroying it in seeming death that it may live in Me to die and live again.
 
+.. folio:: 0169
+   :page: 169
+
 "The end of life in death is life's new beginning. Both life and death are one in Me.
 
 "All things are forever living and forever dying; and while they live they die; and also while they are in death the live.
@@ -117,6 +126,9 @@ This thought is so beautifully expressed by God's own word in The Divine Iliad:
 "When once they meet, and pass, they then exchange these qualities, the greater growing lesser and the lesser growing greater.
 
 "Even though life is full when life is born, death emanates from life itself as death, and takes the opposite path toward death.
+
+.. folio:: 0170
+   :page: 170
 
 "Likewise does life emanate from death to weaken it when life is strong, until life conquers death to make death live as life.
 
@@ -149,6 +161,9 @@ From THE DIVINE ILIAD
 ANALYSIS OF THE LIFE-DEATH CYCLE
 --------------------------------
 
+.. folio:: 0171
+   :page: 171
+
 When I wrote these immortal words of our Father-Mother while in the Light with Him, I was fully aware of their dynamic meaning and the mechanics of His thinking processes by means of which he manifested His idea in formed bodies which come, and go, and come again forever.
 
 I fully knew that any idea which comes and goes is ONE in both its coming and going. In my full knowing I could not differentiate one from the other, therefore I could not differentiate life from death nor death from life.
@@ -174,6 +189,9 @@ The form of any idea is not the idea thus extended. It is but the material body 
 Idea is undivided and changeless. Idea has no body. Thinking takes idea apart and gives it thought bodies which are then manifested in material bodies.
 
 Idea does not come and go. It is but the bodies of ideas which come and go. It is but the formed bodies of ideas which appear, disappear and reappear in what we call life, death and rebirth. These transient bodies simulate idea by form and motion but transient moving form cannot be the eternal idea which it manifests in forever repeated cycles.
+
+.. folio:: 0172
+   :page: 172
 
 Remember then, that it is the repeated cycles of manifested ideas which confuses you into thinking life and death, and not the idea itself. Idea is eternal and has no cycles. The BODIES of ideas only are pressed in cycles.
 
@@ -204,6 +222,9 @@ Fig. 39 represents the static measure of desire for extension which is in the se
 
    Archival Plate (``image037.gif``)
 
+.. folio:: 0173
+   :page: 173
+
 It must be thoroughly known and comprehended that the dimensions of the full grown tree, including the duration of its life cycle, are as meticulously recorded in its seed as are the patterns of its wood and foliage. That which appears to exist in the visible universe really exists in the invisible universe. The invisible idea is eternal.
 
 The moment the division of the seed takes place the dimension of its former "incarnations" are already surveyed by the magnetic Surveyor of Creation and invisibly marked out for it upon both sides of its equator.
@@ -225,7 +246,12 @@ Fig. 41 represents the two extended static diameters which bound the predestined
 .. figure:: /_static/plates/image040.gif
    :align: center
 
-   Archival Plate (``image040.gif``)
+.. folio:: 0174
+   :page: 174
+
+.. picture:: 0174.g1.png
+   :alt: Spiral Nebula Illustrating Polarity and Radiation
+   :caption: Spiral Nebula Illustrating Polarity and Radiation (Folio 0174)
 
 In Fig. 41 the division has already taken place and the newborn tree has extended from its womb in the negative direction of motherhood toward space while its roots have extended in the positive direction of gravitation toward fatherhood.
 
@@ -244,7 +270,15 @@ Positive electricity and negative electricity are diametrically opposed to each 
 .. figure:: /_static/plates/image041.gif
    :align: center
 
-   Archival Plate (``image041.gif``)
+.. folio:: 0175
+   :page: 175
+
+.. picture:: 0175.g1.png
+   :alt: Figures 38–47 — Cycle of Polarity and Vitality
+   :caption: Figures 38–47 — Cycle of Polarity and Vitality (Folio 0175)
+
+.. folio:: 0176
+   :page: 176
 
 This is not the proper place to expand this idea but if you will look at a bar magnet you will find that it does just what the seed of the tree does. The electric current which divides the seed at its equilibrium point to pull one half of the tree inward to the positive center of the heart and the other half outward toward the negative area of the skies does exactly the same thing to a bar magnet.
 
@@ -271,7 +305,8 @@ Electricity manifests the basic principle of Creation--the LOVE principle of equ
 .. figure:: /_static/plates/image044.gif
    :align: center
 
-   Archival Plate (``image044.gif``)
+.. folio:: 0177
+   :page: 177
 
 5 - As the tree grows by unfolding outward from its seed it simultaneously refolds inward toward its seed. The pattern of every action of the tree is recorded in the magnetic Light of its seed. Later on you will marvel at this miracle of God's recording system by means of which every unfolding idea is carried over from one body to another for ages. This recording system will be explained in detail in later lessons.
 
@@ -301,7 +336,8 @@ If you will now re-read God's words at the beginning of this chapter, you will u
 .. figure:: /_static/plates/image047.gif
    :align: center
 
-   Archival Plate (``image047.gif``)
+.. folio:: 0178
+   :page: 178
 
 Meditate deeply upon this subject and you will find that there is no part of this journey of the tree from its appearance to its disappearance, that you could call life without as appropriately and truthfully calling it death.
 

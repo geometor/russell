@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-15:
 
-LESSON NUMBER 15 MAN MUST KNOW MAN
-==================================
+Lesson 15: Man Must Know Man
+============================
+
+.. folio:: 0138
+   :page: 138
 
 There are many things which are not yet known about your Mind, your thinking and your body, which you should know. You have to live in a creative world as co-creator of it, and the more you know of how you create bodies with your thinking as Nature produces them, and the more you know about the principles which govern the creation of bodies the more you can control, not only your own body but your destiny.
 
@@ -27,6 +30,9 @@ WHERE IS YOUR SOURCE OF ENERGY
 ------------------------------
 
 Another step in the unfolding of God's plan is to tell you how that mysterious thing called ENERGY becomes yours to use--where it comes from and what it is.
+
+.. folio:: 0139
+   :page: 139
 
 That is why I must talk to you for quite awhile about equators which seemingly divide God's ONE UNCONDITIONED LIGHT into PAIRS OF OPPOSITELY CONDITIONED LIGHT.
 
@@ -54,6 +60,9 @@ That is good reasoning, for the undivided cannot be divided. The magnetic Light 
 
 Later on I will explain to you the office and purposes of the light mirrors and lenses God makes use of to build His illusions of motion in wave fields which seem to divide His ONE Light into the extensions of The Divine Trinity, but for the present imagine a mirror placed in a room which not only made two where there was but one, but made each one the reverse of the other.
 
+.. folio:: 0140
+   :page: 140
+
 Now I want to give you something to think about--and deeply. If God is Omnipotent--which means all power, or energy of the material universe, how can there be any power or energy in bodies of matter?
 
 If God created the universe of matter it necessarily follows that the energy which created it is in the Creator, and not in His creations, just as the energy which is in your creations is in you--and not in the books you write nor in the buildings you build.
@@ -78,6 +87,9 @@ All the heat of all the universe is the effect produced by God's concentrative t
 Science can produce heat only by simultaneously producing cold. That principle is reversed by refrigeration to produce cold. You cannot produce cold on one side of the equator of the two without producing heat on the other side of it. They are the father and mother principle of the divided universe. A divided equilibrium MUST produce equal and opposite pairs simultaneously, then each must become the other sequentially.
 
 Heat expresses energy by expanding--but cold expresses an equal energy by contracting.
+
+.. folio:: 0141
+   :page: 141
 
 The heat of suns radiates out into space as cold. It has become its own opposite as all effects of motion in Nature do. Then the cold of space generates the heat that is in the suns. Cold has also become its own opposite by reversing its outward radial direction to an inward radial direction. That is all the difference there is between contraction and expansion.
 
@@ -109,6 +121,9 @@ Gravitation charges bodies with positive electricity. Radiation discharges bodie
 
 The outward direction of radiation and the inward direction of gravitation is the motivating mechanism which keeps the universal heartbeat forever pumping as your heartbeat pumps while geared to it.
 
+.. folio:: 0142
+   :page: 142
+
 THIS ENTIRE DIVIDED UNIVERSE OF MOTION IS ONE HUGE COSMIC ELECTRIC COMPRESSION-EXPANSION PUMP--AND GRAVITATION AND RADIATION IS ITS TWO-WAY MOVING PISTON. THE PISTON IS ONE BUT IT MOVES TWO WAYS TO EXPRESS ITS ONENESS.
 
 The energy which motivates the universal pump is neither heat, cold, compression, expansion, gravitation of radiation, for these are all effects of energy,--but they are not energy.
@@ -138,6 +153,9 @@ No matter how many sets of words you may use in respect to other pairs of opposi
 Motion itself is presumed to be energy. Motion expresses energy but, again we say, the expression of energy is not energy just as a photograph of a man is not the man, the poem is not the poet, nor the play the playwright.
 
 Motion takes place only for the purpose of finding balance for a condition which is out of balance with its equilibrium.
+
+.. folio:: 0143
+   :page: 143
 
 There is no energy in matter or motion. Likewise there is no life, or Light, or truth, or law in matter or motion.
 
@@ -169,6 +187,9 @@ I again quote God's divine Message in reference to the teachings in this lesson:
 
 "The heavens and the earths of My curved universe are father-mother of My universe, each of each and each to the other one. Neither one can be save the other also be.
 
+.. folio:: 0144
+   :page: 144
+
 "Nor can one leave the other, saying, 'Sit thou here while I journey to the far reaches.
 
 "Nor can there be aught upon the earth without the fathering skies, nor in the skies without the motherhood of earth; neither man, nor bird, nor reptile, nor fish, nor beast of wild jungle: neither tree nor flower, nor shrilly singing insect: neither tempest, wild tornado, nor gentle breeze of calm ocean; nor cloud, nor mist, nor dewdrop for flower petal; not one of these things can be born of earth alone unfathered by the heavens, nor heaven alone born them without the motherhood of earth.
@@ -181,10 +202,20 @@ I again quote God's divine Message in reference to the teachings in this lesson:
 
 From THE DIVINE ILIAD
 
+.. folio:: 0145
+   :page: 145
+
 .. figure:: /_static/plates/image031.gif
    :align: center
 
    Archival Plate (``image031.gif``)
+
+.. folio:: 0146
+   :page: 146
+
+.. picture:: 0146.g1.png
+   :alt: Figure 25 — Pull of Gravitation and Thrust of Radiation
+   :caption: Figure 25 — Pull of Gravitation and Thrust of Radiation (Folio 0146)
 
 .. figure:: /_static/plates/image032.gif
    :align: center
@@ -196,10 +227,16 @@ From THE DIVINE ILIAD
 
    Archival Plate (``image033.gif``)
 
+.. folio:: 0147
+   :page: 147
+
 .. figure:: /_static/plates/image034.gif
    :align: center
 
    Archival Plate (``image034.gif``)
+
+.. folio:: 0148
+   :page: 148
 
 .. figure:: /_static/plates/image035.gif
    :align: center

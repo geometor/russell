@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-12:
 
-LESSON NUMBER 12 ANSWERS TO STUDENTS QUESTIONS
-==============================================
+Lesson 12: Answers to Students' Questions (Part III)
+====================================================
+
+.. folio:: 0109
+   :page: 109
 
 "ALL QUESTIONS ARE ANSWERABLE IN LIGHT. THOU ART LIGHT, THOU CAN'ST ANSWER THEM."
 
@@ -30,6 +33,9 @@ I assure you that I am glad to answer any question you ask but it will be of gre
 Among the many questions I have received the following are most typical.
 
 QUESTION. "I am deeply confused regarding my own individual Soul and what you term the Universal Soul. If my individual Soul, which I assume I have, is part of the Universal Soul, as one drop of water is part of the ocean, how can it still be my individual Soul for reincarnating as such when it loses its identity in the Universal Soul as the drop of water loses its identity when put back in the ocean?"
+
+.. folio:: 0110
+   :page: 110
 
 ANSWER. This question is ahead of the lessons but a brief answer will not only help satisfy your curiosity, and remove part of the veil of your confusion, but will help prepare you for the lesson when it does come.
 
@@ -55,6 +61,9 @@ A key is male and a lock is female. So are a model and a mould of it.
 
 A male body may be preponderantly negative and a female body may be preponderantly positive. Homosexuality arises from such unbalanced conditions which began in the foetus.
 
+.. folio:: 0111
+   :page: 111
+
 Alternation in sequential incarnations is a question of recorded desire for expression. To illustrate what I mean by this consider the musician whose every thought during a lifetime is concerned with musical rhythms. His Soul record would repeat itself in his desires and he would undoubtedly recollect and repeat his desires in the next incarnation. As to the sex of his body that depends entirely upon the interchange of the forming foetus, but strongly positive desires recorded in the Soul-seed will be reproduced with a strongly positive body, probably male, but if female would produce a very positive character.
 
 QUESTION. "Please define what you mean by Mind, Self, and Mind Self--Consciousness and Cosmic Consciousness--Intellect and intelligence--and Light."
@@ -76,6 +85,9 @@ Everything in the universe is indissolubly bound to everything else in it by inv
 QUESTION. "At 65 I find myself in a quandary as to what to do to improve my personal economic conditions. My friends all advise me so differently that I do not know which advice to follow, Can you enlighten me?"
 
 ANSWER. Ask God about it. He will tell you for the answer is in yourself. No one can advise you who does not make your problem his very own, and that is too rare a happening. You cannot tell them the whole of your problem even if you try. The more you refrain from telling others about your problems and spend that time in communion with God the stronger you will become as your own leader. In The Divine Iliad are these words. "See Me. Know Me. Be Me. Be thou fulcrum of thine own power." That is your path to your own independence.
+
+.. folio:: 0112
+   :page: 112
 
 QUESTION. "On page 27 you say: 'When God decentrates His thinking those body forms expand into disappearance to reappear when God reconcentrates His thinking.' Is this the reason one dies (at the time he does) because God withdraws His thinking from this one?"
 
@@ -101,6 +113,9 @@ The inventor, business executive or musician whose work is creative absolutely M
 
 QUESTION. "What do you personally do in your work to concentrate and decentrate?"
 
+.. folio:: 0113
+   :page: 113
+
 ANSWER. I take the most important work first. If that work is a portrait sitting I start it full of the vigour which follows a long night of decentration--which is rest from thinking--and rest of body, reinvigorated by two hours of walking, riding or skating.
 
 I work for two hours, for experience tells me that I can do creative work for two hours. Then I stop, decentrate for a short time and can do equally well at something else for two hours--and I can do that continually for ten to fourteen hours without ever feeling fatigue.
@@ -124,6 +139,9 @@ ANSWER. Exactly. Or you could say hot or cold--or matter and space--or solidity 
 QUESTION. "I can see how all the words apply except hot and cold. I cannot in any way connect them with concentration or decentration. Please explain?"
 
 ANSWER. You asked me if concentration and decentration were not analagous to compression and expansion. You must have understood that. You also must know that compression and contraction heat while expansion cools.
+
+.. folio:: 0114
+   :page: 114
 
 If you could but cease thinking of many words and many things and think--instead--of the one simple principle which governs all effects. My greatest desire is to remove the useless and needless complexity from your thoughts and actions.
 
@@ -150,6 +168,9 @@ You would then produce a masterpiece in one tenth of the time you wasted in REAS
 You can have no better illustration of that than my colossal figure of Jesus which I did in four months without an assistant as against the normal time required by a sculptor of two years with an assistant who worked by himself alone without God.
 
 Added to the time saving, one's work is always a masterpiece who works knowingly with God's Mind and hands, and never can be a masterpiece otherwise.
+
+.. folio:: 0115
+   :page: 115
 
 QUESTION. "During your Illumination you spoke of knowing the unreality of the material universe. You knew it to be an illusion. Please tell us more about that. How could you know that--and how could God tell you that it is not real?"
 
@@ -189,6 +210,9 @@ I will quote God's words, written through me in The Divine Iliad, where very muc
 
 * * *
 
+.. folio:: 0116
+   :page: 116
+
 "To think is to create. I create with light. Nothing is which is not Light.
 
 "I think Idea. Light registereth My Idea in the two sexed lights of My thinking, and form is born in the image of My thinking.
@@ -219,6 +243,9 @@ If the senses could record all motion, not just a limited part of it, they would
 
 QUESTION. "I think I am beginning to understand but I wish you would clarify it more. You so often refer to the unrealities of creating things. All my life I have heard metaphysical groups tell that matter is not real. In the story of your Illumination you told about immediately knowing the unreality of matter. I believe it but I do not fully KNOW it, for when I think of a hard bar of iron I think of it as pretty real. How can you help me KNOW it more fully?"
 
+.. folio:: 0117
+   :page: 117
+
 ANSWER. A hard block of ice has the same seeming reality but it will disappear into the formless state it came from very quickly in the sunshine. And so will a bar of iron disappear in the same manner if melted. Its form will disappear into formless gases and the whole bar of iron will disappear if enough heat is applied to melt it.
 
 If you think of all solids, which you think of as so real, as but ices of substances, frozen into transient forms, that will help you. When you really get it fully into your Consciousness that this is a universe of the still Light of Mind only, and that Mind thinks imagined forms--and that all imagined forms emerge from that stillness as just thought waves of motion--it will help you some day actually to KNOW it.
@@ -238,6 +265,9 @@ Please take note that I used the word "disintegrate". I did not say "melt", or "
 QUESTION. "You have spoken so many times about knowing all there is to know timelessly. No matter how I try to think it out I cannot understand it. Everything takes at least some time to create. Could you clear that up a little for me?"
 
 ANSWER. You are right when you say that every creating thing takes time. For example, it takes fifty years of time to grow an oak tree from a seed, but if you look at an oak seed you can know the oak tree which is within it timelessly.
+
+.. folio:: 0118
+   :page: 118
 
 Knowledge of idea does not belong to a three dimensional space-time and thought universe. Knowledge of idea, and the qualities which belong to the Light of God's still universe of Mind, are timeless. It is only the expression of an idea which takes time. By "expression of an idea" I mean giving it a material body. It means transforming qualities of the still Light which you cannot sense into quantities of the moving lights which you can sense.
 
@@ -263,6 +293,9 @@ I found it that way when God sent Lao, I did fine work before that, and so did s
 
 "The lessons have been read and reread many times. And as with all your writings, more comes out of them each time I read them. Though I believed that the other works of yours were unsurpassable, I was wrong--for the present group of lessons are vastly deeper and more fascinating.
 
+.. folio:: 0119
+   :page: 119
+
 "That you have given them out to the world we thank you: but that your beloved Lao has been the inspiration for this priceless gift makes all of us equally grateful to her." G. K. California
 
 Another wonderful thing about the need for a balancing mate is the fact that God will always send you to--or lead you to the exactly right mate at the time of greatest need if you let no other motive than that of need creep into your desire. Many mis-matings have been made because of motives other than need for mutual balance in all things, have crept in.
@@ -286,6 +319,9 @@ You must fully KNOW that all you are doing at all times is producing thought ima
 And that is all that God does, for that is what Creation is.
 
 No matter who you are, or what your station in life, all you do throughout life is what God does--create formed bodies in your image for your thought imagined forms.
+
+.. folio:: 0120
+   :page: 120
 
 When I speak of creating bodies I do not mean just organic bodies of living things. I mean THOUGHT BODIES OF IDEAS--for that is what a musician gives to his idea, or an inventor to his, [or] a housewife who creates a body for her idea of--and desire for a pie--or of an architect's idea for a temple--for we are all perpetually creating bodies--and naught else.
 

@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-03:
 
-LESSON NUMBER 3 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED
-===================================================================
+Lesson 3: Meditation Scientifically Explained (Continued)
+=========================================================
+
+.. folio:: 0021
+   :page: 21
 
 GOD IS LIGHT
 ------------
@@ -31,6 +34,9 @@ To the extent that you become aware of God as the still Light which centers you 
 
 All geniuses conceive their ideas with that accompanying ecstasy and exaltation. They then think those ideas into form. After the mental image is clear they give a material body to each idea for others to interpret in the measure of their knowing. To sum this up we might say that meditation is a sequential journey from the zero of Mind knowing through the action of Mind thinking to the rest point which centers two-way thinking, and back again to that zero of Mind knowing.
 
+.. folio:: 0022
+   :page: 22
+
 The more intensely you can comprehend this definition the more simply you will find all things in life, for we do not depart from the above formula in any decision or action of life or the solution of any problem of life. Nor do we depart from it during this entire course of lessons. It is very basic, as you will find out as we proceed, I urge you therefore, to give deep thought to it, and recognize its prototype in principle in every thing as we proceed.
 
 Desire in God to manifest His Being by producing imaged forms by projecting in light waves of motion from the stillness of His Light of knowing is the energy of the universe which He is eternally creating. Desire in you is, likewise, the energy which enables you to create your universe. We will talk much, later on, about your energy and God's energy in relation to the motive power extended to you from God, and your use of it.
@@ -53,6 +59,9 @@ In communing with God directly, or through those moods of Nature which lead you 
 Imagine yourself communing with God indirectly, such as listening to the heavenly rhythms of God's heartbeat in a masterful symphony. While thus enraptured by the divine rhythms reaching your very Soul can you possibly imagine yourself thinking evil, or thinking sinfully by planning to cheat, or lie, or steal? No--of course you cannot. The reason you cannot is because you are reflecting the love nature of the universe in your spiritual Self in its entirety, and there is no sin in that love nature to reflect.
 
 That is why you should seek God in meditation immediately if you indulge in an angry, or even unkind thought to find balance in the universal love principle, else the toxins of unbalanced conditions brought on by yourself will upset your balanced body rhythms which all illnesses are.
+
+.. folio:: 0023
+   :page: 23
 
 Form the constant habit of meditation. Make it a moment to moment, continuous attitude of your Mind in order to keep in tune with the universal rhythms of God's balanced thinking. Be in tune with them always. Never stray far enough from God-awareness to allow the slightest imperfection in your work, your health, your friendships, your business plans or any achievement whatsoever.
 
@@ -89,6 +98,9 @@ Unless the Light of love which illumines you is extended into your creations the
 
 The one point I wish to accentuate is that what I am now telling you is universal law, inescapable and inevitable law, which cannot be violated or set aside.
 
+.. folio:: 0024
+   :page: 24
+
 For me to tell you this is not enough. Talk it over with God in your heart and you will really know that if you break it to the slightest extent it will break you equally, while if you work with that law it will work with you to the fulfillment of your every desire.
 
 HOW DOES MEDITATION HELP TO CREATE?
@@ -114,6 +126,9 @@ This is the mood of all creative geniuses during the inspiring and ecstatic hour
 
 Up to this inspired stage of concept no teacher can become a part of it. Not until the creator of a cosmic idea wishes to give it a material body can the teacher be of any help.
 
+.. folio:: 0025
+   :page: 25
+
 By giving it a material body I mean to extend the conception from the Consciousness of Mind, through thinking, to the sounds of a musical instrument, or the symbols of a written manuscript. That is purely a question of technique. The teacher is helpful in the acquirement of a technique, and all the mechanics which go with it, which anybody of average intelligence can also learn from a teacher.
 
 In giving your conception a material body many years of technical and scientific practice is needed. The science of the octave spectrum of color or tone is needed for expressing each of the arts, for from those octave wave rhythms the poet, painter, architect, sculptor or musician gives rhythmic bodies to his inspired conceptions.
@@ -135,6 +150,9 @@ Many humans are but electric machines which remember and repeat information reco
 Many unawakened humans forever repeat the ideas of others like those who stand in assembly lines, each one electrically sensed to do his unthinking-unknowing part like an electrically driven automaton.
 
 But many there are also who stand in assembly lines all day and perform work automatically with their bodies while their Souls are in communion with God in His high heavens. These are the cosmic ones among men who are seeking to find the kingdom of the Soul's high heavens. These who desire the Light shall find the Light by meditation with God.
+
+.. folio:: 0026
+   :page: 26
 
 John Jones of the assembly line can escape from John Jones and be also Rachmaninoff, or Shakespeare, or Phidias at will. Through meditation John Jones can roam the universe and be alone with God in the deep woods hearing the rippling fall of waters, or the breezes in the pines above the crash of factory wheels or gears.
 

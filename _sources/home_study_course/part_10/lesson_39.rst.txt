@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-39:
 
-LESSON NUMBER 39 REINCARNATION CONTINUED THROUGH COSMIC KNOWING WE MULTIPLY OURSELVES INTO TRANSCENDENT BEINGS.
-===============================================================================================================
+Lesson 39: Multiplication into Transcendent Beings
+==================================================
+
+.. folio:: 0354
+   :page: 354
 
 The human race is slowly unfolding from a primitive, physical existence to a divine spiritual one. The stages of our unfolding begin with a limited range of body sensing, and end with an unlimited range of Mind-knowing.
 
@@ -20,6 +23,9 @@ These lessons are for the purpose of giving you the knowledge of how to transcen
 1. By gaining the comprehension which will enable you to increase the range of your now very limited sense perception to a very great range.
 
 2. By a great increase in what is known as extra-sensory perception. The great mass of the human race has, as yet, but learned to think in the positive direction of concentration. Only a few can balance their concentrative thinking with decentrative thinking, --and a more rare few can control their thinking from the still center from which the pendulum of their thinking swings two ways between the positive and negative halves of their bodies. Every gain in knowledge in this direction increases the range of sense perception.
+
+.. folio:: 0355
+   :page: 355
 
 3. By the multiplying power of balanced mating, which means the unifying principle that voids the unbalance of divided sex condition. Knowledge of the electric nature of the two opposites which male and female are, will avoid the great ills which arise from pure ignorance of this relation.
 
@@ -54,6 +60,9 @@ The many thought forms are extended from the ONE Mind. They are but seemingly se
 
 IF ALL MOTION SUDDENLY CEASED THE UNIVERSE WOULD BE WITHOUT FORM AND VOID. IT WOULD THEN BE ONE WITHOUT THE ILLUSION OF SEPARATENESS.
 
+.. folio:: 0356
+   :page: 356
+
 Our purpose now is to explain the mechanics of the illusion which makes it possible for the ONE to SEEM to be many.
 
 The secret of it lies in the desire of Mind to THINK its One Idea of Creation into the many thought forms of that ONE IDEA. To THINK means to extend MOTION from STILLNESS--and the motion thus extended must become still. It must then again become motion in order to return to the point of stillness from which it sprang.
@@ -82,6 +91,9 @@ No. 2. Now let us look at all Nature as though the desire to express idea is man
 
 POSTULATE
 ---------
+
+.. folio:: 0357
+   :page: 357
 
 Now apply the above to PURPOSE--God's purpose. The outward extension from a point of desire anywhere in God's Cosmos, is the action of GIVING.
 
@@ -115,6 +127,9 @@ No. 3. We have stated that every unit of Creation is an extension of every other
 
 A simple diagram will clarify this idea. See Fig. 75.
 
+.. folio:: 0358
+   :page: 358
+
 .. figure:: /_static/plates/image059.gif
    :align: center
 
@@ -123,7 +138,8 @@ A simple diagram will clarify this idea. See Fig. 75.
 .. figure:: /_static/plates/image060.gif
    :align: center
 
-   Archival Plate (``image060.gif``)
+.. folio:: 0359
+   :page: 359
 
 This drawing represents two suns in space. We have made them similar in mass so their wave-fields will be equal.
 
@@ -132,6 +148,9 @@ These suns have been compressed into their abundance by the multiplication of li
 Each of these two suns give to each other by radiating their gift outward into space. Between each unit of Creation and every other unit there is a plane of equal pressures where whatever is RADIATED by each unit reverses its direction at that equator and then GRAVITATES toward every other unit in Creation.
 
 Fig. 75, which illustrates balanced interchange between two suns, and Fig. 76, which illustrates balanced interchange between a man and woman, and Fig. 77, which illustrates balanced interchange between the opposite poles of a bar magnet represent two polarized units in space. Each of these units RADIATES its light OUTWARDLY into space. Each regives that which space gave to it in abundance.
+
+.. folio:: 0360
+   :page: 360
 
 Each sun is presumably, giving to the other, each human is presumably giving to another and one pole of a magnet is likewise presumed to be giving to the other. That is a fact--but beyond that interchange between just TWO units is the greater fact that each is giving to every other unit in space.
 
@@ -149,6 +168,13 @@ Make it a part of your Consciousness that you cannot extend a gift to any indivi
 
 Make it a part of your Consciousness, also, that all we are dealing with in this universe is the Light of Love which cannot be bound, nor limited. Just as you cannot prevent the sound of your voice reaching around the earth seven times per second so, also, you cannot prevent any thought or action of yours from impacting every human on the planet.
 
+.. folio:: 0361
+   :page: 361
+
+.. picture:: 0361.g1.png
+   :alt: Figures 79–83 — Wave-Field Division Between Two Suns
+   :caption: Figures 79–83 — Wave-Field Division Between Two Suns (Folio 0361)
+
 .. figure:: /_static/plates/image061.gif
    :align: center
 
@@ -157,9 +183,13 @@ Make it a part of your Consciousness, also, that all we are dealing with in this
 .. figure:: /_static/plates/image062.gif
    :align: center
 
-   Archival Plate (``image062.gif``)
+.. folio:: 0362
+   :page: 362
 
 Fix also into your Consciousness that your eternal Soul is but a centering point in the universal Consciousness and the limits of desire extending from your Soul are those of the universe itself.
+
+.. folio:: 0363
+   :page: 363
 
 Fix also into your KNOWING that you are both father and mother--for you radiate Light and Light gravitates to you. You are a focal center of a spiral vortex--a center of gravity--toward whom the universe MUST give of ITS abundance to maintain YOUR abundance.
 
@@ -186,6 +216,9 @@ The earth is not, therefore, a huge magnet. It is a body being formed into a sph
 
 In Fig, 80 you will see the positive and negative ends of two bar magnets interchanging their balance in a desire for unity of two wave-fields into ONE--and two gravitative-radiative centers into ONE. That is what marriage means--the union of two wave-fields, and two centers of gravity into ONE.
 
+.. folio:: 0364
+   :page: 364
+
 .. figure:: /_static/plates/image063.gif
    :align: center
 
@@ -194,7 +227,15 @@ In Fig, 80 you will see the positive and negative ends of two bar magnets interc
 .. figure:: /_static/plates/image064.gif
    :align: center
 
-   Archival Plate (``image064.gif``)
+.. folio:: 0365
+   :page: 365
+
+.. picture:: 0365.g1.png
+   :alt: Figure 84 — Iron Filings Between Two Bar Magnets
+   :caption: Figure 84 — Iron Filings Between Two Bar Magnets (Folio 0365)
+
+.. folio:: 0366
+   :page: 366
 
 If you place some iron filings between two bar magnets you will find that they quickly form a sphere. If you approach that sphere with a needle you will find that the needle points toward the center of the sphere, whereas it would point toward either pole of the magnet if the iron filings were removed. By studying Fig. 71 on page 523, and Fig. 80 together you will more readily understand why the earth is not ONE magnet but is the uniting of two halves of two magnets.
 
@@ -216,6 +257,9 @@ ALL MATTER IS LIGHT AND IS MANIFESTED BY SPIRAL LIGHT-WAVES
 -----------------------------------------------------------
 
 There has been much controversy in science as to the nature of light. For a long time light has been presumed to be corpuscular, which means that it is composed of particles of matter. In recent years light has been said to be made up of waves. Both are right. All motion in the universe is wave motion. Matter is a corpuscular record of the electric potential at any one point in any wave. Particles of matter form wherever desire of Mind to express form takes place--and that is everywhere.
+
+.. folio:: 0367
+   :page: 367
 
 There is no point in the universe which is not continually extending and retracting in inward-outward explosions to multiply the black light of space into the white light of incandescent matter and to divide the white light to return it to the zero from which it came. Every particle of matter is a wave and every wave is completely filled with particles of matter which measure the electric potential at every point in every wave-field.
 

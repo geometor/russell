@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0174
 
 .. _cosmogony-ch2:
 
 Chapter II: The Double-Cone Vortex — Centripetal Generation & Centrifugal Radiation
 ===================================================================================
+
+.. folio:: 0174
+   :page: 174
 
 .. rubric:: The Two-Way Spiral Engine of Life, Growth, and Magnetism (Lessons 18, 29, 43 & 46)
 
@@ -11,6 +15,9 @@ In Russell's wave mechanics, there are no straight lines in the moving electric 
 
 The Electric Cycle of Vitality (`Figs. 38–47`)
 ----------------------------------------------
+
+.. folio:: 0175
+   :page: 175
 
 Vitality in any system—whether an oak tree, a human body, or a stellar sun—is measured by the ability of its opposite poles to pull apart from its zero equator toward wave amplitude (``+4 / 0 / -4``):
 
@@ -42,6 +49,9 @@ Orbit the 3D six-axis conical vortex below, toggle between a single polar magnet
 
 Why All of Nature's Magnets Are Cones (`Figs. 158–161`)
 -------------------------------------------------------
+
+.. folio:: 0465
+   :page: 465
 
 A man-made cylindrical bar magnet (`Fig. 158`) artificially forces equal density at both poles, producing a flat equator of zero curvature. In free space, however, every pressure gradient expands conically from a dense gravitational apex (``N``) to a tenuous radiative base (``S``):
 

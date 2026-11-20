@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-07:
 
-LESSON NUMBER 7 THE STORY OF MY ILLUMINING
-==========================================
+Lesson 7: The Story of My Illumining
+====================================
+
+.. folio:: 0057
+   :page: 57
 
 I
 ----
@@ -29,6 +32,9 @@ II
 ----
 
 Then it happened--a blinding glare--red--then incandescent--then a field of blue shut the whole world of all things out from me leaving naught but indescribable ecstasy while my body wandered by itself without me to the great root of my beloved oak where I found myself sitting with a hand full of marbles with which I had been playing with other boys in a ring full of marbles drawn in the dirt near the grocery store.
+
+.. folio:: 0058
+   :page: 58
 
 I remember as though it were but a minute ago the effect of that tremendous transition into another world so utterly unlike that one in which my body dwelled--and breathed in and out so strangely and unnecessarily. When I began to realize the world of many things I felt myself to be that world of many things--all one--and I--the universe--the tree--the sky--the little ant on my thumb, and the great oak above me. An indescribable ecstasy pervaded me like unborn vibrations of the great silence from which the vibrations of sound rhythms will be born, an ecstasy which I was to know again and again for ten thousand times ten thousand times when I walked and talked with God in My World all through my long, long life of working knowingly with Him from that very day.
 
@@ -55,6 +61,9 @@ IV
 Then in my fourteenth year came the second great illumining at a time when my body had been declared dead by the doctors, and undertakers were arriving. Black diphtheria had destroyed my throat and shut off my breathing.
 
 Then again came the great Light which had come to me in my first illumining and I arose from my bed perfectly healed, to the great amazement of my weeping parents and to the doctors who found that my throat was perfectly healed.
+
+.. folio:: 0059
+   :page: 59
 
 During the period of complete unawareness of my body, and cessation of my heartbeat I had complete Consciousness of knowing from the moment of that severance of electric and conscious awareness which I will later describe from a scientific basis.
 
@@ -83,6 +92,9 @@ No words of mine can quite convey as much meaning as those set down in The Divin
 V
 ----
 
+.. folio:: 0060
+   :page: 60
+
 Each year in May, year after year, came those ten or more days when I sought the forests to be alone with God. Each year I became slightly more aware of my purpose which I was to know fully in 1921. It was enough for the time that I was made aware of the fact that I must demonstrate tremendous versatility to prove to man that whatever he desired to do he could do.
 
 And so the years of preparation passed, each one, however, evidenced by doing something that I had never done before, or not even thought of doing. And each seventh year was marked by the doing of something extraordinarily different than I had ever before done, such as painting THE MIGHT OF AGES at twenty-eight, the designing and building of many buildings costing millions during the following seven years while painting the most beautiful children in America--then introducing figure skating in America acquiring personal masterliness of the art in addition to painting many portraits and writing many books. And so the years of intensive preparation passed until May, in the year of 1921, when the supreme experience of The Anointing of Light became mine, and My World of Light and the ecstasy of it, was once more mine in all of its fullness.
@@ -104,6 +116,9 @@ The Light of spiritual Consciousness centers the divided, or polarized Light whi
 
 Usually the Cosmic Illumination has a duration of a few minutes or hours, leaving an aftermath of a few days, but no matter how brief it is it completely transforms one into another higher being. My usual period through life has been about ten days following the first intensive few hours, but this 1921 period lasted for thirty-nine days and nights, beginning on May 10th and ending June 19th.
 
+.. folio:: 0061
+   :page: 61
+
 VII
 ----
 
@@ -124,6 +139,9 @@ Inspiration is the first stepping stone which leads to genius. Genius is the nex
 Inspired men, geniuses and mystics are the Saviours of other men. They are the interpreters of God's language of Light, and teachers of the love nature of God who uplift the world of men by reinspiring them with the Light of their illumining, each in the measure of his own awareness of the Light of God-Consciousness (or Christ spirit) within him.
 
 Treasure, therefore, your inspired moments which become more and more yours as you increasingly walk and talk and WORK with God.
+
+.. folio:: 0062
+   :page: 62
 
 Each of the supreme mystics of the past brought the Message of LOVE, UNITY and THE BROTHERHOOD OF MAN to the people of their day, but the human race was too newly out of the jungle to either comprehend the principle of love or practice it.
 
@@ -147,6 +165,9 @@ It was necessary to overcome this difficulty, for the great reason for keeping m
 Also it was necessary for me to make hundreds of diagrams for chemical and astronomical charts for the purpose of giving science a new cosmogony in harmony with the laws of Nature to replace the present one which does not conform with natural law.
 
 Over forty thousand words were thus written and hundreds of charts made, with God's Mind and thinking being mine--with hardly an erasure or correction. You who have read The Books of Beauty, Love, Desire, Healing and other parts of The Divine Iliad surely know that I alone could not write such rhythmic and masterly literature, nor can any man at any time produce masterly art except while in the ecstasy of working knowingly with God. Nor can any man write masterly literature without constant rewriting and editing.
+
+.. folio:: 0063
+   :page: 63
 
 During the entire period of severance I could never attach my body to my Mind as a part of my Self. It always seemed outside of me, unattached, like an instrument which I could use but was in no way related to my personal being.
 
@@ -175,6 +196,13 @@ I also instantly and timelessly knew that the magnetic Light of the God of love 
 
 Thus knowing the universal heartbeat I knew the electric wave, or universal pulse, to which all moving, creating things were geared. Thus knowing the wave and its octave pulsebeat in cyclic rhythms which spelled their rhythms out for me always as zero--one--two--three--four--zero--four--three--two--one--zero.
 
+.. folio:: 0064
+   :page: 64
+
+.. picture:: 0064.g1.png
+   :alt: Figure 6 — The Heartbeat of the Universe
+   :caption: Figure 6 — The Heartbeat of the Universe (Folio 0064)
+
 I then knew all cause and comprehended all effect.
 
 There was nothing to know but God's one whole idea of Creation, which is represented in the following diagram by the changeless ZERO of the spiritual Mind universe of REST--and nothing to comprehend but the heartbeat of this pulsing electric wave universe of motion which is represented in the diagram by the NUMBERS.
@@ -195,6 +223,9 @@ The reason why I have been able to do so many things during life, and do them in
    :align: center
 
    Archival Plate (``image008.gif``)
+
+.. folio:: 0065
+   :page: 65
 
 Figure 6 - The Heartbeat of the Universe
 
@@ -221,6 +252,9 @@ That which man calls evil, or sin, or shame--or any of its attributes such as an
 
 Man, himself, has manufactured evil, sin and shame because of the impossibility of keeping himself in balance because of his greeds, which impelled him to take what he wanted without giving in order to be regiven.
 
+.. folio:: 0066
+   :page: 66
+
 There is no such thing in Nature as evil, sin or shame. Nature is never unbalanced. The heavens give of light and rains to earth and earth regives equally of her forests, and crops, and vapors which replenishes the heavens.
 
 That is Nature's manifestation of the law of love which keeps Nature ever in balance. I will give you another diagram to illustrate the love principle. This will be one more step in trying to transfer to your comprehension that state of balance which kept me in the one ecstatic condition of Cosmic Consciousness for so long a period of severance of Mind from the sensations induced by the electric thinking of Mind from which bodies appear, disappear and reappear in endless sequence.
@@ -246,6 +280,9 @@ I shall now give you some of these unpublished pages so that you may know how ex
    :align: center
 
    Archival Plate (``image009.gif``)
+
+.. folio:: 0067
+   :page: 67
 
 "Thou art the Light.
 
@@ -289,6 +326,9 @@ I shall now give you some of these unpublished pages so that you may know how ex
 
 * * *
 
+.. folio:: 0068
+   :page: 68
+
 "Confine thy teachings to the written words translated from thy Father-Mother's rhythmic words in Light.
 
 "Preach not thou, nor teach, beyond what thou hast written down, for thou art man and full of man's failings.
@@ -323,6 +363,9 @@ It has been commanded of me to turn man's eyes away from his jungle, to tell him
 
 "The seeds of hate is he sowing for the babel of many tongues to multiply.
 
+.. folio:: 0069
+   :page: 69
+
 "I am a patient God. All men will come to Me in due time, but the agony of awaiting that day shall be theirs alone.
 
 "And that day shall not come until man himself shall cleanse himself from his own unbalanced thinking.
@@ -346,6 +389,9 @@ It has been commanded of me to turn man's eyes away from his jungle, to tell him
 "And many who see such agony in man will say to thee that a God of love cannot be if man be son of God, and God the loving Father-Mother of all men.
 
 "But I say to thee, all men are one. The thinking of one is the thinking of all, and so shall the world-harvest be that which was sown in the seed of world-thinking. Man's world is the sum-total of man's thinking. It is what all world-thinking makes it.
+
+.. folio:: 0070
+   :page: 70
 
 "If love be in the world hate cannot also be.
 
@@ -379,6 +425,9 @@ Such Illumination is too wonderful for quick unfoldment in man, for every cell i
 You are able to see and feel that which you have long believed to be you, and you have built up a sense of ego or individuality around and within your body which has forcibly separated you from all other men, for they are individuals also--human bodies of persons in countless numbers, all separate and apart from each other.
 
 It is not a quick process to forget body and separability of bodies just by being told about it, even though you believe it. Your body is the high hurdle which you must surmount in order to know your divinity.
+
+.. folio:: 0071
+   :page: 71
 
 This story of my Illumination will help you to realize that you can put aside your body at will--TO A GREATER OR LESSER EXTENT--and know your divinity to the extent in which you can put your body aside.
 

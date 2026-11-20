@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-48:
 
-LESSON NUMBER 48 THE SUPREME QUESTION AND THE SUPREME MYSTERY OF CREATION
-=========================================================================
+Lesson 48: The Supreme Question and Mystery of Creation
+=======================================================
+
+.. folio:: 0506
+   :page: 506
 
 From whence and what cometh energy for the initial impulse of power and speed which is given to any creating body and multiplies it for a time before withdrawing all of it for another period between eternal cycles of beginnings and endings in an eternity which has no beginnings and endings?
 
@@ -28,6 +31,9 @@ Do you really know the meaning of ENERGY? Do you really know why you attain grea
 Across the valley you see the quick, silent flash from a revolver. Two seconds later you hear the report of the explosion. Twelve thousand miles away an Arab hears that shot in his desert tent long before you have heard it across your valley. And if a man on the moon had that Arab's radio he also could hear that shot across that vast gap of space before you heard it across your two mile valley.
 
 Are there two energies, one within the other, or two kinds of energy to give two speeds to every action and reaction of everything of earth and heaven? Or is there some as yet unknown mystery in Nature which we know not of because we have only been concerned with moving matter and the energy of its moving?
+
+.. folio:: 0507
+   :page: 507
 
 How can this be? We are told that one of these velocities is the speed of sound which is 1100 feet per second, and the other velocity is the speed of light which is 186,000 miles per second. Yet they are both sound. You hear them from both speeds. Are both of them, likewise, light?
 
@@ -57,6 +63,9 @@ The energy which man uses does not begin in man--it ends in him. It does not ext
 
 Until man becomes the fulcrum of his Self, through Comic knowing he is but an extension of the fulcrum which moves the universe but when his Self becomes the fulcrum of his Self through knowing the Light of universal Self, he then moves the universe.
 
+.. folio:: 0508
+   :page: 508
+
 THE PISTOL SHOT
 ---------------
 
@@ -79,6 +88,9 @@ Much coal was burned but as the speed of momentum increased less coal was burned
 Energy is Cosmic. Desire is also Cosmic. Desire of man for power and speed gave to him the power and speed of his desire. It was extended to him from the Cosmos by that Cosmic power which fulfills all desire of all creating things which has no name for it is not yet known. We shall give it a name nearest to that which is appropriate to its meaning. For want of a better one we will it INERTIA and further unfold its meaning in the few pages which remain unwritten.
 
 To exemplify the power of extended Cosmic energy to man from the universal fulcrum of power consider the laborer who can shovel twenty tons of coal in a day because of his desire to do so. The food he eats replaces his body waste but does not lift that twenty tons of coal. Even if his food were entirely converted to the so-called energy which motion is presumed to be it would not lift twenty pounds, let alone twenty tons.
+
+.. folio:: 0509
+   :page: 509
 
 This is the mystery which must still be clarified in these last few pages.
 
@@ -105,6 +117,9 @@ The connection between POLARITY and UNIVERSAL THINKING MIND has not yet entered 
 
 To clarify all this confusion we will again restate the essentials of God's principles and processes of Creation one simple step at a time as an artist paints his picture, one enlightening brushstroke at a time.
 
+.. folio:: 0510
+   :page: 510
+
 1. God is the all-knowing, all-powerful Mind of undivided, unconditioned, formless, motionless, changeless and dimensionless Light.
 
 2. In the Light of all-knowing is DESIRE for the expression of the IDEA of all-knowing in three dimensional form by creating a universal body of divided lights which will extend from the undivided ONE as a lever extends from a fulcrum to manifest IDEA through motion.
@@ -128,6 +143,9 @@ THE ENERGY OF THE COSMOS LIES WITHIN THE FULCRUM EQUATOR WHICH DIVIDES AND SEPAR
 10. Electric thought-waves which equally divide the One still Light into two moving lights, likewise, keep the equally divided pairs of opposite conditions in balance with each other. Not one milligram of weight in the whole universe can outbalance one polarized condition with its mate condition.
 
 11. Electric thought-waves are the recorders of all thought actions and all patterns of unfolding idea. Every thought and action of every unfolding unit of Creation is recorded within every other unfolding unit at the polarization speed of 186, 400 miles per second.
+
+.. folio:: 0511
+   :page: 511
 
 12. This constant speed of polarized thought-waves indicates the unchanging and ecstatic condition of our Father-Mother's thinking. When God's ecstatic thinking is extended to inspired man, man's knowing is reflected in his thinking in the timeless flashes in which the Creator extends His knowing to His thinking.
 
@@ -156,6 +174,9 @@ It is impossible to even conceive the vastness of power which this polarized sto
 
 The wonderful part of it is that all of it is extended to you to use in the measure of your desire to use it, and the Measure of the effort you put forth in working with that universal power to be worthy of your desire.
 
+.. folio:: 0512
+   :page: 512
+
 This fact you must understand. You must always remember that DESIRE is of the Mind. Desire is expressed in thought-waves at the universal speed of thought polarity, which is 186,000 miles per second, and the knowledge, inspiration and conception which patterns your desire will come back to you at the same speed.
 
 If that is all you want out of life, however, you may sit at ease and commune with God with inspiring thought exchange, and be uplifted by it until your very body falls apart from inaction, which it would soon do.
@@ -177,6 +198,9 @@ These many who thus deny suffering mankind the Mind-healings of skilled doctors 
 Jesus was a master scientist. He was illumined with all-knowing in the Light of Cosmic Consciousness. Any man can do what He did when he has the Cosmic knowing which Jesus had, and any man can heal himself or others to the extent of his knowing, but the many metaphysical schools, which instruct their too many graduates to go out into the world and do what Jesus did, forget that Cosmic Minds like that of Jesus cannot be trained in schools of any kind. Such men as Jesus receive their illumining in the Light of Cosmic Consciousness from God alone.
 
 It is quite true that Jesus said "What I do ye can also do," to which we add, "when you are what I am and know what I know". That which we have added to His meaning is what the thousands forget who believe that they can do what Jesus did.
+
+.. folio:: 0513
+   :page: 513
 
 God Will give the greater part of man's desire to him who asks it because God has that mighty universal power to give, but man must give his little power for multiplication by the universe.
 
@@ -201,6 +225,9 @@ The second powerful stroke extends both poles farther from their fulcrum and enl
 The very first stroke of the ship's generator brought back to it another stroke from the universal generator. That slightly increased speed came from the universal Source of power--not from the coal in the ship's furnace.
 
 Gradually the givings of impulses by man are more than counterbalanced by regivings from the universe. The ship gains momentum. MOMENTUM IS GROWTH EXTENDED FROM THE UNIVERSAL BODY. IT IS THE UNIVERSAL INERTIA WHICH CARRIES ONE EFFORT INTO THE NEXT.
+
+.. folio:: 0514
+   :page: 514
 
 The growth of the farmer's potatoes is MOMENTUM extended from the generator of earth to carry on, and multiply, the initial impulse of desire by any creating thing.
 
@@ -234,6 +261,9 @@ Man is divine when he knows that he is divine. And he is omnipotent, omnipresent
 
 The journey of life is to find that awareness of divinity, knowledge and power.
 
+.. folio:: 0515
+   :page: 515
+
 To live life gloriously is to forever transcend one's Self during the whole journey of life.
 
 To KNOW life thoroughly is to forever feel the ecstasy and joyousness of the pulsations of the universal heartbeat as they are always reflected in our bodies by the universal thought-waves at their constant universal speed.
@@ -259,6 +289,9 @@ From THE DIVINE ILIAD
 
    Archival Plate (``image102.gif``)
 
+.. folio:: 0516
+   :page: 516
+
 If the teachings in these 48 lessons have enriched you, we also are greatly enriched by knowing that life has become more glorious for you by your new understanding of God and His Universe and YOUR relationship to Him and to each other.
 
 After you have studied and absorbed this last tremendous unit, start from the beginning and SLOWLY study all of the lessons again. You will be amazed at your own knowledge, and as you put this knowledge into operation in your daily lives, you will frequently marvel how seeming obstacles will melt away and problems be worked out for the good and happiness of all concerned.
@@ -279,6 +312,9 @@ YOU now have the greatest SECURITY man can have - KNOWLEDGE of the long hidden s
 
 The more you comprehend God's great laws the more you will be able to extend your knowing to reverse the downward trend of thinking of the last half century. The upward trend is necessary for bringing into being the Cosmic Age for which THE DIVINE ILIAD MESSAGE was written.
 
+.. folio:: 0517
+   :page: 517
+
 Many of you have been to SWANNANOA and have seen the glorious record of my husband's life in painting, sculpture, literature, drawings, photographs of his buildings and models of his architecture, which manifested his leadership in the arts and sciences. Visitors seeing all these material manifestations are speechless at such versatility, for not since the days of Leonardo da Vinci has anyone demonstrated so much in one lifetime. As you all know my husband has been internationally recognized as a master creator in all of the five fine arts.
 
 NOW the time has come when the world must know of Walter Russell the master scientist! It is my deepest desire to bring to the attention of the world, while my husband is still alive, the fact that he is the first man in history who has been able to see the universe as a whole and put it into scientific words and diagrams which, together, make a complete, consistent, balanced and provable Cosmogony which will endure, and replace the inconsistent Cosmogony for which textbooks must be constantly rewritten to keep pace with its ever changing theories.
@@ -296,6 +332,9 @@ For seven years he was President of The Society of Arts and Sciences during whic
 Being conversant with these further details of my husband's work in science I know you will agree that the time has now come when the world should be made aware of this great scientific knowledge that God gave to the world through him.
 
 God gave this new scientific knowledge for the comfort and uplift of man, but man in his greed is using it to kill and spread agony in the form of atom bombs and other destructive uses instead of to ease his labors and bless him.
+
+.. folio:: 0518
+   :page: 518
 
 YOU, who are the seed for God's great Message of THE DIVINE ILIAD, will help to bring fulfillment to my desire in bringing to the attention of the world the fact that Dr. Russell is the only living man who has the knowledge that will give to man the powers of control over matter and energy which man has never yet known. You can add your "strong arm" by spreading this great new knowledge among the world of men. Thus will a New Age come into being and Cosmic Man unfold in his full glory.
 
@@ -320,6 +359,9 @@ That great lesson is the discovery of how much more powerful either a husband or
 I have worked indefatigably for thirty-one years to give The Message of The Divine Iliad to the world in simple, understandable language. For twenty-six of those years I worked alone. Then came my Lao right out of the Cosmos. God knew that I needed another Cosmic Mind to make the pendulum of my own Mind swing truly in balance while doing this great work, thus He added Lao's knowledge and inspiration to mine so that we could together find the kind of words which would appeal to the world, and present it in a human and sympathetic manner, without having the taint of "textbookishness" in it
 
 In five years of working moment to moment, and so closely that we got to thinking as one, I have advanced farther than in the whole previous twenty-six years. Besides making my work infinitely better, it made work more joyous and less fatiguing. Hours of conferences, writing and rewriting, destroying and joyously beginning all over again with the two of us in it instead of just the one. All of these lessons would not have been half what they are with just me in them.
+
+.. folio:: 0519
+   :page: 519
 
 They are what they are because Lao is in every line of them, every thought of them, from the zero of beginning to the zero of rest at which we almost sadly have arrived. I say "sadly" because you have all been very close to us during that wonderful period. Perhaps, though, I should not have let that thought come to us because you are not being the less a part of our lives than you were during that period.
 

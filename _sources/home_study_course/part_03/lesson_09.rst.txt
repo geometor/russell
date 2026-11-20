@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-09:
 
-LESSON NUMBER 9 FIRST PRINCIPLES
-================================
+Lesson 9: First Principles
+==========================
+
+.. folio:: 0081
+   :page: 81
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -38,6 +41,9 @@ This basic THREE, which cannot be added to nor subtracted from, will hereinafter
 
 Now we shall begin at the beginning and build this structure of Creation from its birth in the Mind of The One Living Being, The One Person, The One Presence, God--Father-Mother Creator of the universe.
 
+.. folio:: 0082
+   :page: 82
+
 And that is where we shall begin--with the Personal Being of God--the ONE BEING--for God is, like you, a Person--THE ONE PERSONAL BEING in all the universe--for He IS the Universe--as you are the universe.
 
 Like you, God is Mind which you cannot see, and He is body which you can see. Like God, you are Mind which no man can see and you are body which all men can see.
@@ -65,6 +71,9 @@ COSMIC THINKING
 
 The more cosmic our thinking becomes the more our understanding of our unity with God becomes. Cosmic man gradually ceases to think of the universe and its Creator as Mind and matter, or as the visible and invisible universe, or as the physical and spiritual universe.
 
+.. folio:: 0083
+   :page: 83
+
 The cosmic thinker, who knows God in his heart as his very Self--yea, who knows Him as his very Soul--thinks of the whole universe as God--the One Personal Being. One who has been illumined into full Cosmic Consciousness could not possibly think of God in any other way.
 
 I cannot, because in my lifetime of such complete God-Consciousness I have grown to think of the Universal Consciousness as my Consciousness, and because of a lifetime of working knowingly with God I could not think of Creator and Creation separately, or apart from me. I might think of the Creator and Creation as Mind and body of God, but not as Mind and matter. Nor could I think of Mind and body of God as separate from each other, nor without including my Self.
@@ -84,6 +93,9 @@ And when I say to write it on your Soul, through your heartbeat, I mean that the
 When, however, you just write your desire upon your senses and it never gets beyond your brain, you do not KNOW it. You may believe it as an intellectual conclusion, but believing that way is sensing, not KNOWING, for it is but the senses of the brain which remember and repeat beliefs but the Conscious Mind alone KNOWS.
 
 I have dwelt upon this idea for some length, for the transformation from sensing to knowing will be easier for you to make for yourself the more you are enabled to comprehend the status of each. To better help you to make the transition get into the fixed habit of thinking with God's Mind, knowing that you are the One Being, and working with God's hands, knowing that you are the One Body of the One Being.
+
+.. folio:: 0084
+   :page: 84
 
 The more you can lose your own individuality by thinking universally, the more you can find your greater individuality in God. John Jones of Earth shall become the divine John Jones of the high heavens whose dwelling place is the kingdom of God's Light, whenever he desires to make that glorious transition. In other more familiar words you must lose your life of Earth to find your life eternal.
 
@@ -120,6 +132,9 @@ EXAMPLES
 
 You can KNOW God but you cannot SEE Him.
 
+.. folio:: 0085
+   :page: 85
+
 You can SEE God's body but you cannot KNOW it.
 
 Likewise you can KNOW a friend and can SEE his body, but you cannot SEE him or KNOW his body.
@@ -150,6 +165,9 @@ The reason for its supreme importance is because all you have to make use of in 
 
    Archival Plate (``image010.gif``)
 
+.. folio:: 0086
+   :page: 86
+
 These three are THE DIVINE TRINITY of this Mind controlled sex conditioned pairs of opposite sex mates of this sexed electric universe which we will henceforth carefully consider by taking
 
 ONE LITTLE STEP AT A TIME
@@ -175,6 +193,9 @@ I also knew the THINKING of the KNOWER to be TWO--the TWO of the pulsing heartbe
 
 In the KNOWER and THINKER I knew THE DIVINE TRINITY as the ONE.
 
+.. folio:: 0087
+   :page: 87
+
 In the KNOWER I knew the ONE WHOLE IDEA of His all-knowing to be the LOVE IDEA OF FATHER-MOTHERHOOD as a static idea, untreated, unconditioned, unexpressed, but DESIRED.
 
 In the THINKER I knew the FATHER-MOTHERHOOD IDEA divided into FATHERHOOD AND MOTHERHOOD as a dynamic expression of the static Mind-imagined idea. The FATHER idea is expressed by the inward pulsation of the heartbeat of God's thinking and the MOTHER idea by the outward pulsation.
@@ -191,11 +212,15 @@ The important thing for you to comprehend regarding the above is that every mome
 .. figure:: /_static/plates/image012.gif
    :align: center
 
-   Archival Plate (``image012.gif``)
+.. folio:: 0088
+   :page: 88
 
 In your thinking it is CONCENTRATIVE. Concentration of thought expresses FATHERHOOD. In concentration you have formed the seed pattern for the next effort for fulfilling your desire.
 
 After you have reached the rest point of fulfillment you must then relax your effort and carry only the seed pattern of that desire outward to rest in expanded space for rebirth into the pattern of seed. That is the negative reaction which expresses MOTHERHOOD.
+
+.. folio:: 0089
+   :page: 89
 
 In your thinking it is DECENTRATIVE. Decentration expresses MOTHERHOOD. Fruition of any desire whatsoever demands constant interchange between the FATHER and MOTHER actions and reactions.
 

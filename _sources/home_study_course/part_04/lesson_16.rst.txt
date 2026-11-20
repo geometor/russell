@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-16:
 
-LESSON NUMBER 16 ANSWERS TO STUDENTS QUESTIONS WHO WANT TO "KNOW WHAT TO DO ABOUT IT"
-=====================================================================================
+Lesson 16: Answers to Students' Questions (Part IV)
+===================================================
+
+.. folio:: 0149
+   :page: 149
 
 Lesson No. 12 began with these words from The Divine Iliad: "All questions are answerable in Light. Thou art Light. Thou canst answer them."
 
@@ -26,6 +29,9 @@ You alone can find that unbalance which is the CAUSE of your problem. Your probl
 That is what I mean by knowing what to do with it for when you go outside of yourself in either thinking outwardly or asking of others you are admitting that you do not know what to do with it, and will never know what to do with it so long as you continue to deny God in you.
 
 That is why I have been telling you to never seek the solution to any personal, social or business problem outside of yourself by asking advice from anybody, of even telling anybody. The moment you do that you complex your problem mightily. No one can take over your problems as their own. No one even cares to listen to them. There is something in human nature that makes one shun listening to other people's problems, and that is the way it should be.
+
+.. folio:: 0150
+   :page: 150
 
 Try to recall when you, yourself, have done this when something which seemed unpleasant or unfortunate, even to illnesses or operations, tempted you to ask advice from anyone in any such manner which inferred leaning upon them or casting your burden on them.
 
@@ -47,6 +53,9 @@ Again I say that the answer to all problems and questions concerning any effect 
 
 During the 48 lessons this principle of balance will be extended and exemplified. I have hardly touched the subject as yet. Knowledge of the relation to mental balance in the extensions of your thinking, and to your physical balance in relation to the effects caused in your own body and in the thought bodies which you are forever creating will give you a power you have never yet dreamed of having.
 
+.. folio:: 0151
+   :page: 151
+
 In the next lessons I will give you knowledge of the balanced relation of your body to the earth from which it is extended which will amaze you, and should affect all world thinking and medical practice for its great benefit.
 
 Gradually you will take within yourself this new knowing to replace old habits of relying upon your senses of observation which are so deceptive and lead you into such strange paths.
@@ -66,6 +75,9 @@ You are a part of the unfolding of Creation. Your destiny is an integral part of
 How often I have felt intuition telling me what to do or what not to do. It is as though God holds up His hand and says: "Do not do that My Son."
 
 Do not be surprised, therefore, when your inner thinking toward the Light causes the Light to respond to your desire to be guided by the Light of inner knowing.
+
+.. folio:: 0152
+   :page: 152
 
 QUESTION. "When we decentrate should we "visualize" our desire mentally, or should we visualize this before or after decentrating?"
 
@@ -89,6 +101,9 @@ Another way I can exemplify this idea is to imagine two children playing see-saw
 
 When one child is up high and the other down low they are in uncomfortable opposed positions which they cannot long sustain. That is the sex divided condition which arouses all the passions of all of earths creating things in the desire of all things to find balance and rest from such uncomfortable positions of separation of one half of itself from the other half.
 
+.. folio:: 0153
+   :page: 153
+
 That zero of rest is in the middle of their board. That is the point of rest from which they are divided to express idea in motion. When the children reach that level they are momentarily in equilibrium, but they instantly lose it again. If they stopped there it would be like your ceasing to think.
 
 Even though they do stop they are still extended from their centering source. They are still divided, though motionless. If they both drew together in the center they would be united with their source and could not move until they again desired to become divided.
@@ -111,6 +126,9 @@ Those vibrations are felt by the senses of other bodies--but when the body disap
 
 QUESTION. "Will you tell me if using the two hands in massage for healing will cause a voidance, or should only one hand at a time be used? Please explain."
 
+.. folio:: 0154
+   :page: 154
+
 ANSWER. No, it will not. Working with both hands multiplies your power immeasurably over working with one hand. The only way you could void your power is in not working with either hand, for your power is in your decision, not in the action. You extend your power by the action of manifesting your KNOWING through action.
 
 Your decision comes from your knowledge. That concept which you have arrived at mentally is the REALITY which you extend to your patient but that REALITY will do him no good unless you do extend it through action--not through the inaction of wishful thinking.
@@ -130,6 +148,9 @@ ANSWER. One of the two lights is the positive light of concentrative thinking. T
 The other of the two is the negative light of decentrative thinking. That light expands light waves into formless gases. It is the blue half of the octave spectrum which leads to the blackness of cold space. It is the light of universal motherhood.
 
 These are the two lights of the senses which you can see, and feel, and hear in sound waves when the two lights interchange. When they are balanced and cease interchanging you can no longer sense them for you are a vibratory body which can sense vibratory bodies only. You cannot sense the equilibrium which follows the voidance which results from cessation of motion.
+
+.. folio:: 0155
+   :page: 155
 
 QUESTION. "I have a son who worries me very much, I fear he will be a failure in life for he refused to go back to college the second year and will not go into my business with me as I had hoped he would. I just cannot keep him in the office ten minutes. He seems to either dislike business or is very stupid about it. He is forever wasting his time hanging around air fields and making drawings of planes. He knows every make of plane and every part of a plane, besides knowing all of its [personnel.] Please tell me what can I do about it?
 
@@ -158,6 +179,9 @@ When you have arrived at that stage where you continually slip into and out of i
 CONCLUSION
 ----------
 
+.. folio:: 0156
+   :page: 156
+
 Many of the questions we are receiving are very similar. When this happens I select one which is typical and answer that one to cover all. Also many questions are coming which are far ahead of where we now are, so if you have asked such a question do not be disappointed if it is not answered, until we get to where it is appropriate.
 
 It pleases us very much when we receive letters telling us to ignore questions asked because the writers have found the answer within themselves. That is just what these lessons are striving to accomplish for when you actually accept the fact that all knowledge exists universally--which means within YOU, you will not only "know what to do about any problem which confronts you" but you will find an indescribable happiness in your moment to moment communion with God as you habitually turn to Him by thinking within your Consciousness.
@@ -180,6 +204,9 @@ It is your very own letters that are PROVING this to us for they are living proo
 
 If space would permit I would fill several pages this month with whole letters from you who are God's precious workers. Instead I must be content to quote some brief passages which I know will make you all as happy as they have us. Just multiply all you read by a hundred or more and you will get some small idea of the richness of love that flows out for God's Message and comes back to you all in every word of the lessons each month.
 
+.. folio:: 0157
+   :page: 157
+
 M.F. writes: "These thanks come from my heart for such a clear, scientific teaching. All my lifetime I've searched for the key and now I've found it. Words are incapable of expressing the gratitude I feel."
 
 A wonderful couple who were here last summer and are now studying the Home Study Course together and spreading God's Message to others write: "We have read or heard in lectures nothing comparable to it in spiritual value. Each lesson is filled with wisdom and carries a promise of perfect unfoldment. . . The third group of lessons has arrived and we are deep in the contents. Both D. and I feel your nearness as we read. It is like sitting in your rose garden and listening to you talking to us about the things we must know to help spread The Message. . . All who are taking the Home Study Course that I'm in contact with are very enthusiastic and state that they are experiencing more peace of mind and harmony in their affairs than they have ever had before. Isn't that wonderful? P. & D.W.
@@ -193,6 +220,9 @@ In the next month or so we will tell you more of this plan and in the meantime w
 "I feel that those of us who are taking the course have much in common, and I believe that if possible we should meet upon completion of the course and discuss ways and means of extending our knowledge, balance, and inspiration, to the rest of the world. I believe there are many ways in which balance could be extended Internationally through business, science, and the arts. H.T."
 
 O, HOW we want to shed The Light all at once around the world but plans must always be mature, and our plan IS maturing and you are all part of that plan--that is all of you who KNOW the desire to share God's work with us. So great is the Light of this new knowledge that those who are unfolding it will soon be ready to illumine the world with the Light of their own knowing.
+
+.. folio:: 0158
+   :page: 158
 
 The next series of lessons continue to explain the Source of all energy, and to demonstrate that your control of it lies in the measure of your desire and of your knowing.
 

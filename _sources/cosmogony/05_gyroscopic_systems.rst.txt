@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0399
 
 .. _cosmogony-ch5:
 
 Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems
 ==============================================================================
+
+.. folio:: 0399
+   :page: 399
 
 .. rubric:: Why True Spheres Only Exist at $90^\circ$ Wave Amplitude (Lessons 42–43, Figs. 95–104)
 
@@ -11,8 +15,16 @@ Both atomic systems and stellar/planetary systems evolve along the same gyroscop
 
 * **Centripetal Winding (`1+ -> 2+ -> 3+`)**:
   Beginning as an expanded inert-gas ring in space (`0`), centripetal compression winds the ring through **prolate** (polar-elongated, $c/a > 1$) spheroids whose spin axes precess ($22.5^\circ, 45^\circ, 67.5^\circ$) toward the wave amplitude perpendicular.
+
+.. folio:: 0400
+   :page: 400
+
 * **The True Sphere at Wave Amplitude (`4+ / 0 / 4-`)**:
   Only when a system locks squarely upon the $90^\circ$ wave amplitude crest does its central nucleus become a **true incandescent sphere** ($c/a = 1$, such as **Carbon** in the elements or a mature **Sun** in a solar system), with its planets revolving in its equatorial plane (`Fig. 103`).
+
+.. folio:: 0403
+   :page: 403
+
 * **Centrifugal Unwinding (`3- -> 2- -> 1- -> 0`)**:
   Past the amplitude crest ($112.5^\circ, 135^\circ, 157.5^\circ$), centrifugal radiation flattens the sphere at its poles ($c/a < 1$) and bulges its equator into **oblate spheroids**, **ringed planets** (like Saturn), and **ring nebulae** (like the Ring Nebula in Lyra), unwinding back into the inert gases of space.
 

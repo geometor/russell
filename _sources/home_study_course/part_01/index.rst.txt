@@ -3,12 +3,16 @@
 :canonical_id: Part I
 :breadcrumb_title: Part I
 :excerpt: Lessons 1–4: Meditation Scientifically Explained.
+:folio: 0007
 
 .. _hsc-part-01:
 .. _hsc-unit-01:
 
 Part I (Lessons 1–4): Meditation Scientifically Explained
 =========================================================
+
+.. folio:: 0007
+   :page: 7
 
 .. collection::
    :sort: order

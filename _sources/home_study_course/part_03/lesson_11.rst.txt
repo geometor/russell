@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-11:
 
-LESSON NUMBER 11 HOW TO THINK - THINKING SCIENTIFICALLY EXPLAINED
-=================================================================
+Lesson 11: How to Think — Thinking Scientifically Explained
+===========================================================
+
+.. folio:: 0100
+   :page: 100
 
 As a prelude to the following lessons I would like to impress upon you the fact that this is a thought-wave universe. All matter and masses of matter are the bodies of thought.
 
@@ -33,6 +36,13 @@ Now think of what the last hundred years of scientific knowledge has done and is
 
 Think also of the fact that our ability to obey God's law is based upon the measure of our KNOWLEDGE of what God's law is.
 
+.. folio:: 0101
+   :page: 101
+
+.. picture:: 0101.g1.png
+   :alt: Equator — The Undivided Thinking and Knowing
+   :caption: Equator — The Undivided Thinking and Knowing (Folio 0101)
+
 That is why I say you must have greater knowledge of what God's law is, and how it is manifested through the building of thought images in bodies.
 
 This you can get only through the scientific approach. You can never know God through the emotions. Just as science conquered small pox and other dread scourges through knowledge of CAUSE, where magic and witchcraft failed, so must you acquire God powers through scientific knowledge of CAUSE where affirmations, emotional worship, and faith and belief have failed to get you farther than a peep hole into the Light.
@@ -46,6 +56,9 @@ This you can get only through the scientific approach. You can never know God th
    :align: center
 
    Archival Plate (``image022.gif``)
+
+.. folio:: 0102
+   :page: 102
 
 Affirmations are but one step ahead of magic for they but record wishful thinking instead of action based upon knowing. Likewise the abstractions of metaphysics may even state immortal truths without one's knowing the meaning of those truths.
 
@@ -78,6 +91,13 @@ There is no effect of motion in the universe which is not in effect an outward a
 
 The two directions of an explosion are outward toward South, and inward toward North.
 
+.. folio:: 0103
+   :page: 103
+
+.. picture:: 0103.g1.png
+   :alt: North Inward Toward Gravity and South Outward Toward Space
+   :caption: North Inward Toward Gravity and South Outward Toward Space (Folio 0103)
+
 The point of North in matter is its center of gravity. It is the focal center of concentrated thinking. It is the point of maximum compression, maximum heat and incandescence, and the highest potential of the mass.
 
 South is every radial direction away from North. South reaches out into space around every planet and sun. South is the radial direction of decentrated thinking. The farther away South reaches from North the colder it becomes, the lower its potential, the less dense the mass until density disappears in gases and vapors of cold, dark space.
@@ -97,7 +117,8 @@ We have not yet reached the point where this can be made clear, for we have not 
 .. figure:: /_static/plates/image024.gif
    :align: center
 
-   Archival Plate (``image024.gif``)
+.. folio:: 0104
+   :page: 104
 
 WHAT ABOUT EAST AND WEST?
 -------------------------
@@ -122,6 +143,9 @@ THE PURPOSE WHICH THESE TWO DIRECTIONS FULFILL IS TO MANIFEST THE LAW OF LOVE. T
 THE INWARD DIRECTION GIVES LOVE FROM THE MOTHER TO FATHER. THE OUTWARD DIRECTION GIVES LOVE FROM THE FATHER TO THE MOTHER.
 
 The inward direction gives the seed of light from the father to the mother for the forming of bodies. All bodies are but waves of light.
+
+.. folio:: 0105
+   :page: 105
 
 The outward direction unfolds the seed from the womb of the mother for refolding by the father in every pulsation of the electric heartbeat of this pulsing universe. The unfolding expands. The refolding compresses. All bodies are created by interchange between expansion and contraction.
 
@@ -149,6 +173,9 @@ Likewise GRAVITATION is another word for concentration--and RADIATION is another
 These pairs of opposites do not mean pairs of opposite THINGS--it means pairs of opposite CONDITIONS--and all of these conditions are sex conditions. All of them are pressure conditions resulting from the division of an equilibrium into two unbalanced opposites in all matter.
 
 These two opposite pressures of expansion and contraction which generate bodies into solid forms and then radiate them into formlessness are the basis of electricity.
+
+.. folio:: 0106
+   :page: 106
 
 That is what electricity is--a series of opposing strains between the opposing pressures of compression and expansion which simultaneously divide a balanced condition into two equal and opposed unbalanced conditions, and sequentially restores them to balance for endless repetition.
 
@@ -181,6 +208,9 @@ That means that you have to THINK your idea out of your timeless KNOWING into a 
 
 Do I make myself clear? If not I must make myself clear so I will put it in other words.
 
+.. folio:: 0107
+   :page: 107
+
 To desire anything is to create it, for Creation is merely the giving of bodies to desires. You wish to take something from the undivided--AND INDIVISIBLE--universe of rest and project it into the divided universe of motion.
 
 The answer to this lies in the heartbeat of the universe which seemingly divides one condition into two. I say seemingly, for it actually does not divide it. An equilibrium cannot be divided--but God's thought processes have made it appear to be divided. This mystery will gradually become clear as we proceed.
@@ -207,6 +237,9 @@ To take one first step in further explaining how to think your desire into the f
 
 ACTION AND REACTION ARE EQUAL AND OPPOSITE
 ------------------------------------------
+
+.. folio:: 0108
+   :page: 108
 
 This law is misleading because it infers that the reaction follows the action sequentially. That means that the reaction to that particular action takes place after the action has taken place.
 

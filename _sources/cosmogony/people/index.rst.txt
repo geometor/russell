@@ -3,12 +3,15 @@
 :title: Biographical Register
 :layout: book
 :breadcrumb_title: People
+:folio: 0001
 
 .. _cosmogony-persons:
-.. _persons:
 
 People
 ======
+
+.. folio:: 0001
+   :page: 1
 
 .. rubric:: Searchable Prosopographical Directory
 

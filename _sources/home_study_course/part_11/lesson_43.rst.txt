@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-43:
 
-LESSON NUMBER 43 WE CONTINUE THE CUBE-SPHERE OF THE FOUR DIMENSIONAL UNIVERSE OF TIME AND CURVED MOTION
-=======================================================================================================
+Lesson 43: The Four-Dimensional Cube-Sphere of Curved Motion
+============================================================
+
+.. folio:: 0404
+   :page: 404
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -36,6 +39,9 @@ It may help form your thoughts by imagining yourself witnessing a drama at a mot
 
 A motion picture projection camera suddenly begins to divide that silent, formless, motionless, undivided surface into many moving forms of many events which now take place and excite your senses to respond to the motion.
 
+.. folio:: 0405
+   :page: 405
+
 All of this motion represents an idea, an idea which has arisen from the thinking of some one's Mind. Creation is but the dramatization of IDEA by projecting it from the stillness of KNOWING into a time-space universe of THINKING.
 
 Idea must have formed bodies which must move to simulate the idea. And sounds must arise from the silence--curved sound-waves which bend in reversed pairs from equators which merely lend something to each for them to make believe with for a time until the lendings come due and must be repaid.
@@ -58,6 +64,9 @@ These lessons are drawing too nearly to a close to more than touch upon this pri
 
 Let us, therefore, briefly unfold the mystery of how form, color, sounds heat, cold, solidity, tenuity, compression and expansion pressures, and all of the quantities of many things that bodies are composed of are thrown on the screen of cosmic space.
 
+.. folio:: 0406
+   :page: 406
+
 POSTULATES
 ----------
 
@@ -74,6 +83,9 @@ POSTULATES
 6. The constant effort of the two opposing electric forces to divide their one united, balanced condition into two opposing, unbalanced ones, followed by a sequential desire to seek rest from that effort in their oneness of balance, is the sole cause of motion. All motion is the result of interchange between the two opposing electric forces for the purpose of exchanging their conditions with each other.
 
 7. What we think of as visible light is not light at all. What we see and think of as light, is but MOTION. The greater the intensity of motion the greater the intensity of what our senses interpret as light. What we think of as dark is but an expansion of the intensity of motion. Our senses interpret short waves of high frequencies, compressed into small volume, as incandescent light but when those short waves expand into long ones of low frequencies, and spread out into large volumes our senses cease to vibrate to the measure of the compressed waves. As our senses lower their vibrations, so, likewise our range of perception lowers. The One Light of universal Mind cannot be seen. It is the simulation of that ONE in the divided TWO of motion which we see. Our senses are vibrating waves of motion and they can sense only vibrating waves of motion.
+
+.. folio:: 0407
+   :page: 407
 
 8. Motion is made use of by the Creator to manifest His IDEA. Idea cannot be seen for it is never created. Idea IS--it cannot become. Idea is a QUALITY of Mind which cannot become physical QUANTITIES. Idea can only be extended as a simulation through two-way interchange of motion.
 
@@ -94,6 +106,9 @@ That polarizing piston stroke which generates the hot light of suns electrically
 That opposite, relaxing piston stroke of God's decentrative thinking depolarizes, degenerates and devitalizes bodies and makes them seem to "die" and decay. It gives bodies back to the source of their borrowings. It RADIATES that which has been GENERATED.
 
 In motion alone is the answer to all of the mysteries of matter. With one stroke of the piston we "live"--with the other we "die". With the next stroke of it we are reborn to again die. And so it is that the cosmic cinema goes on forever. Bodies appear, disappear and reappear as a continuity forever and forever, but they never die, for they manifest eternal life, and LIFE CANNOT DIE.
+
+.. folio:: 0408
+   :page: 408
 
 But in bodies of matter there are none of the realities of the eternal life, love truth and balance which matter only simulates. Why, then, set such store upon transient matter? Why worship motion which but simulates the Intelligence of Mind.
 
@@ -117,6 +132,9 @@ THE MIRRORS AND LENSES OF THE COSMIC CINEMA
 Imagine yourself standing in the middle of a room whose walls, ceiling and floor are six mirrors. No matter what direction you look you would see yourself mirrored in every one of those six mirrors, the four which are around you and the two which are above and below you.
 
 If you look carefully at all of the replicas of you which you see in those six mirrors you will note that every image of you is in reverse. Your right side is left, your head is below your feet in the mirror below and your feet are above your head in the mirror above. This most distinguishing characteristic of motion seems never to have been observed.
+
+.. folio:: 0409
+   :page: 409
 
 If you were a true sphere of light, like a sun, that perfect cube of six mirrors of zero curvature would be a wave-field which measures the intensity of your desires and limits your powers of expression within them. Beyond them you cannot extend, and what you extend to them comes back to you in kind.
 
@@ -142,6 +160,9 @@ degrees from the plane of carbon's equator, which is upon the wave's amplitude. 
 
 The inert gases are the electric records of all patterned bodies. They record all actions and motion which constitute events, but they do not record the morals, ethics, inspirations or the mental qualities of the genius in you. These God qualities are recorded in the Soul which centers the physical record. Thought records are stored in the inert gases which become cell memory, instinct, and other attributes of body rebuilding. These records carry over from body to body forever, and unfold true to the patterns of the negatives in space which they center.
 
+.. folio:: 0410
+   :page: 410
+
 The whole pattern of an oak is not just in the inert gas which centers the acorn, nor is the whole of man in the seed of man. Every pattern reaches out into the wave-field which contains the negative counterpart of its positive, visible body.
 
 If you will but remember that Soul is DESIRE in the seed, its motivating force, you will then comprehend how the inert gas acts as a nucleus, or center around which matter in motion accumulates to make a new body. This it could not do without the motivating force of desire, for nothing is, or becomes, without desire.
@@ -157,10 +178,20 @@ You now make a momentous discovery in relation to this cosmic projection machine
 
 You discover that the bringing of your objective self into its center brought with it also these three more equators which divided you into three dimensions, length, breadth and height, which were not there before you stepped into it and your imagined image of yourself did not disclose that fact before. See Figures 105 to 113.
 
+.. folio:: 0411
+   :page: 411
+
 .. figure:: /_static/plates/image073.gif
    :align: center
 
    Archival Plate (``image073.gif``)
+
+.. folio:: 0412
+   :page: 412
+
+.. picture:: 0412.g1.png
+   :alt: Figure 114 — Cube-Sphere Wave-Field of Nine Equators
+   :caption: Figure 114 — Cube-Sphere Wave-Field of Nine Equators (Folio 0412)
 
 .. figure:: /_static/plates/image074.gif
    :align: center
@@ -170,11 +201,19 @@ You discover that the bringing of your objective self into its center brought wi
 .. figure:: /_static/plates/image075.gif
    :align: center
 
-   Archival Plate (``image075.gif``)
+.. folio:: 0413
+   :page: 413
+
+.. picture:: 0413.g1.png
+   :alt: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature
+   :caption: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature (Folio 0413)
 
 Figure 105 represents your imagined point in God's undivided equilibrium which you wish to extend to manifest YOU and DESIRE in you, in a divided, three dimensional world of illusion.
 
 Figure 106 represents your extension of desire in height to the limits of your wave-field. The one zero of Figure 105 has now been extended to become three zeros. You now have a measure of height in your wave-field beyond which you or any action of yours, cannot pass, but a reversed image of you can seem to pass. That seeming seems so real to your senses that you do not doubt its reality or suspect its illusion.
+
+.. folio:: 0414
+   :page: 414
 
 Figure 107 represents your extension of desire in length to become three zeros. You have now extended yourself two dimensionally such as a painting of you would be.
 
@@ -197,6 +236,9 @@ You cannot see the equators of space but there are many you can see, and many yo
 The calm surface of water is an equator which you can see. When in equilibrium its relation to gravity is the same at every point upon its surface. When polarization divides that equilibrium by curving gravity pressure to points above and below that calm surface motion will continue until depolarization restores the normal stillness of an undivided equilibrium.
 
 You can see a violin string but you may not realize that while it is at rest it is an equator between two possible unbalanced conditions just as the calm surface of the water is. When you produce sound by vibrating it, sound waves spring from it as waves of water spring from the calm lake, but there is no sound at all where that violin string equator is, just as there is no motion when waves of water reverse their polarization at their equator.
+
+.. folio:: 0415
+   :page: 415
 
 You must thoroughly realize that the slightest motion of any kind polarizes an environment and equators are immediately set up to keep the universal balance from being disturbed--which is impossible.
 
@@ -224,6 +266,9 @@ You could not throw the ball without concentrating the power to do so toward a p
 
 The point of beginning where your ball comes to rest ready for the radiative action is a center of gravity. You have borrowed the power to hurl the ball from the center of gravity of the earth. You intend to extend earth's gravity into the heavens. This you cannot do without earth's permission. It freely lends you its power to radiate its gravity for it demands repayment in equal measure after you have fulfilled your desire.
 
+.. folio:: 0416
+   :page: 416
+
 Earth therefore extends to you a fulcrum from which you may extend your desire. Your body must become the lever which extends your desire into four dimensional form. It is from that still fulcrum of borrowed gravity which you extend your action of giving of your abundant energy as a mechanical extension of the earth which your body is.
 
 2. Ten times ten thousand pairs of opposite reflected extensions of you are doing the same thing--throwing the ball away from themselves toward their opposites who are throwing it toward their opposites and away from themselves each one of each pair being the reverse of its opposite and acting in reverse. YOU NOW KNOW WHAT THE ELECTRIC CURRENT IS and that should tell
@@ -250,6 +295,9 @@ The power which you have given out from the abundance given you by earth for reg
 The energy given by you for creative expression degenerated and devitalized you in the giving but regenerated you and revitalized you by the automatic, irrevocable regiving, GIVING DEPOLARIZES AND REGIVING REPOLARIZES.
 
 Likewise what it has done to you has been done to the whole universe. Whatever little universe you have created uplifts or lowers the level of the whole. What you have given returns in kind to bless or smite you--and the whole world.
+
+.. folio:: 0417
+   :page: 417
 
 THE LESSON OF IT
 ----------------

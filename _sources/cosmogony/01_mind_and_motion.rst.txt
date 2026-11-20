@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0081
 
 .. _cosmogony-ch1:
 
 Chapter I: The Undivided Light of Mind & The Divided Electric Wave-Lever
 ========================================================================
+
+.. folio:: 0081
+   :page: 81
 
 .. rubric:: First Principles of the Russell Cosmogony (Lessons 1–17)
 
@@ -11,6 +15,9 @@ At the foundation of **Walter Russell**'s cosmogony stands a radical inversion o
 
 The Divided Electric Universe of Motion
 ---------------------------------------
+
+.. folio:: 0090
+   :page: 90
 
 When Mind *thinks* what it *knows*, it divides its one whole idea at rest (``0``) into mated pairs of opposite electric pressure conditions:
 
@@ -20,6 +27,9 @@ When Mind *thinks* what it *knows*, it divides its one whole idea at rest (``0``
    Decentrative rest thrusts outward from incandescent centers back toward the cold bounding planes of space, expanding dense spheres into tenuous radiation (`-4 -> -3 -> -2 -> -1 -> 0`).
 3. **The Still Magnetic Fulcrum (``0``)**:
    Power never resides in the moving electric wave-lever; it resides exclusively in the motionless magnetic fulcrum upon which the wave-lever oscillates.
+
+.. folio:: 0162
+   :page: 162
 
 .. figure:: /_static/svg/01_mind_fulcrum_lever.svg
    :align: center

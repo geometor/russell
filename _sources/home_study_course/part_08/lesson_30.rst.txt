@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-30:
 
-LESSON NUMBER 30 REINCARNATION
-==============================
+Lesson 30: Reincarnation
+========================
+
+.. folio:: 0276
+   :page: 276
 
 We now approach the most difficult of all subjects, the idea of reincarnation. Reincarnation is difficult to explain to people of this age because the concepts of this age in the unfolding of man are still too primitive for anyone to comprehend many facts of Nature which are beyond their limited range of sensing. That extremely limited range of sensing of this early stage of man's unfolding is his great handicap to comprehension of this principle.
 
@@ -23,6 +26,9 @@ THE ILLUSION OF DISAPPEARANCE AND REAPPEARANCE
 ----------------------------------------------
 
 1. Consider this thought. Place a glass of water on your garden wall some sunny morning. When you go to see it in the afternoon that body of water is not there.
+
+.. folio:: 0277
+   :page: 277
 
 You do not say that the water is dead. You say it has disappeared, and you know WHY it has disappeared, and WHERE it is. You know that it has but changed its polarity from its positive dense condition to its expanded negative condition. That visible body of water which occupied six cubic inches has evaporated into a large body of invisible vapors which now occupy a space of six thousand cubic inches.
 
@@ -47,6 +53,9 @@ THE ILLUSION OF REPETITION
 --------------------------
 
 3. Consider this same sound again brought into appearance three thousand miles away by the condenser of your radio which shortens the lengthened waves to the dimensions created by you when you spoke them.
+
+.. folio:: 0278
+   :page: 278
 
 Again we say they were not "dead" when they disappeared three thousand miles away from their birth. They but disappeared from the range within which your senses were able to perceive them.
 
@@ -73,6 +82,9 @@ If we desire to know what happens to our bodies after death, and if we wish to t
 
 WE EXPLAIN "POLARITY REVERSAL", AND "CYCLES"
 --------------------------------------------
+
+.. folio:: 0279
+   :page: 279
 
 **POSTULATE NO. 1.** All bodies are continuous. They never cease. They merely reverse their polarity TWICE in every CYCLE of their eternal journey within and beyond the range of our sensing.
 
@@ -106,6 +118,9 @@ I am often asked what happens if one is not allowed to live his life through, su
 
 Nature balances all of her divided cycles. If the visible body "disappears" at twenty years of age it means only that, the whole life cycle is shortened. The invisible half of the body shortens its rest period to balance the shortening of the "work" period. The youth who is killed "reincarnates" sooner than he otherwise would.
 
+.. folio:: 0280
+   :page: 280
+
 Remember always that the time element in every cycle of every kind throughout all Creation is equally divided between its opposed halves. The two reversal points are equal. Action and reaction of positive and negative halves of polarized bodies are equal. Your inbreathing period is equal to your outbreathing period.
 
 If a man generates his concentrated body toward "life" for ten--twenty thirty or fifty years to manifest God by "work" he must decentrate the other half of his body for an equal period to manifest God through rest.
@@ -134,6 +149,9 @@ God's concentrative thinking manifests what we call "life". God's decentrative t
 And so it is with each pair of opposites in all of God's divided universe.
 
 Night is a continuation of day and dark continues light until dark again becomes visible light. Heat extends from cold, as cold contracts to born it. Cold then extends from heat as heat expands to born it. Each continues the other as each becomes the other. There is no gap, no void, to interrupt the absolute continuity of every effect of motion into its opposite effect. The CAUSE of all EFFECT is eternal. If there is any gap, or void, or discontinuity in EFFECT, CAUSE could not be eternal.
+
+.. folio:: 0281
+   :page: 281
 
 Our present limited range of perception has borned the idea of discontinuity in us. Our concept of "death" is one of the results of that gap in our range of perception.
 

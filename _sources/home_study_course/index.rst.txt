@@ -9,12 +9,16 @@
 :author: Walter and Lao Russell
 :publisher: Walter Russell Foundation • Swannanoa, Waynesboro, Virginia
 :year: 1950–1952
+:folio: 0001
 :excerpt: Walter and Lao Russell's comprehensive 12-Unit, 48-Lesson course on universal law, natural science, rhythmic balanced interchange, and wave-field mechanics.
 
 .. _home-study-course-index:
 
 Home Study Course
 =================
+
+.. folio:: 0001
+   :page: 1
 
 .. rubric:: Universal Law, Natural Science and Philosophy — Third Edition (1950–1952) by Walter and Lao Russell
 
@@ -32,6 +36,20 @@ Home Study Course
 
 Complete digital edition of the 12 Units (48 Lessons) and 102 diagram plates (`Figs. 1–180`) of **Walter and Lao Russell**'s *Home Study Course in Universal Law, Natural Science and Philosophy*, enhanced with **GEOMETOR** parametric vector reconstructions of the core cosmogonic plates.
 
+Archival Imprint & Emblem (Folio 0002)
+--------------------------------------
+
+.. folio:: 0002
+   :page: 2
+
+.. picture:: 0002.g1.png
+   :alt: Cosmic Clock emblem from Title and Copyright leaf
+   :caption: Cosmic Clock Emblem (Folio 0002)
+
+| **A Home Study Course — Universal Law, Natural Science and Philosophy (Lessons 1 to 48)**
+| by Walter and Lao Russell • Copyrighted 1950–52 by Walter Russell
+| Issued by **The Walter Russell Foundation**, Swannanoa, Waynesboro, Virginia
+
 ----
 
 .. collection::
@@ -42,67 +60,67 @@ Complete digital edition of the 12 Units (48 Lessons) and 102 diagram plates (`F
 Table of Contents
 -----------------
 
-* :ref:`Prelude to Intimate Home Study Course <hsc-prelude>`
+* :ref:`Prelude: Intimate Home Study Course <hsc-prelude>`
 * :ref:`Part I (Lessons 1–4): Meditation Scientifically Explained <hsc-part-01>`
-  - :ref:`LESSON NUMBER 1 MEDITATION SCIENTIFICALLY EXPLAINED <hsc-lesson-01>`
-  - :ref:`LESSON NUMBER 2 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED FURTHER CONSIDERING TECHNIQUE <hsc-lesson-02>`
-  - :ref:`LESSON NUMBER 3 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED <hsc-lesson-03>`
-  - :ref:`LESSON NUMBER 4 HOW TO MEDITATE AND QUESTIONS ANSWERED CONCERNING MEDITATION <hsc-lesson-04>`
+  - :ref:`Lesson 1: Meditation Scientifically Explained <hsc-lesson-01>`
+  - :ref:`Lesson 2: Meditation Technique & Creative Consciousness <hsc-lesson-02>`
+  - :ref:`Lesson 3: Meditation Scientifically Explained (Continued) <hsc-lesson-03>`
+  - :ref:`Lesson 4: How to Meditate — Questions & Answers <hsc-lesson-04>`
 * :ref:`Part II (Lessons 5–8): Prayer & The Story of My Illumining <hsc-part-02>`
-  - :ref:`LESSON NUMBER 5 PRAYER SCIENTIFICALLY EXPLAINED THE POWER OF PRAYER <hsc-lesson-05>`
-  - :ref:`LESSON NUMBER 6 Continuation of PRAYER SCIENTIFICALLY EXPLAINED RELATIONSHIP OF PRAYER TO MEDITATION <hsc-lesson-06>`
-  - :ref:`LESSON NUMBER 7 THE STORY OF MY ILLUMINING <hsc-lesson-07>`
-  - :ref:`LESSON NUMBER 8 QUESTIONS AND ANSWERS CONCERNING MEDITATION, PRAYER AND COSMIC CONSCIOUSNESS <hsc-lesson-08>`
+  - :ref:`Lesson 5: Prayer Scientifically Explained & The Power of Prayer <hsc-lesson-05>`
+  - :ref:`Lesson 6: Prayer and Its Relationship to Meditation <hsc-lesson-06>`
+  - :ref:`Lesson 7: The Story of My Illumining <hsc-lesson-07>`
+  - :ref:`Lesson 8: Questions on Meditation, Prayer & Cosmic Consciousness <hsc-lesson-08>`
 * :ref:`Part III (Lessons 9–12): First Principles & This Sexed Electric Universe <hsc-part-03>`
-  - :ref:`LESSON NUMBER 9 FIRST PRINCIPLES <hsc-lesson-09>`
-  - :ref:`LESSON NUMBER 10 THIS SEXED ELECTRIC UNIVERSE <hsc-lesson-10>`
-  - :ref:`LESSON NUMBER 11 HOW TO THINK - THINKING SCIENTIFICALLY EXPLAINED <hsc-lesson-11>`
-  - :ref:`LESSON NUMBER 12 ANSWERS TO STUDENTS QUESTIONS <hsc-lesson-12>`
+  - :ref:`Lesson 9: First Principles <hsc-lesson-09>`
+  - :ref:`Lesson 10: This Sexed Electric Universe <hsc-lesson-10>`
+  - :ref:`Lesson 11: How to Think — Thinking Scientifically Explained <hsc-lesson-11>`
+  - :ref:`Lesson 12: Answers to Students' Questions (Part III) <hsc-lesson-12>`
 * :ref:`Part IV (Lessons 13–16): Mind, Motion & Man Must Know Man <hsc-part-04>`
-  - :ref:`LESSON NUMBER 13 PRELUDE <hsc-lesson-13>`
-  - :ref:`LESSON NUMBER 14 <hsc-lesson-14>`
-  - :ref:`LESSON NUMBER 15 MAN MUST KNOW MAN <hsc-lesson-15>`
-  - :ref:`LESSON NUMBER 16 ANSWERS TO STUDENTS QUESTIONS WHO WANT TO "KNOW WHAT TO DO ABOUT IT" <hsc-lesson-16>`
+  - :ref:`Lesson 13: Prelude to Mind, Motion & Balance <hsc-lesson-13>`
+  - :ref:`Lesson 14: How Bodies Are Made and Balanced <hsc-lesson-14>`
+  - :ref:`Lesson 15: Man Must Know Man <hsc-lesson-15>`
+  - :ref:`Lesson 16: Answers to Students' Questions (Part IV) <hsc-lesson-16>`
 * :ref:`Part V (Lessons 17–20): The Fulcrum, The Lever & The Mystery of Life and Death <hsc-part-05>`
-  - :ref:`LESSON NUMBER 17 WE ADD ONE MORE IDEA--THE FULCRUM AND THE LEVER <hsc-lesson-17>`
-  - :ref:`LESSON NUMBER 18 FIRST STEPS TOWARD EXPLAINING THE SUPREME MYSTERY OF LIFE AND DEATH <hsc-lesson-18>`
-  - :ref:`LESSON NUMBER 19 CONTINUING THE MYSTERY OF LIFE AND DEATH <hsc-lesson-19>`
-  - :ref:`LESSON NUMBER 20 STUDENTS DEEPER QUESTIONS ANSWERED <hsc-lesson-20>`
+  - :ref:`Lesson 17: The Fulcrum and the Lever <hsc-lesson-17>`
+  - :ref:`Lesson 18: First Steps Toward the Mystery of Life and Death <hsc-lesson-18>`
+  - :ref:`Lesson 19: Continuing the Mystery of Life and Death <hsc-lesson-19>`
+  - :ref:`Lesson 20: Students' Deeper Questions Answered <hsc-lesson-20>`
 * :ref:`Part VI (Lessons 21–24): Deeper Thoughts of Life, Death & Spiritual-Physical Unity <hsc-part-06>`
-  - :ref:`LESSON NUMBER 21 DEEPER THOUGHTS OF LIFE AND DEATH <hsc-lesson-21>`
-  - :ref:`LESSON NUMBER 22 <hsc-lesson-22>`
-  - :ref:`LESSON NUMBER 23 CONFUSION OF IDEAS REGARDING SPIRITUAL AND PHYSICAL <hsc-lesson-23>`
-  - :ref:`LESSON NUMBER 24 QUESTIONS FROM STUDENTS <hsc-lesson-24>`
+  - :ref:`Lesson 21: Deeper Thoughts of Life and Death <hsc-lesson-21>`
+  - :ref:`Lesson 22: Knowledge Makes You the Master of Matter <hsc-lesson-22>`
+  - :ref:`Lesson 23: Confusion Regarding Spiritual and Physical <hsc-lesson-23>`
+  - :ref:`Lesson 24: Questions from Students (Part VI) <hsc-lesson-24>`
 * :ref:`Part VII (Lessons 25–28): Simplicity, Sound, Silence & Wave-Vibrations <hsc-part-07>`
-  - :ref:`LESSON NUMBER 25 WE STILL SEARCH FOR SIMPLICITY <hsc-lesson-25>`
-  - :ref:`LESSON NUMBER 26 SOUND, SILENCE AND WAVE-VIBRATIONS <hsc-lesson-26>`
-  - :ref:`LESSON NUMBER 27 PREFACE <hsc-lesson-27>`
-  - :ref:`LESSON NUMBER 28 QUESTIONS CONCERNING FAITH, BELIEF AND FAITH HEALING <hsc-lesson-28>`
+  - :ref:`Lesson 25: We Still Search for Simplicity <hsc-lesson-25>`
+  - :ref:`Lesson 26: Sound, Silence and Wave-Vibrations <hsc-lesson-26>`
+  - :ref:`Lesson 27: Preface to Vibration, Nebulae & Faith <hsc-lesson-27>`
+  - :ref:`Lesson 28: Questions on Faith, Belief and Faith Healing <hsc-lesson-28>`
 * :ref:`Part VIII (Lessons 29–32): Electric Polarity & Reincarnation <hsc-part-08>`
-  - :ref:`LESSON NUMBER 29 THE SPIRITUAL SIGNIFICANCE OF ELECTRIC POLARITY <hsc-lesson-29>`
-  - :ref:`LESSON NUMBER 30 REINCARNATION <hsc-lesson-30>`
-  - :ref:`LESSON NUMBER 31 THE SUPREME MYSTERY OF THE AGES (REINCARNATION CONTINUED) <hsc-lesson-31>`
-  - :ref:`LESSON NUMBER 32 ANSWERS TO STUDENTS QUESTIONS <hsc-lesson-32>`
+  - :ref:`Lesson 29: The Spiritual Significance of Electric Polarity <hsc-lesson-29>`
+  - :ref:`Lesson 30: Reincarnation <hsc-lesson-30>`
+  - :ref:`Lesson 31: The Supreme Mystery of the Ages (Reincarnation) <hsc-lesson-31>`
+  - :ref:`Lesson 32: Answers to Students' Questions (Part VIII) <hsc-lesson-32>`
 * :ref:`Part IX (Lessons 33–36): Cosmic Knowledge & The Rise and Fall of Man <hsc-part-09>`
-  - :ref:`LESSON NUMBER 33 KNOWLEDGE ALONE CAN SAVE THE HUMAN RACE FROM ANOTHER DARK AGE <hsc-lesson-33>`
-  - :ref:`LESSON NUMBER 34 THE RISE AND FALL OF MAN <hsc-lesson-34>`
-  - :ref:`LESSON NUMBER 35 HARD FACTS MAN MUST FACE OR PERISH FROM THE EARTH <hsc-lesson-35>`
-  - :ref:`LESSON NUMBER 36 THE REMEDY FOR WORLD DESTRUCTION AND THE DAWN OF A NEW DAY IN HUMAN RELATIONS <hsc-lesson-36>`
+  - :ref:`Lesson 33: Knowledge Alone Can Save the Human Race <hsc-lesson-33>`
+  - :ref:`Lesson 34: The Rise and Fall of Man <hsc-lesson-34>`
+  - :ref:`Lesson 35: Hard Facts Man Must Face or Perish <hsc-lesson-35>`
+  - :ref:`Lesson 36: Remedy for World Destruction & Dawn of a New Day <hsc-lesson-36>`
 * :ref:`Part X (Lessons 37–40): Reincarnation Continued & Multiplication into Transcendent Beings <hsc-part-10>`
-  - :ref:`LESSON NUMBER 37 REINCARNATION CONTINUED from lesson 31 UNLAWFUL BELIEFS <hsc-lesson-37>`
-  - :ref:`LESSON NUMBER 38 SPIRITUAL RELATIONS AND THE RELATION OF MAN AND WOMAN TO NATURE AND TO EACHOTHER. <hsc-lesson-38>`
-  - :ref:`LESSON NUMBER 39 REINCARNATION CONTINUED THROUGH COSMIC KNOWING WE MULTIPLY OURSELVES INTO TRANSCENDENT BEINGS. <hsc-lesson-39>`
-  - :ref:`LESSON NUMBER 40 ANSWERS TO STUDENTS QUESTIONS <hsc-lesson-40>`
+  - :ref:`Lesson 37: Reincarnation Continued — Unlawful Beliefs <hsc-lesson-37>`
+  - :ref:`Lesson 38: Spiritual Relations of Man, Woman and Nature <hsc-lesson-38>`
+  - :ref:`Lesson 39: Multiplication into Transcendent Beings <hsc-lesson-39>`
+  - :ref:`Lesson 40: Answers to Students' Questions (Part X) <hsc-lesson-40>`
 * :ref:`Part XI (Lessons 41–44): Building the Cube-Sphere Wave-Field of Curved Motion <hsc-part-11>`
-  - :ref:`LESSON NUMBER 41 PRELUDE <hsc-lesson-41>`
-  - :ref:`LESSON NUMBER 42 ONE MORE STEP TOWARD BUILDING THE CUBE-SPHERE WAVE-FIELD <hsc-lesson-42>`
-  - :ref:`LESSON NUMBER 43 WE CONTINUE THE CUBE-SPHERE OF THE FOUR DIMENSIONAL UNIVERSE OF TIME AND CURVED MOTION <hsc-lesson-43>`
-  - :ref:`LESSON NUMBER 44 ANSWERS TO STUDENTS QUESTIONS <hsc-lesson-44>`
+  - :ref:`Lesson 41: Prelude to the Cube-Sphere Wave-Field <hsc-lesson-41>`
+  - :ref:`Lesson 42: Building the Cube-Sphere Wave-Field <hsc-lesson-42>`
+  - :ref:`Lesson 43: The Four-Dimensional Cube-Sphere of Curved Motion <hsc-lesson-43>`
+  - :ref:`Lesson 44: Answers to Students' Questions (Part XI) <hsc-lesson-44>`
 * :ref:`Part XII (Lessons 45–48): As on Earth So in Heaven & The Making of Matter <hsc-part-12>`
-  - :ref:`LESSON NUMBER 45 PRELUDE TO LAST FOUR LESSONS <hsc-lesson-45>`
-  - :ref:`LESSON NUMBER 46 AS ON EARTH SO IS IT IN HEAVEN <hsc-lesson-46>`
-  - :ref:`LESSON NUMBER 47 WE NOW CONSIDER THE MAKING OF MATTER <hsc-lesson-47>`
-  - :ref:`LESSON NUMBER 48 THE SUPREME QUESTION AND THE SUPREME MYSTERY OF CREATION <hsc-lesson-48>`
+  - :ref:`Lesson 45: Prelude to the Last Four Lessons <hsc-lesson-45>`
+  - :ref:`Lesson 46: As on Earth So Is It in Heaven <hsc-lesson-46>`
+  - :ref:`Lesson 47: We Now Consider the Making of Matter <hsc-lesson-47>`
+  - :ref:`Lesson 48: The Supreme Question and Mystery of Creation <hsc-lesson-48>`
 
 ----
 

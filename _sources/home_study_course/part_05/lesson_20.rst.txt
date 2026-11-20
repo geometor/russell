@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-20:
 
-LESSON NUMBER 20 STUDENTS DEEPER QUESTIONS ANSWERED
-===================================================
+Lesson 20: Students' Deeper Questions Answered
+==============================================
+
+.. folio:: 0189
+   :page: 189
 
 It is deeply gratifying to us that more and more students are finding that the answers to all situations in which they find themselves are within themselves. When you realize that going outside of your Consciousness in the direction of your senses, or the senses of any other person to whom you may appeal, is the surest way to defeat your purpose and complex your problem, you will ultimately learn the wisdom of seeking the answers to all questions within yourself. That is what we mean by asking God for a solution.
 
@@ -29,6 +32,9 @@ The diagram numbered 15 on page 171 will help you to visualize yourself as The U
 
 If the answer is not in your thoughts, you cannot get it from them. Go, therefore, to the Source of thought with full confidence and realization that you will have your answer, just as you go to the well for more water and not to the various little cups and dishes which have a limited supply in them when you are seeking an abundant flow of living waters from their unlimited source in the well.
 
+.. folio:: 0190
+   :page: 190
+
 You do not inspire increasing respect in your neighbor when you betray your weakness to him by asking him what you yourself KNOW--but are not aware of.
 
 Your creation is already falling to pieces the very instant that you are no longer creator of it. If you are working in the Light of your all-knowing you are working with God. Go TO him, not AWAY from Him as you would go to the well if you want water and not away from it.
@@ -49,6 +55,9 @@ Jesus and all other mystics knew what love meant and tried also to impart that k
 
 The human race had not progressed sufficiently far to even comprehend the love principle--and still is unable to comprehend it except for the cosmic few who are far advanced in their unfolding beyond the masses who are still ignorant, selfish Barbarians because their desire for taking is still dominant in them.
 
+.. folio:: 0191
+   :page: 191
+
 And so it was that the teachings of the mystics about The Divine Trinity of the undivided ONE and the divided TWO of Creation became a meaningless and unexplainable metaphysical abstraction because of the garbled beliefs and misunderstandings of past ages of ignorant, superstitious miracle loving primates.
 
 One Barbarian misinterpretation of it stated that if an offender against God appeased God's anger against him by sufficient bloodshed or other sacrificial rites God would descend as The Holy Ghost in the body of a dove which would sit upon the shoulder of the penitent one. Such beliefs persisted during and long after the time of Jesus.
@@ -68,6 +77,9 @@ Many centuries have passed and the seeds have only now begun to unfold in a smal
 That seed has been extremely slow to unfold, for man had been brute for so many aeons upon aeons that cruelty had become his nature.
 
 QUESTION. In lesson 7, page 107, you say "There is no such thing in Nature as evil, sin or shame. Nature is never unbalanced." and on page 116 "and that every insect, bird and beast, are instinctively controlled and watched over". How then do you explain the condition of animals destroying their kind for food?"
+
+.. folio:: 0192
+   :page: 192
 
 ANSWER. Animals do not destroy each other for food. They but interchange their bodies with each other for the perpetuation of bodies--including their own. They still exist as eternal idea. They cannot be destroyed. All bodies interchange with other bodies perpetually. The present body of the zebra interchanges with the lion to perpetuate the idea of the lion. The body of the lion then interchanges with earth to perpetuate the idea of the zebra. The zebra thus acquires a new body to give to the lion. Bear this fact in Mind that the zebra cannot help giving its body to the lion even if it dies a natural death. Neither can you prevent giving your body back to the earth to manifest the idea of the cow, the sheep or the apple tree which likewise give their bodies to you to manifest the idea of you.
 
@@ -95,6 +107,9 @@ Perhaps you might get a better idea of the workings of Nature than the idea you 
 
 Man learns by his hard experiences in taking more than he gives. He himself suffers for the unbalances he has caused but that suffering leads to the correction of his unbalancing by hard labor and deprivation. These ills of man's making are GOOD because they lead to GOOD.
 
+.. folio:: 0193
+   :page: 193
+
 It is as GOOD that the lion has its zebra as that the bird has its worm. Without that interchange there would be no grass for the cow and no milk for your children.
 
 Without that balanced interchange of mineral, vegetable and animal kingdoms this planet would become a stony, metallic, barren desert floating in the skies. There would no longer be the sounds of singing birds, nor worms for them, nor grass for the cow, nor children to need milk.
@@ -119,6 +134,9 @@ This raises the whole question of what some call 'intercessory prayer'. You have
 
 "My hope is that you will expand on the possibility (if any) of DIRECT EFFECT without the medium of the ordinary senses. When you say that "desire within the Soul will always command the whole universe to fulfill the desire" (P. 75) can this include a DIRECT EFFECT in behalf of our "enemies" apart from such efforts to work with God as movements for personal or national reconciliations. Is such a DIRECT EFFECT made possible through "strongly seeing the Oneness of ALL so that our lives become a divine extension of that One?" (Prelude, P. vii)
 
+.. folio:: 0194
+   :page: 194
+
 "I have deeply valued lessons 5 and 6 and all that you say about love as giving and regiving as an inviolate law; and I absolutely agree that we ourselves should work out in action the desire --but please help us on the validity of DIRECT INFLUENCE in what is usually called "intercessory prayer?"
 
 ANSWER. It is amazing how little ordinary human reason is applied to that subject of direct effort, direct influence and direct effect of intercessory prayer. What you are really asking me is this: "Do you believe that by getting enough people to join in "love-powered prayer" God will fill the enemies which have been made through unfair dealings with them with the spirit of brotherhood toward all so that we may continue to keep what we have taken from them by force, and hurt them as much as we want to, without ourselves being hurt?"
@@ -141,6 +159,9 @@ Let us consider that point of view. We, the American Nation, pose as being a rig
 
 Do not say "but that was yesterday and our forefathers did it, not us", for we are extensions of our forefathers, and we are reaping the harvest which they sowed. We cannot enjoy its stolen fruits without paying heavily for it.
 
+.. folio:: 0195
+   :page: 195
+
 The price we are paying is in the blood of ten for every one we have killed. By becoming enemies we have made enemies. We are hundreds of billions in debt because of the few billions we stole. We are criminals in respect to God's law, feigning righteousness in our people who are being persecuted by enemies, forgetful of our persecution of man by us as his enemy.
 
 God's law will not allow any man or nation to reap harvests of the luscious fruits of peace and good will who sows the seeds of hate and ill-will. We have acquired our freedom by depriving other men of their freedom, and now we wonder why other men wish to deprive us of our hard fought-for freedom. We call them our enemies, and ask God in "love-powered prayers" to set aside His laws in favor of us, as one enemy of man as against another enemy of man.
@@ -160,6 +181,9 @@ We have lived by the sword and the decadence of world--death by the sword is evi
 The whole world is facing another dark age. It is on the very verge of it.
 
 The only thing which will prevent the world from plunging into that abyss is for mankind to stop being the enemy of man and be his friend. Stop taking and begin giving. Stop fearing man and begin loving him.
+
+.. folio:: 0196
+   :page: 196
 
 When nations of God-fearing men become nations of God-loving men who practice God's ways the world will be saved from world suicide, and not until.
 
@@ -188,6 +212,9 @@ In other words, when you love your neighbor as yourself, and send such thoughts 
 
 * * *
 
+.. folio:: 0197
+   :page: 197
+
 Swannanoa, Waynesboro, Virginia
 
 Dear Friends:
@@ -205,6 +232,9 @@ The first question answered in lesson No. 20 was from one who had felt that illu
 As more and more of you become thoroughly familiar with the practice of working knowingly with God, until it becomes a habit, the world will know more and more about it and geniuses will again be produced as they were during the three hundred years following the great Renaissance which gave us such inspired geniuses as Leonardo Da Vinci, Michael Angelo and others up through the days of Liszt, Chopin and Wagner, Tennyson, Shakespeare and Keats, to such recent geniuses as Kipling, Dickens, Walt Whitman and Thomas Jefferson.
 
 Every man is an inherent genius and there should be an ever increasing number of geniuses in the world. You have it in you, and so have your sons, daughters and friends. The greatest man who ever lived is no greater than you except that he knew that he was and did something about it.
+
+.. folio:: 0198
+   :page: 198
 
 The hope of world culture is the production of more geniuses, and the only way to produce them is to make men aware of their genius. Conversely, the only way to make men realize the maximum of happiness in life is to produce geniuses, for they are the only ones who are capable of knowing happiness. By genius I mean the man who has learned to live life gloriously--at the maximum—not just the genius who has expressed himself in the arts.
 
@@ -229,6 +259,9 @@ That is the way it is with Lao and me when we extend ourselves to you in these w
 We told you sometime ago that we had a plan for the multiplication of genius leaders of men. We are nearing the point where we can tell you more about it. The world has been decimated of its leaders. The world is not producing geniuses. The human race has become anaemic through drainage of its fine blood--and decadent because of burying its geniuses in many Flanders' poppy fields instead of nurturing them with love in the Light of man's need.
 
 When we are ready to give that plan of resurrection to the world, and the method of it, and tell you of God's explicit and detailed instructions regarding His plan for the resurrection of eternal man of His Cosmic Age, from its burying place in the earth of past ages, these lessons will have illumined more of you to become the Light of that resurrection.
+
+.. folio:: 0199
+   :page: 199
 
 When that glorious day comes then you who have found eternity within the hollow of your hand to use as though it were God's hand, shall stand beside us, Lao and I, and look out from God's Sacred Mountain of resurrection into its glorious vales below through which eternal man of tomorrow shall find new paths into a new world of a new kind of life adventure motivated by love, and by balanced dealings of man with man which passeth all understanding.
 

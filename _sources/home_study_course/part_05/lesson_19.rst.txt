@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-19:
 
-LESSON NUMBER 19 CONTINUING THE MYSTERY OF LIFE AND DEATH
-=========================================================
+Lesson 19: Continuing the Mystery of Life and Death
+===================================================
+
+.. folio:: 0179
+   :page: 179
 
 During the whole course of these lessons we have endeavored to accentuate the underlying simplicity of Nature and Natural law and constantly repeat and exemplify the fact that every expression of motion in every creating thing is identical.
 
@@ -28,6 +31,9 @@ We have demonstrated the increasing power to express life through increasing int
 This process has clarified the fact that the tree could multiply its power only by giving, in order that that which it unfolded would be refolded for repeated giving.
 
 The tree is rooted to the ground but man is, seemingly, not so rooted. The growth of a tree seems to exemplify something quite different in principle than the growth of a man, or a business. In order that such thought will not complex your thinking and lead you away from the simplicity of the identical manner in which The Divine Trinity is expressed in all things, I will give you two more parallel examples at the end of this lesson, that of a man and the growth of a bank. You will see that there is not the slightest variation in either the principle or its mechanics in these two other expressions of idea which are identically repeated in all other expressions.
+
+.. folio:: 0180
+   :page: 180
 
 Before we give these examples, however, I will quote our Father-Mother's words given in His Cosmic Message to this new age of man now dawning.
 
@@ -53,6 +59,9 @@ ILLUSION IN THE MAKING
 Each wave-field is surrounded, and bounded by six "mirrors" which form a cube of six planes of zero curvature beyond which any action taking place in any wave-field cannot go. Within these cube wave-fields is an entire microcosmic or macrocosmic curved universe of curved pressure gradients which act as lenses to project and retract light-wave actions and reactions which take place within each wave-field. These countless cubes of space are the projection machines which extend the cosmic cinema upon the imagined screen of space.
 
 Each action of each person, planet or atom effects the balanced symmetry of its wave-field. Unbalance distorts the field in the measure of its unbalance. This is not the place to expand this idea here, but the fact of it must be stated here to await its further dynamic expression. We will demonstrate, through chemistry and wave construction, how unbalance and mismatings result in slight to violent distortions from which our explosives emerge.
+
+.. folio:: 0181
+   :page: 181
 
 Each man is forever building his own balanced or distorted wave-field from which he projects his distortions and reflects others.
 
@@ -83,6 +92,9 @@ Chap. IV
 2. "For I am balance. As heavens and earths of My balanced radial body vary not one whit in their rhythmic balance, so shall man vary not one whit.
 
 3. "Unknowing man unthinkingly counts his own power to set aside My one law to fit the measure of his desires, but, I say, [I] alone hold balance.
+
+.. folio:: 0182
+   :page: 182
 
 4. "Man walks through his cycles upon a tautened rope. Where'er his foot toucheth I am there, giving him foothold as the fulcrum of his effort.
 
@@ -121,6 +133,9 @@ Chap. V
 BALANCE FURTHER EXEMPLIFIED
 ---------------------------
 
+.. folio:: 0183
+   :page: 183
+
 Since it is that balance is the very foundation of the undivided universe of Mind, and divided balance is the foundation of the universe of motion, it is necessary that we continue with enough examples of a varied nature to demonstrate the conspicuous fact that equal division of action and reaction demands equal interchange of giving and regiving to opposite mates by each other.
 
 It is difficult to realize that we are either making happiness or unhappiness for ourselves by our own balanced or unbalanced relations with our close associates. We give too little thought to the things we say and do to our friends and neighbors in our social and business relations.
@@ -139,6 +154,9 @@ We whose bodies are divided to manifest our undivided Selves, have never realize
 Our roots underground are not fastened to us as they are to the tree but the system of interchange from seed to seed is the same. Note the analogy and similarity of process in each.
 
 The seed of all things is planted in the body of the earth--or an extension of it, to act as womb for the beginning of the polarization which divides the thought body, as registered in the seed, into two conditions, one which reaches out toward the heavens to manifest the unfolding process which expresses motherhood, and the other which reaches inward toward gravitative pressures to manifest the refolding process of expressing fatherhood. The surface of the earth is the static equator from which all of its extensions emerge. All creating extensions are likewise divided by an equator which balances the two through interchange.
+
+.. folio:: 0184
+   :page: 184
 
 The entire expression of a whole life cycle deals with what happens to a body after polarization begins, for ALL HAPPENINGS after that which affect growing body pattern are the direct result of whatever interchange takes place between the body of the man--tree--rhinoceros or ant--which is above ground with its own roots underground and the bodies of other extensions of the earth which have also become similarly divided, and especially of our own mate of opposite sex from whom each of us is similarly divided by a dynamic equator.
 
@@ -160,6 +178,9 @@ This important subject will be gradually infiltrated in the lessons as we procee
 A full scientific knowledge of God's electric recording system will dispel the so far insoluble mysteries which lie hidden behind the secrets of instinct, memory, growth, "evolution" (which really means unfolding of that which IS, and not something being added-to that which WAS) reincarnation and that inexplicable idea which the ancient mystics called KARMA.
 
 Philosophers and scientists have long wondered how the salmon finds its birth place to spawn after wandering thousands of miles in trackless oceans, and a thousand other such mysteries. These mysteries are quite simple of comprehension when one fully comprehends how God "knits" all patterned bodies from light-waves with two forever interchanging "knitting needles" for which God has but two names--FATHER and MOTHER.
+
+.. folio:: 0185
+   :page: 185
 
 If you could but visualize the Creator at work, weaving His universe of patterned forms in threads of light of all the colors of the spectrum, as a tapestry weaver works with many colored threads, you would see that God uses two "needles", both of which are tipped with white golden light of incandescence at the ends where both meet. One of the "needles of light" extends from that golden incandescence into the dark of space through the orange and red side of the spectrum to manifest the fatherhood of Creation, and the other extends through the green and blue side of the spectrum to manifest Creation's motherhood.
 
@@ -184,6 +205,9 @@ What you are depends upon what you KNOW. What the world knows of you depends upo
 What you KNOW and what you ARE can become a part of Creation by dividing what you know and what you are into invisible thought bodies for your own unfolding and then giving those thought bodies to the world by polarizing them from their seed in you.
 
 Through motion alone we can extend ourselves from our seed to make a body, and from that body we can extend our knowing to all the world, but motion is only our servant, it does nothing of itself. Our use of it, however, in balance or out of balance, can uplift us to the highest pinnacles of earth or plunge us into the deepest abyss.
+
+.. folio:: 0186
+   :page: 186
 
 It should be our greatest desire to learn how to divide our actions in such a manner that the half which belongs to heaven is equal to that half which is given to earth.
 
@@ -210,6 +234,9 @@ Man is continually borrowing his body from earth and is just as continually retu
 
 Your dog can follow your path for days because of the millions of dead cells which you have thrown off. That "odor" of you is a part of your ever dying body just as the perfume of a flower is a part of the dying flower.
 
+.. folio:: 0187
+   :page: 187
+
 All eliminations of bodies are given back to earth for continuous repetition of givings and regivings. Earth is the positive cell of a battery and space is the negative cell. When earth gives half of a body to space earth charges space and discharges itself equally. As space regives to the other half of the body it recharges earth and discharges space.
 
 Perfection in the manifestation of any idea depends upon keeping this interchange in balance. Deficient interchange unbalances both, resulting in a less fertile earth and a less vital body of man.
@@ -235,6 +262,9 @@ The bank begins to grow from its seed by dividing its substance into its two pol
 The growth of the bank begins when it extends credit to a borrower to make a body for the borrower's idea just as the oak tree makes a body for its idea by borrowing it from below its equator.
 
 If the extended credit above the equator is $100,000 a simultaneous debit of $100,000 is recorded below the equator. That interchange is equal and opposite and is always kept in balance. Every reduction or increase on the credit side of the equator is balanced on its debit side.
+
+.. folio:: 0188
+   :page: 188
 
 Suppose, however, that the creditor failed, after repaying $40,000. There would then remain a deficit of $60,000 which illustrates what we mean by a "residue of unbalance".
 

@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-02:
 
-LESSON NUMBER 2 Continuation of MEDITATION SCIENTIFICALLY EXPLAINED FURTHER CONSIDERING TECHNIQUE
-=================================================================================================
+Lesson 2: Meditation Technique & Creative Consciousness
+=======================================================
+
+.. folio:: 0015
+   :page: 15
 
 There is much confusion regarding the relation of an inspired idea to the technique of its expression. Thousands of times I have heard people say, "I could never be an artist for I could not even draw a straight line". For this reason I would like to expand what I said in our first lesson regarding this relationship.
 
@@ -21,6 +24,9 @@ LOVE IS THE BASIS OF THE SPIRIT AND THE LAW OF LOVE IS THE BASIS OF CREATION
 The nature of God is to give out His love for regiving, The nature of the master must be to give out love to inspire others to regive love.
 
 It has often been my good fortune to hear such masters as Paderewski or Gabrilowitsch practice scales and finger exercises. The unthinking listener might marvel at such "skill", while one who listens with inner ears hears the silence of the Soul even in one's practicing. The Soul alone can give out love. The body can render a perfect technical reproduction but if the love nature of God is not in it it is not art, for the art of anything is not in the skill of rendering a visible or audible thing but in the beauty and love which only the stillness of the Light of your Soul can give to it. And therein lies the difference between the genius of the master and Soulless mediocrity.
+
+.. folio:: 0016
+   :page: 16
 
 That is why your constant communion with God is necessary for every moment of life and every stage of your creation. God must sit with you on your piano stool or work bench. Your hands must be His hands. Your thinking must be His thinking. Love must be interwoven in every stitch of whatever pattern you are weaving, every word you are writing, and every interchange between yourself and your fellow men.
 
@@ -42,6 +48,9 @@ THE VERY ESSENCE OF MEDITATION
 ------------------------------
 
 The basic reason for meditation is that you want to ask something from God. There is no other reason for it. And you do not begin to ask God for anything until you begin to realize your oneness with God. You then ask God because you realize that you cannot fulfill your Soul's desire without Him.
+
+.. folio:: 0017
+   :page: 17
 
 When you finally do ask Him you naturally ask how you may fulfill your Soul's desire. "O God, show me the way. Illumine my path with Thy Light" you say, wordlessly, in your heart.
 
@@ -68,6 +77,9 @@ And that is exactly what you do to the extent of your knowledge and ability. You
 Whatever you create is the image of you. You call it your individuality, or personality. Whatever it is it is YOUR IMAGE projected into forms imagined by you to manifest your nature.
 
 You create a manifestation of your own self by thinking your knowing into form. If you know but little, and think but little you will create yourself into a little person. If you think out of balance you will create an unbalanced individual with an unbalanced body. If you are a hypochondriac you have made yourself into one instead of a genial, cheerful happy and healthy leader of men.
+
+.. folio:: 0018
+   :page: 18
 
 Whatever you wish to become you may become. If you create your own personality alone, by yourself, it will have all of the weaknesses of the senses. The more you ask God to help you make your Self into His image the more power of His Mind you will have to fashion your Self into a powerful individual. When His nature and yours are one you will then be a man of cosmic power and your creations will manifest your nature and God's nature as one.
 
@@ -102,6 +114,9 @@ That is the way that culture gradually awakens in unfolding man. Those who have 
 
 The language of Light is from Light to Light, or Soul to Soul, and there need be no words, nor sounds, nor form. The Soul understands that universal language whenever expressed by Soul. The body senses, centered at the seat of sensation centered in the brain, can never understand it, even though it hears its expression in words and sounds, and sees it expressed in form.
 
+.. folio:: 0019
+   :page: 19
+
 MEDITATION AGAIN DEFINED
 ------------------------
 
@@ -128,6 +143,9 @@ God awareness in you brings realization of the Light of cosmic Consciousness in 
 The only way you can multiply your strength to think, or to create, or to command matter to your obedience such as commanding your body to health, or commanding masterly achievement by control over your body, is to multiply God awareness in you.
 
 Your Mind is God's Mind. Your thinking is God's thinking. Your creative processes are God's creative processes. When God concentrates His thinking, body forms appear in the image of his desiring. When God decentrates His thinking, those body forms expand into disappearance to reappear when God reconcentrates His thinking. You do likewise, for there is but one KNOWER, one THINKER and one CREATOR in the universe.
+
+.. folio:: 0020
+   :page: 20
 
 God is all that IS. YOU are all that IS. In meditative communion with God you become aware of that. To be alone with is to know the ecstasy of that awareness.
 

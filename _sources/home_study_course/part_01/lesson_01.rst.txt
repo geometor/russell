@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-01:
 
-LESSON NUMBER 1 MEDITATION SCIENTIFICALLY EXPLAINED
-===================================================
+Lesson 1: Meditation Scientifically Explained
+=============================================
+
+.. folio:: 0007
+   :page: 7
 
 Meditation is the most important of all the functions of human life which further human progress. So little is known of it, even by the greatest of the world's geniuses who constantly practice it knowingly but could not explain it, that it now seems necessary to so carefully define and explain that divine function that everyone can knowingly practice it and thus knowingly command his achievements to be masterly, or command his body to be perfect, or his life to be full to overflowing, for through meditation every man can become whatever he wishes to become.
 
@@ -25,6 +28,9 @@ All during my life I have walked and talked and worked knowingly with God. Every
 Knowing that I must demonstrate by my own life that which I must teach to other men my one desire through life has been to live life worthily to manifest the power in me which God gives to every man for the asking, and to immunize myself from all that is unlovely in order that I could forever create with Him that Beauty of balanced rhythmic thinking which is His universe.
 
 And so it is that the time has now come for me to teach you who desire to unfold your own omniscience how to find that zero of stillness in His Light which will illumine your way to your own mountain top.
+
+.. folio:: 0008
+   :page: 8
 
 THE FIRST STEP
 --------------
@@ -62,6 +68,9 @@ Giving formed bodies to imagined thought forms, by following up your thoughts wi
 
 That is all that God does, for he controls His electric body as its absolute master. He keeps all of its interactions and interchangings in absolute balance, for God is eternally creating His body in the image of His desiring.
 
+.. folio:: 0009
+   :page: 9
+
 You can do likewise, if you desire to, only by working knowingly with God. You can be master of your body in the measure of your awareness of God in you, and keep it in balance instead of continually unbalancing it in divers ways from morn until night
 
 and from night until morn, wearing it out with tensions and strains, fears and worryings, and various emotions which destroy your body with toxic poisonings.
@@ -91,6 +100,9 @@ All that God does is to think thought forms of ideas and give them formed bodies
 
 God thinks man and the body of man appears in the image of God's imagining. In the same manner the bodies of roses and oaks of the forest, ants and lizards, elephants and camels, planets, suns and oceans with their living hosts of swimming things, and countless other formed bodies appear as separate ideas all extended from the One, and all from each other.
 
+.. folio:: 0010
+   :page: 10
+
 And that is all that man does. He also thinks thought forms of ideas and gives them formed bodies from the universal body and Soul from the universal Soul. The engineer conceives the image of a bridge and the formed body of the bridge appears in the image of the engineer's imagining.
 
 Likewise the musician thinks music in the silence of his imagining, and lo, the formed body of the music appears in sound extending from the silence. And so are you and all men thinking imaged forms of multiple things and giving them formed bodies in the image of their imaginings.
@@ -109,6 +121,9 @@ The high heavens of God's omnipotent and omniscient universe then becomes your d
 Meditation began when thinking began at the dawn of Consciousness in the human race. That was but a few thousand years ago. Until that time men were ruled by their senses and their instincts. As soon as humans began to think and know they began to suspect a superior Being. Worship then began, sun-worship, idol worship and finally the Inner Voice of thinking man led him to the spiritual idea of many gods, then to one God.
 
 Through the centuries of meditation, or communion between the physical senses of men and their spiritual inspiration, the genius of some unfolded beyond others. This gradual unfolding has been taking place during several ages of man until now a new stage of the human race is unfolding which is the dawn of the Cosmic Age. The great masses of mankind are not yet ready for cosmic knowing but many thousands are ready for this new knowledge of the invisible universe of thinking Mind. It may be that there are even a few millions who are ready to become the seed of the new race of cosmic man.
+
+.. folio:: 0011
+   :page: 11
 
 The test for ascertaining the average number of those who are ready for this higher step upward in the unfolding of the man-idea is not a religious one, it is a cultural one. In New York City, for example, about 7000 people out of 8,000,000 people love the higher inspirational rhythmic creations of the world's great geniuses who interpret the heartbeat of Nature for the Souls of men. These same few shun noisy crowds, shudder at Jazz music which distresses them acutely, in order to seek aloneness in the forests or ocean's shores where they can hear Nature's silent whisperings and rhythmic sounds within their very Souls.
 
@@ -132,6 +147,9 @@ When, however, you have actually written your desire into your heartbeat, as I h
 
 Having thus acquired that part of the One Whole Idea which you have asked for in your heart, you then think it into the form of a concept by imagining it into a form. This conceptual form may be misty, or nebulous at first. Do not act upon it while it is still nebulous. Decentrate to the zero of the Light again, over and over again, then concentrate. Each time you concentrate you more clearly see the image of it in your inspired imaginings. So long as it is still in embryo do not give it birth into the objective universe of form and motion.
 
+.. folio:: 0012
+   :page: 12
+
 Dwell on it until it becomes as clear to your inner vision as the body you give it becomes clear to your outer vision. If it is an invention meditate upon it until you clearly see it. Do not waste time experimenting. See [the embryo of] it completed mentally before you spend time on it physically, otherwise it will be immature.
 
 If it is a sale of something assemble all of the elements of it together until you can vision it clearly before approaching your client. If it is a motif for a symphony hear it completely in the silence of your Soul before you give it a body. No matter what your desire is take it to God for a spiritual form before you give it a physical one. Get into the fixed habit of seeking that zero of stillness in the Light before starting to think or act.
@@ -152,6 +170,9 @@ Inspiration will then come to you and in that inspiration your desire is being f
 Likewise whatever form you wish to give it, you, yourself can translate the essence of that divine language of Light into form through any medium by acquiring technique.
 
 That is something which your body does by acting solely with your will. Through your will you command your body to express your desire. Your body is but an automatic machine which must be manipulated by your will. It must be trained your will to fulfill every technique of expression, and it may take years to so train your body to automatically obey your will.
+
+.. folio:: 0013
+   :page: 13
 
 That is why it takes years of practice for a body to become a perfect musical instrument, or an instrument which paints, writes or sculps, with tools which are but extensions of a body.
 
@@ -176,6 +197,9 @@ There is an indescribable glory all along the road which leads from your active 
 Meditation transports you from the world of sensing the motion of things materially to imagining them cosmically. It transports you from the world of blatant sounds which sear the senses to the world of rhythmic silences which is without body, the world of the Soul and the seed of things unborn which await their birth through you. It is your escape from emotions, with its tensions and nervous strains, to the ecstasy of your Soul's high heavens.
 
 Earth music is melodic and chains you to earth. The "Music of the spheres" which you hear with your inner ears, is deeply tonal not melodic. The rhythms and tones of Nature's music which sing its octaves in the language of Light have always within them the pulsing rhythms of the universal heartbeat, always the one-two-one-two pulsing of the Father-Mother heartbeat of borning-reborning forms of things which manifest the Father-Mother pulsing rhythms of the Soul's high heavens.
+
+.. folio:: 0014
+   :page: 14
 
 Always in your deep meditation the music of the silences from which sounds of earth spring is like unto the aftermath of the great symphonies by cosmic masters which have refolded from sounds of earth which your ears have heard, into your very Soul which still hears them in the pulsebeat of your imagining.
 

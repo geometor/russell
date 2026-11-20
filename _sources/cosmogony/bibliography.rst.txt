@@ -1,10 +1,14 @@
 :title: Bibliography of Works by Walter and Lao Russell
 :layout: book
+:folio: 0002
 
 .. _cosmogony-bibliography:
 
 Bibliography & Primary Sources
 ==============================
+
+.. folio:: 0002
+   :page: 2
 
 .. rubric:: *Chronological Register of Primary Works*
 
