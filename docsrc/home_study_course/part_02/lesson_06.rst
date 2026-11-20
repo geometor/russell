@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-06:
 
-LESSON NUMBER 6 Continuation of PRAYER SCIENTIFICALLY EXPLAINED RELATIONSHIP OF PRAYER TO MEDITATION
-====================================================================================================
+Lesson 6: Prayer and Its Relationship to Meditation
+===================================================
+
+.. folio:: 0049
+   :page: 49
 
 "Let us unite in prayer." How familiar these words are on every religious occasion, and upon hearing them the congregation automatically bows its head, bends its knee and words come from the pulpit in earnest tones which may be superficially heard by some, hardly heard at all by others, while the very few who hear in their hearts are deeply stirred by the ardor of the supplication to God for forgiveness, or mercy, or blessings upon the congregation and various other human interests.
 
@@ -22,6 +25,9 @@ Automatic, formal and habitual praying from the lips, alone in one's chamber, or
 When you pray to God asking for all of the things you want, enumerating them carefully--even to timing their arrival as your desired possessions--yea, even informing God as to His method of giving them to you--detailing your business and family needs--never giving thought as to your worthiness to receive them, or whether it is wise to have them, or what you shall regive to deserve them--you are but making yourself into your own selfish image and not in the image of God's spirit in you.
 
 When your child prays for a long list of birthday, or Christmas presents, ending up with "God bless Papa--God bless Mamma" you tell the neighbors how cute that prayer is and then buy everything the child wants to uphold its belief in prayer.
+
+.. folio:: 0050
+   :page: 50
 
 It is not cute, it is tragic. It is helping the child build its own selfish image. It is also helping the whole world to build its own selfish, greedy image. It is helping to perpetuate this Barbaric Age of greed, selfishness and fear of neighbor against neighbor.
 
@@ -41,6 +47,9 @@ If the farmer would but stand in the midst of his fields and pray, saying unto t
 
 AGAIN TEACH US HOW TO PRAY
 --------------------------
+
+.. folio:: 0051
+   :page: 51
 
 He who can say in his heart: "I and my Father are one", and feel the ecstasy of that unity, is continually IN PRAYER, even as he is continually IN LIFE and continually breathing. His prayer is like unto his inward-outward breath which is forever with him, forever vitalizing him.
 
@@ -63,6 +72,9 @@ If sleep will not come to you for heaviness regarding your dealings with a frien
 And if your handiwork goes not to your liking, having too much of your earth self in it--sensing instead of knowing--liking and not loving--diverted by sounds of earth from hearing the silences of heaven which borns them on earth--then, I say, open wide the doors of your Soul and let God in to work with you. Rejoice then in your again renewed ecstasy as you again think your work knowingly with God, creating with His hands and yours as one.
 
 If a friend approach you with a grievance send love to open the door for him to you--and say within your heart:--"Father, let my words be Thy words to him, not mine alone",--then weigh his grievance in the scales of love and not let him depart unillumined by the Light, but void his grievance with your love.
+
+.. folio:: 0052
+   :page: 52
 
 If you find your business slowly ebbing because you have, perchance, founded it afar from where you should have founded it, and you grieve because you have not the means to transfer it to that far State where you now know it would thrive, I say to you to not grieve, but rejoice that God has illumined you with the Light of knowing what to do to balance your unbalanced beginning. In your rejoicing is your power to take the first step of that far journey which will be followed by another, and still another one--even as one breath forever follows another--until that far State is beneath your feet in answer to your prayer.
 
@@ -87,6 +99,9 @@ And he who would feel the ecstasy of all the world at prayer with the God of Nat
 You who have read my BOOK OF EARLY WHISPERINGS know what I mean by that, and how wonderful it is to pray to God with all of His creating things which manifest Him in love for the love He gives all things.
 
 When any man prays to you to fulfill his desire as you do to your Father, know you that he is praying to your Father who is ONE with you. Even as God works with you to fulfill your desire you should work with him who desireth aught of you to fulfill his desire--for as all men are one, so, likewise, are all desires of all men one.
+
+.. folio:: 0053
+   :page: 53
 
 If he who thus prays to you to help him to fulfill an unbalanced desire which is not love given and re-given equally, extend to him your love and balanced knowing, even as God whispers it always to the unhearing and unknowing.
 
@@ -118,6 +133,9 @@ These are the ones who will unify mankind through their knowing to end this babe
 This now ending Barbaric Age is peopled with GOD NEARING MEN.
 
 The dawning Cosmic Age is to be peopled with GOD LOVING MEN.
+
+.. folio:: 0054
+   :page: 54
 
 The coming cosmic race of men will know that love is all there is in God nature and that the expression--or manifestation--of love is all there is in the nature of the physical universe.
 
@@ -155,6 +173,9 @@ That which must be done for cosmic man to come must have thine own Self in it.
 
 15. "He who conceiveth must first unfold his concept.
 
+.. folio:: 0055
+   :page: 55
+
 16. "The mason layeth the stones of the master's thinking. Thou thy Self, must impart thy knowing in the Light of thy anointing to cosmic man who will build thy knowing and Mine into balanced rhythmic forms with Me.
 
 17. "And out of the knowing of thine anointed legions a new world of unified man shall spring.
@@ -173,3 +194,6 @@ When people are asked to work for most causes it generally means to give up some
 If you could keep the most important working thought of life before you always, and put that thought into every dealing you have with everybody, your patient, your client, the man you are selling to or buying from, your servant and your neighbor, you would soon find yourself into a very different kind of world of your own making for yourself and for all mankind.
 
 The most important thought is: The God of love is all there is in the kingdom of heaven--and the manifestation of love is all there is on earth.
+
+.. folio:: 0056
+   :page: 56

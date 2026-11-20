@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-42:
 
-LESSON NUMBER 42 ONE MORE STEP TOWARD BUILDING THE CUBE-SPHERE WAVE-FIELD
-=========================================================================
+Lesson 42: Building the Cube-Sphere Wave-Field
+==============================================
+
+.. folio:: 0386
+   :page: 386
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -44,6 +47,9 @@ Here it is:
 
 "These nine Light mirrors of zero curvature and zero motion are your limitations, and the measure of them is the measure of your desire. You may change their measure, and your limitations, by changing the intensity of your desire, but beyond these nine you cannot go in any direction without arriving at the zero of your beginning and ending
 
+.. folio:: 0387
+   :page: 387
+
 "Whatever you do in My divided universe, whether good or bad, balanced or unbalanced, or helpful or hurtful within the boundaries set for you will come back to you in the measure set by you for your own universe of your own desire.
 
 "For long aeons you have built your universe in your own image and desire. You have manifested that image of yourself for ages upon long ages, for you will not know Me in you.
@@ -71,6 +77,9 @@ Although this fact has been graphically exemplified in relation to the fulcrum a
 
 Let us sit together beside a quiet lake whose surface is completely at rest. As we look down upon it we realize its unchanging aspect. It is all the same in every direction, no matter where we look. One could not locate a point upon it and again relocate-that point.
 
+.. folio:: 0388
+   :page: 388
+
 Why is this? It is because the stillness--or equilibrium--or balance which characterizes that surface has not yet been divided by desire to manifest motion by exerting some force to disturb that stillness.
 
 We now supply that desire and exert the forces needed to divide that one unchanging condition of stillness into two opposed conditions of motion by hurling a stone into the water. See Figure 95.
@@ -86,9 +95,13 @@ Naturally you cannot see the cubic wave-fields of measured and mirrored
 .. figure:: /_static/plates/image069.gif
    :align: center
 
-   Archival Plate (``image069.gif``)
+.. folio:: 0389
+   :page: 389
 
 Light which bound them, but you can KNOW them; and in knowing them you can better comprehend God's ways--and also know that God's ways apply to you, for they are your ways, God's ways are balanced--and your ways must be balanced within the wave-field in which you act.
+
+.. folio:: 0390
+   :page: 390
 
 That which you can see, however, is the result arising from thus dividing stillness into motion to produce changing EFFECT from unchanging CAUSE. You can now locate a point and relocate it. Likewise, you can count and measure that which, heretofore, was impossible to count or to measure.
 
@@ -109,6 +122,9 @@ The spiritual lesson which you may learn from this is that whenever you perform 
 That means that whenever you do anything, or say anything, whether in your business or social life you have set something in motion which is going to be GOOD for you if you can keep its extensions in balance, or it is going to be BAD for you, and cause you to face many problems, if you do not keep the interchange between the two in balance with each other.
 
 In your control of those actions, which you set in motion, lies your happiness, success, prosperity and health, or the opposites of these qualities.
+
+.. folio:: 0391
+   :page: 391
 
 With knowledge of God's ways to help make them YOUR ways your decisions which cause all of your actions will conform to God's law of rhythmic balanced interchange in everything you do, and it will be this knowledge which will bless your life where ignorance of it could ruin your whole career.
 
@@ -136,6 +152,9 @@ Then--go and talk to God about it. Ask God to work with you to fulfill your desi
 You will find yourself spending much time in meditation with God concerning your desire. You will talk much with Him. You will hear Him counselling you, thinking with you. Through your
 
 Inner Voice you may hear Him say: "In the measure you ask I will give, but I counsel you to ask little and learn to balance that before asking more"
+
+.. folio:: 0392
+   :page: 392
 
 At the precise moment you begin your very first action to set your idea in motion God will give you six mirrors of His invisible Light shaped like a cube. Within those six mirrors of Light are three more, all set at right angles to each other. And the measure of this cube of Light which He gives you is the measure of your desire.
 
@@ -165,6 +184,9 @@ WE PAUSE HERE TO TALK ABOUT PRESSURES
 
 It is important that you understand what we mean by pressures which exist only in the divided universe of motion. Motion is impossible in an equilibrium. If you sit in a closed room of even temperature with only one pressure condition you cannot possible feel any motion taking place in it.
 
+.. folio:: 0393
+   :page: 393
+
 If however, you open a window you will feel a rush of cold air coming through the window to equalize the cold air which is outside, and the warm air which is inside. An equator divides the two. When the pressure, which is outside, equalizes the pressure which is inside, motion then ceases--and the invisible equator disappears also.
 
 Or suppose you sit in that closed room of equilibrium pressure where all is motionless and still. If you put a cake of ice in one end of the room and a piece of molten iron in the other end, you have divided the one balanced condition into two opposed pressure conditions, and an invisible equator arises between the two to control the universal balance, which that opposed pair has seemingly upset.
@@ -186,6 +208,9 @@ You have added a 100 pound pressure on one side of an equator by subtracting a h
 You have but divided an equilibrium into pairs of oppositely unbalanced conditions which strongly seek balance in their mutual equator.
 
 These opposite electric conditions do not attract each other as the Coulomb law states. The positively charged tank is endeavoring to explode outward to find balance in its equator, and the negatively discharged tank is endeavoring to explode inwardly until its pressure has been equalized with the equilibrium from which it was divided. When the equalization takes place motion then ceases; the polarized condition depolarizes and the equator disappears.
+
+.. folio:: 0394
+   :page: 394
 
 The condition which electricians term "a dead storage battery" has taken place. It is as though the lever is removed from a fulcrum. The fulcrum is still there, with all of its power for expression ready to be expressed at any time the lever is again placed upon it for the purpose of dividing its balanced power into two equally unbalanced powers which resent that division.
 
@@ -218,6 +243,9 @@ Gravitation and radiation are equal opposites which interchange continually to c
 
 Gravitation is one stroke of the piston of energy which runs uphill to perform work by contracting. Radiation is the other stroke of the piston which runs downhill to perform work by expanding. RADIATION DIVIDES ENERGY.
 
+.. folio:: 0395
+   :page: 395
+
 This whole universe is one majestic compression-expansion engine. Likewise, it is a huge electric battery. Would you say of your car's self-starter battery that the expansion stroke of the piston did all of the work--which is equivalent to what science says about radiant energy. Now would you claim that your outgoing breath alone kept you alive without need of an incoming generative breath? No of course you would not.
 
 Then why say that heat is energy--and that cold is less heat? Whenever you are puzzled regarding such questions review in your Mind the temperature cycle given earlier in these lessons, which reads as follows: Cold contracts--contraction generates--generation heats--heat expands--expansion radiates--radiation cools--and the cycle repeats itself endlessly.
@@ -244,6 +272,9 @@ It never occurs to us to think of a granite rock, which so rigidly ignores our s
 
 Try to imagine these interweavings of polarized light threads as being the inbreathing-outbreathing sequences of the bodies which they are eternally building and tearing apart to rebuild.
 
+.. folio:: 0396
+   :page: 396
+
 Try to think of dense solids, which you can so unmistakably see and feel, as but closely packed little light-waves which become very hot because they are in each other's way. Then realize that they got that way because the breathing process of the universe divides light into visible solids, which we think of as bodies, and invisible gases, which we think of as space. We never think of these two as one, or that one is living and the other is not. Yet we know that our own bodies of gravitating matter cannot live without interchanging with bodies of radiating matter.
 
 Constantly remind yourself of the fact that the continuance of every body, both visible and invisible--gravitative or radiative--positive or negative--is dependent upon receiving a continuous supply of that half of itself which is on the other side of a dividing equator.
@@ -262,6 +293,9 @@ Now what happens when you breathe in? The low potential which you breathe in fro
 Now imagine these two unbalanced conditions finding themselves as uncomfortable in keeping up that strain of pulling away from each other, (and their equators) as two children would be who were playing seesaw, and one was high above their equator and the other as far below. Just as the two children must reverse their conditions by reversing their positions, so, likewise, the two interchanging interweavers of light into bodies must reverse their conditions by reversing their positions. Each becomes the other, as all opposites in Nature continually do.
 
 Let your imagination dig deeper still in relation to those two forever interchanging lights of motion, Let us think of the incoming red light--which transforms-cold into heat in us--as our incoming breath. Conversely, let us think of the outgoing blue light--which transforms heat into cold in us--as our outgoing breath. Think this over for awhile--and breathe in and out slowly and concentratedly--while you think it over
+
+.. folio:: 0397
+   :page: 397
 
 Now look about you and see all other people breathing in and out in wave sequences as you do. And see them moving about, as you move about, with great energy while they breathe in and out. Now give thought to the impossibility of any of them moving about if they stop breathing.
 
@@ -295,6 +329,9 @@ When your Consciousness is more awakened you will think of life and death as you
 
 That is what LIFE and DEATH mean. That is also what inbreathing and outbreathing mean. Each manifests the other and each leads to the other--all for the purpose of manifesting LIFE--by living it and LOVE by expressing it through the action-reaction of GIVING and REGIVING.
 
+.. folio:: 0398
+   :page: 398
+
 Again we say--THERE IS NO DEATH, THERE IS NAUGHT BUT LIFE.
 
 LIFE is a wonderful journey through LIGHT of ETERNAL DAY which comes with the coming of dawn--while DEATH is the glory of awaiting the LIGHT which cometh again at the coming of dawn.
@@ -320,6 +357,13 @@ Now read the following five supernal paragraphs with equal concentration.
 
 3. CREATION is an eternally continuous cosmic game of seesaw played between two electric body builders, destroyers and rebuilders which forever oscillate between hot centers of high potential compressed spherical solids, and cold centers of equally high potential expanded spherical holes, for the purpose of manifesting the IDEA of God's KNOWING by simulating that idea in the moving form images which manifest His THINKING IDEA is never created. It is but SIMULATED.
 
+.. folio:: 0399
+   :page: 399
+
+.. picture:: 0399.g1.png
+   :alt: Figures 101–102 — Gyroscopic Spin and Wave Amplitude
+   :caption: Figures 101–102 — Gyroscopic Spin and Wave Amplitude (Folio 0399)
+
 .. figure:: /_static/plates/image070.gif
    :align: center
 
@@ -328,9 +372,17 @@ Now read the following five supernal paragraphs with equal concentration.
 .. figure:: /_static/plates/image071.gif
    :align: center
 
-   Archival Plate (``image071.gif``)
+.. folio:: 0400
+   :page: 400
+
+.. picture:: 0400.g1.png
+   :alt: Figure 103 — Solar and Atomic System Centered on Wave Amplitude
+   :caption: Figure 103 — Solar and Atomic System Centered on Wave Amplitude (Folio 0400)
 
 4. The fulcrum of the moving levers of the cosmic seesaw which gives to the universe its heartbeat, is the stillness of the undivided One Light which God's KNOWING is.
+
+.. folio:: 0401
+   :page: 401
 
 5. The moving levers are the two equally opposed lights of the divided electric universe which God's THINKING is.
 
@@ -354,6 +406,9 @@ If their gyroscopic relation is on wave amplitudes--90 degrees from wave axes--w
 
 Chemists and physicists commonly believe that all of the elements are different substances. There are no substances in the universe. There is naught but motion which simulates substance. Every difference in motion causes each so-called substance to seem to have different attributes.
 
+.. folio:: 0402
+   :page: 402
+
 If we remember, however, that what we think of as different elements are but different pressure conditions of the same kind of light particles, our ability to understand God's ways will become simplified.
 
 A good example of the above statement which demonstrates that elements are not separate things, but just different pressure conditions, was given in lesson No. 41 which explained the fact that the metallic elements completely lose their metallic attributes when two opposite metals united as a salt. They also lost other attributes, such as ductility, malleability, conductivity or fusibility by heat or electric conductivity.
@@ -376,6 +431,13 @@ The more that humanity understands the inexorability of the workings of those ba
 Conversely, the more that mankind understands the tremendous power one gains by working WITH God's Law of Balance, the more mankind will advance individually and collectively as a transcendent race.
 
 Therefore, we again say to you that the measure of your power to find happiness, peace, prosperity and glory in masterly achievement lies in the measure of your KNOWLEDGE of God's ways and your DESIRE to make God's ways your ways.
+
+.. folio:: 0403
+   :page: 403
+
+.. picture:: 0403.g1.png
+   :alt: Figure 104 — Centripetal and Centrifugal Spiral Cones
+   :caption: Figure 104 — Centripetal and Centrifugal Spiral Cones (Folio 0403)
 
 .. figure:: /_static/plates/image072.gif
    :align: center

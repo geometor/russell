@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-46:
 
-LESSON NUMBER 46 AS ON EARTH SO IS IT IN HEAVEN
-===============================================
+Lesson 46: As on Earth So Is It in Heaven
+=========================================
+
+.. folio:: 0443
+   :page: 443
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -43,9 +46,15 @@ All the stars of heaven represent as many stages of polarization followed by dep
 
 If you will but remember that youth, from birth to middle age of any creating thing, is that beginning half of its life cycle which centripetally winds its body structure into perfect spheres--and in the other old age half of its cycle those spheres oblate and throw off great rings as centrifugal force increases its power to return the body to the zero of its Source.
 
+.. folio:: 0444
+   :page: 444
+
 To put it more simply, the youth half is the period of greater compression which constructs and strengthens bodies--while the old age half is the period of greater power of expansion to dissolve and weaken bodies.
 
 Consider such examples of very old age as you see in Figures 134, 135, 136, 137, 138, 143, 146 and 147. All of these have expanded to many times their youthful volumes. Expansion is dissolving them all to their zero of space. The great ring nebula in Lyra--Figure 134--was once like Figure 154, then later like Figure 153. Today a great black hole of evacuated space has thrust the former giant sun outside of it, and every particle of which it was composed has also been thrust apart as space gains the inside of those former solids to make vapors of them.
+
+.. folio:: 0445
+   :page: 445
 
 .. figure:: /_static/plates/image082.gif
    :align: center
@@ -60,7 +69,11 @@ Consider such examples of very old age as you see in Figures 134, 135, 136, 137,
 .. figure:: /_static/plates/image084.gif
    :align: center
 
-   Archival Plate (``image084.gif``)
+.. folio:: 0446
+   :page: 446
+
+.. folio:: 0447
+   :page: 447
 
 You must realize what this means. The simple example of water and water vapor will help you to realize it. Water vapor is a tremendously increased volume of water, caused by more and more space thrusting water particles away from each other. A gallon of water becomes a large cloud--and a large cloud contracts again to a gallon of water when condensation compresses water particles closer together and thrusts space out on the outside.
 
@@ -84,6 +97,9 @@ WE PAUSE TO LET THIS IDEA SINK IN
 Give deep thought to this. Try to see if you can breathe out with great force and breathe in with but little force. You will soon realize that they must be equal. Then try to polarize a bar magnet with an electric current so that the positive pole will be stronger than the negative one.
 
 Then reduce the size of one cell in the battery of your car so that they are unequal... then try to walk by leaning forward without counterbalancing the forward leanings with backward ones. Try to make your clock go with its pendulum out of balance--or try to freeze without generating an equal potential of heat.
+
+.. folio:: 0448
+   :page: 448
 
 This meditation we ask of you so that you will better understand that the balance between contraction and expansion in the whole starry systems of the heavens are as exactly equal as the opposite polarities of your bar magnet are inexorably equal.
 
@@ -109,6 +125,9 @@ Also let us think in terms of light instead of waves. When you think of light as
 
 Think of it that way with us for a moment. That sun could not be there except for the evacuated black hole which was simultaneously created with it. That is what CREATION means. It means division into opposite conditions of gravity and radiation which resist each other furiously to cause incandescence or gently to cause a violet to form. Neither light nor dark exist as substances.
 
+.. folio:: 0449
+   :page: 449
+
 Both are but conditions of motion which have been manufactured, electrically, by desire of Mind.
 
 Let us be simple. You can manufacture light and dark the same way Nature does. Break a brittle lozenge in the dark suddenly and you have created both light and dark. The sudden break evacuated space at the line of the break and a flash of light simultaneously appeared to balance that evacuation. That luminous streak was not there before. You created it by dividing an equilibrium into two furiously opposed conditions.
@@ -124,6 +143,9 @@ Let us step into the laboratory and "manufacture" some incandescence. We wish to
 Also you see a series of little spinning loops of light whirling around the center of the tube, like little hoops--or rings. See Figure 157. The incandescence at one pole was made possible only by evacuating the space around the other one. This very obvious fact should have told the physicist or astronomer that incandescence created anywhere is not possible without simultaneously creating its resultant black hole, and that incandescence could only be manufactured by God or man at the expense of simultaneously creating darkness.
 
 Unfortunately the black holes in space which are sufficiently conspicuous by being silhouetted against incandescence to be distinctly visible to the astronomer are not recognized as such and are accounted for by him as "great obscuring clouds of star dust".
+
+.. folio:: 0450
+   :page: 450
 
 You can see these cathode evacuations which science believes to be "star dust" in many of the photographs herein printed. There is no "star dust" in space. In Orion--Figure 156--you see a very conspicuous vacuity in the center, and another silhouetted against the left edge of incandescence which is being "drawn out" of that blackness. In Figure 149 is another very conspicuous example and two other black holes can be seen in Figure 155. Perhaps the best example of all is shown in Figure 11 on page 165, in the nebula in Sagitarri.
 
@@ -152,6 +174,9 @@ There are so many things yet to tell for which we have no more space, but we mus
 
 We regret that the impossibility of such a happening cannot be fully unfolded here, but we can give this small paragraph or two to give you the following assuring facts.
 
+.. folio:: 0451
+   :page: 451
+
 1. The only possible planet for human life to still unfold is Mars.
 
 2. If there are still Martian people--and there probably are--they are so many millions of years older as a race, that they have become Cosmic Beings who so thoroughly know their unity with God and man that if they could come here it would be to uplift us rather than to hurt us. When this planet has spiralled so far out as Mars we will also become more God-like. In the meantime our Barbarian minds still fear killings because we still practice killing.
@@ -171,6 +196,9 @@ And what he thinks of as magnetic lines of force is but the curvature of either 
 Do you grasp the meaning of this great secret of the illusion of motion? If not, let us clarify it for you. It means that our senses are but one-way-[conscious] not two-way. We see forward sequences which create the idea of time in a timeless universe where time sequences are voided by their backward flow; but we cannot sense this backward flow.
 
 We are forever walking into a mirror of ourselves walking the other way. Every "happening" in Nature is simultaneously "unhappening". Also every happening in obverse is simultaneously happening in reverse.
+
+.. folio:: 0452
+   :page: 452
 
 Every point in the universe is the center of the universe--likewise every point is the same point. Likewise all actions and reactions are universal. The radio proves that to you, for when one man speaks from one point a hundred million men hear him from a hundred million points.
 
@@ -200,6 +228,9 @@ Volumes are necessary to expand this idea which we must regrettably condense int
 
 I. The MECHANICAL significance of suns is that they are the stopping places for the universal piston which pumps the vitality of universal force into every creating body of any kind, animal, mineral or vegetable, and of every corpuscle which constitutes those bodies. They are both the heartbeat and [breath] of all Creation.
 
+.. folio:: 0453
+   :page: 453
+
 By the words "stopping place" we mean just what the pistons of your car engine do when they reverse at their wave troughs and crests. They stop and go the opposite way. Suns are the crests and troughs of the waves which constitute this universe. They are the rest points where the inward piston stroke of compression reverses itself to become the expansion stroke.
 
 When the piston stroke compresses a sun at a wave trough or crest the compression leaves a great expanded black hole on the opposite side of the equator of every trough and crest. See Figures 101 and 102 on page 133. When the expansion stroke reaches the equator between the two, the hole in space has been filled, the sun is dissolved and the equator no longer divides, for there is nothing to divide at that zero resting point.
@@ -223,6 +254,9 @@ Can you not see that if a sun which has entirely disappeared at its equator MUST
 Remember that matter is the electric record of The Creator's thinking. That being so, suns record the positive patterns of His CONCENTRATIVE thinking while vacuous dark holes record the negative images of those positives.
 
 Suns, therefore, contain within them the whole record of the ONE WHOLE IDEA which Creation is. The whole idea cannot be expressed in one environment. A violet cannot grow on the sun, for example, but the pattern of the violet is in the sun and when the sun extends its environment into conditions where the violet is possible the sun will extend its pattern to father the violet where a womb for its borning is possible.
+
+.. folio:: 0454
+   :page: 454
 
 And so it is that all things come into being to manifest that One Whole Idea as the sun extends all kinds of environmental conditions out into its gradually cooling planets which mother bodies in their wombs to extend in the images of the patterned seed of the father light.
 
@@ -253,10 +287,16 @@ Then study Figure 154, the Great Nebula in Andromeda which is one of the most wo
 
 You can plainly see the beginning stages of its unwinding in a great equatorial ring which reaches out, perhaps, a hundred thousand light years in space without having as yet thrown off parts of its expanding body into other giant systems, such as you see in Figures 147 and 151.
 
+.. folio:: 0455
+   :page: 455
+
 .. figure:: /_static/plates/image085.gif
    :align: center
 
    Archival Plate (``image085.gif``)
+
+.. folio:: 0456
+   :page: 456
 
 .. figure:: /_static/plates/image086.gif
    :align: center
@@ -268,10 +308,21 @@ You can plainly see the beginning stages of its unwinding in a great equatorial 
 
    Archival Plate (``image087.gif``)
 
+.. folio:: 0457
+   :page: 457
+
+.. picture:: 0457.g1.png
+   :alt: Figure 149 — Gyroscopic System of Atom and Solar System
+   :caption: Figure 149 — Gyroscopic System of Atom and Solar System (Folio 0457)
+
 .. figure:: /_static/plates/image088.gif
    :align: center
 
-   Archival Plate (``image088.gif``)
+.. folio:: 0458
+   :page: 458
+
+.. folio:: 0459
+   :page: 459
 
 What we wish to emphasize is the fact that man can plainly see the equatorial unwindings of radiation in all of the great stellar systems, but he cannot see the polar gravitational windings such as we have diagrammed for you in Figure 131. This is one of the sources of confusion to science.
 
@@ -291,6 +342,9 @@ What you cannot see in our sun is the centripetal winding up toward the perfect 
 In all planets their magnetic poles are creeping toward their equators gradually to do with this planet what a spinning top does when it loses the centripetal force given by the string which wound it. You have seen tops wobble and gyrate on their axies as they depolarize. The outer planets are doing likewise as they depolarize and their magnetic poles move down their sides. Our own magnetic poles are 23 degrees away from our pole of rotation and will gradually recede further as the earth swells to greater volume on its outward depolarizing journey.
 
 Great examples of the forming of spiral nebulas are the star clusters, such as that in Librae shown in Figure 150.
+
+.. folio:: 0460
+   :page: 460
 
 This is a beautiful example of the winding up of a great nebula in perfect balance. Its nucleus is composed of thousands of suns of sufficiently equal masses for their wave-fields to unite and fuse the central mass of units into one. The Andromeda nebula--Figure 154--could have been a star cluster like Figure 150. In fact it is more than probable.
 
@@ -315,6 +369,9 @@ The expanding universe theory is the result of studying the visible evidence of 
 
 For this reason the scientist has never yet discovered that every effect of expansion which is taking place radially is but on its radial journey around a cycle to the zero point of its fulcrum.
 
+.. folio:: 0461
+   :page: 461
+
 He does not see, also, that every system is expanding in relation to every portion of itself, corpuscle for corpuscle, as well as expanding in relation to all other systems. The evidence of one's very limited senses are not sufficient to make it possible to KNOW the universe as a whole.
 
 The astronomer is confused by the largeness of the one little section of the universe toward which he points his telescopes. As the universe is alike in all expressions of matter why not take a smaller section, such as the middle of a cloud of water vapor. In such a section he would see every particle of matter expanding upon itself to radiate its heat outside of itself,--but he would not see the outside cold gaining the inside to contract it again and send it back to gravity as rain. If this were not so the whole scheme of Creation would be thwarted. If suns did not throw off rings to expand and cool into planets, and they in turn did not continue to expand and cool in every part of them, we could have no oxygen to interchange with the minerals of the inner planets to cause vegetation and organic expressions of life in animal and human forms when inner planets expanded their orbits and became outer planets.
@@ -332,6 +389,9 @@ When a tree grows out from the planet we see the expansion of its unfolding as l
 The tree, and every part of it is an expansion of earth--but the cyclic journey of the tree ends exactly where it begins. After one hundred years of expansion-contraction sequences in all of its parts it is all of it right where it began. It never exceeded the boundaries of its wave field all during its curved journey which wound up around its fulcrum and unwound into its fulcrum.
 
 The kettle boils. Every part of the water in it rushes away from every other part, and every part expands upon itself to cool--but every cooling part returns to the same source of heat to again expand and cool--even as the seed of the tree expands from its generating heat to cool, and again heat and cool as growth and decay complete their cyclic journeys from points of rest to points of rest, and back again to points of rest.
+
+.. folio:: 0462
+   :page: 462
 
 Again we say that our senses tell us of radiating growth as the tree unfolds from the womb of earth, but they do not tell us of the refolding of the father force of gravity which ends in the womb where growth began.
 
@@ -360,6 +420,9 @@ We must explain why there are no parallel, or straight lines in Nature, and why 
 
 Likewise, we must see why equators of zero curvature extend curved equators in two directions to produce the visible incandescence of gravity and the invisible vacuous blackness of vacuity surrounding it--then why matter turns inside out to let the black vacuity within its particles until the visible evidence of gravity in incandescence disappears in radiation and there is no longer any visible evidence of the workings of gravity.
 
+.. folio:: 0463
+   :page: 463
+
 Then we must see how gravity again becomes evident and radiation disappears in its own vacuity, as space is thrust on the outside by gravity.
 
 One more mystery of curvature must be clarified by explaining why the radii of suns and earths cannot be straight lines but must also curve until they reverse their curvature and why curved equators must lose their curvature in wave-field boundaries of zero curvature, beyond which nothing can pass without voidance and reversal.
@@ -380,6 +443,9 @@ We can better understand the WHY of this division into pairs, and the relation o
 The reason why you must understand this idea fully is to give you full comprehension of the relation of the MIND of man to his body, or of the spiritual to the physical universe. YOU should know this relation in order that the will of your Mind will extend your thinking from your Mind in balanced pulsations, as the lever is extended from its fulcrum to perform its actions in balanced oscillations.
 
 You also should understand it so that you will know that nothing can happen to your Mind--that it can never fatigue--or have any ailment. The medical and psychiatric world should also understand it so that they will know that senility, insanity, morbidity or any of the ailments they treat as mental are not in the Mind but in the unbalanced extensions of Mind which is Mind thinking. Mind thinking is not Mind, as the extended lever is not the fulcrum. The lever can oscillate out of balance but the fulcrum cannot be touched by that unbalance. When you know your mind as the fulcrum of your power you will command your body to strength and health.
+
+.. folio:: 0464
+   :page: 464
 
 Old age is now the weakest and most dreaded half of man's life cycle. It should be the richest in power and achievement, and more fraught with the joys of inner knowing. The reason old age is dreaded is because people expect to take the active physical first half into the restful mental second half.
 
@@ -408,6 +474,13 @@ We will proceed to unfold these mysteries and veiled secrets which the "unseen u
 
 2. If, however, you expanded one end of the magnet to a cone base, and contracted the other end to a point, which would be the apex of the cone, as in Figure 159, you would find that the contracted end would pick up a solid nail but the other end would not. If you divided the nail into powdered filings, however, the expanded end would pick up an equal weight to that of the contracted end.
 
+.. folio:: 0465
+   :page: 465
+
+.. picture:: 0465.g1.png
+   :alt: Figures 158–161 — Conical Magnets and Curved Equators
+   :caption: Figures 158–161 — Conical Magnets and Curved Equators (Folio 0465)
+
 .. figure:: /_static/plates/image090.gif
    :align: center
 
@@ -416,7 +489,15 @@ We will proceed to unfold these mysteries and veiled secrets which the "unseen u
 .. figure:: /_static/plates/image091.gif
    :align: center
 
-   Archival Plate (``image091.gif``)
+.. folio:: 0466
+   :page: 466
+
+.. picture:: 0466.g1.png
+   :alt: Figures 162–163 — Increasing and Decreasing Pressure Gradients
+   :caption: Figures 162–163 — Pressure Gradients and Equators (Folio 0466)
+
+.. folio:: 0467
+   :page: 467
 
 3. Now take note of another essential fact. The equator which divides the poles of Figure 158 is a flat plane of zero curvature while the equator which divides the poles in Figure 159 is curved.
 
@@ -443,6 +524,9 @@ SUMMARY
 
 9. Repolarization then repeats itself but in reverse.
 
+.. folio:: 0468
+   :page: 468
+
 WE CONTINUE TO BUILD
 --------------------
 
@@ -465,6 +549,9 @@ Now turn back to Figure 16, on page 175, and you will have a better understandin
 
 These two statements sum up what are familiarly called the physical and spiritual universes without the slightest idea of what that really means.
 
+.. folio:: 0469
+   :page: 469
+
 As we continually live and manifest in both of these, it is well to know their scientific meaning and not satisfy ourselves with repeating them as metaphysical platitudes and abstractions.
 
 Again let us be simple by using simple examples and words such as the following. If you want to rest or relax you lie-down. That is the only way you can find freedom from the tensions of action and motion. That is the way you find undivided balance to the extent that you can forget your body. Now comes the important thought for you to comprehend.
@@ -485,6 +572,13 @@ The more you can comprehend the power which lies in the stillness of control ove
 
 Now refer to Figure 161 and you will see that the dynamic universe of polarized motion--which means divided motion--and also means polarized balance--is 90 degrees from the equator of rest which is marked zero.
 
+.. folio:: 0470
+   :page: 470
+
+.. picture:: 0470.g1.png
+   :alt: Figures 170–172 — Spherical Light-Lens and Coronal Rings
+   :caption: Figures 170–172 — Spherical Light-Lens and Coronal Rings (Folio 0470)
+
 Realize, therefore, that wherever there is an equator of rest in which the pressures are equal you have there a manifestation of the spiritual, undivided universe of stillness. Likewise, wherever there is action and change of pressures, due to polarization of stillness into waves, a dynamic equator ascends and descends at 90 degrees from that equator to connect the two opposing poles of that divided wave condition.
 
 It is upon this dynamic equator that waves arise in four efforts at gradually increasing angles and speeds, until their amplitudes are reached at 90 degrees from their equators of rest. The amplitudes of every electric wave whose axis is parallel to sea level point directly toward the earth's center of gravity.
@@ -503,12 +597,16 @@ It is upon this dynamic equator that waves arise in four efforts at gradually in
    :align: center
    :width: 85%
 
-   High-Resolution Archival Scan of Unit 12, Page 44 (``Figs. 170–172``)
+.. folio:: 0471
+   :page: 471
 
 That means that all such wave amplitudes are radial. It also means that the pistons which pump the heartbeat of the universal body are also radial. It also means that the universe of physical expression is radial.
 
 SUMMARY AS TO RADII
 -------------------
+
+.. folio:: 0472
+   :page: 472
 
 13. Can we not now see that radii are an infinite number of extensions which RADIATE from a zero point of rest and GRAVITATE to an opposed point of rest to cause material bodies to appear, disappear and reappear.
 
@@ -521,10 +619,18 @@ These curved lines in the sun, or earth, or between the poles of a bar magnet ha
 
 What, then, are these so-called curved magnetic lines of force? A familiar demonstration is given to students by placing some iron filings on a piece of paper over a magnet, then agitating the paper until the iron filings curve OUTWARD from its centering radius as you see them connecting north and south poles in Figures 168 and 161.
 
+.. folio:: 0473
+   :page: 473
+
+.. picture:: 0473.g1.png
+   :alt: Figure 174 — Nature's Two Curvature Systems
+   :caption: Figure 174 — Nature's Two Curvature Systems (Folio 0473)
+
 .. figure:: /_static/plates/image094.gif
    :align: center
 
-   Archival Plate (``image094.gif``)
+.. folio:: 0474
+   :page: 474
 
 These curved lines are the electric effects of polarization. They are radii of the spheres they help to manufacture, and radii of light spheres in Nature are not straight lines. They are curved.
 
@@ -545,6 +651,9 @@ Conversely, the light rays which came toward you through the convex curvature of
 Within this principle are both the effect of gravitation and radiation, also the fatherhood and motherhood of Creation.
 
 If the light pressures above your head did not curve in planes parallel to the fifteen pounds pressure which curves around the earth the rays which reached you would not bend in curves, but would be parallel, such as those which pass through a lens of zero curvature as shown in Figure 162. Nature is not like that, however. Nature is composed of spheres and spheroids and the light pressures which surround them are all spheroidal.
+
+.. folio:: 0475
+   :page: 475
 
 We are interested in the FACT that there are two opposing systems of curvature but we are more interested in WHY there are two systems. The WHY is simple but of vast importance in your thinking. We will tell you the WHY in the simplest of illustrations.
 
@@ -570,6 +679,9 @@ If the universe were in equilibrium there could be no light rays, but let us ima
 
 The universe is not in equilibrium, however, not any part of it, not even one cubic millimeter. The entire universe is forever polarizing and depolarizing in every fraction of it. WHY IS THIS? It is because every expression of energy is an extension from a point and a retraction to a point.
 
+.. folio:: 0476
+   :page: 476
+
 This pulsing process creates a curved radial system of change in potential in every radial direction, and a curved spheroidal system of equi-potential layers around each point of extension upon which there is no change.
 
 As these two opposing systems of curvature in Nature are not yet known to science we must carefully define them. We may as well give them names appropriate to their meanings. We will, therefore, give the name RADIAL SYSTEM to that system which is unequal in its gravitational and radiational measures from every point of its curvature to every other point.
@@ -594,6 +706,9 @@ A complete reversal then takes place when two centers of gravity and two equator
 
 By studying Figures 71, 82, 169, 173 and 174 you can see how bodies are produced through the union of two opposites of two pairs. This study will reveal much to you to apply to the principles of mating and the reproduction of balanced offspring.
 
+.. folio:: 0477
+   :page: 477
+
 AGAIN WE DIVERGE FOR A MOMENT
 -----------------------------
 
@@ -612,6 +727,9 @@ equatorial belt is liquid and the polar regions solid, and why the sun is still 
 Figure 173 will go farther to enlighten you in respect to the manner in which the two systems of curvature turn light outside in to build bodies and inside out to take them apart. The upper diagram represents five polarized pairs of opposites of any kind of bodies. We have marked them man and woman to bring[?] the idea more closely home than by just marking them positive and negative.
 
 Each divided pair is represented by a bar magnet. If you note the system of curvature which controls divided pairs you will understand why reproduction cannot take place with one wave. In the second drawing these bar magnets are alternately reversed. Now you will see that two disunited waves can become united. Instead of man and woman we now have man-woman, or father-mother. In every sun or planet the positive, or northern hemisphere manifests fatherhood and the negative hemisphere represents motherhood. The two are one physically and they can reproduce physical bodies of their kind. Motion can beget only motion. It cannot beget the Mind--or Spirit--which created the motion.
+
+.. folio:: 0478
+   :page: 478
 
 Balanced physical mating will reproduce balanced physical bodies but unity in marriage between unfolding humans means more than physical unity.
 

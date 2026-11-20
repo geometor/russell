@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-29:
 
-LESSON NUMBER 29 THE SPIRITUAL SIGNIFICANCE OF ELECTRIC POLARITY
-================================================================
+Lesson 29: The Spiritual Significance of Electric Polarity
+==========================================================
+
+.. folio:: 0265
+   :page: 265
 
 We have progressed to a point where you can now comprehend why God divided His thinking into pairs of opposite electrical mates to make two polarized units of every creating thing, whether mineral, vegetable or animal. What was God's purpose in creating your polarized body?
 
@@ -31,6 +34,9 @@ Let us, therefore, look deeply into this idea of God's purpose of making two opp
 
 ONENESS--UNITY--BALANCE
 -----------------------
+
+.. folio:: 0266
+   :page: 266
 
 GOD IS ONE. God created countless pairs of oppositely conditioned ones in order that they should manifest ONENESS through interchange of giving and regiving to void their seeming separateness.
 
@@ -68,6 +74,9 @@ God separated all of His divided pairs of divided bodies by equators. Equators a
 
 One half of that which your body needs for its continuance --or for its extension--or for its reproduction--is not in your body. It is in the other half of your body. It is on the other side of the equator which divides your body into two opposite conditions. It is in the invisible half of you.
 
+.. folio:: 0267
+   :page: 267
+
 Conversely, one half of that which the other half of your body needs is in YOUR body. God gave to the other half of you what YOU need--and He gave to YOU what the other half needs.
 
 Without that other half which is the other side of your equator which separates you from your oppositely polarized other half, you could no more continue your bodily existence than one cell of a storage battery could continue to operate without the other.
@@ -97,6 +106,9 @@ GIVE HEED TO THESE NEW THOUGHTS
 This is not a true concept. There is but One Soul as there is but One Mind. The Soul is the Desire quality in Mind which causes Mind to want to create bodies to manifest divine idea. But Mind creates bodies by extending them from still centers. The still center of every body is its Soul. It is the Light of God its Creator.
 
 Mind is creating bodies everywhere. There is no point anywhere in the universal equilibrium which underlies all motion where a body is not being created, no matter how ultra microscopic or macrocosmic that body is. Every point in the universal equilibrium is a point of desire which is the seed for the extension of bodies.
+
+.. folio:: 0268
+   :page: 268
 
 Within every electron, atom, sun or galaxy is a still center from which point the desire to extend a body causes the extension of a body.
 
@@ -128,6 +140,9 @@ God makes spherical bodies of visible dense matter surrounded by cubic bodies of
 
 That is all we can say of this subject at this time. We will expand this idea later when we are ready for it.
 
+.. folio:: 0269
+   :page: 269
+
 ALL BODIES ARE TWO
 ------------------
 
@@ -145,10 +160,16 @@ What you think of as your body is a patterned extension of the earth, to which y
 
 Figure 62 exemplifies the dual electric wave-field which encloses every body-pair. The low electric potential which surrounds every visible body is equal to that of its dense center but unequal in volume, the outer decentrated half being thousands of times greater in volume than the concentrated inner half.
 
+.. folio:: 0270
+   :page: 270
+
 .. figure:: /_static/plates/image052.gif
    :align: center
 
    Archival Plate (``image052.gif``)
+
+.. folio:: 0271
+   :page: 271
 
 .. figure:: /_static/plates/image053.gif
    :align: center
@@ -160,10 +181,25 @@ Figure 62 exemplifies the dual electric wave-field which encloses every body-pai
 
    Archival Plate (``image054.gif``)
 
+.. folio:: 0272
+   :page: 272
+
+.. picture:: 0272.g1.png
+   :alt: Figure 62 — The Universal Pulse
+   :caption: Figure 62 — The Universal Pulse (Folio 0272)
+
 .. figure:: /_static/plates/image055.gif
    :align: center
 
-   Archival Plate (``image055.gif``)
+.. folio:: 0273
+   :page: 273
+
+.. picture:: 0273.g1.png
+   :alt: Figure 63 — Inbreathing and Outbreathing Equator
+   :caption: Figure 63 — Inbreathing and Outbreathing Equator (Folio 0273)
+
+.. folio:: 0274
+   :page: 274
 
 Figure 63 diagrams the inbreathing of the central half from its outer mate which generates it by pumping the low potential of the outer half into the inner half to increase the potential of the inner half. This inbreathing of inner bodies from outer bodies is what is called GRAVITATION. Gravitation is the compressive half of the electric cycle which pulls inward from within to manifest life. It is the charging half of the electric cycle. It charges the inner body by discharging the outer one.
 
@@ -192,6 +228,9 @@ God has given your senses the power of perceiving only a small range of the whol
 The human race is gradually increasing its range. When we discover that increase in a few people--out of the many--we call it extra sensory perception.
 
 We will talk about that later.
+
+.. folio:: 0275
+   :page: 275
 
 Your present range of senses tell you, however, that your body is absolutely dependent upon the earth and its surrounding space, but you do not realize your identity with that part of your body which is outside of you.
 

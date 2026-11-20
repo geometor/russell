@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-05:
 
-LESSON NUMBER 5 PRAYER SCIENTIFICALLY EXPLAINED THE POWER OF PRAYER
-===================================================================
+Lesson 5: Prayer Scientifically Explained & The Power of Prayer
+===============================================================
+
+.. folio:: 0045
+   :page: 45
 
 Today I wish to supplement everything I have told you about meditation, or communion with God, and talk to you about prayer which is the basis of meditation and out of which meditation grew.
 
@@ -35,6 +38,9 @@ Think of the thousands of entreaties which are sent up to God with the hope that
 "He who desireth riches of earth alone, denying Me in him, shall dwell in utter darkness of his own making, until he shall desire Me strongly.
 
 "E'en to him will I give all he asketh without stinting, yea, and even more: but he, having more than all he sought will have naught but worthless dross of his earth desire.
+
+.. folio:: 0046
+   :page: 46
 
 "Things of earth which man desires are but things of earth to be returned to earth with bones of him. But things of earth, heaven blessed by Me, are as eternal in the immortality of his Self recording Soul as Light of Me is eternal."
 
@@ -65,6 +71,9 @@ MAN BLAMES GOD FOR MAN-MADE WARS
 
 Consider the many prayers for cessation of wars. "O Lord we beseech Thee to stop this cruel war", we say, forgetful of the fact that we make our wars ourselves by the freewill to act as we choose.
 
+.. folio:: 0047
+   :page: 47
+
 We fail to realize that the way to stop wars is to stop causing them. War is just as much an effect of a cause which man created by his selfishness as a business failure is the effect of a cause created by man because of his unwillingness to balance his gifts by regiving.
 
 We not only pray to God to let us break His law without suffering from its effects but we blame God for our own actions in breaking His law. How often we hear people say: "How can a loving God in heaven permit such cruel wars? It is hard to believe there is a God, else He would not permit such wars."
@@ -87,6 +96,9 @@ When you pray to God saying "O God, pity us for we are as dust beneath Thy feet"
 For long ages God's Silent Voice whispers within your unhearing ears. God, therefore gives you your desire to be what you wish to be in the building of your Self. So long as you believe yourself to be dust beneath the feet of the Almighty God you are that dust which you have built in the image of your imagining.
 
 When you pray to God saying: "God have mercy upon me, a miserable sinner you have not prayed to the One God of Love,--Creator of His universe of love--Creator of you to manifest His love, for you do not know Him. You have but prayed to a God of wrath and fear of your own making whom you have built in your own image.
+
+.. folio:: 0048
+   :page: 48
 
 He who builds gods in his own image builds idols for his worshiping. He whose idol is fear and wrath cannot know the God of Love. Until you know love you are what your idol is, a miserable sinner to whom mercy must be shown by your idol whom you, yourself, are. And you will be punished for your imagined self-made sins by you, yourself, for the idol you worship will show you no mercy until you are freed from him by knowing love.
 

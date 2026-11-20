@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0470
 
 .. _cosmogony-ch4:
 
 Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity
 =======================================================================
+
+.. folio:: 0470
+   :page: 470
 
 .. rubric:: How Curved Radii Focus Light into Centers of Gravity and Unwind into Rings (Lesson 46)
 

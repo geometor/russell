@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-34:
 
-LESSON NUMBER 34 THE RISE AND FALL OF MAN
-=========================================
+Lesson 34: The Rise and Fall of Man
+===================================
+
+.. folio:: 0301
+   :page: 301
 
 These three[four] lessons are especially devoted to making you fully comprehend the cause of the periodic rise and fall of man, as an individual, a nation, or a whole civilization. They are also devoted to giving you the knowledge needed for rising to great heights with such stability that you will not fall.
 
@@ -28,6 +31,9 @@ A [an unequally balanced, disunited] civilization of disunity is impossible. We 
 Man can never be unified if the universal brotherhood of man principle is violated by unbalanced relations between men.
 
 Mankind has always been divided into two unequal classes in which the essential values of life are taken by one class from the other. Disunity exists in all departments of life because of that division.
+
+.. folio:: 0302
+   :page: 302
 
 Discontent, enmity and hatred of all human units which make up the structure of our civilization also exist because of it. Man is now being destroyed by the very empires which he built for his glorification. The slave will always become the master. The commoner will always overthrow the throne.
 
@@ -54,6 +60,9 @@ The Empire State Building can sway rhythmically in the winds of Earth without ha
 and remediable--when we know the cause and have sufficient power left in us to invalidate the EFFECT--which we still have.
 
 In the previous lessons you have been learning the law. In these four lessons we will apply it to our present threat of dissolution.
+
+.. folio:: 0303
+   :page: 303
 
 To exemplify the workings of the law we will describe the methods employed by man in building his world up to its high pinnacle reached in 1900. Seven centuries were consumed by man to reborn his world from the dark seven century period of his last great fall. He has fallen farther in fifty years than he rose in seven centuries--and will have disappeared into oblivion in another forty years[,] unless he becomes sufficiently "transformed by the renewing of his Mind" in time to prevent it.
 
@@ -92,6 +101,9 @@ It is for the scientific explanation--and comprehension--of universal law by mea
 
 12. The greatest asset of man is man. The wealth of any man is dependent upon the wealth of every other man. Abundance for one is impossible in an impoverished world.
 
+.. folio:: 0304
+   :page: 304
+
 13. The heavens give to the earth of its rains, and the earth gives of its abundance to the heavens EQUALLY. That is what love means. The withholding of rain creates a desert and a cloudless sky.
 
 14. The seed gives the whole of the tree to the heavens and the heavens give the whole of it back to the earth EQUALLY.
@@ -123,6 +135,9 @@ Miscegenation conquered Athens. Miscegenation and homo-sexuality weakened that g
 
 And so it has been down through all human history from the fall of Babylon, through ancient and mediaeval history to the French, American and Russian revolutions of modern times in which the oppressed rose against their oppressors and slew them with their own swords to become free, so that they themselves, could become oppressors.
 
+.. folio:: 0305
+   :page: 305
+
 We ourselves, were not at all concerned when Oswald Spengler warned us of what would happen to this civilization in his book entitled "THE DECLINE OF THE WEST." The decline which has already happened in fifty years is far greater than that which he prophesied, and it has embraced the world, not alone the West.
 
 OUR "FOOL'S PARADISE" FIFTY YEARS OF ACCELERATING WORLD DEGENERACY
@@ -143,6 +158,9 @@ It is waste time in forming [to form] countless little peace groups, or in askin
 If you want to go to New York from Chicago you do not head west and pray to God to set you down in New York--you stop going west and go east. Nor do you expect wheat when you sow brambles. God fulfills the law. He gives what you desire when you work with Him to fulfill your desire. It is time to stop thinking of wars with nations--and of the guns and atom bombs needed to stop those wars which will stop of themselves if we stop making other wars between man against man, and neighbor against neighbor.
 
 These are the wars which are sending the human race into [another period of] oblivion. These are the REAL dangers--dangers which we do not heed while spending billions
+
+.. folio:: 0306
+   :page: 306
 
 for dangers which would dissolve like ice in the sun if we removed the real dangers which are causing these wars.
 
@@ -169,6 +187,9 @@ Its people are fast losing their freedom. The dole is being used in England for 
 
 6. The threat of bureaucracy and the dole in America. The trend of all governments is in the direction of dictatorship. The methods used to secure permanency of office by an individual or party is to get enough people on the pay roll of a patron government--either for services rendered, or for the dole--to insure a voting majority.
 
+.. folio:: 0307
+   :page: 307
+
 Bureaucracy is hamstringing industry and the dole is destroying tens of thousands of valuable contributors to our national welfare. National and local use of the dole for political purposes is a danger of incalculable magnitude.
 
 7. The increase of treason, disloyalty, greed, bribery and sabotage in our Federal Government, and in civil offices throughout the nation, and the general disregard of ethics. Since 1910 there has been a rapid growth toward moral degradation throughout the country which is increasing so rapidly in power that its contagion is affecting the morals of the entire nation. This insidious poison must either be wiped out or its spread would destroy us even if we had no wars.
@@ -189,6 +210,9 @@ In order that we may more fully comprehend the only way that greater depths of d
 Let us see where we were fifty years ago, where we are now, and W H Y we are now at the verge of a very deep chasm.
 
 The world was then divided into empires which had all been built by the sword. All were built up by conquest just as the ancient empires were built. The world sought peace, happiness, power and prosperity for itself by taking peace, happiness, power and prosperity from others, ignorant of the fact that everything which it had taken from others--including their peace and happiness--would be given back to the world in equal measure, life for life, agony for agony, in fulfillment of God's law of RHYTHMIC BALANCED INTERCHANGE in all of Nature's transactions.
+
+.. folio:: 0308
+   :page: 308
 
 MAN IS NOW REAPING THE HARVEST OF THAT WHICH HE HAS SOWN.
 ---------------------------------------------------------
@@ -218,6 +242,9 @@ Consider France, the world center of art, with its great African and Indo-Chines
 Where are these powerful countries today? Where are their kings who then sat upon seemingly secure thrones? Where, even, are the thrones?
 
 Where is the powerful Czar of all the Russias, who condemned hundreds of thousands of his own people to Siberian exile? He and his family were slaughtered by enemies whom they had made by being their enemies.
+
+.. folio:: 0309
+   :page: 309
 
 THE GREAT UNLEARNED LESSON
 --------------------------
@@ -252,6 +279,9 @@ The negro race whom we enslaved, are now counting the days when their outnumberi
 That was our business policy up to the year 1925. It has modified a little since then, but where, in that policy is there the slightest iota of the universal Brotherhood of Man principle, or of love itself, upon which the universe is founded?
 
 Consider our world policy of empire building. Where in it is there the slightest indication of the LOVE YE ONE ANOTHER principle without which civilization cannot hold together?
+
+.. folio:: 0310
+   :page: 310
 
 We will put this principle [policy] into words. Try to find any expression of love in them. You will not find it. Why, therefore, need we be astonished if civilization disintegrates to a point beyond our control--a point which we surely will reach nine years from now--only nine short years--unless we reverse our human relations?
 

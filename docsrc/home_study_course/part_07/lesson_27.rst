@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-27:
 
-LESSON NUMBER 27 PREFACE
-========================
+Lesson 27: Preface to Vibration, Nebulae & Faith
+================================================
+
+.. folio:: 0243
+   :page: 243
 
 We have now reached the stage where the new idea given in Lesson 11 can be enlarged upon to vastly aid you in removing all limitations from your life by making you KNOW how you can build it to any heights of power you desire without being handicapped by the lack of knowledge from which doubts, fears, pessimism and other negative effects retard your growth. Please re-study lesson No. 11 from page 180 and build this lesson upon it.
 
@@ -29,6 +32,9 @@ If you have allowed this idea to sink into your Soul until you KNOW it--not just
 
 When you actually know this you are equipped for any achievement whatsoever which is within Universal Law. KNOWING this within your Soul strips you of any limitations whatsoever. When you desire to accomplish anything you will start doing it at once with knowledge that you can complete it, for you will learn how to do it in the doing of it.
 
+.. folio:: 0244
+   :page: 244
+
 The lesson that you should learn from this coupled with Lesson No. 11 is that your desires and your actions should be POSITIVE. They must express the life principle. The slightest negative note in your desire lessens it--negates it.
 
 If your knowledge is strong your desire can be without measure. If your desire is to remove mountains the mountains will be moved, but the slightest doubt, or fear, or the picturing of insurmountable hurdles, or pessimism arising from past failures, or hesitating because of lack of money, or any other species of doubt whatsoever, means that the negation of your desire lessens the measure of your POSITIVE DESIRE WHICH IS BASED UPON KNOWING. As God's law is absolute you cannot possibly evade distorting the pattern of your desire by doubting the certainty of its fulfillment.
@@ -47,6 +53,9 @@ Bear with me, therefore, for your own sake, when I tell you in great detail, abo
 
 WE COMPARE A SOUND VIBRATION WITH LIFE AND DEATH
 ------------------------------------------------
+
+.. folio:: 0245
+   :page: 245
 
 To point out the sameness of principle which lies back of every effect of motion,--and of the law which governs the making of material bodies from conceived thought-bodies--and of the principle of desire which is already fulfilled at the moment of concentration upon desire--and the sequential fulfillment by the action of giving your desire a material body--we will continue to amplify the above by still continuing to use the example of the desire to give a material body, to the musical tone of a silent harp string.
 
@@ -71,6 +80,9 @@ Again we say your desire has already been fulfilled, for that which you have des
 A light projected into a mirror is regiven from the mirror, and all matter is a mirror reflecting its units into each other.
 
 The recoil of a gun is the simultaneous reaction to its explosive action. A powerful discharge has a powerful recoil. Powerful thoughts of men likewise bring powerful reactions.
+
+.. folio:: 0246
+   :page: 246
 
 Every reflection, or reaction is in reverse of its action, for it is by the simultaneous action-reactions of desire that the universal equilibrium is divided.
 
@@ -99,6 +111,9 @@ He whose desire has built a body for one harp string can become master harpist i
 
 If you have any limitations whatsoever you have yourself set them for yourself. The universe is infinitely extended and you are the universe.
 
+.. folio:: 0247
+   :page: 247
+
 THE UNIVERSAL BALANCE WHEEL
 ---------------------------
 
@@ -108,6 +123,9 @@ The amazing idea which I wish to convey to you is that the little swirling sound
 
 Our Milky Way is one of these giant nebulae. Our solar system is as a speck of dust in it. Hundreds of millions of stars constitute our Milky Way nebula, all at such vast distances from each other that the farther ones resemble milky clouds. Even from where you stand upon this little earth and look out into our nebula you see such brilliant stars as Sirius, Vega, Capella, Arcturus and hundreds like them, all separate from each other because we are close to them, a few thousand millions of miles or so (and that is quite a neighborly closeness in a nebula). The distant ones are so far that light, "traveling" at 186 400 miles per second takes millions of years to reach our planet.
 
+.. folio:: 0248
+   :page: 248
+
 .. figure:: /_static/plates/image050.gif
    :align: center
 
@@ -116,11 +134,19 @@ Our Milky Way is one of these giant nebulae. Our solar system is as a speck of d
 .. figure:: /_static/plates/image051.gif
    :align: center
 
-   Archival Plate (``image051.gif``)
+.. folio:: 0249
+   :page: 249
+
+.. picture:: 0249.g1.png
+   :alt: Spiral Nebula — Nature's Gyroscopic Principle
+   :caption: Spiral Nebula — Nature's Gyroscopic Principle (Folio 0249)
 
 It seems incredible that the little spiral "pinwheels", which balance--and complete--every sound vibration, is the same in principle and construction as those of solar and nebular wave vibrations, but that is the amazing fact of Nature.
 
 Nature has but one system of mechanics for "dividing the undivided", and "conditioning the unconditioned", and they are the same in microcosmic waves or macrocosmic ones. All matter is wound up tightly by concentrative thinking and unwound by decentrative thinking.
+
+.. folio:: 0250
+   :page: 250
 
 The journey from rest to rest and back again is always a spiral one. Centripetal force pulls inward from within to create centers of gravity, and centrifugal force thrusts outward from within to dissipate--and void--the pull of gravity.
 
@@ -150,6 +176,9 @@ To know why a sun or solar system is dying is to know why you are dying. If I dr
 If you are as much out of balance as this planet you would feel devitalized, or ill. Its magnetic poles are 23 degrees from the polar axis of rotation. If you let the cells of your body depolarize to that extent you would need a balance pole, or canes, to walk with.
 
 Likewise, if you allow your business to become so unbalanced you would make very little profit, and probably face deficits.
+
+.. folio:: 0251
+   :page: 251
 
 And so it is that we must still continue to build bodies as God builds them, and build them with God to manifest Him. To do this we must KNOW--KNOW--KNOW in our hearts--we must KNOW in our Souls.
 

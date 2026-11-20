@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-24:
 
-LESSON NUMBER 24 QUESTIONS FROM STUDENTS
-========================================
+Lesson 24: Questions from Students (Part VI)
+============================================
+
+.. folio:: 0223
+   :page: 223
 
 The few questions that filter in from the many students are proof that so many of you are finding that "All questions are answerable in the Light". Further proof that substantiates this is to be found in quotations from glorious letters from students who write in effect: "There was a question I planned sending in but I did as you suggest and meditated upon it within myself. The next day I discovered I KNEW the answer and now it is as clear as crystal". Over and over again we read in your letters HOW questions were answered from WITHIN, and we are made happy--very happy--for we know that this means our beloved students are unfolding in the Light of all-knowing.
 
@@ -24,6 +27,9 @@ Because of these many personal questions which infer that I must have some magic
 You will find, in my attempt to give you the principles upon which I founded my life's desires, the one most conspicuous fact that I never sought, or desired, anything whatsoever for myself, neither possessions, nor money, nor friends, nor power, nor even the important sculptural or portrait commissions which have been so generously bestowed upon me. Every great happening in my life has come to me unsought by me. God sent them. The surest way to prevent you from getting anything for yourself is to seek it for yourself. That which should be yours will surely come to you.
 
 If you analyse my answer to these questions you will find that all of my success in life has been based upon putting the love principle into daily practice by applying it to every act of life. Wherever I have practiced it and knowingly worked with God's law of love, God always gave it to me in the measure of my desire, and abundantly, but when I ever violated that law, unthinkingly, or because of being pressed by seeming necessities, that which I sought did not come to me.
+
+.. folio:: 0224
+   :page: 224
 
 Herein follows the few typical questions, based upon frustrations.
 
@@ -46,6 +52,9 @@ The whole keynote of Cosmic Man of future ages is THE UNIVERSAL SELF, which mean
 The basis of Cosmic Man's desire is to GIVE of himself for the Universal Self. In him the individual SELF is lost in the desire to give service for the whole of mankind to the exclusion of Self,--to utter forgetfulness of Self.
 
 In the above you find my answer, in principle, to all of the questions asked regarding personal success. Now let us take this principle apart and analyze it. Let us show how it works by example and analogy. Let me thus show you how it worked for me, for my whole policy of life has been based upon selfless service for the universal Self as a whole and it has worked for me just as it works for all others in the measure in which they place service to all men before service to Self.
+
+.. folio:: 0225
+   :page: 225
 
 ANALYSIS OF PRINCIPLE
 ---------------------
@@ -76,6 +85,9 @@ All of the love I ever expressed in music brought love to me. I never sought it.
 
 In the art school love given out by me in God's rhythms was regiven when Paderewski accidentally heard me play and CAME TO ME. I worshiped him from afar at orchestra rehearsals where students were admitted, but did not seek him. It never even occurred to me to seek him.
 
+.. folio:: 0226
+   :page: 226
+
 One glory after another CAME TO ME as love regiven for love given. That is LAW. No one has to seek fulfillment of God's law. No one has to seek reward for manifesting God's Law. No one need ever ask help or intercession of others, in manifesting the law of love. Love given is always regiven.
 
 Everyone knows that story of my bellboy career, told by Glenn Clark in his marvellous little biography of my life, the story of my desire to be the best bellboy ever known, the only bellboy who never accepted a tip and joyfully gave much more service than was expected.
@@ -100,6 +112,9 @@ Beauty attracts. Ugliness repels. Immunize yourself from all that is ugly. See b
 
 George Washington Carver exemplified this principle. He asked nothing, sought nothing from any man. He lived only to give--to serve--to enrich mankind with his excellence. No one could have been more lowly, more obscure, yet the world beat a path to his door and laid garlands of love at his feet.
 
+.. folio:: 0227
+   :page: 227
+
 Excellence and love expressed by superceding mediocrity in the drawings of those ten little pigs has followed me all the days of my life. I attribute some of life's highest honors given me to the love I gave to that simple task. We will trace its effect over the years.
 
 Mark Twain's friendship extended to his family and hosts of friends. Excellence in literature gave me a membership in The Author's Club. I spent delightful hours there with Mark Twain, and visiting literateurs of note, such as Yeats, Sir Conan Doyle, Kipling, Rabindranath Tagore, Sir Oliver Lodge and hosts of others.
@@ -122,6 +137,9 @@ But even this honor arose from another one which preceded it and proves that eve
 
 During the years that I gave to child portraiture my desire to excel in everything I ever gave out from myself, drew the attention of thousands of lovers of beauty to my work. Newspapers devoted whole pages of pictures to them, and every portrait of a child I painted drew requests for so many more that I had to limit them to guard against any lowering of standard.
 
+.. folio:: 0228
+   :page: 228
+
 Excellence, and the recognition of love extended to my creations, brought to me one of the most glorious experiences of my life. A very famous editor, Edward Bok, of The Ladies Home Journal--who later built that beautiful Bok Tower in Florida--published a page of my drawings of children and commissioned me to select the twelve most beautiful children in America.
 
 This work excited intense national interest all over the country and enriched me by thousands of new friends whom I met all over the country. My offers of commissions at that time would have taken several lifetimes to complete. It was this work, however, which prompted the then President of the United States to honor me. Again I say that the giving of love is as certain to be regiven as that day will dawn from the night.
@@ -141,6 +159,9 @@ For excellence and love given to painting The Might of Ages nine European countr
 Excellence in self-expression and love given to it will enrich anyone's life. Even in sports my two outdoor sports of horsemanship and skating carried this principle into effect. In skating I won many honors and medals, including being nominated international judge for the Duke of Connaught figure skating trophy held in Ottawa, which brought with it the honor of being the guest of the Duke and Duchess of Devonshire at Government House, and of leading the Grand March with the Duchess at the final carnival on ice in the Palace grounds.
 
 In horsemanship I trained Arabian stallions and sold them for as high as $15,000. It is the love which you put into out-of-door sports which vitalizes you, not the exercise, for without love the exercise reaches only the clay of you. Exercise with love reaches your very Soul and vitalizes you with the power which joyousness and ecstasy alone will give.
+
+.. folio:: 0229
+   :page: 229
 
 CONCLUSION
 ----------
@@ -173,6 +194,9 @@ Too many there are in matrimony, in social and business companionship who have s
 
 In your meditations, therefore, desire companionship from Soul and Soul will respond to Soul--always--just as harmonics in octaves will always resound in each other while discords will not.
 
+.. folio:: 0230
+   :page: 230
+
 That is the way of your love. It is awaiting you as you are awaiting it. But are you desiring it?
 
 What I mean by that is--are you desiring love to supplement your giving to the world or are you desiring love for yourself in a body to be companions in body? Are you ready for the love you desire, and are you worthy of it?
@@ -203,6 +227,9 @@ As you are now recognizing the simplicity of all things, and are passing your in
 
 Doctor has a thousand times said that God's plan is the simplest story in the world for whatever phase of Creation you talk about you say the same thing in every respect. He so often says that there is nothing beyond The Divine Trinity, and that can be fully told in three minutes.
 
+.. folio:: 0231
+   :page: 231
+
 That is why, just after his illumination, he thought he could gather the scientists of the world together and tell them the basic principles of Creation in three minutes.
 
 If you analyse these twenty-four lessons given so far you will see that we have not stepped outside of that principle in any respect. We have told the same story many times, varying only the words to fit different phases of the same thing. Lights flash from the many facets of a diamond, the lights being all one, likewise the facets of the diamond being one.
@@ -226,6 +253,9 @@ That is why this simple story is so hard to tell--for the practices of man's aeo
 That is why Doctor has often almost despaired of ever being able to tell it--to ever put into words that for which there are no words.
 
 It is with great rejoicing that we can now put it into words, for The Message long needed the love and knowing which was fulfilled by our working together to give to the world as one person--treading but one path--one deeply illumined path to the Light.
+
+.. folio:: 0232
+   :page: 232
 
 Man in the mass knows practically nothing about man. He has but begun to rise above his sensing to think and to know. His has been a physical universe. He has hardly touched the edge of his vast powers.
 

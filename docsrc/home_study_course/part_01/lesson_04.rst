@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-04:
 
-LESSON NUMBER 4 HOW TO MEDITATE AND QUESTIONS ANSWERED CONCERNING MEDITATION
-============================================================================
+Lesson 4: How to Meditate — Questions & Answers
+===============================================
+
+.. folio:: 0027
+   :page: 27
 
 Meditation is the key that will open the door to your inner Self wherein lies all the true power for material manifestation for as sound springs from the silences so does positive action come from inner KNOWING.
 
@@ -24,6 +27,9 @@ To those who are thus troubled in making the transition I would say that if you 
 Exactly the same procedure takes place when you wish to talk with God. Your Mind is centered on your desire. You could not possibly think of other things, nor could your thinking wander aimlessly. Concentrate hard upon your desire if you wish to, or just breathe your desire softly, or just write it upon your heart wordlessly. Perhaps your desire has no definite objective other than to find the peace of heavenly companionship by dwelling in the love nature of your Self and God.
 
 It makes no difference what your desire is or whether your approach is in deep concentration upon some specific thing, or in dreamy decentration upon some nebulous forming idea, or upon nothing at all.
+
+.. folio:: 0028
+   :page: 28
 
 You cannot concentrate long in any case, not more than five to ten minutes before the reaction of decentration replaces it. Gradually the inspiration you ask for will come to you. Before you can realize it you will find yourself "stepping in and out of the body" in that alternation which always takes place while losing one's sensed awareness completely in full forgetfulness of body and full awareness of the Light of knowing which Mind is.
 
@@ -43,6 +49,9 @@ ANSWER. "FIRST. Desire to be in the Light. Say to yourself wordlessly, I want to
 
 "FIFTH. That which you desired to know you do know. That which you desired to have you now have. You have always known--and always have had that which you have but now desired. You have always known it in spirit for you are the Light of all-knowing which spirit is.
 
+.. folio:: 0029
+   :page: 29
+
 "God does not give you knowledge or power. He gives you an awareness that you already have all-knowledge and all-power that He has, for He makes you aware of your Oneness with Him. When you actually KNOW that you can then say "My Father and I are one."
 
 "Neither does God give you material things without your equal regiving, for that is the inviolate law regarding all material things. He gives you the seed but you must nurture the seed. He gives you His body to fashion into the form of your desire but you must give equally of your body to fashion it. God gives you the tools you need but you must use them. God manifests the spirit of His nature in His own body by creating His body in the image of His Self. You must manifest the spirit of your nature in your own body by creating your body in the image of your Self.
@@ -58,6 +67,9 @@ ANSWER. "FIRST. Desire to be in the Light. Say to yourself wordlessly, I want to
 "God's creative processes are our creative processes. His creations are extensions of His knowing transformed into the desired form through action. Our creations are also extensions of our knowing transformed by action.
 
 "If we think that God has not granted our desire it is because we have failed to manifest the awareness which he has given us. If our problems are still unbalanced it is because we have failed to extend our balance to them. We HAVE that balance to extend but do not extend it. We continue the CAUSE of our ills and then blame God for continuing their EFFECTS.
+
+.. folio:: 0030
+   :page: 30
 
 "In this manner we learn our lessons of failure or success, good or ill. Life is just a lesson--just a continuous process of learning how to transform CAUSE into EFFECT in such a manner that we accomplish what we desire to accomplish, or we do not.
 
@@ -81,6 +93,9 @@ ANSWER. "That idea is one of the commonly accepted misconceptions I have just re
 
 "God gives us the seed but we must nurture the seed. Those who believe that God's gifts are free spend much time in wishful thinking and selfish prayer, and the making of many useless affirmations in the hope and belief that God will work magic at their request and drop money, or the applause of men, or the full grown fruit of their desire right in their laps, freely, and with no effort on their part, "Let God do it", they say, and, "Ask and ye shall receive", and, "With faith and belief you can move mountains".
 
+.. folio:: 0031
+   :page: 31
+
 "Men have removed mountains by working with the knowledge and power given by God, but not through idleness and wishful thinking. God has given man the power to fly the heavens of the whole world, to talk simultaneously to the whole world of men,--to command the tides,--to sail under the seas--and to harness Niagara, but not by wishful thinking, nor by faith and belief, nor by sitting idly and letting God do it.
 
 "The only way men have done these things is to regive of themselves for that which God has given of His Self. If you ask God to help you become a concert pianist He will unfailingly help you and work with you, but He will not work for you while you sit and affirm, that you are going to be a concert pianist.
@@ -101,6 +116,9 @@ So the farmer worked knowingly and lovingly with God, and God worked with him wi
 
 "There is not the slightest irreverence in this story, for it is law, and it is the way God works. The critical neighbor was wrong in expecting God to give to the farmer more than he could re-give, and the farmer was right in stating that God was answering his prayer. "The law of equal giving for regiving is absolute. You must give equally for what is given you. An effort on your part must pay for the effort on God's part. If you stop giving you will shut off your own supply. If the heavens cease giving rains to earth the earth ceases giving crops and forests to the heavens. God's law will never give you anything without an equivalent repayment in action. You must nurture the health which is given you and give much care to your body as long as you you use that gift. You could starve with food ten feet away from you unless you gave effort to reaching for it and more effort in making use of it.
 
+.. folio:: 0032
+   :page: 32
+
 "Love means exchange of service for service--and God's law demands that service given must equal service rendered."
 
 QUESTION. "What I cannot understand is your constant insistence upon the word equally in relation to giving and regiving. I have always been brought up on the belief that God gives abundantly, very much in excess of what effort we regive. If we put a bushel of potatoes in the ground God multiplies them a hundredfold for us, and for every measure of wheat we give to Him He gives us a hundred to our one, Please explain that?"
@@ -120,6 +138,9 @@ There is no more and no less in God's body by transforming one substance into an
 QUESTION. "I see that clearly now, but how would you explain its application to a man in business who gives more than he is paid for, or more than is expected of him--or of a genius who gives all he has with less pay than a workman,--or of a great inventor like Goodyear who starved all his life but gave untold value to the world many millions of times in excess of what he received?"
 
 ANSWER. "The man you refer to could not give more than he has received. He could not give more of himself than he is, for all his life he has been given that which has made him what he is. If he gives more than is expected of him God's law will balance it in promotion or increased salary. If that is not his motive, and if an increase is not given him, he has enriched himself by experience and better judgement in the management of his life.
+
+.. folio:: 0033
+   :page: 33
 
 "The genius who gives his all of great value for less pay than a materialist has ten thousand times more reward of the kind of pay he wants than the materialist. He has the ecstasy of living in the high heavens-the joy of self expression-of hearing heavenly rhythms which do not exist for the materialist-and his immortality lives forever in the memory of man while the materialist is forgotten.
 
@@ -151,6 +172,9 @@ ANSWER. "We meditate with our Mind. There is only one Mind which is God's Mind. 
 
 "Mind thinks ideas of its knowing into form by dividing one idea which can be known into many parts. These parts are electrically projected into a three dimensional universe through the pulsations of thinking. The brain records the thought forms, symbols, and other electric actions but records of thoughts are not thoughts.
 
+.. folio:: 0034
+   :page: 34
+
 "Thinking is electric, but electricity is not knowledge, it is but the motivating power for expressing know1edge."
 
 QUESTION. "What relation is my Mind to my brain?"
@@ -177,6 +201,9 @@ ANSWER. "Your brain is electric matter, just electric waves which all matter is.
 
 "Electricity is the tool used to fashion Mind conceptions of the Creator into form, but the tool used by any creator is not the creator."
 
+.. folio:: 0035
+   :page: 35
+
 QUESTION. "What is the relation of my Mind to my brain?"
 
 ANSWER. "Your invisible Mind has its center of Consciousness within the visible brain, and that conscious center coordinates with the seat of sensation which the brain obeys whenever your Consciousness demands action by it. There are machines made which will do a thousand complex things when buttons are pressed by the will of Mind to compel those machines to obey one's will. The machine adds or subtracts, prints columns and computes totals more accurately than the human machine can do them but the human brain has no more awareness of what it is doing than the computing machine.
@@ -196,6 +223,9 @@ The brain senses and records every message and sends counteracting Messages to o
 "A series of sensations which have no meaning in themselves are translated into meaning by your intelligence and you then mentally decide to do something about it. The sensations in matter which have taken place between the mental operation of the sender and the receiver are purely electrical. They have no relation to Mind nor to thought of Mind.
 
 "Again we repeat this fact in other words of the same meaning; all matter is but sensed electrical vibrations of motion. Matter has no intelligence, nor knowledge, nor power to think or meditate. That applies to your brain, for your brain is naught but matter, centered by a guiding intelligence. The same thing can be said of your automobile.
+
+.. folio:: 0036
+   :page: 36
 
 "All material bodies have what might be termed an electrical awareness of each other, and of their relation to each other. The brain is the seat of such an electrical awareness in man.
 
@@ -224,6 +254,9 @@ You allow emotions and tensions of body sensing to dominate you instead of your 
 
 QUESTION. "How can your Mind relax when you say that Mind is unchanging? Also do I have to concentrate to meditate?"
 
+.. folio:: 0037
+   :page: 37
+
 ANSWER. "It is not your Mind which relaxes it is your electric thinking. When your thinking is concentrated it is under the same stresses and strains which a clock spring is when wound up tight. It is an effort to wind a clock spring up tight for it resists being wound, and it is straining to become unwound. I will draw you a picture which will illustrate that. It will also illustrate your thinking when concentrated.
 
 "When you release all tensions the clock spring relaxes. It expands to a position of rest. It is utterly released from effort to resist strains. I will diagram that also. It will illustrate your thinking when decentrated.
@@ -238,7 +271,8 @@ Figure 1 - is a clock spring would up tight to exemplify concentration
 .. figure:: /_static/plates/image003.gif
    :align: center
 
-   Archival Plate (``image003.gif``)
+.. folio:: 0038
+   :page: 38
 
 Figure 2 - Same spring unwound to exemplify decentration
 
@@ -252,14 +286,20 @@ Figure 3 - represents water concentrated into a drop.
 .. figure:: /_static/plates/image005.gif
    :align: center
 
-   Archival Plate (``image005.gif``)
+.. folio:: 0039
+   :page: 39
 
 Figure 4 - represents water deccentrated into vapor.
 
 .. figure:: /_static/plates/image006.gif
    :align: center
 
-   Archival Plate (``image006.gif``)
+.. folio:: 0040
+   :page: 40
+
+.. picture:: 0040.g1.png
+   :alt: Figure 5 — Concentration and Decentration
+   :caption: Figure 5 — Concentration and Decentration (Folio 0040)
 
 Figure 5 - Concentration and Decentration
 
@@ -270,6 +310,9 @@ Light rays proceeding in the opposite direction will expand and cool by decentra
 "The whole physical universe of forming growing bodies is due to the fast motion of concentrative thinking. Conversely all degenerating and decaying bodies are due to the expansion of decentrative thinking."
 
 * * *
+
+.. folio:: 0041
+   :page: 41
 
 CONCLUSION
 ----------
@@ -309,6 +352,9 @@ These are God's words to cosmic man.
 
 * * *
 
+.. folio:: 0042
+   :page: 42
+
 You have undoubtedly read these lessons straight through all at once from beginning to end. Now begin from the beginning again, slowly, carefully, a sentence at a time, a paragraph at a time and a page and chapter at a time until their deeper meaning becomes a part of your inner Consciousness.
 
 This is new knowledge and new thinking. You cannot transform your past ages of traditional thinking into new KNOWING without giving such deep and earnest thought to it that it becomes a part of your very Self.
@@ -331,6 +377,9 @@ A PERSONAL WORD TO ALL READERS.
 -------------------------------
 
 Dear Cosmic Friends:
+
+.. folio:: 0043
+   :page: 43
 
 Your desire for God's Message for the new Cosmic Age was expressed when you enrolled for the INTIMATE HOME STUDY COURSE and if I can but impart this new knowledge to you during the coming months I will have worthily fulfilled my mission on earth, which is to bring the Cosmic Age of Man into being.
 
@@ -356,6 +405,9 @@ The third great transition now dawning is the New Age of Cosmic Man of spiritual
 Cosmic man is illumined with the Light of love and its application to life and law. Cosmic man knows God in him as one. He communes and works with him as one, and knowingly interprets God's nature as co-Creator of God's universe.
 
 It was for the express purpose of bringing the necessary new knowledge into the world, to affect this transition into a world of One God, One Religion and One World that God illumined me during a whole life time to demonstrate the multiplied power of cosmic man to multiply his versatility and masterfulness in creative expression, and for giving that knowledge of the Light for the illumining of other men.
+
+.. folio:: 0044
+   :page: 44
 
 To present most effectually, this all important, and least known subject, The Illumination, I have decided to define, describe and explain Cosmic Consciousness and The Illumination by my own experiences, beginning at the age of seven with partial illumination every year in May, with deeper illumination every seventh year, and with full illumination in 1921 covering a period of thirty nine days and nights.
 

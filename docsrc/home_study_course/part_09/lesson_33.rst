@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-33:
 
-LESSON NUMBER 33 KNOWLEDGE ALONE CAN SAVE THE HUMAN RACE FROM ANOTHER DARK AGE
-==============================================================================
+Lesson 33: Knowledge Alone Can Save the Human Race
+==================================================
+
+.. folio:: 0296
+   :page: 296
 
 All of these lessons, past and future, have but one dominant purpose. That purpose is to give you the knowledge you need to live gloriously and abundantly as an individual unit of Creation, and to live collectively, in peace and happiness with all other human units of Creation.
 
@@ -26,6 +29,9 @@ You can save the world from another deep plunge into chaos if you learn God's wa
 In two of these nine years (by the end of 1953) you must [begin to] put the entire system of human relations into reverse by an organized educational process which will awaken the world to its danger.
 
 The next seven years will be required to gain strength from [new knowledge of] the mighty power of universal law which will then work WITH you instead of AGAINST you.
+
+.. folio:: 0297
+   :page: 297
 
 By 1960 the world will [could begin to] see the dawn of a new day in its human relations[,] if the world takes heed of God's saving Message. [We must make this start by the e?? of 19??]
 
@@ -61,6 +67,9 @@ Fear bred greed--and greed divided the world of man into master and slave--ruler
 
 That is what war is--the EFFECT of FEAR. There is no time in human history when there has been a cessation of war, nor freedom from FEAR of war.
 
+.. folio:: 0298
+   :page: 298
+
 MAN IS DESTROYING HIMSELF
 -------------------------
 
@@ -85,6 +94,9 @@ There has never been any other kind of world. Call it lord and serf--conqueror a
 
 Under Nature's law of universal brotherhood of man the cosmic pendulum swings both ways. The power wielded by the master for centuries, generates hatred of equal power in the slave. The cosmic pendulum then swings the other way to balance the action of inhumanity to man with its equal reaction of inhumanity to man.
 
+.. folio:: 0299
+   :page: 299
+
 That is what is happening in the world today. This war which has already been raging for years is not a war of nation against nation to build greater empires, it is a war of man against man within the borders of every nation. It is a war of hate in man, hate risen from the dead to give hate back to man to degrade him completely.
 
 THE HUMAN RACE IS NOW REAPING THE WHIRLWIND
@@ -103,6 +115,9 @@ You have had enough examples of that dehumanizing process which is awaiting you 
 The whole world is familiar with the workings of this Russian Inquisition with high prelates of the powerful Catholic Church, such as Cardinal Mindszenty. No one dreamed, however, that hate in man was so strong that it could force the leading clergy of Hungary to swear allegiance to the monster of hate who starved millions of his own people to serve the ends of hate.
 
 This not only happened, however, but these Christian priests were forced to disavow their allegiance to the Vatican by tortures far more brutal than those of the Spanish Inquisition.
+
+.. folio:: 0300
+   :page: 300
 
 Such amazing happenings should awaken the world to the methods of an enemy which does not use guns to conquer with. When hate is so strong an armament that it exhibits greater power over loyal subjects of the Vatican than the power of the Vatican itself, and the whole world appeases hate rather than meet it, it is time that we ceased worrying about approaching armies which will probably never come, and give deep thought to the one and only kind of armament which will dissolve that hate, a kind of armament which we are now plentifully supplied with but will not have nine years from now. The explanation of this statement will follow in Lesson 36.
 

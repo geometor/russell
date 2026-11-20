@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-36:
 
-LESSON NUMBER 36 THE REMEDY FOR WORLD DESTRUCTION AND THE DAWN OF A NEW DAY IN HUMAN RELATIONS
-==============================================================================================
+Lesson 36: Remedy for World Destruction & Dawn of a New Day
+===========================================================
+
+.. folio:: 0320
+   :page: 320
 
 "Despair is not thy lot, O man. Thy lot is happiness, which is even now in thee when thou knowest Me.
 
@@ -28,6 +31,9 @@ You who have gone so far in your comprehension now know conclusively, through yo
 Coming down to hard facts we must know that we are living in an orderly God-controlled universe of LAW where every man is as inexorably bound within fixed limitations as the planets are bound to definite paths in their orbits.
 
 Man has been taking his right of free will too much for granted. He does not realize that he has let the right to choose his own actions, but Universal Law reacts upon him to give him back in kind that which he has given.
+
+.. folio:: 0321
+   :page: 321
 
 Let us, therefore, CEASE breeding hate, fear and discontent through our unbalanced human relations and BALANCE them by living the law of THE BROTHERHOOD OF MAN in our dealings with all men.
 
@@ -53,6 +59,9 @@ Man must cease dividing man--ennobling one and debasing the other--one being mas
 Man must cease dividing work--exalting one form, degrading the other. He who degrades both work and worker--to exalt himself and his own work, will himself do the degrading work of the degraded worker. This is LAW, inviolate LAW. It is the LAW of THE GOLDEN RULE, which he who violates is self-hurt.
 
 Witness its workings in every home. The servant has arisen to slay the mistress. There is no mistress. The mistress has slain the servant. There is no servant. The mistress and the servant have destroyed each other. Each is the other. They have become ONE. That is the LAW, and that is the way the law of THE BROTHERHOOD OF MAN works.
+
+.. folio:: 0322
+   :page: 322
 
 The mistress can again have service when the value given, by one is balanced by the other--but not while one exalts that which she gives and debases the other.
 
@@ -86,6 +95,9 @@ Where earth withholds for itself that which it should give, its founts dry up an
 
 When man withholds that which he should give out of himself to enrich himself he instead, subtracts from the abundance of himself in the measure of his withholdings.
 
+.. folio:: 0323
+   :page: 323
+
 He who withholds love from his home--or from his neighbor--makes a desert for his very Soul. And he who gives love to receive love will find in his receiving the taint which was in his giving.
 
 He who serves abundantly will be served with abundance, yea, and he who gives more of service than has been asked of him will multiply within himself that which he has over-given by increasing his capacity for giving. Love cannot be possessed, therefore ask not FOR love but GIVE it.
@@ -109,6 +121,9 @@ BUYERS AND SELLERS ARE ONE
 --------------------------
 
 All sellers buy and producers consume, just as he who serves is also served. Interchange between each pair constitutes a cycle which repeats itself forever if each half of each cycle is balanced with the other half.
+
+.. folio:: 0324
+   :page: 324
 
 The slightest unbalance upsets the cycle, so the bargainer who succeeds in getting just a little more on his side of the equator of balance which controls every transaction between pairs of opposites, than he gives to the other half of it, not only multiplies his own difficulty in completing his transaction successfully but is endangered every moment from its complete collapse. A large percentage of man's failures is due to ignorance of what God requires of him when he deals with his neighbor.
 
@@ -148,6 +163,9 @@ Man must cease competing with man. The familiar quotation: "Competition is the l
 
 Competition lowers quality of product. Cooperation raises it.
 
+.. folio:: 0325
+   :page: 325
+
 If you wish to compete, increase the quality of your product. "If you write a better book, or preach a better sermon, or build a better mousetrap than your neighbor, the world will make a beaten path to your door." (Emerson)
 
 He who sells less for less and tells man he is selling more for less than his neighbor, cheats himself and enriches his neighbor, but he who cooperates to sell his neighbor's goods sells more of his own. He alone loses who misrepresents.
@@ -178,6 +196,9 @@ The world of man is all ONE BROTHERHOOD. What any man does to another he does to
 
 "There are not two separate or separable beings in the Universe. All are indissolubly united. All are ONE."
 
+.. folio:: 0326
+   :page: 326
+
 From--The Divine Iliad.
 
 WHEREIN LIES OUR GREATEST POWER TO UNITE AND SAVE CIVILIZATION?
@@ -204,6 +225,9 @@ The Machine Age and the assembly line increased the need of men, more intelligen
 
 The war was on between capital and labor, and grew bitter as the demand for labor increased. The slave at last dared to rise against his master. The levelling process demanded by The Golden Rule principle also began its equalization. Unity was on its way in and discontent was on its way out, for there were many men of vision who met the challenge by gradual increases in wage and less hours of labor.
 
+.. folio:: 0327
+   :page: 327
+
 HENRY FORD TAKES LABOR INTO PARTNERSHIP
 ---------------------------------------
 
@@ -223,6 +247,9 @@ SERVICE CLUBS DEMONSTRATE THE BROTHERHOOD OF MAN
 ------------------------------------------------
 
 Love then borned a new power within Industry--but apart from it--known as Kiwanis, Lions, Exchange and Rotary service clubs. Man's need of man borned this new colossal power--and the need of man to serve man came into the hearts of many men who interchanged their services and their products in a new way which gave great happiness to them, instead of the old unhappy way [in] which man dealt with man by warning him with the words: "Let the purchaser beware".
+
+.. folio:: 0328
+   :page: 328
 
 The formation of these four service clubs is undoubtedly the greatest manifestation of the principle of The Universal Brotherhood of Man, The Golden Rule and Unity that the world has yet known. For forty years these organizations have been practicing selflessness and service to neighbor before service to self, as they grew into millions of members in every city and town in this country and have now reached out over the world into more than thirty countries.
 
@@ -246,6 +273,9 @@ In those hard days of the go-getter salesman whose value was appraised by the to
 It was not an easy task in those days when anyone with high ideals and motives in Industry was considered an impractical dreamer, and crucified because of it.
 
 Mr. Watson being thoroughly in agreement with my principles of higher ethics in human relations--which were founded upon Natural Law--asked me to address his directors and executives to convince them of the scientific basis for his altruism.
+
+.. folio:: 0329
+   :page: 329
 
 This talk was the beginning of twelve wonderful years of my association with Mr. Watson in building a code of ethics based upon his ideals, and scientifically interpreting them into a working philosophy, which has so ably proved the practicability of SERVICE FIRST in earning power that IBM has never been in the red, even during dark depression days when many corporations faced many deficit years. During those years we founded a school of moral, ethical and business training which has made IBM one of the greatest exponents of The Golden Rule in the business world.
 
@@ -278,6 +308,9 @@ And the burden of heavy and arduous labor was being lessened as industry and sci
 
 "This is not the Machine Age. It is the Age of Man", said Thomas Watson.
 
+.. folio:: 0330
+   :page: 330
+
 "All our dealings begin with man and end with man. There is nothing higher in this universe than man. To make a business grow, begin growing man."
 
 Gerard Swope, Owen D. Young, Walter Chrysler, Thomas Edison, Harvey Firestone, Clarence Woolley, Cyrus McCormick, Pierre DuPont, Eastman Kodak, Proctor & Gamble, and many others, offered various plans for profit sharing, all aimed toward raising the living standard for [of] man-in-the-mass.
@@ -300,6 +333,9 @@ This could be done at once if ten of the many great Minds within Industry could 
 These ten men of great vision must bind themselves together as ONE and accept the sacred trust of extending their vision to the whole of Industry to make all of its units see the picture as a whole.
 
 This is the immediate first step. Industry must first be one united, cohesive WHOLE, It must be a mighty power of contented men whose happy condition of dignity and security will dissolve discontent in other men, and thus insulate America from the discontented enemy whose strength lies in stirring disunity and discontent in American Industry.
+
+.. folio:: 0331
+   :page: 331
 
 This is the only possible way. A war with guns would not do it. Such a war would defeat us in two directions, even though we win. One would be the irreplacable loss of vast numbers of our most fit American youths. The other would multiply bureaucracy sufficiently to reduce this proud American democracy to the slave condition of an autocracy.
 
@@ -328,6 +364,9 @@ Mankind can find peace and happiness only through knowing the ONENESS of man. Ei
 
 Two opposed and divided purposes ARE debatable.
 
+.. folio:: 0332
+   :page: 332
+
 So long as the policies, desires or purposes of man are necessarily debatable THE UNITY OF MAN MUST AWAIT THE OUTCOME OF DEBATE.
 
 We have wasted forty years, in debate, argument--compromise--yielding too little--bargaining too little at a time--bargaining too long each time--all because divided man wanted a little more for himself--a little less for his mate.
@@ -354,6 +393,9 @@ CONCEDEDLY UNDEBATABLE FACTS OF INDUSTRY
 
 Industry exists for the purpose of conceiving IDEAS and producing BODIES to manifest its ideas. We have, therefore, in Industry, CREATORS and PRODUCERS--those who think IDEAS for bodies and those who make BODIES for ideas.
 
+.. folio:: 0333
+   :page: 333
+
 THE FACT THAT EACH OF THESE TWO IS OF NO VALUE WITHOUT THE OTHER IS UNDEBATABLE. ALSO THE FACT THAT EACH IS OF VALUE WHEN INTERCHANGING WITH THE OTHER IS UNDEBATABLE, It necessarily follows that each is of EQUAL value.
 
 We have other names for them but they have the same meaning. We call them OWNER and WORKER--or CAPITAL and LABOR--or MANAGEMENT and LABOR. The OWNER is he who supplies the IDEA for product and the CAPITAL to produce it--and the WORKERS are those who manufacture the product.
@@ -375,6 +417,9 @@ Such a classification would drive "laborers" out of industry as "servants" have 
 To classify a bookkeeper or salesman as MANAGEMENT, and a skilled lathe worker, or precision instrument maker as LABOR, would be forcing the perpetuation of the master and slave relation which must disappear from the face of this earth by being blotted out of human relations.
 
 Under the law of balance the slave will always rise to slay his master. To ennoble a bookkeeper as MANAGEMENT and debase the highly efficient and intelligent producer of gear wheels as LABOR would eventually make it impossible to secure highly paid mechanics.
+
+.. folio:: 0334
+   :page: 334
 
 "Management" must look forward to the time when uneducated laborers who live on the other side of the tracks will be living in pretty little homes on the same streets and their growing youths taking degrees from the same universities.
 
@@ -408,6 +453,9 @@ The positive cell of the battery does not demand more than one half of the whole
 Nor does the north pole of a magnet ask for more than half, for if it could be possible to lessen one half the other would be weakened EQUALLY.
 
 Neither pair of any opposites in Nature is stronger than its weaker half, nor is there stability in any unequally divided pair.
+
+.. folio:: 0335
+   :page: 335
 
 Nature is the great teacher. The more that [the] INDUSTRIAL MACHINE is like that of Nature the more perfectly it works to produce its maximum of product with a minimum of resistance.
 
@@ -443,6 +491,9 @@ Copies of these teachings can then be sent by this committee to other great Indu
 
 2. Send a strongly worded letter with these teachings, signed by one member for the whole, urging immediate study of the plan in preparation for a mass conference to be held at Swannanoa--the headquarters of The Walter Russell Foundation--from where, on this glorious mountain-top in Virginia, these teachings are being sent all over the world.
 
+.. folio:: 0336
+   :page: 336
+
 During the past three years students from all over the world have been gathering here to study and prepare themselves for bringing this higher knowledge into being.
 
 3. Here in this beautiful palace and gardens--which have been dedicated to the unification of man--the most historic decision ever made by man shall be consummated and broadcast to all the world, which [This decision] will herald the news of peace and good will to all mankind for this New Age of Cosmic man now dawning, which shall endure for three thousand years, as promised to man.
@@ -473,6 +524,9 @@ From the moment this momentous decision is made, and millions of Americans unite
 
 9. The Mind of man. The thinking of Mind. Inspiration in man.
 
+.. folio:: 0337
+   :page: 337
+
 The awakening of genius in man. His Consciousness. His Soul, His power
 
 10. Application of knowledge of man's relation to the universe in the building of character, dignity, honor, ethics and integrity without which man as an individual or as a civilization cannot hold together.
@@ -496,6 +550,9 @@ The basic purpose of EDUCATION is the building of man by giving him KNOWLEDGE, t
 Modern educational programmes do not awaken genius or inspiration. On the contrary they suppress genius and develop inferiority complexes and frustration[s] which discourage the really bright students.
 
 Modern education teaches students to remember and repeat information concerning effect. Instead of that it should teach them to think and to know the CAUSE of those effects.
+
+.. folio:: 0338
+   :page: 338
 
 Information is not knowledge. A human encyclopedia may have all the information in the world, yet be without knowledge. Just as food is not nourishment until it has been transformed to the blood stream of life, information is not knowledge until comprehension has transformed it from its record on the brain to the consciousness of Mind.
 
@@ -523,6 +580,9 @@ We will also publish as soon as possible all books and literature in popular bin
 
 In addition to the glorious marble palace and gardens of Swannanoa our plans include the erection of a Temple of Learning on the highest point of this sacred mountain which will seat 10,000 people and will in itself be a world broadcasting station.
 
+.. folio:: 0339
+   :page: 339
+
 CONCLUSION
 ----------
 
@@ -547,6 +607,9 @@ This is what the son said: "In 1948 they nationalized the factories. In 1949 the
 Place yourself in these peoples position. Five years ago they had as much freedom to live, and work, and laugh happily as you now have. Today hundreds of thousands of similar happy homes in Hungary alone are wrecked, old folks killed, strong men forced to labor until death mercifully releases them and pretty daughters forced into the slavery of concubinage, until they too mercifully die.
 
 Awaken and act to save yourself and your fellow men for remember your enemy is not just inhuman, he is unhuman. Stop appeasing and feeding your deadly enemy. Awaken as New Zealand awakened and stopped appeasing communists after they so completely tied up her shipping that thousands of volunteer citizens had to load and unload her ships lest her people starve.
+
+.. folio:: 0340
+   :page: 340
 
 Stop hiring communists. Stop feeding them. Stop appeasing them. Stop fearing them. Eliminate them from our government, our labor unions, our factories as we would eliminate termites in our foundations or vermin in our cellars. The liberty of free speech we are giving them they are using to deprive us of the very freedom to live.
 

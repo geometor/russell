@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-17:
 
-LESSON NUMBER 17 WE ADD ONE MORE IDEA--THE FULCRUM AND THE LEVER
-================================================================
+Lesson 17: The Fulcrum and the Lever
+====================================
+
+.. folio:: 0159
+   :page: 159
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -41,6 +44,9 @@ The energy of God's Mind is DESIRE to give expression to idea of His knowing by 
 
 Mind KNOWS and thinks what it knows.
 
+.. folio:: 0160
+   :page: 160
+
 Energy lies in Mind knowing but is expressed, or manifested, by Mind thinking.
 
 Energy is still. God's magnetic Light is at rest. God's Mind is the fulcrum upon which the lever of His electric thinking pulsates to give heartbeat to His universal body, created by Him in the image of His knowing.
@@ -69,6 +75,9 @@ Before resuming our subject of energy which motivates the universal heartbeat I 
 
 Nature multiplies the three of The Divine Trinity into wave octaves of nine, which are the same three multiplied by three to create the illusion of a three dimensional universe by the seeming projection of light radially.
 
+.. folio:: 0161
+   :page: 161
+
 And so you will find the simplicity of three unto the very end in all things. Waves of light are the very basic exemplification of The Divine Trinity AND THE UNIVERSE CONSISTS OF LIGHT WAVES ONLY. When we begin to build octave wave fields and explain wave structure you will find nothing more complex in principle than you are perfectly familiar with in the workings of the old fashioned kitchen pump handle which our forefathers had to use constantly to pump water into the kitchen from the well. That principle is all that God or you have to use in creating material bodies--the principle of The Divine Trinity of energy and energy expression which underlies all unfolding-refolding things.
 
 I am sure that you will not say that you cannot comprehend that simple principle of the pump. Therefore you can comprehend the most complex electrical, chemical or mathematical effects, or how God unfolds and refolds suns and planets, by the same process and principle with which he unfolds and refolds the daisy in the meadow.
@@ -95,6 +104,13 @@ THE POWER OF STILLNESS
 
 **IDEA No. 3.** Ask yourself where you could logically place the source of expressed energy in the fulcrum and the lever. Could it possibly be in the moving lever if the lever could not move without a fulcrum? Your answer could only be that the energy is supplied in the fulcrum and extended to the lever to manifest the power of the fulcrum.
 
+.. folio:: 0162
+   :page: 162
+
+.. picture:: 0162.g1.png
+   :alt: Figures 28–37 — Drawings Exemplifying the Principle of the Divine Trinity
+   :caption: Figures 28–37 — Principle of the Divine Trinity (Folio 0162)
+
 **IDEA No. 4.** In Fig. 29 I have diagramed a wave. No matter whether it is a wave of water, a sound wave, a radio wave or the wave of an electric current. You will note that it is just like the fulcrum and lever which constitute a pump handle. Its fulcrum is fixed, immovable, still and unchanging. Its lever extends to both sides of its equator (wave axis) just as the lever of the pump handle extends.
 
 **IDEA No. 5.** Vision in your memory the troughs and crests of the familiar waves of the ocean. The crest of each wave interchanges with the trough, which is its oppositely sex conditioned mate. Troughs and crests are sequentially interchanging through their equators. Each alternately becomes the other but in reverse.
@@ -105,6 +121,9 @@ THE POWER OF STILLNESS
    Archival Plate (``image036.gif``)
 
 Fig. 30 is the pump handle showing its wave-crest and trough reversed. Positive and negative conditions interchange at their equator and each become the other by reversing their direction of motion, just as life and death, and every other pair of opposites [do.]
+
+.. folio:: 0163
+   :page: 163
 
 Fig. 31 exemplifies the same principle in the wave.
 
@@ -125,6 +144,9 @@ In Fig. 33 the same ships which floated motionlessly upon the undivided calm as 
 What is actually happening is that the two unbalanced sex conditions are seeking voidance of their opposed conditions by interchanging equally with each other. The divided seeks the undivided. When the two opposed conditions become undivided as one their sex passions are satisfied. Fig. 32 represents this satisfied condition of an equilibrium in which motion is impossible.
 
 In. Fig. 32 every point upon the ocean's surface is equal in respect to both gravitation and radiation. Each point is the same distance from the earth's center of gravity. That means that each point is fifteen pounds pressure per square inch.
+
+.. folio:: 0164
+   :page: 164
 
 **IDEA No. 9.** The difference between the two effects in Figs. 32 and 33 tell you what electricity is. ELECTRICITY IS MOTION. Without motion there is no electric expression--no waves--no pistons--no pump. The measure of electric force expressed is the measure of the strains and tensions set up by dividing one condition into two, and an equal strain or tension in the desire of the two to become one.
 
@@ -151,6 +173,9 @@ If you do not balance your takings by your givings that residue of unbalance wil
 In Fig. 34 we have an example of perfect balance which results from a perfectly balanced transaction in Nature. It is a cube crystal of sodium-chloride which is the result of a balanced union of sodium and chlorine as exemplified in Fig 35. Sodium is the positive, and chlorine is the negative. They are perfectly balanced sex mates and their union voids both as dynamic opposites.
 
 The cube crystal exemplifies your happiness resulting from a balanced transaction. In it there is no residue of unbalance as there is no residue of unbalance in your business and personal transactions when there is an equal interchange. Therefore peace, happiness, and health are only possible when one is spiritually and physically in balance.
+
+.. folio:: 0165
+   :page: 165
 
 Sodium and iodine, or sodium and bromine would make good mates but in each would be a residue of unbalance which would show in their crystallization by distorted cubes of sodium iodide or sodium bromide.
 
@@ -180,6 +205,9 @@ Information, techniques and skills are complex, but they are not knowledge. Thes
 Until you do know the path to the Light and walk it knowingly, [you] will travel many paths in the dark, and your flesh will be torn with thorns, and you will be low in spirit and shrouded with self-pity in the measure of your not knowing.
 
 I say to you, therefore, the more you make God's ways your ways, the more you will manifest God's power to live gloriously, prosperously, powerfully and with great happiness, for the path to the Light is clear, and illumines all of your way if you but know the path.
+
+.. folio:: 0166
+   :page: 166
 
 The following words from God's Message will give spiritual force to my meaning.
 

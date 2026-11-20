@@ -6,8 +6,11 @@
 
 .. _hsc-prelude:
 
-PRELUDE to INTIMATE HOME STUDY COURSE of UNIVERSAL LAW, NATURAL SCIENCE AND PHILOSOPHY
-======================================================================================
+Prelude: Intimate Home Study Course
+===================================
+
+.. folio:: 0003
+   :page: 3
 
 These lessons are for the purpose of revealing the nature of God and verifying His Presence as the One Universal Being, through the gradual unfolding of the secret processes of Creation which have until now been unknown to man.
 
@@ -18,6 +21,9 @@ I will not describe that phenomenon here, for it will be fully described in the 
 Naturally the entirety of the secrets of Creation were mine to know as a complete and consistent cosmogony which enabled me to vision the universe as a whole. Underlying all of it was a fundamental principle which is so simple that I felt that I could gather the great scientists of the world together and give them that entire principle in a few minutes, for I had been aware that science has been searching for such an underlying principle which would apply to all phenomena for decades.
 
 This I prepared to do by purchasing a text book of science (Duncan's New Knowledge) to familiarize myself with the present state of scientific knowledge, for before my illumination I knew nothing whatsoever of science. To my amazement I found that the entire cosmogenetic theory of science was so unlike God and Nature that, while reading it, I felt that these laws, hypotheses and other conclusions could not possibly have been written by men of our day for they were so far afield from fact they seemed more like the conjurings of Arthurian sages who told of the flat earth upheld at its four corners by huge elephants as their cosmogenetic concept.
+
+.. folio:: 0004
+   :page: 4
 
 As I read these unnatural theories and laws it gradually dawned upon me that these primal ideas were so fixed within the mental structure of science that it would be more than foolhardy to attempt to carry out my plan. The science I read was so utterly complex that it was beyond the average comprehension whereas the science of God's plan in Nature which I wished to give was so simple that anyone of average intelligence could master it without difficulty.
 
@@ -34,6 +40,9 @@ The fundamental cosmogony of science which so amazed me was what might be termed
 Out of this unnatural theory came the first and second laws of thermodynamics which have no validity whatsoever, for the premise that heat is energy, upon which they are founded, has no validity. The resultant one-way universe allowed for no compensating generation to counterbalance its radiation, despite the accepted law of equal and opposite action and reaction. "Energy cannot run up hill", science says, "it can only run down hill", It so happens in God's plan that energy neither runs up, nor down hill.
 
 God's universal body is a two-way compensating, continuous and eternal universe of absolute balance in every effect of motion. Generation equals radiation, compression equals expansion, the red half of the spectrum equals the blue half, solid matter balances the potential of its surrounding space in every wave field, and each one of every opposite pair not only balances with its opposite but borns its opposite through sequential interchange.
+
+.. folio:: 0005
+   :page: 5
 
 God's universe is entirely composed of microcosmic and macrocosmic masses of pulsing electric waves which we call matter. These pulsing waves constitute the universal heartbeat, or universal breath of God's body. God's body continues its manifestation of the life principle by breathing outward and inward sequentially, just as you breathe out and in in balanced sequences to continue your appearance of existence.
 
@@ -55,35 +64,11 @@ The secondary purpose is to so thoroughly define and explain this universal illu
 
 The cosmic cinema is a glorious manifestation of the imaginary thought processes of God's Mind, but the projected light images of God's imagining which seem to move and have life of being in them are but electrically sensed thought forms of thought imaginings which but constitute a mirage of that REALITY which it but simulates. This fact will be gradually clarified as these chapters unfold, also God's reason for limiting the senses of man in order that he should believe the simulation to be reality.
 
+.. folio:: 0006
+   :page: 6
+
 This solution of the seemingly unfathomable mystery of Creator and Creation fulfills a prophesy made by Sir Oliver Lodge who said, in effect, that if in the coming centuries the great cosmic secret was ever revealed to man its discovery would not come from the trained scientific Mind but would be the supreme vision of some poet, painter, philosopher or saint who could see the universe as a whole.
 
 It is my hope that each reader will so clearly comprehend each part of this whole picture of God's cosmic plan that each one can so put them together in his comprehension that he too may vision the many parts as One Whole. He who can so strongly see the Oneness of all the seeming many parts of God's plan may make of his own life a divine extension of that One and thus become master Creator of his own creating universe.
 
 Walter Russell, Sc. D.
-
-
-----
-
-
-**A Home Study Course**
-
-**UNIVERSAL LAW, NATURAL SCIENCE AND PHILOSOPHY**
-
-LESSONS 1 to 48
-
-by Walter and Lao Russell
-
-Copyrighted 1950-52 by
-
-by Walter Russell
-
-No part of this manuscript can be printed in any form without permission from the author, except by a reviewer who may quote brief passages in a review to be printed in a magazine or newspaper.
-
-ISSUED BY
-
-THE WALTER RUSSELL FOUNDATION SWANNANOA, WAYNESBORO, VIRGINIA
-
-.. figure:: /_static/plates/image001.gif
-   :align: center
-
-   Archival Plate (``image001.gif``)

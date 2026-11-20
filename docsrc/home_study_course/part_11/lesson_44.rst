@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-44:
 
-LESSON NUMBER 44 ANSWERS TO STUDENTS QUESTIONS
-==============================================
+Lesson 44: Answers to Students' Questions (Part XI)
+===================================================
+
+.. folio:: 0418
+   :page: 418
 
 We find it very surprising, as well as gratifying, to find that the questions which students are asking are becoming fewer as their knowledge increases, and are becoming more and more scientific and philosophical rather than metaphysical as they were in the beginning.
 
@@ -22,6 +25,9 @@ We treasure hearing of the wonderful results of strength in the carrying of your
 Transcendent beings do not thus subtract from themselves. For this reason we again say to you that we are pleased because you want to know more of God's ways which you can only know by the direct scientific approach rather than the indirect metaphysical one.
 
 The following questions will illustrate the change in trend toward the more scientific approach.
+
+.. folio:: 0419
+   :page: 419
 
 QUESTION. "In Figures 41, 42, 43 and 44 you describe how positive and negative electricity pull apart by the increasing polarity of a growing tree. You use that fact to prove that opposites repel each other instead of attracting each other as science teaches. In Figures 45, 46 and 47 however, the negative and positive poles seem to pull together as the tree decays. Would not that indicate the opposite charges attract each other half of each cycle and repel during the other half?"
 
@@ -48,7 +54,8 @@ The accompanying diagram will illustrate this principle. See Figure 116. The lit
 .. figure:: /_static/plates/image076.gif
    :align: center
 
-   Archival Plate (``image076.gif``)
+.. folio:: 0420
+   :page: 420
 
 When that range of sense perception by the means of sight ends, down in the ultra violet on the blue side, your body can feel what your eyes cannot see. It will become violently tanned by violet rays which are beyond your range of sight. Also the photo negative can see more than you can.
 
@@ -61,6 +68,9 @@ Between the tremendous blue and red expanses of the wave octave is that narrow l
 The Eastman Company produced a negative so sensitive to infra-red rays, that when forty or fifty people were photographed in a room so dark that one could not see his own hand, the photograph looked like any other photograph taken in the light. Every face was as fully recognizable and the shadows cast by the light source were as sharp and clear as those produced in the upper range of sunlight sources. Again we say, the explanation is not in greater power of vision but greater sensitivity to the motion of short waves of high frequency, or vice versa.
 
 Farther still beyond the infra-red there are the long radar waves which a bat can sense with its body as it flies and thus miss hitting objects in the dark which are beyond the range of its sight sensing. Man has been able to increase his sense range, mechanically, by multiplying the potential of these radio waves so that they can be detected by an electrical condenser.
+
+.. folio:: 0421
+   :page: 421
 
 The machine which shortens these waves into man's range of hearing is an extension of his body which makes it possible for a ship to sense what is ahead in the dark, or fog, or under it, the way the bat does with his actual body.
 
@@ -81,6 +91,9 @@ Cosmic knowledge is the fulcrum which reaches out into its thought-wave extensio
 Your increasing God awareness extends your sense perception into invisible thought waves by intensive decentration. You then bring these infinitely long thought-waves into the greater frequencies of short waves by intensive concentration. This enables you to vision your thought body into form and motion of your imagining which you might carry further by giving it a material body, or you may not. The power and the process are the same whether you do give it a material body or leave it unfinished as a mental image, a mental "dream".
 
 If you do give your vision a material body you pass it on to the culture of the future, which aids others to find that kingdom of heaven which all are seeking. If you do not do so you have at least found more Light on your own path which cannot but help to illumine others to the extent in which you have LIVED it, thus uplifting others to the extent that they can see the Light of your example extended to themselves.
+
+.. folio:: 0422
+   :page: 422
 
 If you would know the great glory of extending your sense perception into the invisible--into the silences and the universal stillness of God's Light--go deeply into communion with God as much and as often as you can.
 
@@ -104,6 +117,9 @@ For example the words--"exert forces in opposite directions"--mean that they pul
 
 The definition then says that "the positive pole has the power to attract and the negative pole has the power to repel. I wonder why you have never thought that one out for yourself while experimenting with a bar magnet and nails, or iron filings. You know that both ends will attract--and equally. One end will pick up as much weight in iron filings, or as many nails as the other. Each one is equally gravitative and radiative.
 
+.. folio:: 0423
+   :page: 423
+
 Likewise, both ends will repel--and equally. But what is it they repel? Neither repels the iron filings, or the nails for they fairly jump at either pole and cling so hard that you can feel their reluctance to leave by their resistance to being pulled away from either pole.
 
 What is it that they do repel? The positive pole repels the negative. It pushes it away to the other end of each nail as far as it will go for they are opposites and opposites oppose--they do not attract. And the negative pole does the same thing to the positive.
@@ -126,6 +142,9 @@ QUESTION. "In speaking of desire should we reach the stillness and ask God to de
 
 ANSWER. Take your desire to God. Ask Him to show you the way to fulfill it or to keep you from fulfilling it if it is not in line with your unfolding destiny. You are Mind--the God-Mind. You are co-Creator with God. Your desire is part of Creation--YOUR part. You are not a marionette dangling on a string. Do not differentiate between YOUR Will and GOD'S Will. They are ONE--the universal WILL--or SOUL--from which desire springs for fulfillment. Become that ONE
 
+.. folio:: 0424
+   :page: 424
+
 UNIVERSAL WILL. Ask of it as being God. Ask of it as being YOU. Place yourself where the Law works with you to the fulfillment of your desire.
 
 Let me give you an example. Suppose you are now far along in the fulfillment of a desire. You have opened a business and are progressing steadily. You decide that you want to borrow fifty thousand dollars to push your business and you ask God to fulfill your desire. You are working with the LAW when you become a part of the Universal Will and the law will not let you have that fifty thousand dollars. The bank returns your application with a polite NO. You would be bitterly disappointed if you did not know that God IS helping your business by keeping you from making that loan. Knowing your Oneness with God you are not disappointed. You then seek deeper understanding and within a very short time you will be shown that you would have hurt, rather than have helped your business if you had taken on that debt.
@@ -137,6 +156,9 @@ QUESTION. The God Mind being omnipotent and omnipresent, would not the thinking 
 ANSWER. The thoughts of Mind are not Mind. Think of your own thoughts. You might write a play of imaginative thoughts and ideas. They would be ever changing but you would not be. They might include a murder and murderer without your becoming one. And the play you write has only the reality which your imagination has given it. And if you do not write the play, but only think it, there is nothing tangible to become objective for another one to see. He could see YOU, who thought it, but he could not see the thoughts. Thoughts of a person are not the person. Thoughts become objective when they are given form. The only form that can be given is the form of the motion which records the thoughts. The recording apparatus which gives form to those thoughts is an electric instrument which God uses to record His thoughts. This unit tells you about it. Its name is wave-field. Its product is motion. The resultant forms of that motion are illusions--mirages--unrealities which simulate what they are not. We hope this will clarify your confusion.
 
 QUESTION. "Say one lives to 70 years then (dies) takes 70 years of rest. Does one automatically begin the work period or does one's desires have something to do with it? How do we get a physical body again? Do we fasten on to an unborn child?"
+
+.. folio:: 0425
+   :page: 425
 
 ANSWER. All effects of polarization are both cyclic and periodic. You have a daily cycle of living and a nightly cycle of dying. They balance. That is polarization for a day followed by depolarization for a night. You do not automatically awaken in the morning and "fasten on to an unborn child" You awaken and repolarize your body for another day of living.
 
@@ -162,6 +184,9 @@ It seems strange, but it is true, that the more one can forget his body the grea
 
 In this short space it is not possible for me to tell you at great length how I could sense all motion in all the universe during periods of my thirty-nine day Cosmic experience in 1921 but I can briefly tell it and the chemical, astronomical and other charts I have made, and the new knowledge which I have given to the world because of it, is indisputable proof of its truth.
 
+.. folio:: 0426
+   :page: 426
+
 During that period I could sense all Creation in the making. When I became wholly Light of Mind I became the fulcrum from which all thought-records were extended. I be came a focal point in the stillness from which the universe of all CAUSE and all EFFECT was extended.
 
 In a flash it was all mine to know, as others in past history have been made to know in one instantaneous flash. But I was not permitted to be just that fulcrum of Light for one instants for there was a purpose back of that experience. That purpose was to interpret God's Message to man of this age in the rhythms of His knowing, and to give man a new cosmogony upon which to build a new world in man's unfolding.
@@ -183,6 +208,9 @@ Each of the planets in that drawing were in their proper place in relation to ea
 It would take many pages to begin to cover the miracles which unfolded into commonplace naturalness during this thirty-nine day period, so the above must suffice as briefly stated examples which do not even touch the edge of greater things which I have not yet told to man, nor perhaps can ever tell.
 
 The lesson you can learn from this is that the more you can become the still fulcrum of Cosmic KNOWING the more you can extend the lever of your thinking from that fulcrum and make its meaning known to you.
+
+.. folio:: 0427
+   :page: 427
 
 If what is herein written will help you to increase your own Cosmic awareness for even a little, it is well worth having told you what heights you can reach in your journey toward human transcendency.
 

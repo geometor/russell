@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-38:
 
-LESSON NUMBER 38 SPIRITUAL RELATIONS AND THE RELATION OF MAN AND WOMAN TO NATURE AND TO EACHOTHER.
-==================================================================================================
+Lesson 38: Spiritual Relations of Man, Woman and Nature
+=======================================================
+
+.. folio:: 0348
+   :page: 348
 
 We have talked of many things--many fundamental elements which constitute God's creating universe. The only purpose for writing even one line of these lessons is to give men and women a greater knowledge of:
 
@@ -31,6 +34,9 @@ It is not enough that we have peace and good will on earth with each other.
 
 THE ULTIMATE OF MAN
 -------------------
+
+.. folio:: 0349
+   :page: 349
 
 We have a far greater purpose than that our sensed electric bodies should sense each other, even if we sensed each other in such harmony and unity that war would be unthinkable and impossible.
 
@@ -57,6 +63,9 @@ You can see, therefore, that cosmic beings transcend human beings in the measure
 
 Meditation is the bridge which the human must cross to transform the information which his senses have recorded upon his brain into knowledge which centers him in the Light of his universal Self.
 
+.. folio:: 0350
+   :page: 350
+
 These very words which we are writing have a meaning behind them which your senses cannot see. You can read them with your senses and gain no knowledge whatsoever from them. They may be even acceptable to your logic and reasoning, but still have no knowledge in them.
 
 When you are simultaneously INFORMED by your senses, and INSPIRED by your Soul by reading them, you are then MANIFESTING GOD IN YOU THROUGH YOUR SENSES because your spiritual relations are as strong, or stronger than your objective material senses.
@@ -82,6 +91,9 @@ Great intelligence in combining observed effects, or great intelligence in reaso
 
 Science terms such conclusions "empirical knowledge". Philosophers have another term, "empiricism", which is an assumption that all knowledge is gained by experience.
 
+.. folio:: 0351
+   :page: 351
+
 If conclusions arrived at by the evidence of one's senses can give knowledge to such an observer science would have knowledge of the Cause and Source of its' observed effects. Science has great skills, great reasoning and great intelligence in combining effects. It knows HOW to do many things but it admittedly does not know the WHY of anything.
 
 Ask one of the greatest scientists in the world what electricity is--or light-gravitation-energy--radiation--heat--friction--magnetism--oxygen or polarity. He will tell you that he does not know. Ask him why a falling stone accelerates or why orbits of planets are elliptical. He will also tell you that he does not know. Ask him why you can insulate electricity but cannot insulate magnetism. Again he will tell you that he does not know.
@@ -106,6 +118,9 @@ He whose thinking is based upon the evidence of his senses alone may have great 
 His is the glory of knowing himself as Universal Man instead of being a separate unit among many men.
 
 He who has thus transformed his sensing to KNOWING has multiplied his power immeasurably and his capacity for living as a transcendent being in a transcendent world.
+
+.. folio:: 0352
+   :page: 352
 
 TO BECOME A TRANSCENDENT BEING
 ------------------------------
@@ -138,6 +153,9 @@ Those transcendent beings who give the world its enduring truths think from the 
 Our first four lessons told you how to reach that stage of Soul-awareness through meditation, which means to decentrate instead of concentrate. Such a transition consumes much time, but as you become more and more accustomed to making that transition you will find that you can remain in that exalted and ecstatic condition while you work at your creations of any nature.
 
 You will find that your Soul-awareness will make you forget the senses of your body as you think with full awareness of the Source of your thinking.
+
+.. folio:: 0353
+   :page: 353
 
 That is what we mean by "working knowingly with God". That is the trend of the unfolding race of man. That is what we mean by your spiritual relations with the spiritual Mind of the universe.
 

@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-41:
 
-LESSON NUMBER 41 PRELUDE
-========================
+Lesson 41: Prelude to the Cube-Sphere Wave-Field
+================================================
+
+.. folio:: 0374
+   :page: 374
 
 The goal of man is Cosmic Conscious Self-awareness--which is God-awareness.
 
@@ -31,6 +34,9 @@ We have described the effect of desire to GIVE as an outward extension (or explo
 
 We have stated that every action of giving is simultaneously balanced by an equal regiving, and that each action-reaction is repeated in reverse, See Figures 74 to 84 on Pages 660 to 665.
 
+.. folio:: 0375
+   :page: 375
+
 Reincarnation is impossible to comprehend without understanding this simultaneity of action and reaction, followed sequentially by the reverse of that action and reaction.
 
 Re-read and study the law of conservation as newly written at bottom of page 183. Then saturate yourself with the majestic idea that what you are now doing with your positive body is simultaneously being recorded in pattern in your negative body. For one full week make this idea a part of your thinking by meditating upon it and thinking out hundreds of examples of its workings until you KNOW it in your Soul.
@@ -53,6 +59,9 @@ As every form unfolds from its seed it is simultaneously being refolded into its
 We have explained that this is a radial universe because extensions of desire from points of desire in space can result only in a radial universe--and that the retractions of regivings toward those same centers compels it to become a two-way reciprocating universe, in which gravitation and radiation interchange to compress spheres of light from dark space and to dissolve them again for reforming.
 
 You will recall that this is God's method of dividing the darkness from the light to manifest the concentration and decentration pulsations of His electric thinking.
+
+.. folio:: 0376
+   :page: 376
 
 Thus the polarized universe of pairs of opposite conditions of every creating effect comes into being in wave-fields which constitute the heart-beat of this electric thought-wave universe.
 
@@ -82,6 +91,9 @@ The few must be many. The human race cannot survive unless more Cosmic Conscious
 
 We say to you therefore, that you must give the effort needed to gain that supremacy. It cannot come without effort upon your part--supreme and indefatigable effort.
 
+.. folio:: 0377
+   :page: 377
+
 When you see a great genius sway a mighty audience and inspire in it the great rhythms of his thinking, you KNOW that he could not have acquired that supremacy of power through desire alone unaccompanied by mighty effort. Desire to express musical rhythms was life itself to him. To be without it would mean torture too great to bear. He, therefore spared no effort to gain his supremacy of comprehension, and to acquire mastery over the medium through which he had to express it.
 
 We, likewise, say to you that the measure of your own exaltation can never be achieved through desire alone. DESIRE MUST BE ACCOMPANIED BY ACTION--the action of EFFORT to comprehend.
@@ -105,10 +117,16 @@ Herein follows the universal formula of rest and motion upon which our entire sc
 
 We cite also the fulcrum and the lever, See Figures 89, 90, 91 and 92.
 
+.. folio:: 0378
+   :page: 378
+
 .. figure:: /_static/plates/image065.gif
    :align: center
 
    Archival Plate (``image065.gif``)
+
+.. folio:: 0379
+   :page: 379
 
 .. figure:: /_static/plates/image066.gif
    :align: center
@@ -120,12 +138,19 @@ We cite also the fulcrum and the lever, See Figures 89, 90, 91 and 92.
 
    Archival Plate (``image067.gif``)
 
+.. folio:: 0380
+   :page: 380
+
 .. figure:: /_static/plates/image068.gif
    :align: center
 
-   Archival Plate (``image068.gif``)
+.. folio:: 0381
+   :page: 381
 
 In this connection you will recall the quotation from God's Message of The Divine Iliad which says: "For behold I am within all things, centering them, and I am without all things, controlling them".
+
+.. folio:: 0382
+   :page: 382
 
 4. Why is it that every effect of motion starts at zero, seeks a point of zero to rest, and returns to zero to again rest before it can repeat its action-reaction? This is equally true of every action-reaction, great and small, whether it be the action-reaction pulsation of breathing--of throwing a ball in the air--of moving one finger--or of a dynamite explosion.
 
@@ -152,6 +177,9 @@ THEREFORE KNOW THE WAVE. The measure of your knowledge of the wave is the measur
 We have heretofore said that he who becomes transcendent through KNOWLEDGE of how to express his DESIRE lives a transcendent life. Such a one lives a more ecstatic, more masterful mental existence, makes fewer mistakes and does not experiment. Neither does he rely upon others for advice or influence.
 
 That is what we mean by living a transcendent life. It means that your own divine KNOWING within you makes you the master of all physical effect, and you do not need to go to others for knowledge which is within yourself, nor do you need to experiment in any of the ways of life when the LAW which governs that experiment is yours.
+
+.. folio:: 0383
+   :page: 383
 
 For your comfort we will remind you that it is not always easy, even for the most transcendent genius or mystic to continually live his divine life. The human element is strong. It pulls and tugs at the mentality of the greatest among men, for all who must manifest in the body must combat and satisfy the natural urges of the body.
 
@@ -180,6 +208,9 @@ Another distinguishing feature is the transformation which takes place in their 
 
 Examine the crystals of sodium chloride, which is common table salt, and you will see these true cube forms without need of a magnifying glass.
 
+.. folio:: 0384
+   :page: 384
+
 The true cube crystal occurs only in the united pairs, those which have but one equator between them, and one center of gravity, such as carbon, silicon, lithium fluoride; sodium chloride and potassium bromide.
 
 The centering suns of all such systems are also true spheres, and each of these systems revolve spirally, in one plane, like a disc, See Figure 13 on Page 166, Figure 66 on Page 491 and Figures 57, 58 and 59 on Pages 446 and 447.
@@ -207,6 +238,9 @@ The three pairs of opposites which we have projected are all in the 1 positive a
 Lithium, sodium and potassium are alkaline metals. They belong to the father principle of Nature which refolds inwardly from without.
 
 Each of these separate units of each pair have certain chemical and electrical effects in combination with other elements. Each does certain predictable things with no exception.
+
+.. folio:: 0385
+   :page: 385
 
 The moment, however, that either "twain become one" in marriage, they multiply their balance by eliminating two of the three equators of balance which controlled them in their separate states.
 

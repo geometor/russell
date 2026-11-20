@@ -1,9 +1,13 @@
 :layout: book
+:folio: 0412
 
 .. _cosmogony-ch3:
 
 Chapter III: The Cube-Sphere Wave-Field & The Nine Equators of Zero Curvature
 =============================================================================
+
+.. folio:: 0412
+   :page: 412
 
 .. rubric:: The Crystal Geometry of Space and the ``0–4–0–4–0`` Wave Octave (Lessons 41–45)
 
@@ -11,6 +15,9 @@ The crown jewel of Russell's geometric cosmogony is the **Cube-Sphere Wave-Field
 
 The Nine Equators and the ``9`` Count of Creation
 -------------------------------------------------
+
+.. folio:: 0413
+   :page: 413
 
 Within every cubic wave-field, electric motion curves inward to form an **inscribed sphere** divided into eight octants centered by a single zero nucleus:
 
@@ -28,6 +35,9 @@ $$0 - 1^- - 2^- - 3^- - 4^- - \mathbf{0} - 4^+ - 3^+ - 2^+ - 1^+ - 0$$
 
 Interactive 3D Cube-Sphere Lattice & All Nine Equators
 ------------------------------------------------------
+
+.. folio:: 0434
+   :page: 434
 
 Orbit the 3D Cube-Sphere Lattice below, toggle the **3 Orthogonal Planes** and **all 6 Diagonal Bisecting Planes** (`3 + 6 = 9 Equators`), inspect the **27 Zero-Nodes**, and modulate sphere inscription:
 

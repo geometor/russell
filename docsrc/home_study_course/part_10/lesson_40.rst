@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-40:
 
-LESSON NUMBER 40 ANSWERS TO STUDENTS QUESTIONS
-==============================================
+Lesson 40: Answers to Students' Questions (Part X)
+==================================================
+
+.. folio:: 0368
+   :page: 368
 
 It is indeed gratifying to receive more and more letters such as the following: "I have written down four questions to ask you but have obeyed your instructions to withhold them to see if I could not myself answer them. What you say about all questions are answerable within ourselves seems to come true the moment I turn within myself for the answer, instead of outside".
 
@@ -26,6 +29,9 @@ God's power is manifested in His thinking. Thinking is electric. His electric th
 All effects of motion multiply in this direction. Heat multiplies. Weight multiplies. Speed accelerates and all matter solidifies as multiplied pressures pack light-waves into closer quarters.
 
 Conversely, potential divided[s] in the outward radial direction. Solids divide into vapors. They cool as they divide and rise as they cool. The greater the division the colder its temperature, the slower its speed of rising, and the less its weight and density.
+
+.. folio:: 0369
+   :page: 369
 
 Do not be confused in this respect by the text book teachings which say that hot air rises and cold air descends--for such is not true to Natural Law. Heating air descends to seek its like potential of heat, and cooling air rises to seek its like potential of cold.
 
@@ -50,6 +56,9 @@ God desires to manifest Love. He does so by dividing the giving of Love in two o
 To sensed creatures Nature is an illusion of separateness of many things which appear, disappear and reappear--or live, die and are born again. If, however, our sense perception could record the negative bodies of motion in space as well as it could sense the positive ones of earth we would sense the continuity of it all--and thus sense the voidances which would cause motion to cease entirely and naught would then remain but our KNOWING.
 
 We would KNOW it for what it is--a divine IDEA--and we would know it timelessly--without change--without dimension--just as you can KNOW an IDEA in your Mind timelessly. You can then THINK it into form if you wish--and that would take time, for as you THINK it into changing sequences you are also "Creating" time as you are creating your thought forms. You know, however, that they are but visions of your imaginings and have no other reality than that.
+
+.. folio:: 0370
+   :page: 370
 
 Likewise, God knows that the universe is His vision, product of His thinking.
 
@@ -77,6 +86,9 @@ ANSWER. Your senses tell you that there is such an effect as TIME.
 
 Your senses see day following night--event following event--one experience following another--your body growing old--flowers and forests rising from the earth and disappearing--but your senses deceive you mightily because they are limited to seeing just a pinhole view of Nature.
 
+.. folio:: 0371
+   :page: 371
+
 If your senses could extend their range all around the cycle of any effect of motion all things would seem to stand still--and time would not be, because motion in one direction would be voided by the other direction.
 
 Your senses see a pendulum swinging from its fixed fulcrum, but your senses do not see an invisible force which is EQUAL to that of the pendulum which is swinging the other way. If your senses could see the whole of the effect at once--instead of a little of it at a time, you would never see sequences, hence you could not experience the sensation of time. More than that you could not even count beyond zero.
@@ -96,6 +108,9 @@ Instead of your doing that you allowed them to extend their unbalance to you. Yo
 You let them reflect their absence of God awareness into you instead of the reverse. You must learn to insulate yourself against the ills of others by your knowing of your divinity instead of being a conductor of them by letting them pass through you and touch you in their passing.
 
 One phrase in your question convinces us that you do not understand this principle. This phrase is "a sudden depression overtook me which even the strongest statements of truth would not eradicate." This sounds like relying upon affirmations instead of knowledge. No matter what truths one may utter they are of no benefit whatsoever unless there is full knowledge of their meaning, and comprehension of their practice behind them. Affirmations are no more effective when uttered by a human being than they are when uttered on a gramophone unless they are uttered with knowledge of their relationship to Nature.
+
+.. folio:: 0372
+   :page: 372
 
 QUESTION. 1. "What are dreams? 2. What is hypnosis? 3. Are these phenomena of any significance in understanding the nature of mind or the illusions of the sense perceptions?"
 
@@ -122,6 +137,9 @@ Swannanoa, Waynesboro, Virginia
 Our Treasured Students:
 
 "Take thou man's death away from him in this new day of man. Give to him eternal Life in Me by knowing Me in him." These were the words of God's command in the DIVINE ILIAD MESSAGE revealed in my husband's Illumination during which time all the divine processes of Creation were made known to him.
+
+.. folio:: 0373
+   :page: 373
 
 In all the forty lessons which you have received that KNOWLEDGE which ALONE can "take death away from you" has been released in as simple language and form as we could possibly give it.
 

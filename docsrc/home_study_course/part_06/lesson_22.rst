@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-22:
 
-LESSON NUMBER 22
-================
+Lesson 22: Knowledge Makes You the Master of Matter
+===================================================
+
+.. folio:: 0208
+   :page: 208
 
 "The fact that our physical bodies are but moving extensions of our spiritual Selves has but begun to enter human Consciousness."
 
@@ -31,6 +34,9 @@ Is it any wonder that people who are the servants of matter, motion and environm
 Wherefore I say to you that you are the self-bound servant of matter so long as you are self-bound--and furthermore I say to you that you are freed from its bondage only when you free yourself from your own senses.
 
 Just so long as your senses dominate your actions the world of matter and motion is your master--and you are its unwilling, unhappy slave. Why is this so? It is because your senses are the same electric vibrations that your bodies are. Your body is not you, therefore your senses are not YOU.
+
+.. folio:: 0209
+   :page: 209
 
 That means that your body is dominating your actions. Your body is demanding that you work for it--that you give it what it wants--and the only things it wants are more sensations--more vibrations--more motion--more possessions of material things for the body--more emotions for the body.
 
@@ -60,6 +66,9 @@ The energy which created your vibrating body extended from YOU, to create your b
 EXAMPLES OF SOUL ENERGY
 -----------------------
 
+.. folio:: 0210
+   :page: 210
+
 Science reverses the above stated principle by postulating that the energy which creates matter comes from matter. As previously stated energy is presumed to be heated matter.
 
 I want to give you a few ideas upon this subject to take into deep and prolonged meditation, over and over again, until the realization of it gives you the feeling of such unlimited power that you could "tear trees from the forest tree by tree, or forest by forest" for your "strength transcends that of the tree. It is mightier than that of the forest" as I once upon a time wrote down when deeply in the Light.
@@ -85,6 +94,9 @@ Consider, likewise, the fact that you can lift your own body ten thousand feet a
 Again I say, man is Omnipotent when he knows his Omnipotence.
 
 As a last example for your meditation I would like you to consider the tremendous energy expressed in the vegetable kingdom by the desire of the forest to lift its thousands of tons up above the earth.
+
+.. folio:: 0211
+   :page: 211
 
 In the Soul-seed of the forest is the mighty desire to manifest its power. Every seed of the forest is centered by that Soul-desire to unfold the pattern of its idea. Desire in the seed is electric current in the seed expressing its desire by polarizing light to form its body.
 
@@ -117,6 +129,9 @@ There is no such thing as motion or substance. There is but illusion which we se
 
 If this statement amazes you it is because you do not yet comprehend God's lenses and mirrors of light by means of which He creates that illusion. I will make these clear to you later on, but in the meantime your senses see very much motion in a cinema picture, yet you know that there is no motion there.
 
+.. folio:: 0212
+   :page: 212
+
 You fully understand that the illusion of motion in the cinema pictures is caused by sequences of "stills" superimposed upon each other, each succeeding one being of a different pattern. If the patterns were all alike there would be no illusion of motion.
 
 God's cinema changes pattern constantly because God's thinking changes constantly, but as changing only seems, likewise motion only seems.
@@ -147,6 +162,9 @@ This idea is so beautifully expressed in the inspired words of our Father-Mother
 
 (Page 98 The Secret of Light) From The Divine Iliad.
 
+.. folio:: 0213
+   :page: 213
+
 THE ONE REALITY
 ---------------
 
@@ -172,6 +190,9 @@ Likewise the divisions of desire for action, followed by an equal desire for res
 Violent anger, for example, can sow its deadly seed of cancer in a perfectly healthy body. A complete expression of the love principle, one which has in it the ecstasy of the Light of Mind, can destroy that seed and make the body whole. Likewise it can destroy the seed of any infectious disease if that ecstasy can be imparted to another, as Jesus did when He made others to heal themselves through "believing on Him", even though they did not comprehend.
 
 It is time that the medical profession fully comprehended that vitality and the powers of generation are based upon increasing polarity, and that polarity responds immediately to desire and the balanced rhythms which are an essential precedent to the joyousness which leads to ecstasy. Such joyous emotions increase the alkaline preponderance which builds the body and lowers its acid content.
+
+.. folio:: 0214
+   :page: 214
 
 Conversely any cynical or unkind attitude which does not express the love Nature of God lowers the polarity of every cell in the body and increases its acid content to a destructive percentage.
 
@@ -204,6 +225,9 @@ When will the chemist ever learn that the same unbalanced conditions which cause
 The chemist and metallurgist full well know that when they find pure cube crystals in any elements they find the stability of absolute balance in such crystals, and when they find distorted cube crystals they full well know that unbalance in interchange between opposite pairs is the answer to that distortion.
 
 When will learned men of science, especially in medicine, understand that distortions due to unbalance in elemental bodies have the same basic causes that distortions in human bodies have! Human bodies are composed of these same elements and both are electric recordings of Mind thinking, therefore both MUST obey the same inviolate laws of balance.
+
+.. folio:: 0215
+   :page: 215
 
 This principle of unbalanced interchange is being manifested upon a world-scale by the greeds, hates and fears of neighbor by neighbor, and nation by nation which have been released into this thought-wave universe during the last thirty-five years.
 

@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-10:
 
-LESSON NUMBER 10 THIS SEXED ELECTRIC UNIVERSE
-=============================================
+Lesson 10: This Sexed Electric Universe
+=======================================
+
+.. folio:: 0090
+   :page: 90
 
 The time has now come when we must utterly transform our primitive world thinking in respect to practically every one of the great elements which constitute the basis of our human relations, our sciences, philosophies and religions.
 
@@ -24,6 +27,9 @@ For this reason we must transform world thinking of CAUSE and EFFECT in quite di
 Mankind has thought of sex, for example, in terms of a relation between the opposite sexes in organic living animal life, never for a moment including sex relations in the mineral kingdom, nor in hot suns or the ice caps of the poles of planets.
 
 With such thinking we have used such terms as cohabitation and the sex relation as though the sex relation is entirely separate and apart from other relations, and as though its reproductive effect is limited to living things which die, or growing things which decay.
+
+.. folio:: 0091
+   :page: 91
 
 From now on you must know the inclusiveness of sex as being expressed continuously and perpetually forever in all things. Instead of thinking in terms of cohabitation, and the sex relation, you must automatically think of it as the interchange between pairs of oppositely unbalanced conditions for the purpose of balancing those conditions. AND THAT MEANS EVERY EFFECT OF MOTION IN THE ENTIRE UNIVERSE. "Good" effects are those in which the interchange is balanced--and all "bad" effects are those in which balance is not complete.
 
@@ -53,6 +59,9 @@ If matter is in balance it cannot move without losing its balance. That is as tr
 The continuous moving of a planet is due to its perpetual seeking for balance which it forever loses as it forever finds it.
 
 This applies to all things in Nature, for motion is impossible except through interchange between the two unbalanced sex conditions.
+
+.. folio:: 0092
+   :page: 92
 
 Likewise motion cannot be repeated in any effect in Nature except through finding balance--such as losing your balance to move, and finding it to again move--or finding balance in sex interchange to lose it again to repeat sex interchange in continuous cycles.
 
@@ -85,6 +94,9 @@ These words for THE DIVINE TRINITY are given so that you will better understand 
 
 This simple fact MUST be thoroughly understood in order that the great simplicity of God's creating universe can be known to you. As an example of the above words for THE DIVINE TRINITY think of the center of gravity of this earth--then think of its two oppositely directed extensions to the North and South magnetic poles on the outer surface of the planet.
 
+.. folio:: 0093
+   :page: 93
+
 Now if you will think of these three zeros of rest in the words of The Divine Iliad just quoted you will better understand that there is not one thing in Nature, not even one microscopic cell in your body--nor the slightest action of your body, nor of your thinking--nor of a grain of dust on a butterfly's wing, that is not thus centered and its interchange balanced by God's Light of Universal Consciousness and controlled by God's two watchful eyes from without.
 
 GOD'S PAIRS OF OPPOSITES
@@ -111,6 +123,9 @@ Many different words are used to express the same thing which confuse you. Howev
 CONCENTRATION is an effect of gathering a very large volume of rarified matter like gases, or light rays which you cannot see into a small volume which compresses it into solid matter or focal point of light which you can see.
 
 Visibility is an effect of CONTRACTION--and contraction heats--and that is the way that God's concentrative thinking gathers hot incandescent suns together in space to create His visible universe of objective forms.
+
+.. folio:: 0094
+   :page: 94
 
 God's decentrative thinking surrounds those suns with cold, dark, evacuated and invisible space.
 
@@ -141,6 +156,9 @@ CONCENTRATION is positive. DECENTRATION is negative. The MALE is positive. The F
 
 * * *
 
+.. folio:: 0095
+   :page: 95
+
 As you master this idea you will be better equipped to comprehend HOW and WHY matter emerges from space to construct forms and HOW and WHY space swallows matter to dissolve its forms.
 
 Likewise, you will comprehend how to give form to your conceptions and imaginings, making them stepping stones for greater and greater achievement.
@@ -149,10 +167,16 @@ This knowledge is your power when your SOUL knows it--so do not let these words 
 
 * * *
 
+.. folio:: 0096
+   :page: 96
+
 .. figure:: /_static/plates/image015.gif
    :align: center
 
    Archival Plate (``image015.gif``)
+
+.. folio:: 0097
+   :page: 97
 
 .. figure:: /_static/plates/image016.gif
    :align: center
@@ -172,7 +196,8 @@ This knowledge is your power when your SOUL knows it--so do not let these words 
 .. figure:: /_static/plates/image019.gif
    :align: center
 
-   Archival Plate (``image019.gif``)
+.. folio:: 0098
+   :page: 98
 
 Figures 12 & 13 are examples of orderly balanced concentration and decentration upon a macrocosmic scale. The building of balanced bodies in the heavens is the same in principle as the building of your body. Orderly balanced thinking builds normally balanced bodies. Every condition of your life reflects your thinking. The secret of glorious living lies in rhythmic balanced interchange.
 
@@ -180,6 +205,9 @@ Figures 12 & 13 are examples of orderly balanced concentration and decentration 
    :align: center
 
    Archival Plate (``image020.gif``)
+
+.. folio:: 0099
+   :page: 99
 
 Fig. 14
 

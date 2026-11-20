@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-32:
 
-LESSON NUMBER 32 ANSWERS TO STUDENTS QUESTIONS
-==============================================
+Lesson 32: Answers to Students' Questions (Part VIII)
+=====================================================
+
+.. folio:: 0290
+   :page: 290
 
 At long last we are now enabled to answer the heretofore unanswerable questions concerning life, death, and what happens after, both as to body and person. Many such questions have been in our files for a long time--not because they could not be answered, but because the answers could not be understood.
 
@@ -28,6 +31,9 @@ As you rebuild your new body you assemble it into the stage of completion it was
 It took millions of years of desire to do what you now do in nine months. It may have taken a hundred thousand years of desire for finger nails to produce what you now produce in your gestation period. You remember everything you have ever added to your body and the purposefulness of every part of it.
 
 Every cell of your body remembers its own particular purpose. White corpuscles will rush to repair damage to your body with the same certainty that a bell will ring when you press a button. Why is this? It is because you remember each little addition to your body as you built it. Your Soul remembers the desire and your body remembers its fulfillment.
+
+.. folio:: 0291
+   :page: 291
 
 You may wonder how your body remembers its fulfillment. God's recording system does that for your body. As each cell of your body unfolds from its seed a record of that unfoldment refolds back into its seed. In later les sons this principle will be disclosed.
 
@@ -56,6 +62,9 @@ In the next series of lessons this will be more explicitly explained by that as 
 QUESTION. "Do you know of any cases where loved ones of a family have "reincarnated" in the same family?"
 
 ANSWER. I know of many which are possible--or even probable. We are particularly interested in any evidence which runs within the possibilities, although no cases can ever be proven no matter what the evidence.
+
+.. folio:: 0292
+   :page: 292
 
 Here is one very possible case. Uncle Hubert "died" in his youth, had red hair, was left handed, had Roman nose and a protruding back head and distinct "cow lick" on his unusually high forehead. He was passionately fond of music, knew all of the best classic music and improvised by the hour. Many years later a red haired, left handed child was born to his niece who so closely resembled Uncle Hubert that the older relatives who knew him well were astonished by the great similarity. Such physical features are explainable, however, in families, but not the mental ones. This child gave evidence of great musical talent at three. He knew all of the operas and astonished
 
@@ -87,6 +96,9 @@ If your father had passed on you know you could not awaken him. He is not only i
 
 His Mind is not asleep, however, nor is yours. His Mind still DESIRES and always will. That desire of his Soul to manifest his God-Self through a body will eventually bring his body back to manifest his Self.
 
+.. folio:: 0293
+   :page: 293
+
 Now consider this thought. Mind desires--and Mind thinks the THOUGHTS which stem from desire. If you should sit with your father while he is asleep and extend some desire of your Consciousness to his Consciousness he would become aware of your thought extension to a more or less extent, depending upon the advancement of his own unfolding.
 
 This fact is so well recognized that it has a name--thought transference. You can easily demonstrate that yourself. Sit in the room of a sleeping person whom you are close to, such as your wife. If you are exuberantly happy, thinking beauty in rhythmic music and such harmonious thoughts, you can make her sleep happily, and insulate her from inharmonious dreams. And she will awaken that way. It cannot be otherwise for this is a thought-wave universe and her Consciousness will respond to the rhythm and essence of your thought--which is happiness and balance--even if she did not awaken with the patterned idea which you may have given to the thought.
@@ -111,6 +123,9 @@ Countless thousands of the thoughts of people who have passed on have been exten
 
 It is not necessary for me to think of some particular thought of Beethoven's or of any other person who has extended his thoughts to me, for I can just think of that Soul which is Beethoven, or Leonardo da Vinci, or Walt Whitman, and their very KNOWING extends to me.
 
+.. folio:: 0294
+   :page: 294
+
 Even though they may have been "reincarnated" since they lived, their KNOWING and the thought-bodies of their knowing, extend to me at will.
 
 I can say much more to you on this subject when we have further prepared you for comprehending it but this I will say now, that mankind, as a whole, has but hardly arrived at the verge of his new day of greater Conscious awareness. Great transformations lie ahead for many who have passed beyond that verge. Mankind, three thousand years from now will have Mind qualities undreamed of by this primate age, and many there are right NOW who are ready to step into high places undreamed of by man of one hundred years ago.
@@ -134,6 +149,9 @@ Beloved friends and students:
 Your precious letters letting us know of your more abundant lives, through the knowledge you are gaining by your studies, are to us the greatest demonstration we receive of God's wondrous law of GIVING for RE-GIVING. When such letters arrive--and they arrive every day--they never fail to inspire us in our GIVING to you by making God's Message ever more clear so that you may in turn KNOW inner security. When man knows inner security he has the key to peace and happiness whatever material conditions are manifesting in home or world conditions.
 
 In these four lessons the question that has haunted mankind since his beginnings has started being revealed to you and will be continued until this great mystery has been clarified for you. Take each sentence SLOWLY for by so doing you will UNDERSTAND and then it will become so simple for you to comprehend you will wonder why it ever puzzled you at all. Take each thought in it into your meditation until it becomes a part of your own thinking. Do not try to explain it to anyone else until you yourself KNOW for when you are questioned about something you yourself are not clear about, you become confused and are apt to feel that you will never understand this new knowledge.
+
+.. folio:: 0295
+   :page: 295
 
 In our next unit of lessons we shall continue to unfold the heretofore unknown secrets of the Soul and seeds of body forms which come into visibility and out of it in such mysterious ways. These unknown secrets have heretofore been unknown because they belong to the invisible universe which has not yet been penetrated by man.
 

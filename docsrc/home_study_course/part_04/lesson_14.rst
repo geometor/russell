@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-14:
 
-LESSON NUMBER 14
-================
+Lesson 14: How Bodies Are Made and Balanced
+===========================================
+
+.. folio:: 0127
+   :page: 127
 
 Once again I must talk to you as simply as though you were small children, for any thinking which is new MUST be presented simply.
 
@@ -27,6 +30,9 @@ God could not create your body with you without desire to do so. Desire of Mind 
 
 All creating bodies are extensions of other creating bodies. You are now, and always have been creating your own body. You cannot extend that which you have not first created. Neither can you extend more than you have first created.
 
+.. folio:: 0128
+   :page: 128
+
 All thought bodies extended from your thought body by the desire of your Mind to create thought bodies manifest the measure of your knowing. Your thinking can never manifest more than you know no matter how great is your desire.
 
 If you realize the fact that you are forever creating bodies by the use of electricity, energy, light and motion--and are balancing them with the immediate and universal environments you must know what these tools are that you are using, and you must know them as thoroughly and as dynamically as you know how to multiply two by two and conclude, rightly, that the answer is four.
@@ -44,6 +50,9 @@ But I say to you that there is nothing so complex in the [whole] field of scienc
 I also say to you that these many varieties of particles which frighten you away from science, are all of them the same particle of light corpuscle which seem to be different because they are in different parts of their wave fields and are, therefore, differently conditioned as to their polarity. And so would you seem to be different kinds of humans if some cosmic giant photographed you under his microscope one day when you trudged in knee deep snow with your fur coat, hat and mittens on, then later photographed you as a water animal with bathing trunks and sun hat.
 
 Chemistry is as simple as music. The octave tones, harmonies and rhythms are the same. I could teach you chemistry from the musical octave, or the color spectrum as well as I could from the Mendeleef table. And I will say the same for mathematics or mechanics.
+
+.. folio:: 0129
+   :page: 129
 
 When I have taken you "behind the scenes" where God's cosmic cinema is being played you will find no complexity there at all. You will find that when you thoroughly know the working principle of The Divine Trinity, so thoroughly that your own Consciousness is the centering zero of KNOWING from which all pairs of opposite expressions extend, you will suddenly realize that you have all-knowledge, for the answer to every question as to CAUSE and PRINCIPLE is within you.
 
@@ -72,7 +81,12 @@ As I have before stated, the universal equilibrium is zero and cannot be divided
 .. figure:: /_static/plates/image025.gif
    :align: center
 
-   Archival Plate (``image025.gif``)
+.. folio:: 0130
+   :page: 130
+
+.. picture:: 0130.g1.png
+   :alt: Figure 17 — Divided and Undivided Divine Trinity
+   :caption: Figure 17 — Divided and Undivided Divine Trinity (Folio 0130)
 
 Now imagine God's hands pulling the invisible ONE IDEA of Father-Motherhood apart to divide it into two visible forms, each of which are one half of the ONE IDEA. Instead of the invisible, formless and changeless One Idea God has thus created PAIRS OF OPPOSITELY CONDITIONED HALVES OF MANY IDEAS. That is what is called POLARITY, which means the division of one condition into two equal opposites. (See Fig. 17)
 
@@ -89,7 +103,12 @@ For example, consider yourself in a closed room of even temperature. There is no
 .. figure:: /_static/plates/image026.gif
    :align: center
 
-   Archival Plate (``image026.gif``)
+.. folio:: 0131
+   :page: 131
+
+.. picture:: 0131.g1.png
+   :alt: Figure 18 — Undivided Equilibrium in a Closed Room
+   :caption: Figure 18 — Undivided Equilibrium in a Closed Room (Folio 0131)
 
 If we put a bar of hot iron at one end and a cake of ice at the other end we have upset that equilibrium. It now follows the principle of The Divine Trinity. The one condition has been divided into two opposite conditions, the hot iron being a positive condition and the ice being the negative condition. See Fig. 19. Instead of the entire room being in equilibrium an equator has been developed between the divided two.
 
@@ -104,7 +123,12 @@ Now imagine that the pulling apart of the one into two caused a strain, or tensi
 .. figure:: /_static/plates/image027.gif
    :align: center
 
-   Archival Plate (``image027.gif``)
+.. folio:: 0132
+   :page: 132
+
+.. picture:: 0132.g1.png
+   :alt: Figure 19 — Divided Thermal Polarity Across an Equator
+   :caption: Figure 19 — Divided Thermal Polarity Across an Equator (Folio 0132)
 
 The effect of two-way tension is the answer to what electricity is. The two-way desire to equalize that tension is the answer to what sex is--and the two-way interchange which is necessary to effect that equalization is what motion is, for when that equalization takes place electric current ceases, sex desire ceases and motion ceases.
 
@@ -125,16 +149,25 @@ If you face a crashing defeat you must know how to meet it. The best way to do t
 
 At such a time never seek the solution outside of yourself by telling a living soul of your problem who is not able to take your problem as his own. Your wife or husband may be the only one who is capable of becoming one with you in your problems and that only if your mate is one with you in all things.
 
+.. folio:: 0133
+   :page: 133
+
 Seek the solution within yourself. The answer is within yourself. Seek aloneness with your own Soul and talk to God about it. The more you know about His law of balance the better you can comprehend God's universal language of Light in which God talks to you.
 
 Likewise, the more you dynamically KNOW that principle as manifested in everything you do the less problems you will have to overcome. For that reason I shall talk to you at length concerning the principle and dramatize my teachings by human examples as to the application of that law to every phase of your life, from business to matrimony--from frustration to glorification--or from health to friendships.
 
 God has given you something to guide your life actions which you probably never have given thought to. He has given you what is known as an equator, when applied to earth or sun. As applied to you it is a plane which divides your body into two equal and opposite halves and each opposite half symmetrically balances the other half--but in reverse.
 
+.. folio:: 0134
+   :page: 134
+
 .. figure:: /_static/plates/image028.gif
    :align: center
 
    Archival Plate (``image028.gif``)
+
+.. folio:: 0135
+   :page: 135
 
 Fig. 20
 
@@ -147,7 +180,12 @@ Fig. 21 The vast significance of the equators of all creating things lies in the
 .. figure:: /_static/plates/image029.gif
    :align: center
 
-   Archival Plate (``image029.gif``)
+.. folio:: 0136
+   :page: 136
+
+.. picture:: 0136.g1.png
+   :alt: Figure 22 — Life and Death Exemplified in the Divine Trinity
+   :caption: Figure 22 — Life and Death Exemplified in the Divine Trinity (Folio 0136)
 
 The zero which is the center of gravity of all bodies centers the equators of all material bodies.
 
@@ -172,6 +210,9 @@ You will have a different viewpoint on life when you thoroughly comprehend how h
    Archival Plate (``image030.gif``)
 
 Fig. 22 - LIFE AND DEATH exemplified in THE DIVINE TRINITY
+
+.. folio:: 0137
+   :page: 137
 
 There is much to be said and explained but for this lesson I will close by illustrating for you that equator of The Divine Trinity which we call LIFE and DEATH. (See Fig. 22.)
 

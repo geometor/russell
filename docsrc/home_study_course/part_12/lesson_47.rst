@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-47:
 
-LESSON NUMBER 47 WE NOW CONSIDER THE MAKING OF MATTER
-=====================================================
+Lesson 47: We Now Consider the Making of Matter
+===============================================
+
+.. folio:: 0479
+   :page: 479
 
 .. admonition:: GEOMETOR Revamped Cosmogony Plates
    :class: note
@@ -44,6 +47,9 @@ There is no better way of expressing that great primal fact of Creation than to 
 
 The elements of matter are the bodies of light which God builds with the Light of His knowing from which our bodies extend to manifest the Light of our knowing.
 
+.. folio:: 0480
+   :page: 480
+
 The laws which govern the elements of matter govern our bodies because our living bodies are composed of these living elements.
 
 It has always been a fixed conception that the elements are permanent, that no particle of matter can ever be destroyed. Even though they be transmuted into other "substances" their basis still remains and even though complexed into many compounds their component parts still remain and will still find each other upon decay or disintegration of any organic or inorganic compound.
@@ -65,6 +71,9 @@ It is axiomatic, therefore, that the "life and death" cycles of man and of the e
 What is the distinguishing difference? That is the puzzling, confusing question to which the answer is that man confuses MAN with the body of MAN. The body of man is but matter. It has no awareness of its fulcrum. It vibrates in motion only because of the desire which is extended from the fulcrum exactly as a man lifts a ton rock with a lever because he desires to lift it.
 
 To put it more simply, MAN is the fulcrum of the lever which is his body. His body operates because of desire in the fulcrum to manifest action. The fulcrum is MAN, THE ETERNAL. The body of man is but a form which manifests The Eternal.
+
+.. folio:: 0481
+   :page: 481
 
 The body cannot act until desire is extended from the fulcrum. Try it. Try moving one finger without consciously desiring to move it. You cannot do it. Your finger will remain motionless unless you extend desire into it from the fulcrum.
 
@@ -91,6 +100,9 @@ That beginning has long been passed by the few among the race of man. The transi
 During those long aeons of transition instinctive control of the senses of hearing, smelling, seeing, feeling and tasting, which is strong in animal life, gradually lessen as man slowly shares Self-control with his Creator.
 
 Man in the mass is still very little aware of his centering Self, nor of his identity with the One Supreme Being, but there are enough of the human race who have that Cosmic awareness to born another age of unfolding Man. It is to these few among rnen that God sent His Message of The Divine Iliad. These will understand--and will become the seed of the Age of Cosmic Man, now in its early dawn.
+
+.. folio:: 0482
+   :page: 482
 
 OTHER MISCONCEPTIONS CONCERNING MATTER
 --------------------------------------
@@ -119,6 +131,9 @@ Science text books show cylindrical forms which assume a certain symmetry of sha
 
 Curiously enough each theoretical conception has an arrow running through its axis pointing one way, and marked with the word TIME on it. The idea of time seems to have made a fixed impression upon past observers and thinkers who ignore the basic fact of polarity in a universe in which ALL phenomena is divided into pairs of opposites which express their polarity in opposite directions, thus voiding each other in the mirrors of themselves but leaving a one-way effect of illusion upon the one-way sensed records in man's brain.
 
+.. folio:: 0483
+   :page: 483
+
 The universe is without shape. It is an infinite mirrored extension from a point within which it withdraws and disappears to reappear in pulsing sequences.
 
 Every point in the universe is the same point. Likewise each one is the center of the universe and every happening anywhere is universal.
@@ -145,6 +160,9 @@ MISCONCEPTION OF WEIGHT
 -----------------------
 
 There has been much confusion concerning weight. It is generally considered that weight is a fixed quality of matter, and not a variable one, which has an above and below zero, as temperature is measured.
+
+.. folio:: 0484
+   :page: 484
 
 A man who weighs 150 pounds on the ground, weighs less and less as he ascends above the earth, weighs more and more as he travels toward the north pole, less as he travels toward the equator and has no weight at all if he floats in water. The moment that his body displaces an equal weight of environment he loses all weight.
 
@@ -174,6 +192,9 @@ Weight is the measure of the force which a body exerts in seeking its true poten
 
 Weight is the sum of the difference between the inward pull of gravitation and the outward thrust of radiation.
 
+.. folio:: 0485
+   :page: 485
+
 CONCLUSION
 ----------
 
@@ -196,6 +217,9 @@ During the entire journey of man's unfolding and refolding each stage has attrib
 
 Let us parallel this example with the cycle of the nine octave waves of all of the elements. Instead of using the various names of the elements, as we use various names for the stages of man's growth, we will use the one name of CARBON for all the stages of carbon-growth, as we use the name of MAN for all of the stages of man-growth.
 
+.. folio:: 0486
+   :page: 486
+
 It will greatly help you to comprehend the picture of the universe as a whole if you fully comprehend that carbon is the only element in Nature, and all of the others are but names for stages of carbon's "nine lives".
 
 Carbon reaches its full maturity at the midway balance point of its cycle--which is four and a half octaves. This point is reached in tonal stages which have attributes of their own. These attributes are as utterly discarded at each successive stage as those which distinguish a youth from a child--or a man from a boy--or each successive tone in a musical octave scale from every other one. At that midway point it is able to stand up with full strength at 90 degrees from the inert gases from which it arose into action, and into which it descends for rest.
@@ -217,6 +241,9 @@ Figure 131 shows you such a symmetrical disc on edge and Figures 146 and 147 pic
 The glorification of spiritual man lies in emulating the balance of carbon in its relation to the universal balance, and of man's body structure as typified by the perfection and symmetry of the carbon body structure.
 
 Likewise, the glorification of marriage of man and woman lies in emulating the multiplied power of unity of the carbon pair when its two divided equators become ONE.
+
+.. folio:: 0487
+   :page: 487
 
 Instability marks all disunited pairs in chemistry while the marriage of any two equal opposites immediately gives them the stability which can alone be acquired by the chemical elements by marriage.
 
@@ -245,6 +272,9 @@ Number of INERT GASES--which are the seed for octave growth 9 Number of ELEMENTS
 THE MYSTERY OF THE INERT GASES
 ------------------------------
 
+.. folio:: 0488
+   :page: 488
+
 The inert gases are not elements. They will not mix with any of the elements, for they represent the spiritual universe as recorders of thoughts and actions. They are the "BOOKS" of God's bookkeeping system. The unfolded patterns of all creating things are refolded in them for rebirth.
 
 Likewise, they carry desire within them for unfolding from their seed-records that which they have recorded for aeons of repetitions for again repeating with the last added recordings of every patterned growing thing--be it lion or mouse--rose or forest tree--man or mountain, or even be it mighty star or nebula of the high heavens.
@@ -266,6 +296,9 @@ Remember THAT. Always remember that something centers your body which cannot be 
 Remember that YOU exist eternally in the Light of Universal Soul--and your patterned body exists eternally in the inert gases which record your patterned body and surround the still point of Light of your Universal Soul.
 
 When all motion has ceased which constitutes body, desire still remains to repolarize and again unfold that complexly patterned form which lies within a measureless, ultra microscopic point of that inert Light which forever awaits unfolding into the forms imprisoned there. And as every leaf and fibre of the mighty wind-blown oak is enfolded within a measureless point of light, so, also, is every bone, and tissue, and fibre of man's wonderfully patterned body thus enfolded.
+
+.. folio:: 0489
+   :page: 489
 
 You cannot, therefore, kill the oak by sawing it down, for all that has unfolded from that fulcrum-seed-Soul to manifest the idea of the oak has refolded into its fulcrum-seed-Soul wherein lies the eternity of the oak tree idea.
 
@@ -301,6 +334,9 @@ That mystery can be simply clarified by asking ourselves this question: If light
 
 If motion is an effect produced by polarizing an equilibrium, LIGHT IS ALSO AN EFFECT produced by that division. Again our senses accentuate the fact of LIGHT without thinking of DARK being a mate to LIGHT.
 
+.. folio:: 0490
+   :page: 490
+
 We must, therefore, revise our concept of light and dark. We must consider them both as we consider a male and female which interchange to produce each other, and not consider dark as less light, or light as substance.
 
 The multiplication of that state of motion which produces DARK causes that effect which we call LIGHT. Conversely, the division of that state of motion which produces LIGHT causes that effect which we call DARK.
@@ -327,6 +363,9 @@ Isotopes are divided tones, like the sharps and flats in the octave tones of mus
 
 None of these semitone isotopes occur in any octave except between 3 and 4 on the positive side, and 4 and 3 on the negative side. By studying both charts (Figures 176 and 177) you will familiarize yourself with the simplicity of this octave variation.
 
+.. folio:: 0491
+   :page: 491
+
 Isotopes do not, and cannot occur in the lower octaves. They do not begin until the sixth octave, that octave in which carbon does not reach full balance and unity of wave amplitude to become a non metal, or salt, but still retains its metallic quality and is named cobalt. In the sixth octave there are five pairs of mated isotopes. See charts numbered 1 and 2, Figures 176 and 177.
 
 When these two charts were first published and widely distributed in 1926, they showed seven full tones in the hydrogen octave instead of just the one which you see in Figure 175. At that time the creator of the new charts gave a series of lectures to tell science that the hydrogen octave consisted of seven full tones, and that hydrogen is number 22 in the periodic table instead of number 1. Shortly after that three of these full tones were verified by science, one of which led to the discovery of heavy water.
@@ -335,10 +374,16 @@ Science was in a quandary, however, regarding this "discovery" because the eleme
 
 There was no way out of it but to call these full tone elements isotopes, notwithstanding the fact that isotopes cannot occur in Nature until the depolarizing power of radioactivity becomes stronger than the polarizing power of generoactivity.
 
+.. folio:: 0492
+   :page: 492
+
 .. figure:: /_static/plates/image095.gif
    :align: center
 
    Archival Plate (``image095.gif``)
+
+.. folio:: 0493
+   :page: 493
 
 .. figure:: /_static/plates/image096.gif
    :align: center
@@ -348,11 +393,19 @@ There was no way out of it but to call these full tone elements isotopes, notwit
 .. figure:: /_static/plates/image097.gif
    :align: center
 
-   Archival Plate (``image097.gif``)
+.. folio:: 0494
+   :page: 494
+
+.. picture:: 0494.g1.png
+   :alt: Figure 177 — Russell Periodic Chart of the Elements, No. 2
+   :caption: Figure 177 — Russell Periodic Chart of the Elements, No. 2 (Folio 0494)
 
 In the seventh octave carbon is known as rhodium, and is a metal. There are five pairs of mated isotopes in this octave also.
 
 In the eighth octave carbon makes a supreme effort to reach its balanced position upon wave-amplitude, but does not come as near to it as in the sixth and seventh octaves, even though it makes thirteen supreme efforts to reach it by establishing thirteen fulcrums of gravity centers between lanthanum and lutecium, the latter one being the now very aged carbon which is not at all like its middle aged self.
+
+.. folio:: 0495
+   :page: 495
 
 Naturally there are thirteen mates between lutecium and bismuth to these thirteen efforts but two of these have not yet been recognized or isolated. If ever found they will be located between lead and bismuth.
 
@@ -376,6 +429,9 @@ COMPARING THE NEW RUSSELL PERIODIC CHARTS WITH THE OLD MENDELEEF CHART
 
 In the early part of this century the renowned chemist, Mendeleef, produced the chart which is reproduced here as Figure 175. Ever since then it has been the authority for practical laboratory workers, and the standard for the teaching of chemistry in universities and schools.
 
+.. folio:: 0496
+   :page: 496
+
 Unfortunately it is not only grievously inaccurate but grievously incomplete. It starts with hydrogen as the first element in the first octave. That is like starting the life of a man at about thirty years of age when he was born, and ignoring the seed from which his pattern unfolded.
 
 We have many times stated that a bar magnet cannot be polarized at one end only, nor at two ends unequally. Nor can polarization take place without a dividing equator. The elements of matter--as a nine octave whole--constitute a polarized cycle. The Mendeleef table ignores this primary fact of equal poles in its cycle. It indicates a confused number of octaves beyond the carbon octave on the radioactive side between carbon and uranium while, in reality, there are just four and a half octaves, as our charts show.
@@ -398,6 +454,9 @@ Pages are needed for a further analysis of the inaccuracies and incongruities of
 
 That zero group is the fulcrum of a lever which likewise extends both ways from its stillness. It is also like the seed which divides the upward growing tree from its downward growing roots.
 
+.. folio:: 0497
+   :page: 497
+
 The group arrangement of polarity which divides every electric wave is as follows:
 
 A VERY BRIEF EXPLANATION OF THE BASIS FOR UNIVERSAL MATHEMATICS
@@ -419,7 +478,15 @@ All other computations are based upon cross sections of this three dimensional c
 .. figure:: /_static/plates/image099.gif
    :align: center
 
-   Archival Plate (``image099.gif``)
+.. folio:: 0498
+   :page: 498
+
+.. folio:: 0499
+   :page: 499
+
+.. picture:: 0499.g1.png
+   :alt: Figure 179 — Octave Arch of Integration and Disintegration
+   :caption: Figure 179 — Octave Arch of Integration and Disintegration (Folio 0499)
 
 There are no straight lines in Nature, however, for all direction in Nature is curved, and all curvature is spiral. All motion in one direction, is, therefore a part of an orbit in which the motion covers equal areas in equal time around its controlling zero of gravity. Every one dimensional relation is therefore, subject to the three dimensional forces of this radial universe which accelerate or decelerate in distances travelled between radii.
 
@@ -438,7 +505,8 @@ You should now readily understand that much space must be "squeezed" out of such
 .. figure:: /_static/plates/image100.gif
    :align: center
 
-   Archival Plate (``image100.gif``)
+.. folio:: 0500
+   :page: 500
 
 Carrying this principle of expansion still further these metals vaporize and rise into the heavens instead of falling to earth, simply because they let more space inside by expanding each particle to many times its volume.
 
@@ -460,6 +528,9 @@ Basing such a structural system upon the incomplete Mendeleef table, and assumin
 Revolutions of electrons, as arranged in this theoretical structure, would be impossible in this electric wave universe. By studying the diagram relating to the spiral interchangings of an electric current you will readily understand why such effects are not within Nature's plan.
 
 Every time an electron is added to a system or subtracted from it, it becomes another element, which is like changing the nationality of a family if a new child is born or one child dies. Following this theory it has been attempt[ed] to produce gold by "knocking" an electron out of mercury. This would be tantamount to changing the structure of matter in our solar system by "knocking" Venus, Jupiter or Saturn out of it.
+
+.. folio:: 0501
+   :page: 501
 
 One of the characteristics of this present atomic structure theory is the provision that any electron in any shell can jump timelessly to the next inner or outer shell. To realize its impossibility imagine this planet of ours suddenly jumping to Jupiter's orbit. Such a sudden transition would, naturally, cause a frightful explosion of this planet into millions of asteroids, and it would do exactly that same thing to an atom if one of its electrons were suddenly transported from a high potential pressure position to a much lower one.
 
@@ -484,6 +555,9 @@ Hence every particle of matter, whether it is an electron or any part of an atom
 
 Our planet is an "electron" of this solar system. Our moon is an "electron" of Earth's system. Jupiter's many moons are "electrons" of Jupiter's system. None of them are arranged in concentric shells, but all emerge from Jupiter's equatorial plane and revolve in it until their curving vortices force them to change their planes of revolution as they get farther away from Jupiter.
 
+.. folio:: 0502
+   :page: 502
+
 Jupiter's four inner moons revolve in practically the same plane as that of Jupiter's equator, but the orbits of others must gradually change until the planes of their orbits are ninety degrees from our solar equatorial plane in order to conform with the curvature of its vortice's axis.
 
 It has not yet been observed that there are no electrical systems of any kind in Nature, whether atomic, solar or stellar which are not disintegrating systems. Matter integrates into single masses. It disintegrates into systems of mass units centered by single masses. Each of these mass units centers another disintegrating system as its nucleus. This process continues until solids become vapors, then gases of forever lowering potentials until their zero potential is reached.
@@ -496,9 +570,17 @@ In conformity with principles laid down in previous lessons we herewith present 
 .. figure:: /_static/plates/image101.gif
    :align: center
 
-   Archival Plate (``image101.gif``)
+.. folio:: 0503
+   :page: 503
+
+.. picture:: 0503.g1.png
+   :alt: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements
+   :caption: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements (Folio 0503)
 
 In Figure 180 is the wave axis and four pairs of tonal equators. Wherever these equators intersect with the wave axis that point becomes the fulcrum--or nucleus--of an octave tone system. These four pairs of focal points are determined by the six cube mirrors in each of two cube sections.
+
+.. folio:: 0504
+   :page: 504
 
 By referring to the cube diagrams you will note that the wave axis approached three mirrors in the cube "corners" where the wave reaches amplitude. Also th[e] wave axis recedes from three mirrors behind it.
 
@@ -521,6 +603,9 @@ In each case the nucleus prolates gradually toward a true spherical form during 
 Likewise, all volumes contract as of the cube in reverse ratio as polarization increases and expand in direct ratio during depolarization. Naturally there are two foci to all forming spheres, and to the orbits of the systems they are throwing off from their equators. That necessitates elliptical orbits for all forming bodies and systems of bodies, for there is but one timeless passing moment when the transition from true sphere to spheroid actually takes place in the nucleus of any system, whether atomic or stellar.
 
 A study of Figure 182 will be enlightening in this respect. In it you can plainly see how carbon gradually arises through its tonal stages from its zero in helium which is its seed.
+
+.. folio:: 0505
+   :page: 505
 
 When its equator has reached a 90 degree angle from that of its fulcrum seed it becomes a true sphere and is in perfect balance at the amplitude of its wave.
 

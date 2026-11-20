@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-23:
 
-LESSON NUMBER 23 CONFUSION OF IDEAS REGARDING SPIRITUAL AND PHYSICAL
-====================================================================
+Lesson 23: Confusion Regarding Spiritual and Physical
+=====================================================
+
+.. folio:: 0216
+   :page: 216
 
 Before entering the second six months of clarification of the relations between the Light of the undivided magnetic universe of MIND-KNOWING and the divided universe of MIND-THINKING it is well to summarize and review the preparations for better understanding which the first six months have covered. In so doing we will enter the second half of the Study Course with less confusion.
 
@@ -27,6 +30,9 @@ THE EXPLANATION OF UNCONSCIOUSNESS
 There is no such condition as unconsciousness.
 
 When you are wide awake your body is like the rippled surface of a lake. It is vibrant with waves. Those vibrating waves of motion are your electric senses. Those vibrating waves of motion are also your body.
+
+.. folio:: 0217
+   :page: 217
 
 Give thought to this fact for just a moment. When you fully realize that your body is only electric waves of vibrant motion you could not possibly think of your spiritual self, the Being which is YOU, as being only waves of motion.
 
@@ -49,6 +55,9 @@ If the senses of man could think, or have knowledge, the human race would have h
 Animals reason, just as men do, but reasoning is but weighing one effect of sensed experience with other effects which arise from our "sense of observation".
 
 What we mistake for the mental action of thinking is purely an electric awareness of motion. It is not Consciousness at all. Nor is conscious Mind aware of motion, for it does not even KNOW of it.
+
+.. folio:: 0218
+   :page: 218
 
 Electric awareness is the awareness of one sense of motion by another sense of motion, and that electric awareness ceases when motion ceases. The whole universe is "wired" from every point in the universe to ever other point to transfer any sensation anywhere to every other where.
 
@@ -74,6 +83,9 @@ There are no such conditions as either sub-conscious or super-conscious states o
 The confusion of ideas which borned such concepts arose from the mistaken belief that sensations of the body were mental. Body sensing has been mistaken for thinking, so when the electric current which caused sensations in the body weakened sufficiently to reduce the body's electric awareness of motion sufficiently to deaden, or stupify the senses, people concluded that they were unconscious because their bodies had lost all awareness. Consciousness is the state of KNOWING. There is no activity in KNOWING, but there is activity in THINKING.
 
 Mind is not stratified into sub or super layers. Mind is universal. It is all there is, and it is everywhere the same unchanging One Undivided Light of all-knowing from which all motion springs.
+
+.. folio:: 0219
+   :page: 219
 
 Consciousness never changes. Everyone is always conscious but few are aware of it. The human race has not yet unfolded to the point where it is cosmically aware of its Conscious Soul.
 
@@ -103,6 +115,9 @@ Empires are not only being destroyed from without, but from within. Graft and co
 Nations which were built upon crime are being destroyed by crime, nation by nation and man by man. That which man gave to man is being regiven to him in his own image.
 
 There is deep decadence in all the arts. Beauty has been replaced by ugliness in painting and sculpture.
+
+.. folio:: 0220
+   :page: 220
 
 Culture is at a lowering ebb all over the world. No great men are being produced of such majestic standards as those great geniuses who have given us our present world culture.
 
@@ -134,6 +149,9 @@ It is claimed that smoking does not injure the body, physically. That is not tru
 
 Some smokers bodies demand only six or so cigarettes a day. Others demand one every twenty minutes. These become "chain smokers" who have lost practically all Soul-Will. Chain smokers are body slaves to a drug. He who would deny his slavery to nicotine may prove his freedom from it by asserting his will over the power of nicotine.
 
+.. folio:: 0221
+   :page: 221
+
 Not one in a thousand long time smokers ever succeed in proving their own will power over nicotine to be greater than the power of nicotine over them.
 
 That fact of body slavery is the important thing for any man to ponder over who is in search for his own Soul and its dwelling place in the high heavens of God's Light.
@@ -161,6 +179,9 @@ God's words in His Message are so clear and explicit upon this subject that we w
 "Until then he is but moving clay, manifesting not Me in him while sensing naught but moving clay of him; knowing not the glory of My Light in him.
 
 "Wherefore, I say to thee, exalt thou thyself beyond thy sensing. Know Me as fulcrum of thy thinking. Be Me as deep well of thy knowing" --From The Divine Iliad. (P. 59 The Secret of Light)
+
+.. folio:: 0222
+   :page: 222
 
 CONCLUSION
 ----------

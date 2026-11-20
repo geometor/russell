@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-31:
 
-LESSON NUMBER 31 THE SUPREME MYSTERY OF THE AGES (REINCARNATION CONTINUED)
-==========================================================================
+Lesson 31: The Supreme Mystery of the Ages (Reincarnation)
+==========================================================
+
+.. folio:: 0282
+   :page: 282
 
 To rebuild new concepts of Nature's workings is not easy for you, nor is it easy for me to explain it simply. For you it requires great concentration, followed by much decentration. For me it needs the power to make simple for you that which seems inconceivably complex to you. I assure you, however, that when you finally arrive at full knowing of the basic simplicity of God's creative principle you will KNOW it in all of the simplicity in which I KNOW it. And it will transform YOU by its illumining as it transformed ME.
 
@@ -21,6 +24,9 @@ Proceeding in this fashion we will tell, step by step, how God seemingly divides
 
 GOD CREATES ONLY ONE FORM
 -------------------------
+
+.. folio:: 0283
+   :page: 283
 
 In the electrically divided universe there is but one divided form of one divided body--and that one simple form is the cube-sphere. The sphere is the visible compressed half of the one polarized body. The cube is the invisible other expanded half.
 
@@ -39,6 +45,9 @@ The sphere is the result of the concentrative pulsation of God's thinking which 
 The cube is the result of the decentrative pulsation of God's thinking which thrusts outward from within to the stillness of the cube boundaries to produce the opposite effect which we know as "radiation". RADIATION DIVIDES POWER.
 
 Gravitation and radiation are the opposite ends of the piston which motivates the heartbeat of this eternally living dual body of God, which is our dual body. Its continual giving and regiving manifests the love principle in both the action and reaction--not just in one of them.
+
+.. folio:: 0284
+   :page: 284
 
 Their continual interchange in spiral lanes of opposed directions gives us the incandescent light of hot spheres by the friction of resistance to the interpassings of both in such close quarters as the vortical centers of cube-spheres. Conversely, the release of that resistance in the widening lanes of the outer spiral direction gives us the cold and dark of the cube half of the wave-field which encloses every divided body in the universe. To exemplify this effect see the oppositely directioned arrows, marked A and B in Fig. 67 on page 492.
 
@@ -63,6 +72,9 @@ WE LOOK OUT INTO THE CUBE-SPHERES OF SPACE
 
 We can better visualize the cube-sphere by looking up into the starry heavens. On a clear night you will see countless stars which are all true spheres --or oblate ones which are not yet completed--or which have been completed and are now being transformed into their opposite spatial counterparts.
 
+.. folio:: 0285
+   :page: 285
+
 Around each star you will see tremendous expanses of dark space. You think of that empty space as formless. You cannot possibly see a cubic form surrounding every perfectly spherical star. Your senses will not permit you to see them, but your Mind will permit you to KNOW many things which your senses cannot possibly perceive. See Fig. 70.
 
 WE MAKE A SUPREME DISCOVERY
@@ -86,6 +98,9 @@ You never lose that patterned record of your desire which is your body. You alwa
 
 If you look into the seed of the oak you cannot find the oak, or any part of it. Even with the finest microscope you cannot see any indication of leaf or wood of the tree which will assemble itself around, and extend from that seed.
 
+.. folio:: 0286
+   :page: 286
+
 Nothing material is in that seed. It belongs to the zero universe of Mind desire. Centering it is that point of desire of Mind to manifest the idea of the oak. Around that centering Soul are invisible states of motion known to chemists as "the inert gases". That is all. These invisible inert gases are in gyroscopic motion upon planes which are at a ninety degree angle from the planes of rotation of such visible elements as carbon or silicon.
 
 No--the body of the oak tree is not in its seed, but the IDEA of the oak is there. God is there--God, the Creator, Who has desired to manifest that part of the whole idea of Creation at that point of desire which centers the seed of the oak.
@@ -102,15 +117,24 @@ When these processes of God's creative secrets are yours to know you will more f
 
 "For behold I am within all things, centering them, and I am without all things, controlling them."
 
+.. folio:: 0287
+   :page: 287
+
 .. figure:: /_static/plates/image056.gif
    :align: center
 
    Archival Plate (``image056.gif``)
 
+.. folio:: 0288
+   :page: 288
+
 .. figure:: /_static/plates/image057.gif
    :align: center
 
    Archival Plate (``image057.gif``)
+
+.. folio:: 0289
+   :page: 289
 
 .. figure:: /_static/plates/image058.gif
    :align: center

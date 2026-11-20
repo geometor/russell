@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-08:
 
-LESSON NUMBER 8 QUESTIONS AND ANSWERS CONCERNING MEDITATION, PRAYER AND COSMIC CONSCIOUSNESS
-============================================================================================
+Lesson 8: Questions on Meditation, Prayer & Cosmic Consciousness
+================================================================
+
+.. folio:: 0072
+   :page: 72
 
 How often I have told you that the greatest miracle which can happen to you is the discovery of your immortal Self. I would say that again and again for a thousand times.
 
@@ -26,6 +29,9 @@ Do not look for the symptoms of it. Do not expect it or try to make it happen. J
 The effort you indicate you are making gives me the impression that you are making your brain very active in trying to make your Mind still. Forget your brain. Forget your body. Take the attitude that nothing in the world interests you, nothing whatsoever. Think of beautiful music to stop your thinking about your grocery bill or your visitor who is coming or any problem that weighs heavily on your heart. Meditation comes from the heart. Do not let the brain interfere with your inspiring communion from Soul to Soul.
 
 It is wonderful that it happened even once to you, for that means that it must happen again, often and more often, as you open your heart to it.
+
+.. folio:: 0073
+   :page: 73
 
 You might as well expect to play a symphony after one music lesson as to expect to be able to decentrate to that ecstatic state of inspiration at once. You must realize that your unfolding to the point you have already arrived at has been a long one. You are ready for the Light NOW, else you would not have so keenly desired it.
 
@@ -48,6 +54,9 @@ The only way you can ever find that great treasure which is your Self is to be a
 Metaphysical students and teachers have often told me that they have known some of the things I am teaching for twenty-five years. This is not true, for most of the knowledge given in these lessons has never before been known on earth.
 
 I want this to be thoroughly understood, for it is important to you that you know the difference between stating a fact--which really is a fact--and KNOWING it. I will give you a simple example to exemplify meaning.
+
+.. folio:: 0074
+   :page: 74
 
 For centuries people have made these two true statements: God is Love and God is Light, yet no one up to this day has any knowledge whatsoever of their meaning. Until today the meaning of Love is an abstraction to the metaphysicist, clergyman or layman alike, and the meaning of Light has never been defined or explained by science.
 
@@ -72,6 +81,9 @@ As proof that this principle was never before known on earth, or had ever entere
 In the same sense many will say that they know God, and have always known Him, basing such a statement upon the recognition or belief that God exists. Belief is not KNOWLEDGE. I say to him who believes that he knows God: If you KNOW God you can define Him and relate Him to Nature and Nature's processes. Can you do that?
 
 Naturally he cannot, for no one has yet known God sufficiently to define Him as a scientific fact until He himself gave that knowledge through His Message to those who are able to comprehend it. That is the way God unfolds all creating things. He gives that for today which is of today.
+
+.. folio:: 0075
+   :page: 75
 
 If God had long ago been definable there would be but one religion and one concept of God, instead of many religions because of the many concepts of God.
 
@@ -98,6 +110,9 @@ Early man was fearing man of wrath. He feared the wrath of all things, tempest a
 When he suspected the existence of a God he could not think of Him in any other character than a wrathful God of fear for he knew naught else but wrath and fear and killing mercilessly--for he was still brute man and he could not conceive of any other kind of a God than a brute God.
 
 He could not possibly conceive a God of Love for he had not yet begun to have the slightest trace of knowing what love meant.
+
+.. folio:: 0076
+   :page: 76
 
 All during those early pagan and barbarian days men appeased God and gave Him pleasure by slaying men by thousands, sacrificing their own sons, and shedding rivers of blood upon their altars. They filled fountains with the blood of dozens of animals to baptize new born infants. They cleansed sinners by plunging them beneath those bloody founts which we still sing about in our hymns.
 
@@ -131,6 +146,9 @@ ANSWER. All who have known the Illumination speak the same language in words whi
 
 * * *
 
+.. folio:: 0077
+   :page: 77
+
 "For in this world Being is twofold; the Divided, one; The Undivided, one. All things that live Are "the Divided." That which sits apart. "The Undivided"." (Chap. XV)
 
 * * *
@@ -154,6 +172,9 @@ His mind, deeply under the influence of the ideas, images and emotions called up
 "He was in a state of quiet, almost passive enjoyment. All at once, without any warning of any kind, he found himself wrapped around as it were by a flame-colored cloud. For an instant he thought of fire, some sudden conflagration in the great city; the next he knew that the light was within himself.
 
 "Directly afterwards came upon him a sense of exultation, of immense joyousness accompanied or immediately followed by an intellectual illumination quite impossible to describe. Into his brain streamed one momentary lightning flash of the Brahmic Splendor which has ever since lightened his life; upon his heart fell one drop of Brahmic Bliss, leaving thenceforward for always an aftertaste of heaven.
+
+.. folio:: 0078
+   :page: 78
 
 "Among other things he did not come to believe, he saw and knew that the Cosmos is not dead matter but a living Presence, that the soul of man is immortal, that the universe is so built and ordered that without any peradventure all things work together for the good of each and all, that the foundation principle of the world is what we call love and that the happiness of everyone is in the long run absolutely certain.
 
@@ -181,6 +202,9 @@ We heard HIS call to give The Message in this manner through you for it was the 
 
 Thus does God direct us - all and every one in unfolding His great plan.
 
+.. folio:: 0079
+   :page: 79
+
 You will remember reading in lesson seven how God commanded my husband to spread The Message through his well chosen written word to all nations and people and in giving this Home Study Course he is obeying that sacred command.
 
 So that we may share with you the words written to us by other cosmic messengers - of whom you are all such a tangible part - we will give some brief excerpts from some of the precious letters received. The most glorious human experience is that of sharing and while it may be many months before we can know the touch of your warm handclasp we CAN share the warmth of this love regiven.
@@ -206,6 +230,9 @@ I want to be illumined to know my oneness with the Eternal Light. These lessons 
 I wish I could tell you what such letters mean to my husband personally for to know that those have come who are beginning to comprehend the true Nature of God is a tremendous inspiration to him. The comprehension and the living of God's Universal Law must and will come and you who are the forerunners and leaders of the New Cosmic Age will have the knowledge for the founding of an order of world peace and happiness never before known on earth.
 
 Your next four lessons are extremely important for in them Doctor will explain the hereto-fore unknown meaning of what Father-Mother mean when we speak of God that way. No one yet knows what it means, nor how basic is this tremendous idea of the Creator as being FATHER-MOTHER of this sexed-electric universe. When you get these lessons you will realize the fundamental import of the Father-Mother principle in every thought and action of your life and of all Nature's phenomena.
+
+.. folio:: 0080
+   :page: 80
 
 You will then begin to know the mystery which shrouds the electric thinking process which extends from the Light of Mind to manifest the knowledge of Mind, and how motion seemingly emerges from stillness to create this physical universe of form.
 

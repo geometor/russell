@@ -9,12 +9,16 @@
 :author: Walter & Lao Russell • Reconstructed by GEOMETOR
 :publisher: GEOMETOR Digital Scriptorium
 :year: 2026
+:folio: 0412
 :excerpt: A geometric and 3D visual treatise synthesizing Walter Russell's wave mechanics, cube-sphere wave-fields, and nine-octave periodic table of elements.
 
 .. _cosmogony-index:
 
 The Wave-Field Cosmogony of Walter Russell
 ==========================================
+
+.. folio:: 0412
+   :page: 412
 
 .. rubric:: A Geometric, Parametric Vector & Interactive 3D Treatise
 

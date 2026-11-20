@@ -6,8 +6,11 @@
 
 .. _hsc-lesson-13:
 
-LESSON NUMBER 13 PRELUDE
-========================
+Lesson 13: Prelude to Mind, Motion & Balance
+============================================
+
+.. folio:: 0121
+   :page: 121
 
 Life itself is a transcendent adventure. At its best it is tremendously difficult. It is a huge mountain of unknown height whose top is hidden in an impenetrable veil which every man must climb. From that upward journey of life there is no escape for anyone, and no man knows what he must face on that lifelong climb up its tortuous paths Of blazed and unmarked paths which man must tread in light or dark--and in the dark oft lose his way and pitch headlong into stark tragedy which may be any man's the very next moment after happiness and glory will seem to have been forever attained.
 
@@ -26,6 +29,9 @@ Woman on the mountain. Terribly alone, frustrated and alone--not knowing what to
 Boy on his mountain, homeless, penniless, helpless--for he knows not what to do with it.
 
 But I know a man who has not been able to move for thirty years--blind--paralyzed--speech and hearing alone left to him--yet radiantly happy--successful--known, loved and honored--paying his way and giving much to the world--for he knows what to do with it.
+
+.. folio:: 0122
+   :page: 122
 
 I know hundreds of men and women, who have faced insurmountable hurdles and know what to do with them. I have faced many of them myself and knew exactly what to do with them. And doubtless you have also.
 
@@ -58,6 +64,9 @@ l. Your Mind belongs to the undivided and unchanging universe of still magnetic 
 
 3. Your Mind is YOU. Nothing happens, or can happen to YOU.
 
+.. folio:: 0123
+   :page: 123
+
 4. YOU center your thinking. Your thinking extends from YOU, but your thinking is not YOU.
 
 5. Your thinking is divided and changing. Anything can happen to your thinking because your thinking is divided and changing. But YOU control your thinking. You can balance it and be joyous, or unbalance it and be miserable. You can make wise decisions and grow strong, or unwise ones and make failure for yourself. You can steal for your greedy self and be shut away from men, or you can give of your loving self and be honored of men. Your thinking is under your control. Your thinking expresses your desires. You are what you think. You make yourself into the image of your desire. You can be whatever you desire to be. What you now are is the product of your thinking.
@@ -85,6 +94,9 @@ l. The undivided LIGHT of knowing is CAUSE. The divided light-waves of thinking 
 
 2. Every EFFECT in this universe--every happening--every event and every experience takes place only between divided bodies which are oppositely conditioned.
 
+.. folio:: 0124
+   :page: 124
+
 3. All effects are manifested by two-way interchange of motion between oppositely conditioned, divided and unbalanced bodies.
 
 4. Every thought which extends from Mind has a body--a divided body--formed and patterned in the image of the thought.
@@ -104,6 +116,9 @@ l. The undivided LIGHT of knowing is CAUSE. The divided light-waves of thinking 
 11. You cannot have a thought which is your own alone. You cannot divide the universe for yourself. You cannot HAVE anything for yourself which you have not first given. That which you [have] is the image of what you have given.
 
 12. If your thought is out of balance your body is out of balance in the measure of your unbalanced thought. Likewise the whole universe is out of balance in the measure of your thought. You cannot unbalance God's universe. The whole universe moves to adjust itself to your unbalanced thought. A child moves the Pleiades and all the stars of heaven with his slightest movement.
+
+.. folio:: 0125
+   :page: 125
 
 13. You cannot have an unbalanced thought, nor perform an unbalanced action without the measure of that unbalanced thought and action returning to you in its own image. God gives you the right of free will to think any thought or perform any action, but He holds the right to balance your unbalance by an equal reaction.
 
@@ -136,6 +151,9 @@ GOD'S LAW OF BALANCE
 No messenger of the Light has, as yet, given this law to man for man has not yet been able to comprehend it. If he had been able to comprehend it, and practice it, he would have built a balanced civilization instead of a chaotic one.
 
 To the extent that you understand it you will build a balanced life of happiness and masterly achievement because you will be working knowingly with God when you do fully comprehend, and practice the Law of Balance.
+
+.. folio:: 0126
+   :page: 126
 
 No matter what happens to your own little universe you will know what to do with it.
 
