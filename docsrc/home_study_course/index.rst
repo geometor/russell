@@ -8,7 +8,8 @@
 :book_subtitle: Universal Law, Natural Science and Philosophy (Lessons 1–48)
 :author: Walter and Lao Russell
 :publisher: Walter Russell Foundation • Swannanoa, Waynesboro, Virginia
-:year: 1950–1952
+:year: 1950
+:year_label: 1950–1952
 :folio: 0001
 :excerpt: Walter and Lao Russell's comprehensive 12-Unit, 48-Lesson course on universal law, natural science, rhythmic balanced interchange, and wave-field mechanics.
 
