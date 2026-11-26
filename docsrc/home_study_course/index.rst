@@ -47,6 +47,10 @@ Archival Imprint & Emblem (Folio 0002)
    :alt: Cosmic Clock emblem from Title and Copyright leaf
    :caption: Cosmic Clock Emblem (Folio 0002)
 
+.. picture:: 0002.g1.svg
+   :alt: Cosmic Clock emblem from Title and Copyright leaf
+   :caption: Cosmic Clock Emblem (Folio 0002) — Interactive Vector
+
 | **A Home Study Course — Universal Law, Natural Science and Philosophy (Lessons 1 to 48)**
 | by Walter and Lao Russell • Copyrighted 1950–52 by Walter Russell
 | Issued by **The Walter Russell Foundation**, Swannanoa, Waynesboro, Virginia

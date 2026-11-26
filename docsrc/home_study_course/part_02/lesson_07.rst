@@ -203,6 +203,10 @@ Thus knowing the universal heartbeat I knew the electric wave, or universal puls
    :alt: Figure 6 — The Heartbeat of the Universe
    :caption: Figure 6 — The Heartbeat of the Universe (Folio 0064)
 
+.. picture:: 0064.g1.svg
+   :alt: Figure 6 — The Heartbeat of the Universe
+   :caption: Figure 6 — The Heartbeat of the Universe (Folio 0064) — Interactive Vector
+
 I then knew all cause and comprehended all effect.
 
 There was nothing to know but God's one whole idea of Creation, which is represented in the following diagram by the changeless ZERO of the spiritual Mind universe of REST--and nothing to comprehend but the heartbeat of this pulsing electric wave universe of motion which is represented in the diagram by the NUMBERS.

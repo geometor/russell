@@ -301,6 +301,10 @@ Figure 4 - represents water deccentrated into vapor.
    :alt: Figure 5 — Concentration and Decentration
    :caption: Figure 5 — Concentration and Decentration (Folio 0040)
 
+.. picture:: 0040.g1.svg
+   :alt: Figure 5 — Concentration and Decentration
+   :caption: Figure 5 — Concentration and Decentration (Folio 0040) — Interactive Vector
+
 Figure 5 - Concentration and Decentration
 
 Fig. 5 represents concentration of light rays to a point. Light rays thus concentrated through a lens will burn a hole through paper or fabrics.

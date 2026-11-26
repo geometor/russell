@@ -141,6 +141,10 @@ Our Milky Way is one of these giant nebulae. Our solar system is as a speck of d
    :alt: Spiral Nebula — Nature's Gyroscopic Principle
    :caption: Spiral Nebula — Nature's Gyroscopic Principle (Folio 0249)
 
+.. picture:: 0249.g1.svg
+   :alt: Spiral Nebula — Nature's Gyroscopic Principle
+   :caption: Spiral Nebula — Nature's Gyroscopic Principle (Folio 0249) — Interactive Vector
+
 It seems incredible that the little spiral "pinwheels", which balance--and complete--every sound vibration, is the same in principle and construction as those of solar and nebular wave vibrations, but that is the amazing fact of Nature.
 
 Nature has but one system of mechanics for "dividing the undivided", and "conditioning the unconditioned", and they are the same in microcosmic waves or macrocosmic ones. All matter is wound up tightly by concentrative thinking and unwound by decentrative thinking.

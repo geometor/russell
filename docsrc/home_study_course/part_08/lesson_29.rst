@@ -198,6 +198,10 @@ Figure 62 exemplifies the dual electric wave-field which encloses every body-pai
    :alt: Figure 63 — Inbreathing and Outbreathing Equator
    :caption: Figure 63 — Inbreathing and Outbreathing Equator (Folio 0273)
 
+.. picture:: 0273.g1.svg
+   :alt: Figure 63 — Inbreathing and Outbreathing Equator
+   :caption: Figure 63 — Inbreathing and Outbreathing Equator (Folio 0273) — Interactive Vector
+
 .. folio:: 0274
    :page: 274
 

@@ -175,6 +175,10 @@ Make it a part of your Consciousness, also, that all we are dealing with in this
    :alt: Figures 79–83 — Wave-Field Division Between Two Suns
    :caption: Figures 79–83 — Wave-Field Division Between Two Suns (Folio 0361)
 
+.. picture:: 0361.g1.svg
+   :alt: Figures 79–83 — Wave-Field Division Between Two Suns
+   :caption: Figures 79–83 — Wave-Field Division Between Two Suns (Folio 0361) — Interactive Vector
+
 .. figure:: /_static/plates/image061.gif
    :align: center
 
@@ -233,6 +237,10 @@ In Fig, 80 you will see the positive and negative ends of two bar magnets interc
 .. picture:: 0365.g1.png
    :alt: Figure 84 — Iron Filings Between Two Bar Magnets
    :caption: Figure 84 — Iron Filings Between Two Bar Magnets (Folio 0365)
+
+.. picture:: 0365.g1.svg
+   :alt: Figure 84 — Iron Filings Between Two Bar Magnets
+   :caption: Figure 84 — Iron Filings Between Two Bar Magnets (Folio 0365) — Interactive Vector
 
 .. folio:: 0366
    :page: 366

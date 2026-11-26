@@ -193,6 +193,10 @@ You discover that the bringing of your objective self into its center brought wi
    :alt: Figure 114 — Cube-Sphere Wave-Field of Nine Equators
    :caption: Figure 114 — Cube-Sphere Wave-Field of Nine Equators (Folio 0412)
 
+.. picture:: 0412.g1.svg
+   :alt: Figure 114 — Cube-Sphere Wave-Field of Nine Equators
+   :caption: Figure 114 — Cube-Sphere Wave-Field of Nine Equators (Folio 0412) — Interactive Vector
+
 .. figure:: /_static/plates/image074.gif
    :align: center
 
@@ -207,6 +211,10 @@ You discover that the bringing of your objective self into its center brought wi
 .. picture:: 0413.g1.png
    :alt: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature
    :caption: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature (Folio 0413)
+
+.. picture:: 0413.g1.svg
+   :alt: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature
+   :caption: Figure 115 — Sphere Inscribed Within the Cube of Zero Curvature (Folio 0413) — Interactive Vector
 
 Figure 105 represents your imagined point in God's undivided equilibrium which you wish to extend to manifest YOU and DESIRE in you, in a divided, three dimensional world of illusion.
 

@@ -110,6 +110,10 @@ For example, consider yourself in a closed room of even temperature. There is no
    :alt: Figure 18 — Undivided Equilibrium in a Closed Room
    :caption: Figure 18 — Undivided Equilibrium in a Closed Room (Folio 0131)
 
+.. picture:: 0131.g1.svg
+   :alt: Figure 18 — Undivided Equilibrium in a Closed Room
+   :caption: Figure 18 — Undivided Equilibrium in a Closed Room (Folio 0131) — Interactive Vector
+
 If we put a bar of hot iron at one end and a cake of ice at the other end we have upset that equilibrium. It now follows the principle of The Divine Trinity. The one condition has been divided into two opposite conditions, the hot iron being a positive condition and the ice being the negative condition. See Fig. 19. Instead of the entire room being in equilibrium an equator has been developed between the divided two.
 
 These two opposite conditions immediately reach out for the other toward their mutual equator. They each desire the other to find balance through each other, as all unbalanced pairs of opposites continually do.
@@ -129,6 +133,10 @@ Now imagine that the pulling apart of the one into two caused a strain, or tensi
 .. picture:: 0132.g1.png
    :alt: Figure 19 — Divided Thermal Polarity Across an Equator
    :caption: Figure 19 — Divided Thermal Polarity Across an Equator (Folio 0132)
+
+.. picture:: 0132.g1.svg
+   :alt: Figure 19 — Divided Thermal Polarity Across an Equator
+   :caption: Figure 19 — Divided Thermal Polarity Across an Equator (Folio 0132) — Interactive Vector
 
 The effect of two-way tension is the answer to what electricity is. The two-way desire to equalize that tension is the answer to what sex is--and the two-way interchange which is necessary to effect that equalization is what motion is, for when that equalization takes place electric current ceases, sex desire ceases and motion ceases.
 
@@ -186,6 +194,10 @@ Fig. 21 The vast significance of the equators of all creating things lies in the
 .. picture:: 0136.g1.png
    :alt: Figure 22 — Life and Death Exemplified in the Divine Trinity
    :caption: Figure 22 — Life and Death Exemplified in the Divine Trinity (Folio 0136)
+
+.. picture:: 0136.g1.svg
+   :alt: Figure 22 — Life and Death Exemplified in the Divine Trinity
+   :caption: Figure 22 — Life and Death Exemplified in the Divine Trinity (Folio 0136) — Interactive Vector
 
 The zero which is the center of gravity of all bodies centers the equators of all material bodies.
 

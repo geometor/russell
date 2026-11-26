@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 620" width="620" height="620" class="euclid-graphic" data-graphic-id="0002.g1" data-folio="0002" data-graphic="g1">
+  <title>The Cosmic Clock Emblem (Folio 0002)</title>
+  <desc>Circular octave dial showing 0-1-2-3-4-3-2-1-0 spectrum rings and 16 sunburst rays.</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="ray-0" data-ref="[ O S0 ]" class="geom-ray" d="M 310.00 182.00 L 310.00 128.00 L 310.00 74.00" />
+    <path id="ray-1" data-ref="[ O S1 ]" class="geom-ray" d="M 358.98 191.74 L 379.65 141.85 L 400.31 91.96" />
+    <path id="ray-2" data-ref="[ O S2 ]" class="geom-ray" d="M 400.51 219.49 L 438.69 181.31 L 476.88 143.12" />
+    <path id="ray-3" data-ref="[ O S3 ]" class="geom-ray" d="M 428.26 261.02 L 478.15 240.35 L 528.04 219.69" />
+    <path id="ray-4" data-ref="[ O S4 ]" class="geom-ray" d="M 438.00 310.00 L 492.00 310.00 L 546.00 310.00" />
+    <path id="ray-5" data-ref="[ O S5 ]" class="geom-ray" d="M 428.26 358.98 L 478.15 379.65 L 528.04 400.31" />
+    <path id="ray-6" data-ref="[ O S6 ]" class="geom-ray" d="M 400.51 400.51 L 438.69 438.69 L 476.88 476.88" />
+    <path id="ray-7" data-ref="[ O S7 ]" class="geom-ray" d="M 358.98 428.26 L 379.65 478.15 L 400.31 528.04" />
+    <path id="ray-8" data-ref="[ O S8 ]" class="geom-ray" d="M 310.00 438.00 L 310.00 492.00 L 310.00 546.00" />
+    <path id="ray-9" data-ref="[ O S9 ]" class="geom-ray" d="M 261.02 428.26 L 240.35 478.15 L 219.69 528.04" />
+    <path id="ray-10" data-ref="[ O S10 ]" class="geom-ray" d="M 219.49 400.51 L 181.31 438.69 L 143.12 476.88" />
+    <path id="ray-11" data-ref="[ O S11 ]" class="geom-ray" d="M 191.74 358.98 L 141.85 379.65 L 91.96 400.31" />
+    <path id="ray-12" data-ref="[ O S12 ]" class="geom-ray" d="M 182.00 310.00 L 128.00 310.00 L 74.00 310.00" />
+    <path id="ray-13" data-ref="[ O S13 ]" class="geom-ray" d="M 191.74 261.02 L 141.85 240.35 L 91.96 219.69" />
+    <path id="ray-14" data-ref="[ O S14 ]" class="geom-ray" d="M 219.49 219.49 L 181.31 181.31 L 143.12 143.12" />
+    <path id="ray-15" data-ref="[ O S15 ]" class="geom-ray" d="M 261.02 191.74 L 240.35 141.85 L 219.69 91.96" />
+  </g>
+  <g id="graphics">
+    <circle id="ring-0" data-ref="( O R0 )" class="geom-circle" cx="310.00" cy="310.00" r="48.00" />
+    <circle id="ring-1" data-ref="( O R1 )" class="geom-zero" cx="310.00" cy="310.00" r="86.00" />
+    <circle id="ring-2" data-ref="( O R2 )" class="geom-circle" cx="310.00" cy="310.00" r="128.00" />
+    <circle id="ring-3" data-ref="( O R3 )" class="geom-zero" cx="310.00" cy="310.00" r="174.00" />
+    <circle id="ring-4" data-ref="( O R4 )" class="geom-circle" cx="310.00" cy="310.00" r="236.00" />
+    <polygon id="spike-0" data-ref="&lt; S0 B0 C0 &gt;" class="geom-polygon-stroked" points="297.03,74.36 310.00,32.00 322.97,74.36" />
+    <polygon id="spike-1" data-ref="&lt; S1 B1 C1 &gt;" class="geom-polygon-stroked" points="388.19,87.33 416.39,53.16 412.16,97.26" />
+    <polygon id="spike-2" data-ref="&lt; S2 B2 C2 &gt;" class="geom-polygon-stroked" points="467.45,134.20 506.58,113.42 485.80,152.55" />
+    <polygon id="spike-3" data-ref="&lt; S3 B3 C3 &gt;" class="geom-polygon-stroked" points="522.74,207.84 566.84,203.61 532.67,231.81" />
+    <polygon id="spike-4" data-ref="&lt; S4 B4 C4 &gt;" class="geom-polygon-stroked" points="545.64,297.03 588.00,310.00 545.64,322.97" />
+    <polygon id="spike-5" data-ref="&lt; S5 B5 C5 &gt;" class="geom-polygon-stroked" points="532.67,388.19 566.84,416.39 522.74,412.16" />
+    <polygon id="spike-6" data-ref="&lt; S6 B6 C6 &gt;" class="geom-polygon-stroked" points="485.80,467.45 506.58,506.58 467.45,485.80" />
+    <polygon id="spike-7" data-ref="&lt; S7 B7 C7 &gt;" class="geom-polygon-stroked" points="412.16,522.74 416.39,566.84 388.19,532.67" />
+    <polygon id="spike-8" data-ref="&lt; S8 B8 C8 &gt;" class="geom-polygon-stroked" points="322.97,545.64 310.00,588.00 297.03,545.64" />
+    <polygon id="spike-9" data-ref="&lt; S9 B9 C9 &gt;" class="geom-polygon-stroked" points="231.81,532.67 203.61,566.84 207.84,522.74" />
+    <polygon id="spike-10" data-ref="&lt; S10 B10 C10 &gt;" class="geom-polygon-stroked" points="152.55,485.80 113.42,506.58 134.20,467.45" />
+    <polygon id="spike-11" data-ref="&lt; S11 B11 C11 &gt;" class="geom-polygon-stroked" points="97.26,412.16 53.16,416.39 87.33,388.19" />
+    <polygon id="spike-12" data-ref="&lt; S12 B12 C12 &gt;" class="geom-polygon-stroked" points="74.36,322.97 32.00,310.00 74.36,297.03" />
+    <polygon id="spike-13" data-ref="&lt; S13 B13 C13 &gt;" class="geom-polygon-stroked" points="87.33,231.81 53.16,203.61 97.26,207.84" />
+    <polygon id="spike-14" data-ref="&lt; S14 B14 C14 &gt;" class="geom-polygon-stroked" points="134.20,152.55 113.42,113.42 152.55,134.20" />
+    <polygon id="spike-15" data-ref="&lt; S15 B15 C15 &gt;" class="geom-polygon-stroked" points="207.84,97.26 203.61,53.16 231.81,87.33" />
+    <path id="inner-spiral" data-ref="( O S )" class="geom-curve" d="M 316.00 310.00 L 316.17 310.73 L 316.25 311.50 L 316.23 312.30 L 316.10 313.11 L 315.87 313.92 L 315.53 314.72 L 315.08 315.50 L 314.53 316.23 L 313.87 316.90 L 313.11 317.51 L 312.26 318.02 L 311.34 318.44 L 310.34 318.76 L 309.30 318.95 L 308.21 319.01 L 307.10 318.94 L 305.98 318.73 L 304.87 318.38 L 303.79 317.88 L 302.75 317.25 L 301.78 316.48 L 300.90 315.58 L 300.11 314.56 L 299.44 313.43 L 298.90 312.21 L 298.51 310.90 L 298.27 309.54 L 298.20 308.13 L 298.29 306.70 L 298.57 305.26 L 299.02 303.85 L 299.64 302.48 L 300.44 301.17 L 301.41 299.94 L 302.53 298.83 L 303.80 297.84 L 305.20 296.99 L 306.71 296.31 L 308.32 295.81 L 310.00 295.50 L 311.73 295.39 L 313.48 295.49 L 315.24 295.80 L 316.97 296.32 L 318.65 297.06 L 320.25 298.00 L 321.74 299.15 L 323.11 300.48 L 324.32 301.98 L 325.36 303.64 L 326.21 305.43 L 326.84 307.33 L 327.25 309.32 L 327.42 311.37 L 327.35 313.45 L 327.02 315.53 L 326.45 317.58 L 325.62 319.57 L 324.56 321.48 L 323.26 323.26 L 321.74 324.89 L 320.02 326.35 L 318.12 327.61 L 316.06 328.64 L 313.87 329.43 L 311.57 329.96 L 309.21 330.22 L 306.80 330.20 L 304.39 329.89 L 302.01 329.29 L 299.70 328.40 L 297.48 327.23 L 295.40 325.80 L 293.48 324.11 L 291.76 322.19 L 290.26 320.06 L 289.02 317.74 L 288.05 315.27 L 287.37 312.68 L 287.00 310.00 L 286.95 307.27 L 287.22 304.53 L 287.82 301.82 L 288.75 299.17 L 289.99 296.63 L 291.54 294.23 L 293.38 292.02 L 295.48 290.02 L 297.83 288.26 L 300.39 286.79 L 303.12 285.61 L 306.00 284.76 L 308.99 284.26 L 312.04 284.11 L 315.11 284.32 L 318.16 284.89 L 321.14 285.83 L 324.02 287.13 L 326.74 288.77 L 329.27 290.73 L 331.57 293.00 L 333.60 295.54 L 335.33 298.32 L 336.72 301.32 L 337.77 304.48 L 338.44 307.76 L 338.72 311.13 L 338.59 314.53 L 338.07 317.92 L 337.14 321.24 L 335.81 324.46 L 334.11 327.52 L 332.04 330.37 L 329.63 332.98 L 326.91 335.31 L 323.91 337.31 L 320.68 338.95 L 317.25 340.22 L 313.68 341.07 L 310.00 341.50 L 306.27 341.49 L 302.55 341.04 L 298.88 340.15 L 295.31 338.82 L 291.91 337.07 L 288.71 334.92 L 285.78 332.39 L 283.14 329.51 L 280.85 326.33 L 278.93 322.87 L 277.43 319.18 L 276.37 315.33 L 275.76 311.35 L 275.63 307.30 L 275.98 303.23 L 276.81 299.22 L 278.11 295.30 L 279.88 291.54 L 282.09 288.00 L 284.72 284.72 L 287.74 281.76 L 291.10 279.16 L 294.77 276.95 L 298.69 275.19 L 302.82 273.89 L 307.10 273.09 L 311.46 272.79 L 315.86 273.01 L 320.22 273.75 L 324.49 275.01 L 328.61 276.77 L 332.51 279.01 L 336.14 281.72 L 339.45 284.85 L 342.38 288.37 L 344.88 292.23 L 346.93 296.38 L 348.48 300.76 L 349.51 305.32 L 350.00 310.00" />
+    <path id="hand-1" data-ref="/ O H1 /" class="geom-bold" d="M 310.00 310.00 L 326.00 297.00 L 342.00 284.00" marker-end="url(#geom-arrow)" />
+    <path id="hand-2" data-ref="/ O H2 /" class="geom-bold" d="M 310.00 310.00 L 297.00 299.00 L 284.00 288.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-hand-1" data-ref="/ O H1 /" class="geom-line geom-overlay" d="M 310.00 310.00 L 326.00 297.00 L 342.00 284.00" />
+    <path id="hl-hand-2" data-ref="/ O H2 /" class="geom-line geom-overlay" d="M 310.00 310.00 L 297.00 299.00 L 284.00 288.00" />
+  </g>
+  <g id="points">
+    <circle id="O" data-ref="O" class="geom-point-zero" cx="310.00" cy="310.00" r="4.00" />
+  </g>
+  <g id="labels">
+    <text id="label-n0" data-ref="N0" class="geom-label-sm" x="310.00" y="247.00" text-anchor="middle">0</text>
+    <text id="label-n1" data-ref="N1" class="geom-label-sm" x="335.64" y="252.10" text-anchor="middle">1</text>
+    <text id="label-n2" data-ref="N2" class="geom-label-sm" x="357.38" y="266.62" text-anchor="middle">2</text>
+    <text id="label-n3" data-ref="N3" class="geom-label-sm" x="371.90" y="288.36" text-anchor="middle">3</text>
+    <text id="label-n4" data-ref="N4" class="geom-label-sm" x="377.00" y="314.00" text-anchor="middle">4</text>
+    <text id="label-n5" data-ref="N5" class="geom-label-sm" x="371.90" y="339.64" text-anchor="middle">3</text>
+    <text id="label-n6" data-ref="N6" class="geom-label-sm" x="357.38" y="361.38" text-anchor="middle">2</text>
+    <text id="label-n7" data-ref="N7" class="geom-label-sm" x="335.64" y="375.90" text-anchor="middle">1</text>
+    <text id="label-n8" data-ref="N8" class="geom-label-sm" x="310.00" y="381.00" text-anchor="middle">0</text>
+    <text id="label-n9" data-ref="N9" class="geom-label-sm" x="284.36" y="375.90" text-anchor="middle">1</text>
+    <text id="label-n10" data-ref="N10" class="geom-label-sm" x="262.62" y="361.38" text-anchor="middle">2</text>
+    <text id="label-n11" data-ref="N11" class="geom-label-sm" x="248.10" y="339.64" text-anchor="middle">3</text>
+    <text id="label-n12" data-ref="N12" class="geom-label-sm" x="243.00" y="314.00" text-anchor="middle">4</text>
+    <text id="label-n13" data-ref="N13" class="geom-label-sm" x="248.10" y="288.36" text-anchor="middle">3</text>
+    <text id="label-n14" data-ref="N14" class="geom-label-sm" x="262.62" y="266.62" text-anchor="middle">2</text>
+    <text id="label-n15" data-ref="N15" class="geom-label-sm" x="284.36" y="252.10" text-anchor="middle">1</text>
+    <text id="label-col-0" data-ref="C0" class="geom-label-sm" x="310.00" y="110.00" text-anchor="middle">ULTRA-VIOLET</text>
+    <text id="label-col-1" data-ref="C1" class="geom-label-sm" x="388.07" y="125.53" text-anchor="middle">BLUE</text>
+    <text id="label-col-2" data-ref="C2" class="geom-label-sm" x="454.25" y="169.75" text-anchor="middle">GREEN</text>
+    <text id="label-col-3" data-ref="C3" class="geom-label-sm" x="498.47" y="235.93" text-anchor="middle">YELLOW</text>
+    <text id="label-col-4" data-ref="C4" class="geom-label-sm" x="514.00" y="314.00" text-anchor="middle">ORANGE</text>
+    <text id="label-col-5" data-ref="C5" class="geom-label-sm" x="498.47" y="392.07" text-anchor="middle">RED</text>
+    <text id="label-col-6" data-ref="C6" class="geom-label-sm" x="454.25" y="458.25" text-anchor="middle">INFRA-RED</text>
+    <text id="label-col-7" data-ref="C7" class="geom-label-sm" x="310.00" y="518.00" text-anchor="middle">ULTRA-VIOLET</text>
+    <text id="label-col-8" data-ref="C8" class="geom-label-sm" x="231.93" y="502.47" text-anchor="middle">VIOLET</text>
+    <text id="label-col-9" data-ref="C9" class="geom-label-sm" x="165.75" y="458.25" text-anchor="middle">BLUE</text>
+    <text id="label-col-10" data-ref="C10" class="geom-label-sm" x="121.53" y="392.07" text-anchor="middle">GREEN</text>
+    <text id="label-col-11" data-ref="C11" class="geom-label-sm" x="106.00" y="314.00" text-anchor="middle">YELLOW</text>
+    <text id="label-col-12" data-ref="C12" class="geom-label-sm" x="121.53" y="235.93" text-anchor="middle">ORANGE</text>
+    <text id="label-col-13" data-ref="C13" class="geom-label-sm" x="165.75" y="169.75" text-anchor="middle">RED</text>
+    <text id="label-col-14" data-ref="C14" class="geom-label-sm" x="231.93" y="125.53" text-anchor="middle">INFRA-RED</text>
+    <text id="label-cosmic" data-ref="O" class="geom-label-title" x="310.00" y="208.00" text-anchor="middle">THE COSMIC CLOCK</text>
+  </g>
+</svg>

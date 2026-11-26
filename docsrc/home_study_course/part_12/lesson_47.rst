@@ -400,6 +400,10 @@ There was no way out of it but to call these full tone elements isotopes, notwit
    :alt: Figure 177 — Russell Periodic Chart of the Elements, No. 2
    :caption: Figure 177 — Russell Periodic Chart of the Elements, No. 2 (Folio 0494)
 
+.. picture:: 0494.g1.svg
+   :alt: Figure 177 — Russell Periodic Chart of the Elements, No. 2
+   :caption: Figure 177 — Russell Periodic Chart of the Elements, No. 2 (Folio 0494) — Interactive Vector
+
 In the seventh octave carbon is known as rhodium, and is a metal. There are five pairs of mated isotopes in this octave also.
 
 In the eighth octave carbon makes a supreme effort to reach its balanced position upon wave-amplitude, but does not come as near to it as in the sixth and seventh octaves, even though it makes thirteen supreme efforts to reach it by establishing thirteen fulcrums of gravity centers between lanthanum and lutecium, the latter one being the now very aged carbon which is not at all like its middle aged self.
@@ -487,6 +491,10 @@ All other computations are based upon cross sections of this three dimensional c
 .. picture:: 0499.g1.png
    :alt: Figure 179 — Octave Arch of Integration and Disintegration
    :caption: Figure 179 — Octave Arch of Integration and Disintegration (Folio 0499)
+
+.. picture:: 0499.g1.svg
+   :alt: Figure 179 — Octave Arch of Integration and Disintegration
+   :caption: Figure 179 — Octave Arch of Integration and Disintegration (Folio 0499) — Interactive Vector
 
 There are no straight lines in Nature, however, for all direction in Nature is curved, and all curvature is spiral. All motion in one direction, is, therefore a part of an orbit in which the motion covers equal areas in equal time around its controlling zero of gravity. Every one dimensional relation is therefore, subject to the three dimensional forces of this radial universe which accelerate or decelerate in distances travelled between radii.
 
@@ -576,6 +584,10 @@ In conformity with principles laid down in previous lessons we herewith present 
 .. picture:: 0503.g1.png
    :alt: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements
    :caption: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements (Folio 0503)
+
+.. picture:: 0503.g1.svg
+   :alt: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements
+   :caption: Figure 180 — Nine-Octave Gyroscopic Wave of the Elements (Folio 0503) — Interactive Vector
 
 In Figure 180 is the wave axis and four pairs of tonal equators. Wherever these equators intersect with the wave axis that point becomes the fulcrum--or nucleus--of an octave tone system. These four pairs of focal points are determined by the six cube mirrors in each of two cube sections.
 

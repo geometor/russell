@@ -315,6 +315,10 @@ You can plainly see the beginning stages of its unwinding in a great equatorial 
    :alt: Figure 149 — Gyroscopic System of Atom and Solar System
    :caption: Figure 149 — Gyroscopic System of Atom and Solar System (Folio 0457)
 
+.. picture:: 0457.g1.svg
+   :alt: Figure 149 — Gyroscopic System of Atom and Solar System
+   :caption: Figure 149 — Gyroscopic System of Atom and Solar System (Folio 0457) — Interactive Vector
+
 .. figure:: /_static/plates/image088.gif
    :align: center
 
@@ -481,6 +485,10 @@ We will proceed to unfold these mysteries and veiled secrets which the "unseen u
    :alt: Figures 158–161 — Conical Magnets and Curved Equators
    :caption: Figures 158–161 — Conical Magnets and Curved Equators (Folio 0465)
 
+.. picture:: 0465.g1.svg
+   :alt: Figures 158–161 — Conical Magnets and Curved Equators
+   :caption: Figures 158–161 — Conical Magnets and Curved Equators (Folio 0465) — Interactive Vector
+
 .. figure:: /_static/plates/image090.gif
    :align: center
 
@@ -495,6 +503,10 @@ We will proceed to unfold these mysteries and veiled secrets which the "unseen u
 .. picture:: 0466.g1.png
    :alt: Figures 162–163 — Increasing and Decreasing Pressure Gradients
    :caption: Figures 162–163 — Pressure Gradients and Equators (Folio 0466)
+
+.. picture:: 0466.g1.svg
+   :alt: Figures 162–163 — Increasing and Decreasing Pressure Gradients
+   :caption: Figures 162–163 — Pressure Gradients and Equators (Folio 0466) — Interactive Vector
 
 .. folio:: 0467
    :page: 467
@@ -579,6 +591,10 @@ Now refer to Figure 161 and you will see that the dynamic universe of polarized 
    :alt: Figures 170–172 — Spherical Light-Lens and Coronal Rings
    :caption: Figures 170–172 — Spherical Light-Lens and Coronal Rings (Folio 0470)
 
+.. picture:: 0470.g1.svg
+   :alt: Figures 170–172 — Spherical Light-Lens and Coronal Rings
+   :caption: Figures 170–172 — Spherical Light-Lens and Coronal Rings (Folio 0470) — Interactive Vector
+
 Realize, therefore, that wherever there is an equator of rest in which the pressures are equal you have there a manifestation of the spiritual, undivided universe of stillness. Likewise, wherever there is action and change of pressures, due to polarization of stillness into waves, a dynamic equator ascends and descends at 90 degrees from that equator to connect the two opposing poles of that divided wave condition.
 
 It is upon this dynamic equator that waves arise in four efforts at gradually increasing angles and speeds, until their amplitudes are reached at 90 degrees from their equators of rest. The amplitudes of every electric wave whose axis is parallel to sea level point directly toward the earth's center of gravity.
@@ -625,6 +641,10 @@ What, then, are these so-called curved magnetic lines of force? A familiar demon
 .. picture:: 0473.g1.png
    :alt: Figure 174 — Nature's Two Curvature Systems
    :caption: Figure 174 — Nature's Two Curvature Systems (Folio 0473)
+
+.. picture:: 0473.g1.svg
+   :alt: Figure 174 — Nature's Two Curvature Systems
+   :caption: Figure 174 — Nature's Two Curvature Systems (Folio 0473) — Interactive Vector
 
 .. figure:: /_static/plates/image094.gif
    :align: center
