@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 680" width="580" height="680" class="euclid-graphic" data-graphic-id="0503.g1" data-folio="0503" data-graphic="g1">
+  <title>Figures 180–182 — Gyroscopic Equators of the Elements</title>
+  <desc>Perspective base plane with semicircular 1-4-0-4-1 arc (Fig. 180), tilted element discs (Fig. 181), and unwinding rings (Fig. 182).</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 290.00 10.00 L 570.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 570.00 10.00 L 570.00 340.00 L 570.00 670.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 570.00 670.00 L 290.00 670.00 L 10.00 670.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 670.00 L 10.00 340.00 L 10.00 10.00" />
+    <path id="r180-0" data-ref="/ O180 R0 /" class="geom-ray" d="M 290.00 155.00 L 225.05 125.00 L 160.10 95.00" />
+    <path id="r180-1" data-ref="/ O180 R1 /" class="geom-ray" d="M 290.00 155.00 L 246.98 105.85 L 203.96 56.70" />
+    <path id="r180-2" data-ref="/ O180 R2 /" class="geom-ray" d="M 290.00 155.00 L 270.59 97.04 L 251.18 39.09" />
+    <path id="r180-3" data-ref="/ O180 R3 /" class="geom-ray" d="M 290.00 155.00 L 290.00 95.00 L 290.00 35.00" />
+    <path id="r180-4" data-ref="/ O180 R4 /" class="geom-ray" d="M 290.00 155.00 L 309.41 97.04 L 328.82 39.09" />
+    <path id="r180-5" data-ref="/ O180 R5 /" class="geom-ray" d="M 290.00 155.00 L 333.02 105.85 L 376.04 56.70" />
+    <path id="r180-6" data-ref="/ O180 R6 /" class="geom-ray" d="M 290.00 155.00 L 354.95 125.00 L 419.90 95.00" />
+  </g>
+  <g id="graphics">
+    <polygon id="base180" data-ref="&lt; B1 B2 B3 B4 &gt;" class="geom-polygon-stroked" points="40.00,195.00 150.00,115.00 540.00,115.00 430.00,195.00" />
+    <path id="arc180" data-ref="( O180 R )" class="geom-bold" d="M 160 155 A 130 105 0 0 1 420 155" />
+    <polygon id="base181" data-ref="&lt; C1 C2 C3 C4 &gt;" class="geom-polygon-stroked" points="40.00,465.00 150.00,385.00 540.00,385.00 430.00,465.00" />
+    <ellipse id="disc-0" data-ref="( E0 R )" class="geom-neg-fill" cx="140.00" cy="345.00" rx="48.00" ry="86.00" />
+    <ellipse id="disc-1" data-ref="( E1 R )" class="geom-neg-fill" cx="190.00" cy="329.00" rx="48.00" ry="86.00" />
+    <ellipse id="disc-2" data-ref="( E2 R )" class="geom-neg-fill" cx="240.00" cy="317.29" rx="48.00" ry="86.00" />
+    <ellipse id="disc-3" data-ref="( E3 R )" class="geom-zero-plane" cx="290.00" cy="313.00" rx="48.00" ry="86.00" />
+    <ellipse id="disc-4" data-ref="( E4 R )" class="geom-pos-fill" cx="340.00" cy="317.29" rx="48.00" ry="86.00" />
+    <ellipse id="disc-5" data-ref="( E5 R )" class="geom-pos-fill" cx="390.00" cy="329.00" rx="48.00" ry="86.00" />
+    <ellipse id="disc-6" data-ref="( E6 R )" class="geom-pos-fill" cx="440.00" cy="345.00" rx="48.00" ry="86.00" />
+    <path id="arc182" data-ref="( O182 R )" class="geom-zero" d="M 130 615 A 160 95 0 0 1 450 615" />
+    <ellipse id="ring182-0" data-ref="( R0 S )" class="geom-neg" cx="139.65" cy="582.51" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-1" data-ref="( R1 S )" class="geom-neg" cx="173.56" cy="549.85" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-2" data-ref="( R2 S )" class="geom-neg" cx="226.46" cy="527.81" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-3" data-ref="( R3 S )" class="geom-pos" cx="289.72" cy="520.00" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-4" data-ref="( R4 S )" class="geom-pos" cx="353.03" cy="527.68" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-5" data-ref="( R5 S )" class="geom-pos" cx="406.06" cy="549.61" rx="22.00" ry="10.00" />
+    <ellipse id="ring182-6" data-ref="( R6 S )" class="geom-pos" cx="440.16" cy="582.20" rx="22.00" ry="10.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle id="O180" data-ref="O180" class="geom-point-zero" cx="290.00" cy="155.00" r="4.50" />
+    <circle id="O181" data-ref="O181" class="geom-point-zero" cx="290.00" cy="425.00" r="4.50" />
+    <circle id="O182" data-ref="O182" class="geom-point-zero" cx="290.00" cy="615.00" r="4.50" />
+  </g>
+  <g id="labels">
+    <text id="label-f180" data-ref="O180" class="geom-label-sm" x="290.00" y="218.00" text-anchor="middle">Fig. 180 • Basis of Atomic/Solar Systems</text>
+    <text id="label-f181" data-ref="O181" class="geom-label-sm" x="290.00" y="488.00" text-anchor="middle">Fig. 181 • Gyroscopic Equators</text>
+    <text id="label-f182" data-ref="O182" class="geom-label-sm" x="290.00" y="655.00" text-anchor="middle">Fig. 182 • Unwinding Rings</text>
+  </g>
+</svg>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 640" width="680" height="640" class="euclid-graphic" data-graphic-id="0249.g1" data-folio="0249" data-graphic="g1">
+  <title>Figures 48–51 — Centripetal and Centrifugal Cones and Spheres</title>
+  <desc>Centripetal charge cone (Fig. 48), centrifugal discharge cone (Fig. 49), polarized sphere (Fig. 50), and oblate sphere (Fig. 51).</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 340.00 10.00 L 670.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 670.00 10.00 L 670.00 320.00 L 670.00 630.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 670.00 630.00 L 340.00 630.00 L 10.00 630.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 630.00 L 10.00 320.00 L 10.00 10.00" />
+    <path id="c48-l" data-ref="/ A48 L48 /" class="geom-line" d="M 165.00 230.00 L 132.50 147.50 L 100.00 65.00" />
+    <path id="c48-r" data-ref="/ A48 R48 /" class="geom-line" d="M 165.00 230.00 L 197.50 147.50 L 230.00 65.00" />
+    <path id="c49-l" data-ref="/ A49 L49 /" class="geom-line" d="M 165.00 535.00 L 132.50 447.50 L 100.00 360.00" />
+    <path id="c49-r" data-ref="/ A49 R49 /" class="geom-line" d="M 165.00 535.00 L 197.50 447.50 L 230.00 360.00" />
+    <path id="ax50" data-ref="/ N50 S50 /" class="geom-dashed" d="M 480.00 42.00 L 480.00 160.00 L 480.00 278.00" />
+    <path id="ax51" data-ref="/ N51 S51 /" class="geom-dashed" d="M 480.00 363.00 L 480.00 455.00 L 480.00 547.00" />
+  </g>
+  <g id="graphics">
+    <path id="h48" data-ref="( A48 H )" class="geom-pos" d="M 165.00 230.00 L 165.43 228.85 L 165.78 227.75 L 165.98 226.70 L 165.98 225.67 L 165.73 224.65 L 165.24 223.61 L 164.52 222.54 L 163.61 221.41 L 162.59 220.21 L 161.54 218.93 L 160.56 217.56 L 159.77 216.10 L 159.26 214.58 L 159.10 213.01 L 159.38 211.41 L 160.10 209.82 L 161.28 208.27 L 162.88 206.80 L 164.81 205.44 L 166.97 204.20 L 169.22 203.11 L 171.41 202.18 L 173.37 201.40 L 174.95 200.75 L 176.00 200.22 L 176.41 199.76 L 176.10 199.33 L 175.03 198.88 L 173.23 198.37 L 170.76 197.73 L 167.75 196.94 L 164.36 195.94 L 160.80 194.72 L 157.28 193.26 L 154.04 191.58 L 151.31 189.68 L 149.31 187.61 L 148.19 185.41 L 148.08 183.14 L 149.04 180.87 L 151.06 178.68 L 154.07 176.62 L 157.91 174.76 L 162.38 173.16 L 167.23 171.85 L 172.16 170.86 L 176.85 170.19 L 181.01 169.82 L 184.33 169.71 L 186.59 169.80 L 187.58 170.02 L 187.20 170.30 L 185.41 170.52 L 182.29 170.62 L 177.96 170.50 L 172.66 170.09 L 166.70 169.32 L 160.41 168.16 L 154.19 166.60 L 148.43 164.65 L 143.51 162.33 L 139.75 159.71 L 137.44 156.88 L 136.77 153.92 L 137.83 150.94 L 140.61 148.06 L 144.98 145.38 L 150.73 143.01 L 157.53 141.03 L 165.00 139.50 L 172.68 138.45 L 180.11 137.90 L 186.81 137.81 L 192.35 138.13 L 196.35 138.78 L 198.52 139.65 L 198.68 140.63 L 196.76 141.57 L 192.84 142.36 L 187.09 142.86 L 179.83 142.96 L 171.48 142.58 L 162.53 141.64 L 153.50 140.13 L 144.97 138.05 L 137.47 135.44 L 131.49 132.37 L 127.43 128.96 L 125.60 125.34 L 126.14 121.64 L 129.09 118.03 L 134.32 114.65 L 141.55 111.66 L 150.37 109.16 L 160.29 107.25 L 170.71 105.99 L 180.99 105.39 L 190.51 105.44 L 198.66 106.07 L 204.90 107.18 L 208.82 108.65 L 210.13 110.31 L 208.69 111.99 L 204.54 113.52 L 197.88 114.74 L 189.08 115.47 L 178.63 115.60 L 167.15 115.04 L 155.32 113.74 L 143.86 111.68 L 133.50 108.92 L 124.87 105.52 L 118.55 101.63 L 114.97 97.39 L 114.39 92.99 L 116.90 88.63 L 122.41 84.49 L 130.62 80.77 L 141.07 77.63 L 153.17 75.20 L 166.20 73.57 L 179.37 72.77 L 191.88 72.81 L 202.95 73.61 L 211.87 75.08 L 218.07 77.05 L 221.12 79.35 L 220.77 81.75 L 217.01 84.06 L 210.01 86.05 L 200.14 87.52 L 187.98 88.30 L 174.21 88.26 L 159.68 87.32 L 145.25 85.46 L 131.82 82.69 L 120.22 79.10 L 111.18 74.83 L 105.31 70.06 L 103.00 65.00" />
+    <circle id="b48" data-ref="( A48 B )" class="geom-circle" cx="165.00" cy="230.00" r="32.00" />
+    <path id="eq48" data-ref="/ E48A E48B /" class="geom-zero" d="M 95.00 230.00 L 165.00 230.00 L 235.00 230.00" />
+    <path id="h49" data-ref="( A49 H )" class="geom-neg" d="M 165.00 535.00 L 165.43 533.78 L 165.78 532.61 L 165.98 531.48 L 165.98 530.38 L 165.73 529.29 L 165.24 528.18 L 164.52 527.04 L 163.61 525.84 L 162.59 524.57 L 161.54 523.21 L 160.56 521.77 L 159.77 520.24 L 159.26 518.65 L 159.10 517.01 L 159.38 515.34 L 160.10 513.68 L 161.28 512.06 L 162.88 510.52 L 164.81 509.08 L 166.97 507.77 L 169.22 506.61 L 171.41 505.61 L 173.37 504.75 L 174.95 504.04 L 176.00 503.43 L 176.41 502.90 L 176.10 502.40 L 175.03 501.88 L 173.23 501.29 L 170.76 500.59 L 167.75 499.72 L 164.36 498.65 L 160.80 497.36 L 157.28 495.84 L 154.04 494.08 L 151.31 492.11 L 149.31 489.97 L 148.19 487.69 L 148.08 485.36 L 149.04 483.02 L 151.06 480.75 L 154.07 478.62 L 157.91 476.69 L 162.38 475.02 L 167.23 473.64 L 172.16 472.58 L 176.85 471.83 L 181.01 471.39 L 184.33 471.21 L 186.59 471.23 L 187.58 471.38 L 187.20 471.58 L 185.41 471.74 L 182.29 471.76 L 177.96 471.57 L 172.66 471.09 L 166.70 470.25 L 160.41 469.02 L 154.19 467.39 L 148.43 465.36 L 143.51 462.97 L 139.75 460.28 L 137.44 457.38 L 136.77 454.34 L 137.83 451.30 L 140.61 448.34 L 144.98 445.60 L 150.73 443.16 L 157.53 441.10 L 165.00 439.50 L 172.68 438.38 L 180.11 437.75 L 186.81 437.59 L 192.35 437.84 L 196.35 438.42 L 198.52 439.22 L 198.68 440.13 L 196.76 441.00 L 192.84 441.72 L 187.09 442.15 L 179.83 442.18 L 171.48 441.72 L 162.53 440.71 L 153.50 439.13 L 144.97 436.98 L 137.47 434.29 L 131.49 431.16 L 127.43 427.68 L 125.60 423.98 L 126.14 420.21 L 129.09 416.53 L 134.32 413.08 L 141.55 410.01 L 150.37 407.44 L 160.29 405.46 L 170.71 404.13 L 180.99 403.46 L 190.51 403.44 L 198.66 404.00 L 204.90 405.04 L 208.82 406.43 L 210.13 408.02 L 208.69 409.64 L 204.54 411.10 L 197.88 412.24 L 189.08 412.90 L 178.63 412.96 L 167.15 412.33 L 155.32 410.95 L 143.86 408.83 L 133.50 405.99 L 124.87 402.52 L 118.55 398.56 L 114.97 394.25 L 114.39 389.78 L 116.90 385.34 L 122.41 381.14 L 130.62 377.34 L 141.07 374.13 L 153.17 371.63 L 166.20 369.92 L 179.37 369.06 L 191.88 369.02 L 202.95 369.76 L 211.87 371.15 L 218.07 373.05 L 221.12 375.27 L 220.77 377.61 L 217.01 379.85 L 210.01 381.76 L 200.14 383.16 L 187.98 383.87 L 174.21 383.76 L 159.68 382.75 L 145.25 380.81 L 131.82 377.97 L 120.22 374.31 L 111.18 369.97 L 105.31 365.13 L 103.00 360.00" />
+    <circle id="b49" data-ref="( A49 B )" class="geom-circle" cx="165.00" cy="535.00" r="32.00" />
+    <path id="eq49" data-ref="/ E49A E49B /" class="geom-zero" d="M 95.00 535.00 L 165.00 535.00 L 235.00 535.00" />
+    <circle id="sph50" data-ref="( S50 R )" class="geom-pos-fill" cx="480.00" cy="160.00" r="118.00" />
+    <path id="eq50" data-ref="/ E50A E50B /" class="geom-zero" d="M 362.00 160.00 L 480.00 160.00 L 598.00 160.00" />
+    <ellipse id="sph51" data-ref="( S51 R )" class="geom-neg-fill" cx="480.00" cy="455.00" rx="130.00" ry="92.00" />
+    <path id="eq51" data-ref="/ E51A E51B /" class="geom-zero" d="M 350.00 455.00 L 480.00 455.00 L 610.00 455.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-eq48" data-ref="/ E48A E48B /" class="geom-line geom-overlay" d="M 95.00 230.00 L 165.00 230.00 L 235.00 230.00" />
+    <path id="hl-eq49" data-ref="/ E49A E49B /" class="geom-line geom-overlay" d="M 95.00 535.00 L 165.00 535.00 L 235.00 535.00" />
+    <path id="hl-eq50" data-ref="/ E50A E50B /" class="geom-line geom-overlay" d="M 362.00 160.00 L 480.00 160.00 L 598.00 160.00" />
+    <path id="hl-eq51" data-ref="/ E51A E51B /" class="geom-line geom-overlay" d="M 350.00 455.00 L 480.00 455.00 L 610.00 455.00" />
+  </g>
+  <g id="points">
+    <circle id="S50" data-ref="S50" class="geom-point-zero" cx="480.00" cy="160.00" r="5.00" />
+    <circle id="S51" data-ref="S51" class="geom-point-zero" cx="480.00" cy="455.00" r="5.00" />
+  </g>
+  <g id="labels">
+    <text id="label-l48" data-ref="A48" class="geom-label-sm" x="165.00" y="285.00" text-anchor="middle">Fig. 48 • Centripetal Charge</text>
+    <text id="label-l49" data-ref="A49" class="geom-label-sm" x="165.00" y="592.00" text-anchor="middle">Fig. 49 • Centrifugal Discharge</text>
+    <text id="label-l50" data-ref="S50" class="geom-label-sm" x="480.00" y="300.00" text-anchor="middle">Fig. 50 • Polarized Sphere</text>
+    <text id="label-l51" data-ref="S51" class="geom-label-sm" x="480.00" y="578.00" text-anchor="middle">Fig. 51 • Oblate Sphere</text>
+  </g>
+</svg>

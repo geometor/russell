@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 580" width="560" height="580" class="euclid-graphic" data-graphic-id="0273.g1" data-folio="0273" data-graphic="g1">
+  <title>Figure 65 — The Universal Pulse</title>
+  <desc>Clockwise centripetal positive charge spiral paired with counter-clockwise centrifugal negative discharge spiral.</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 280.00 10.00 L 550.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 550.00 10.00 L 550.00 290.00 L 550.00 570.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 550.00 570.00 L 280.00 570.00 L 10.00 570.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 570.00 L 10.00 290.00 L 10.00 10.00" />
+  </g>
+  <g id="graphics">
+    <circle id="core" data-ref="( O R0 )" class="geom-zero-plane" cx="280.00" cy="290.00" r="28.00" />
+    <path id="pos-spiral" data-ref="( O A )" class="geom-pos" d="M 305.79 300.90 L 305.51 304.20 L 304.81 307.56 L 303.67 310.93 L 302.09 314.25 L 300.05 317.46 L 297.58 320.50 L 294.67 323.31 L 291.36 325.84 L 287.67 328.04 L 283.63 329.83 L 279.29 331.19 L 274.71 332.07 L 269.93 332.42 L 265.01 332.22 L 260.03 331.44 L 255.04 330.06 L 250.13 328.08 L 245.36 325.50 L 240.81 322.33 L 236.55 318.57 L 232.66 314.27 L 229.20 309.46 L 226.24 304.17 L 223.84 298.48 L 222.05 292.42 L 220.93 286.08 L 220.51 279.53 L 220.84 272.85 L 221.92 266.11 L 223.78 259.42 L 226.42 252.85 L 229.83 246.51 L 233.99 240.48 L 238.88 234.84 L 244.45 229.70 L 250.66 225.12 L 257.45 221.20 L 264.75 218.00 L 272.48 215.58 L 280.55 214.00 L 288.88 213.31 L 297.36 213.55 L 305.89 214.73 L 314.36 216.87 L 322.67 219.98 L 330.70 224.03 L 338.34 229.01 L 345.49 234.88 L 352.05 241.60 L 357.91 249.08 L 362.98 257.28 L 367.18 266.10 L 370.44 275.44 L 372.68 285.21 L 373.85 295.30 L 373.92 305.58 L 372.85 315.93 L 370.62 326.23 L 367.25 336.35 L 362.74 346.16 L 357.12 355.53 L 350.43 364.33 L 342.74 372.44 L 334.10 379.75 L 324.62 386.15 L 314.38 391.54 L 303.50 395.82 L 292.09 398.93 L 280.28 400.80 L 268.21 401.38 L 256.02 400.63 L 243.86 398.54 L 231.87 395.10 L 220.21 390.33 L 209.02 384.26 L 198.45 376.94 L 188.64 368.42 L 179.73 358.80 L 171.85 348.16 L 165.10 336.62 L 159.59 324.29 L 155.41 311.31 L 152.64 297.83 L 151.34 284.00 L 151.55 269.99 L 153.30 255.95 L 156.59 242.05 L 161.41 228.48 L 167.73 215.39 L 175.50 202.96 L 184.66 191.34 L 195.11 180.69 L 206.76 171.16 L 219.48 162.87 L 233.14 155.96 L 247.59 150.52 L 262.67 146.64 L 278.20 144.41 L 294.02 143.87 L 309.93 145.06 L 325.75 147.99 L 341.28 152.65 L 356.33 159.02 L 370.71 167.04 L 384.25 176.65 L 396.76 187.76 L 408.09 200.25 L 418.06 214.00 L 426.56 228.86 L 433.45 244.67 L 438.62 261.26 L 441.99 278.44 L 443.49 296.01 L 443.08 313.77 L 440.73 331.51 L 436.44 349.01 L 430.24 366.07 L 422.17 382.48 L 412.30 398.02 L 400.73 412.51 L 387.57 425.75 L 372.95 437.57 L 357.03 447.80 L 339.98 456.31 L 321.99 462.98 L 303.26 467.68 L 284.00 470.36 L 264.43 470.93 L 244.79 469.38 L 225.30 465.68 L 206.21 459.86 L 187.74 451.96 L 170.11 442.05 L 153.56 430.21 L 138.29 416.56 L 124.50 401.25 L 112.37 384.43 L 102.06 366.29 L 93.73 347.02 L 87.49 326.83 L 83.45 305.97 L 81.67 284.66 L 82.21 263.15 L 85.10 241.70 L 90.31 220.56 L 97.82 199.99 L 107.57 180.23 L 119.47 161.54 L 133.40 144.14 L 149.22 128.25 L 166.77 114.09 L 185.85 101.84 L 206.26 91.66 L 227.77 83.71 L 250.15 78.09 L 273.12 74.91 L 296.44 74.23 L 319.82 76.07 L 342.99 80.46 L 365.67 87.37" marker-end="url(#geom-arrow-pos)" />
+    <path id="neg-spiral" data-ref="( O B )" class="geom-neg-dashed" d="M 253.78 280.18 L 251.71 282.76 L 249.91 285.68 L 248.42 288.91 L 247.29 292.41 L 246.56 296.14 L 246.27 300.05 L 246.44 304.09 L 247.10 308.21 L 248.28 312.34 L 249.97 316.42 L 252.18 320.39 L 254.91 324.18 L 258.14 327.72 L 261.84 330.96 L 266.00 333.82 L 270.56 336.25 L 275.49 338.19 L 280.73 339.59 L 286.21 340.42 L 291.89 340.62 L 297.67 340.18 L 303.50 339.06 L 309.28 337.27 L 314.94 334.78 L 320.40 331.61 L 325.57 327.78 L 330.38 323.31 L 334.75 318.24 L 338.59 312.61 L 341.85 306.47 L 344.45 299.89 L 346.34 292.94 L 347.46 285.69 L 347.79 278.24 L 347.28 270.67 L 345.92 263.08 L 343.69 255.56 L 340.59 248.22 L 336.64 241.15 L 331.87 234.45 L 326.30 228.22 L 319.98 222.56 L 312.98 217.55 L 305.35 213.28 L 297.19 209.82 L 288.57 207.24 L 279.59 205.60 L 270.36 204.94 L 260.99 205.31 L 251.58 206.71 L 242.26 209.18 L 233.15 212.69 L 224.36 217.23 L 216.02 222.79 L 208.23 229.30 L 201.11 236.72 L 194.76 244.97 L 189.29 253.98 L 184.78 263.64 L 181.31 273.87 L 178.95 284.53 L 177.75 295.52 L 177.76 306.70 L 178.99 317.94 L 181.48 329.11 L 185.21 340.06 L 190.16 350.66 L 196.31 360.76 L 203.59 370.24 L 211.96 378.96 L 221.32 386.80 L 231.59 393.65 L 242.65 399.40 L 254.40 403.96 L 266.70 407.25 L 279.41 409.20 L 292.38 409.76 L 305.47 408.90 L 318.51 406.60 L 331.35 402.87 L 343.83 397.71 L 355.79 391.16 L 367.07 383.28 L 377.52 374.14 L 387.01 363.82 L 395.40 352.42 L 402.57 340.07 L 408.40 326.90 L 412.81 313.05 L 415.72 298.68 L 417.07 283.95 L 416.80 269.03 L 414.90 254.10 L 411.37 239.34 L 406.21 224.92 L 399.46 211.04 L 391.18 197.85 L 381.43 185.55 L 370.32 174.28 L 357.96 164.20 L 344.46 155.44 L 329.98 148.15 L 314.68 142.42 L 298.71 138.35 L 282.28 136.02 L 265.56 135.47 L 248.75 136.75 L 232.05 139.87 L 215.66 144.82 L 199.78 151.56 L 184.62 160.05 L 170.36 170.20 L 157.18 181.92 L 145.27 195.10 L 134.77 209.59 L 125.85 225.25 L 118.62 241.90 L 113.19 259.35 L 109.66 277.42 L 108.10 295.90 L 108.55 314.56 L 111.03 333.19 L 115.55 351.57 L 122.07 369.48 L 130.55 386.69 L 140.91 402.99 L 153.06 418.18 L 166.86 432.05 L 182.19 444.43 L 198.88 455.15 L 216.74 464.06 L 235.58 471.03 L 255.20 475.95 L 275.35 478.74 L 295.82 479.34 L 316.37 477.71 L 336.74 473.84 L 356.70 467.76 L 376.00 459.50 L 394.42 449.14 L 411.70 436.77 L 427.65 422.52 L 442.05 406.54 L 454.71 388.99 L 465.46 370.05 L 474.15 349.95 L 480.66 328.91 L 484.88 307.15 L 486.74 284.94 L 486.18 262.53 L 483.18 240.18 L 477.76 218.16 L 469.94 196.74 L 459.79 176.16 L 447.41 156.70 L 432.93 138.59 L 416.47 122.06 L 398.23 107.32 L 378.39 94.57 L 357.17 83.98" marker-end="url(#geom-arrow-neg)" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle id="O" data-ref="O" class="geom-point-zero" cx="280.00" cy="290.00" r="4.50" />
+  </g>
+  <g id="labels">
+    <text id="label-title" data-ref="O" class="geom-label-title" x="280.00" y="32.00" text-anchor="middle">THE UNIVERSAL PULSE</text>
+    <text id="label-lbl-a" data-ref="O" class="geom-label-sm" x="492.00" y="392.00" text-anchor="middle">A • POSITIVE CHARGE</text>
+    <text id="label-lbl-b" data-ref="O" class="geom-label-sm" x="118.00" y="120.00" text-anchor="middle">B • NEGATIVE DISCHARGE</text>
+    <text id="label-fig65" data-ref="O" class="geom-label-title" x="280.00" y="552.00" text-anchor="middle">Fig. 65</text>
+  </g>
+</svg>

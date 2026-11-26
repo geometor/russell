@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 720" width="640" height="720" class="euclid-graphic" data-graphic-id="0457.g1" data-folio="0457" data-graphic="g1">
+  <title>Figures 162–169 — Light Pressure Lenses and Curvature Systems</title>
+  <desc>Eight-panel comparison of parallel, bent, inward, outward, dividing, uniting, spherical, and oblate light lenses.</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 320.00 10.00 L 630.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 630.00 10.00 L 630.00 360.00 L 630.00 710.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 630.00 710.00 L 320.00 710.00 L 10.00 710.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 710.00 L 10.00 360.00 L 10.00 10.00" />
+    <path id="v-mid" data-ref="[ VM1 VM2 ]" class="geom-line" d="M 320.00 45.00 L 320.00 372.50 L 320.00 700.00" />
+    <path id="h-0" data-ref="/ H0A H0B /" class="geom-line" d="M 20.00 215.00 L 320.00 215.00 L 620.00 215.00" />
+    <path id="ray-162--80" data-ref="/ R162_-80A R162_-80B /" class="geom-ray" d="M 90.00 80.00 L 90.00 130.00 L 90.00 180.00" />
+    <path id="ray-162--40" data-ref="/ R162_-40A R162_-40B /" class="geom-ray" d="M 130.00 80.00 L 130.00 130.00 L 130.00 180.00" />
+    <path id="ray-162-0" data-ref="/ R162_0A R162_0B /" class="geom-ray" d="M 170.00 80.00 L 170.00 130.00 L 170.00 180.00" />
+    <path id="ray-162-40" data-ref="/ R162_40A R162_40B /" class="geom-ray" d="M 210.00 80.00 L 210.00 130.00 L 210.00 180.00" />
+    <path id="ray-162-80" data-ref="/ R162_80A R162_80B /" class="geom-ray" d="M 250.00 80.00 L 250.00 130.00 L 250.00 180.00" />
+    <path id="ray-163--80" data-ref="/ R163_-80A R163_-80B /" class="geom-ray" d="M 390.00 80.00 L 380.00 130.00 L 370.00 180.00" />
+    <path id="ray-163--40" data-ref="/ R163_-40A R163_-40B /" class="geom-ray" d="M 430.00 80.00 L 425.00 130.00 L 420.00 180.00" />
+    <path id="ray-163-0" data-ref="/ R163_0A R163_0B /" class="geom-ray" d="M 470.00 80.00 L 470.00 130.00 L 470.00 180.00" />
+    <path id="ray-163-40" data-ref="/ R163_40A R163_40B /" class="geom-ray" d="M 510.00 80.00 L 515.00 130.00 L 520.00 180.00" />
+    <path id="ray-163-80" data-ref="/ R163_80A R163_80B /" class="geom-ray" d="M 550.00 80.00 L 560.00 130.00 L 570.00 180.00" />
+    <path id="h-1" data-ref="/ H1A H1B /" class="geom-line" d="M 20.00 375.00 L 320.00 375.00 L 620.00 375.00" />
+    <path id="h-2" data-ref="/ H2A H2B /" class="geom-line" d="M 20.00 520.00 L 320.00 520.00 L 620.00 520.00" />
+  </g>
+  <g id="graphics">
+    <path id="eq-162" data-ref="/ E162A E162B /" class="geom-zero" d="M 50.00 130.00 L 170.00 130.00 L 290.00 130.00" />
+    <path id="eq-163" data-ref="/ E163A E163B /" class="geom-zero" d="M 350.00 130.00 L 470.00 130.00 L 590.00 130.00" />
+    <path id="eq-164" data-ref="/ E164A E164B /" class="geom-zero" d="M 50.00 290.00 L 170.00 290.00 L 290.00 290.00" />
+    <ellipse id="lens-164" data-ref="( L164 R )" class="geom-pos-fill" cx="170.00" cy="290.00" rx="105.00" ry="36.00" />
+    <path id="eq-165" data-ref="/ E165A E165B /" class="geom-zero" d="M 350.00 290.00 L 470.00 290.00 L 590.00 290.00" />
+    <ellipse id="lens-165" data-ref="( L165 R )" class="geom-neg-fill" cx="470.00" cy="290.00" rx="105.00" ry="22.00" />
+    <path id="eq-166" data-ref="/ E166A E166B /" class="geom-zero" d="M 50.00 435.00 L 170.00 435.00 L 290.00 435.00" />
+    <ellipse id="lens-166" data-ref="( L166 R )" class="geom-pos-fill" cx="170.00" cy="435.00" rx="105.00" ry="36.00" />
+    <path id="eq-167" data-ref="/ E167A E167B /" class="geom-zero" d="M 350.00 435.00 L 470.00 435.00 L 590.00 435.00" />
+    <ellipse id="lens-167" data-ref="( L167 R )" class="geom-neg-fill" cx="470.00" cy="435.00" rx="105.00" ry="22.00" />
+    <path id="eq-168" data-ref="/ E168A E168B /" class="geom-zero" d="M 50.00 595.00 L 170.00 595.00 L 290.00 595.00" />
+    <ellipse id="sph-168" data-ref="( L168 R )" class="geom-circle" cx="170.00" cy="595.00" rx="95.00" ry="75.00" />
+    <path id="eq-169" data-ref="/ E169A E169B /" class="geom-zero" d="M 350.00 595.00 L 470.00 595.00 L 590.00 595.00" />
+    <ellipse id="sph-169" data-ref="( L169 R )" class="geom-circle" cx="470.00" cy="595.00" rx="95.00" ry="52.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-eq-162" data-ref="/ E162A E162B /" class="geom-line geom-overlay" d="M 50.00 130.00 L 170.00 130.00 L 290.00 130.00" />
+    <path id="hl-eq-163" data-ref="/ E163A E163B /" class="geom-line geom-overlay" d="M 350.00 130.00 L 470.00 130.00 L 590.00 130.00" />
+    <path id="hl-eq-164" data-ref="/ E164A E164B /" class="geom-line geom-overlay" d="M 50.00 290.00 L 170.00 290.00 L 290.00 290.00" />
+    <path id="hl-eq-165" data-ref="/ E165A E165B /" class="geom-line geom-overlay" d="M 350.00 290.00 L 470.00 290.00 L 590.00 290.00" />
+    <path id="hl-eq-166" data-ref="/ E166A E166B /" class="geom-line geom-overlay" d="M 50.00 435.00 L 170.00 435.00 L 290.00 435.00" />
+    <path id="hl-eq-167" data-ref="/ E167A E167B /" class="geom-line geom-overlay" d="M 350.00 435.00 L 470.00 435.00 L 590.00 435.00" />
+    <path id="hl-eq-168" data-ref="/ E168A E168B /" class="geom-line geom-overlay" d="M 50.00 595.00 L 170.00 595.00 L 290.00 595.00" />
+    <path id="hl-eq-169" data-ref="/ E169A E169B /" class="geom-line geom-overlay" d="M 350.00 595.00 L 470.00 595.00 L 590.00 595.00" />
+  </g>
+  <g id="points">
+  </g>
+  <g id="labels">
+    <text id="label-title" data-ref="O" class="geom-label-title" x="320.00" y="32.00" text-anchor="middle">LIGHT PRESSURE LENSES (FIGS. 162–169)</text>
+    <text id="label-lbl-162" data-ref="L162" class="geom-label-sm" x="170.00" y="198.00" text-anchor="middle">FIG. 162</text>
+    <text id="label-lbl-163" data-ref="L163" class="geom-label-sm" x="470.00" y="198.00" text-anchor="middle">FIG. 163</text>
+    <text id="label-lbl-164" data-ref="L164" class="geom-label-sm" x="170.00" y="358.00" text-anchor="middle">FIG. 164</text>
+    <text id="label-lbl-165" data-ref="L165" class="geom-label-sm" x="470.00" y="358.00" text-anchor="middle">FIG. 165</text>
+    <text id="label-lbl-166" data-ref="L166" class="geom-label-sm" x="170.00" y="503.00" text-anchor="middle">FIG. 166</text>
+    <text id="label-lbl-167" data-ref="L167" class="geom-label-sm" x="470.00" y="503.00" text-anchor="middle">FIG. 167</text>
+    <text id="label-lbl-168" data-ref="L168" class="geom-label-sm" x="170.00" y="671.00" text-anchor="middle">FIG. 168</text>
+    <text id="label-lbl-169" data-ref="L169" class="geom-label-sm" x="470.00" y="671.00" text-anchor="middle">FIG. 169</text>
+  </g>
+</svg>

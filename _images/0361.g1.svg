@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 680" width="560" height="680" class="euclid-graphic" data-graphic-id="0361.g1" data-folio="0361" data-graphic="g1">
+  <title>Figures 101–102 — Gyroscopic Spin and Wave Amplitude</title>
+  <desc>Multi-cycle wave with radiant nodes (Fig. 101) and enlarged single wave amplitude crest (Fig. 102).</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 280.00 10.00 L 550.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 550.00 10.00 L 550.00 340.00 L 550.00 670.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 550.00 670.00 L 280.00 670.00 L 10.00 670.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 670.00 L 10.00 340.00 L 10.00 10.00" />
+    <path id="div" data-ref="[ D1 D2 ]" class="geom-line" d="M 20.00 255.00 L 280.00 255.00 L 540.00 255.00" />
+  </g>
+  <g id="graphics">
+    <path id="eq101" data-ref="/ E101A E101B /" class="geom-zero" d="M 30.00 125.00 L 280.00 125.00 L 530.00 125.00" />
+    <path id="wave101" data-ref="/ W101A W101B /" class="geom-bold" d="M 30.00 73.00 L 34.17 73.28 L 38.33 74.14 L 42.50 75.55 L 46.67 77.50 L 50.83 79.97 L 55.00 82.93 L 59.17 86.36 L 63.33 90.21 L 67.50 94.44 L 71.67 99.00 L 75.83 103.85 L 80.00 108.93 L 84.17 114.19 L 88.33 119.56 L 92.50 125.00 L 96.67 130.44 L 100.83 135.81 L 105.00 141.07 L 109.17 146.15 L 113.33 151.00 L 117.50 155.56 L 121.67 159.79 L 125.83 163.64 L 130.00 167.07 L 134.17 170.03 L 138.33 172.50 L 142.50 174.45 L 146.67 175.86 L 150.83 176.72 L 155.00 177.00 L 159.17 176.72 L 163.33 175.86 L 167.50 174.45 L 171.67 172.50 L 175.83 170.03 L 180.00 167.07 L 184.17 163.64 L 188.33 159.79 L 192.50 155.56 L 196.67 151.00 L 200.83 146.15 L 205.00 141.07 L 209.17 135.81 L 213.33 130.44 L 217.50 125.00 L 221.67 119.56 L 225.83 114.19 L 230.00 108.93 L 234.17 103.85 L 238.33 99.00 L 242.50 94.44 L 246.67 90.21 L 250.83 86.36 L 255.00 82.93 L 259.17 79.97 L 263.33 77.50 L 267.50 75.55 L 271.67 74.14 L 275.83 73.28 L 280.00 73.00 L 284.17 73.28 L 288.33 74.14 L 292.50 75.55 L 296.67 77.50 L 300.83 79.97 L 305.00 82.93 L 309.17 86.36 L 313.33 90.21 L 317.50 94.44 L 321.67 99.00 L 325.83 103.85 L 330.00 108.93 L 334.17 114.19 L 338.33 119.56 L 342.50 125.00 L 346.67 130.44 L 350.83 135.81 L 355.00 141.07 L 359.17 146.15 L 363.33 151.00 L 367.50 155.56 L 371.67 159.79 L 375.83 163.64 L 380.00 167.07 L 384.17 170.03 L 388.33 172.50 L 392.50 174.45 L 396.67 175.86 L 400.83 176.72 L 405.00 177.00 L 409.17 176.72 L 413.33 175.86 L 417.50 174.45 L 421.67 172.50 L 425.83 170.03 L 430.00 167.07 L 434.17 163.64 L 438.33 159.79 L 442.50 155.56 L 446.67 151.00 L 450.83 146.15 L 455.00 141.07 L 459.17 135.81 L 463.33 130.44 L 467.50 125.00 L 471.67 119.56 L 475.83 114.19 L 480.00 108.93 L 484.17 103.85 L 488.33 99.00 L 492.50 94.44 L 496.67 90.21 L 500.83 86.36 L 505.00 82.93 L 509.17 79.97 L 513.33 77.50 L 517.50 75.55 L 521.67 74.14 L 525.83 73.28 L 530.00 73.00" />
+    <path id="eq102" data-ref="/ E102A E102B /" class="geom-zero" d="M 30.00 470.00 L 280.00 470.00 L 530.00 470.00" />
+    <path id="wave102" data-ref="/ W102A W102B /" class="geom-bold" d="M 30.00 600.00 L 34.17 599.82 L 38.33 599.29 L 42.50 598.40 L 46.67 597.16 L 50.83 595.57 L 55.00 593.64 L 59.17 591.37 L 63.33 588.76 L 67.50 585.83 L 71.67 582.58 L 75.83 579.03 L 80.00 575.17 L 84.17 571.03 L 88.33 566.61 L 92.50 561.92 L 96.67 556.99 L 100.83 551.81 L 105.00 546.41 L 109.17 540.80 L 113.33 535.00 L 117.50 529.02 L 121.67 522.88 L 125.83 516.59 L 130.00 510.17 L 134.17 503.65 L 138.33 497.03 L 142.50 490.34 L 146.67 483.59 L 150.83 476.80 L 155.00 470.00 L 159.17 463.20 L 163.33 456.41 L 167.50 449.66 L 171.67 442.97 L 175.83 436.35 L 180.00 429.83 L 184.17 423.41 L 188.33 417.12 L 192.50 410.98 L 196.67 405.00 L 200.83 399.20 L 205.00 393.59 L 209.17 388.19 L 213.33 383.01 L 217.50 378.08 L 221.67 373.39 L 225.83 368.97 L 230.00 364.83 L 234.17 360.97 L 238.33 357.42 L 242.50 354.17 L 246.67 351.24 L 250.83 348.63 L 255.00 346.36 L 259.17 344.43 L 263.33 342.84 L 267.50 341.60 L 271.67 340.71 L 275.83 340.18 L 280.00 340.00 L 284.17 340.18 L 288.33 340.71 L 292.50 341.60 L 296.67 342.84 L 300.83 344.43 L 305.00 346.36 L 309.17 348.63 L 313.33 351.24 L 317.50 354.17 L 321.67 357.42 L 325.83 360.97 L 330.00 364.83 L 334.17 368.97 L 338.33 373.39 L 342.50 378.08 L 346.67 383.01 L 350.83 388.19 L 355.00 393.59 L 359.17 399.20 L 363.33 405.00 L 367.50 410.98 L 371.67 417.12 L 375.83 423.41 L 380.00 429.83 L 384.17 436.35 L 388.33 442.97 L 392.50 449.66 L 396.67 456.41 L 400.83 463.20 L 405.00 470.00 L 409.17 476.80 L 413.33 483.59 L 417.50 490.34 L 421.67 497.03 L 425.83 503.65 L 430.00 510.17 L 434.17 516.59 L 438.33 522.88 L 442.50 529.02 L 446.67 535.00 L 450.83 540.80 L 455.00 546.41 L 459.17 551.81 L 463.33 556.99 L 467.50 561.92 L 471.67 566.61 L 475.83 571.03 L 480.00 575.17 L 484.17 579.03 L 488.33 582.58 L 492.50 585.83 L 496.67 588.76 L 500.83 591.37 L 505.00 593.64 L 509.17 595.57 L 513.33 597.16 L 517.50 598.40 L 521.67 599.29 L 525.83 599.82 L 530.00 600.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-eq101" data-ref="/ E101A E101B /" class="geom-line geom-overlay" d="M 30.00 125.00 L 280.00 125.00 L 530.00 125.00" />
+    <path id="hl-eq102" data-ref="/ E102A E102B /" class="geom-line geom-overlay" d="M 30.00 470.00 L 280.00 470.00 L 530.00 470.00" />
+  </g>
+  <g id="points">
+    <circle id="N101_0" data-ref="N101_0" class="geom-point-neg" cx="155.00" cy="177.00" r="6.00" />
+    <circle id="N101_1" data-ref="N101_1" class="geom-point-pos" cx="280.00" cy="73.00" r="6.00" />
+    <circle id="N101_2" data-ref="N101_2" class="geom-point-neg" cx="405.00" cy="177.00" r="6.00" />
+    <circle id="N102" data-ref="N102" class="geom-point-pos" cx="280.00" cy="340.00" r="9.00" />
+  </g>
+  <g id="labels">
+    <text id="label-l101" data-ref="N101_1" class="geom-label-title" x="280.00" y="232.00" text-anchor="middle">FIG. 101</text>
+    <text id="label-l102" data-ref="N102" class="geom-label-title" x="280.00" y="650.00" text-anchor="middle">FIG. 102</text>
+  </g>
+</svg>

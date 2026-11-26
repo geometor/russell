@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 680" width="580" height="680" class="euclid-graphic" data-graphic-id="0412.g1" data-folio="0412" data-graphic="g1">
+  <title>Figures 124–125 — Wave-Shaft Double Spiral Inside Cube</title>
+  <desc>Whirlpool double spiral along the diagonal wave-shaft of a cube (Fig. 124) and 3D cube-wave troughs/crests (Fig. 125).</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 290.00 10.00 L 570.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 570.00 10.00 L 570.00 340.00 L 570.00 670.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 570.00 670.00 L 290.00 670.00 L 10.00 670.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 670.00 L 10.00 340.00 L 10.00 10.00" />
+    <polygon id="c-front" data-ref="&lt; F1 F2 F3 F4 &gt;" class="geom-polygon-stroked" points="90.00,135.00 400.00,135.00 400.00,445.00 90.00,445.00" />
+    <polygon id="c-back" data-ref="&lt; B1 B2 B3 B4 &gt;" class="geom-dashed" points="195.00,70.00 505.00,70.00 505.00,380.00 195.00,380.00" />
+    <path id="eq125" data-ref="/ E125A E125B /" class="geom-zero-dashed" d="M 50.00 565.00 L 290.00 565.00 L 530.00 565.00" />
+  </g>
+  <g id="graphics">
+    <path id="shaft" data-ref="/ P4 B4 /" class="geom-zero" d="M 90.00 135.00 L 245.00 290.00 L 400.00 445.00" />
+    <path id="whirl-1" data-ref="( O W1 )" class="geom-pos" d="M 90.00 135.00 L 92.04 136.18 L 93.87 137.49 L 95.32 138.91 L 96.26 140.38 L 96.61 141.86 L 96.38 143.27 L 95.66 144.56 L 94.61 145.67 L 93.43 146.57 L 92.38 147.25 L 91.74 147.71 L 91.76 147.99 L 92.66 148.15 L 94.58 148.27 L 97.59 148.42 L 101.65 148.72 L 106.62 149.25 L 112.26 150.09 L 118.24 151.29 L 124.17 152.90 L 129.63 154.90 L 134.22 157.26 L 137.55 159.90 L 139.34 162.73 L 139.40 165.62 L 137.67 168.43 L 134.24 171.01 L 129.34 173.23 L 123.36 174.97 L 116.78 176.15 L 110.16 176.73 L 104.10 176.71 L 99.22 176.13 L 96.04 175.10 L 95.00 173.75 L 96.39 172.26 L 100.34 170.81 L 106.75 169.62 L 115.36 168.86 L 125.70 168.70 L 137.17 169.28 L 149.02 170.66 L 160.45 172.87 L 170.67 175.86 L 178.92 179.52 L 184.57 183.70 L 187.17 188.18 L 186.48 192.72 L 182.48 197.07 L 175.42 200.97 L 165.79 204.19 L 154.30 206.56 L 141.82 207.93 L 129.32 208.26 L 117.83 207.56 L 108.31 205.93 L 101.65 203.54 L 98.51 200.63 L 99.34 197.46 L 104.30 194.36 L 113.24 191.64 L 125.71 189.60 L 140.98 188.49 L 158.09 188.50 L 175.91 189.76 L 193.23 192.30 L 208.83 196.03 L 221.58 200.82 L 230.53 206.41 L 235.00 212.50 L 234.60 218.73 L 229.32 224.74 L 219.47 230.14 L 205.74 234.62 L 189.13 237.88 L 170.85 239.75 L 152.31 240.13 L 134.92 239.03 L 120.10 236.57 L 109.07 232.99 L 102.83 228.60 L 102.03 223.79 L 106.96 218.98 L 117.47 214.60 L 133.00 211.07 L 152.62 208.75 L 175.06 207.92 L 198.82 208.76 L 222.27 211.32 L 243.75 215.54 L 261.74 221.23 L 274.91 228.08 L 282.28 235.70 L 283.26 243.63 L 277.71 251.37 L 266.00 258.43 L 248.92 264.37 L 227.70 268.80 L 203.89 271.45 L 179.26 272.18 L 155.67 270.96 L 134.96 267.94 L 118.77 263.37 L 108.47 257.65 L 105.00 251.25 L 108.83 244.70 L 119.89 238.57 L 137.60 233.38 L 160.87 229.63 L 188.18 227.68 L 217.69 227.79 L 247.37 230.09 L 275.14 234.51 L 299.00 240.86 L 317.23 248.78 L 328.49 257.81 L 331.90 267.38 L 327.17 276.90 L 314.58 285.74 L 295.00 293.32 L 269.82 299.16 L 240.86 302.89 L 210.26 304.26 L 180.29 303.23 L 153.24 299.92 L 131.20 294.60 L 115.95 287.72 L 108.78 279.83 L 110.43 271.57 L 120.99 263.62 L 139.91 256.64 L 166.02 251.24 L 197.62 247.92 L 232.56 247.02 L 268.43 248.74 L 302.72 253.06 L 332.97 259.80 L 357.02 268.57 L 373.10 278.86 L 380.00 290.00" />
+    <path id="whirl-2" data-ref="( O W2 )" class="geom-neg" d="M 400.00 445.00 L 399.82 443.97 L 399.44 443.06 L 398.68 442.27 L 397.40 441.53 L 395.54 440.79 L 393.10 439.98 L 390.16 439.06 L 386.89 437.96 L 383.50 436.64 L 380.24 435.11 L 377.38 433.35 L 375.19 431.42 L 373.87 429.37 L 373.58 427.27 L 374.37 425.21 L 376.22 423.29 L 378.98 421.61 L 382.40 420.23 L 386.17 419.22 L 389.88 418.61 L 393.13 418.40 L 395.50 418.54 L 396.63 418.98 L 396.20 419.59 L 394.04 420.27 L 390.09 420.86 L 384.45 421.22 L 377.34 421.23 L 369.15 420.76 L 360.35 419.72 L 351.51 418.09 L 343.25 415.85 L 336.15 413.06 L 330.75 409.81 L 327.50 406.25 L 326.68 402.54 L 328.41 398.88 L 332.61 395.47 L 339.00 392.50 L 347.13 390.13 L 356.38 388.49 L 366.02 387.66 L 375.24 387.65 L 383.24 388.43 L 389.27 389.88 L 392.72 391.84 L 393.10 394.11 L 390.19 396.44 L 383.98 398.57 L 374.70 400.25 L 362.86 401.26 L 349.16 401.42 L 334.46 400.58 L 319.75 398.69 L 306.04 395.78 L 294.31 391.93 L 285.43 387.33 L 280.08 382.20 L 278.70 376.82 L 281.44 371.51 L 288.17 366.57 L 298.42 362.31 L 311.48 358.99 L 326.37 356.79 L 341.98 355.84 L 357.09 356.15 L 370.47 357.68 L 381.00 360.25 L 387.75 363.62 L 390.00 367.50 L 387.39 371.52 L 379.89 375.31 L 367.82 378.50 L 351.89 380.76 L 333.06 381.81 L 312.57 381.46 L 291.81 379.63 L 272.21 376.31 L 255.17 371.64 L 241.93 365.85 L 233.47 359.25 L 230.46 352.22 L 233.17 345.19 L 241.47 338.60 L 254.79 332.85 L 272.19 328.32 L 292.42 325.28 L 313.96 323.90 L 335.19 324.25 L 354.47 326.26 L 370.24 329.73 L 381.20 334.37 L 386.35 339.77 L 385.11 345.48 L 377.36 351.01 L 363.43 355.86 L 344.14 359.58 L 320.70 361.80 L 294.68 362.24 L 267.83 360.75 L 242.03 357.32 L 219.10 352.08 L 200.70 345.30 L 188.19 337.37 L 182.50 328.75 L 184.11 319.99 L 192.96 311.64 L 208.46 304.24 L 229.51 298.27 L 254.61 294.11 L 281.91 292.01 L 309.37 292.09 L 334.92 294.30 L 356.57 298.43 L 372.59 304.14 L 381.63 310.95 L 382.83 318.31 L 375.89 325.61 L 361.08 332.24 L 339.29 337.61 L 311.89 341.24 L 280.72 342.74 L 247.90 341.90 L 215.72 338.66 L 186.45 333.13 L 162.20 325.60 L 144.74 316.51 L 135.35 306.40 L 134.78 295.93 L 143.13 285.76 L 159.84 276.57 L 183.74 268.96 L 213.12 263.42 L 245.85 260.31 L 279.50 259.81 L 311.57 261.92 L 339.62 266.44 L 361.45 273.00 L 375.31 281.07 L 380.00 290.00" />
+    <path id="wave125" data-ref="/ W125A W125B /" class="geom-bold" d="M 60.00 565.00 L 63.83 557.35 L 67.67 549.95 L 71.50 543.06 L 75.33 536.90 L 79.17 531.68 L 83.00 527.58 L 86.83 524.73 L 90.67 523.23 L 94.50 523.13 L 98.33 524.43 L 102.17 527.09 L 106.00 531.02 L 109.83 536.09 L 113.67 542.13 L 117.50 548.93 L 121.33 556.27 L 125.17 563.90 L 129.00 571.57 L 132.83 579.02 L 136.67 586.00 L 140.50 592.28 L 144.33 597.64 L 148.17 601.91 L 152.00 604.94 L 155.83 606.64 L 159.67 606.94 L 163.50 605.84 L 167.33 603.37 L 171.17 599.61 L 175.00 594.70 L 178.83 588.79 L 182.67 582.08 L 186.50 574.80 L 190.33 567.20 L 194.17 559.52 L 198.00 552.02 L 201.83 544.96 L 205.67 538.57 L 209.50 533.06 L 213.33 528.63 L 217.17 525.41 L 221.00 523.52 L 224.83 523.01 L 228.67 523.92 L 232.50 526.20 L 236.33 529.78 L 240.17 534.53 L 244.00 540.31 L 247.83 546.92 L 251.67 554.13 L 255.50 561.70 L 259.33 569.39 L 263.17 576.93 L 267.00 584.07 L 270.83 590.57 L 274.67 596.21 L 278.50 600.81 L 282.33 604.21 L 286.17 606.30 L 290.00 607.00 L 293.83 606.30 L 297.67 604.21 L 301.50 600.81 L 305.33 596.21 L 309.17 590.57 L 313.00 584.07 L 316.83 576.93 L 320.67 569.39 L 324.50 561.70 L 328.33 554.13 L 332.17 546.92 L 336.00 540.31 L 339.83 534.53 L 343.67 529.78 L 347.50 526.20 L 351.33 523.92 L 355.17 523.01 L 359.00 523.52 L 362.83 525.41 L 366.67 528.63 L 370.50 533.06 L 374.33 538.57 L 378.17 544.96 L 382.00 552.02 L 385.83 559.52 L 389.67 567.20 L 393.50 574.80 L 397.33 582.08 L 401.17 588.79 L 405.00 594.70 L 408.83 599.61 L 412.67 603.37 L 416.50 605.84 L 420.33 606.94 L 424.17 606.64 L 428.00 604.94 L 431.83 601.91 L 435.67 597.64 L 439.50 592.28 L 443.33 586.00 L 447.17 579.02 L 451.00 571.57 L 454.83 563.90 L 458.67 556.27 L 462.50 548.93 L 466.33 542.13 L 470.17 536.09 L 474.00 531.02 L 477.83 527.09 L 481.67 524.43 L 485.50 523.13 L 489.33 523.23 L 493.17 524.73 L 497.00 527.58 L 500.83 531.68 L 504.67 536.90 L 508.50 543.06 L 512.33 549.95 L 516.17 557.35 L 520.00 565.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-shaft" data-ref="/ P4 B4 /" class="geom-line geom-overlay" d="M 90.00 135.00 L 245.00 290.00 L 400.00 445.00" />
+  </g>
+  <g id="points">
+    <circle id="O" data-ref="O" class="geom-point-zero" cx="245.00" cy="290.00" r="5.50" />
+  </g>
+  <g id="labels">
+    <text id="label-title" data-ref="O" class="geom-label-title" x="290.00" y="32.00" text-anchor="middle">THE WAVE-SHAFT IS THE STILL CENTER OF A WHIRLPOOL</text>
+    <text id="label-fig124" data-ref="O" class="geom-label-title" x="290.00" y="470.00" text-anchor="middle">FIG. 124</text>
+    <text id="label-fig125" data-ref="O" class="geom-label-title" x="290.00" y="645.00" text-anchor="middle">FIG. 125</text>
+  </g>
+</svg>

@@ -128,6 +128,10 @@ The measure of electric potential given out by desire in the seed of a tree is r
    :alt: Figures 124–125 — Wave-Shaft and Radial Pool of Motion
    :caption: Figures 124–125 — Wave-Shaft and Radial Pool of Motion (Folio 0434)
 
+.. picture:: 0434.g1.svg
+   :alt: Figures 124–125 — Wave-Shaft and Radial Pool of Motion
+   :caption: Figures 124–125 — Wave-Shaft and Radial Pool of Motion (Folio 0434) — Interactive Vector
+
 Let US study Figure 124 together to see the working of the law of equality in all action-reactions.
 
 .. folio:: 0435

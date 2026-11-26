@@ -277,6 +277,10 @@ Positive electricity and negative electricity are diametrically opposed to each 
    :alt: Figures 38–47 — Cycle of Polarity and Vitality
    :caption: Figures 38–47 — Cycle of Polarity and Vitality (Folio 0175)
 
+.. picture:: 0175.g1.svg
+   :alt: Figures 38–47 — Cycle of Polarity and Vitality
+   :caption: Figures 38–47 — Cycle of Polarity and Vitality (Folio 0175) — Interactive Vector
+
 .. folio:: 0176
    :page: 176
 

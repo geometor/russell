@@ -98,6 +98,10 @@ The two directions of an explosion are outward toward South, and inward toward N
    :alt: North Inward Toward Gravity and South Outward Toward Space
    :caption: North Inward Toward Gravity and South Outward Toward Space (Folio 0103)
 
+.. picture:: 0103.g1.svg
+   :alt: North Inward Toward Gravity and South Outward Toward Space
+   :caption: North Inward Toward Gravity and South Outward Toward Space (Folio 0103) — Interactive Vector
+
 The point of North in matter is its center of gravity. It is the focal center of concentrated thinking. It is the point of maximum compression, maximum heat and incandescence, and the highest potential of the mass.
 
 South is every radial direction away from North. South reaches out into space around every planet and sun. South is the radial direction of decentrated thinking. The farther away South reaches from North the colder it becomes, the lower its potential, the less dense the mass until density disappears in gases and vapors of cold, dark space.

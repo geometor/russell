@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 660" width="620" height="660" class="euclid-graphic" data-graphic-id="0400.g1" data-folio="0400" data-graphic="g1">
+  <title>Figure 114 — Cube-Sphere Wave-Field of Nine Equators</title>
+  <desc>Isometric cube divided by three orthogonal zero-planes with 27 zero nodes and 0-1-2-3-4-0-4-3-2-1-0 octave formula.</desc>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+      --geom-pos: #e11d48;
+      --geom-neg: #0284c7;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #ebe6dc;
+        --geom-bg: #0c0e14;
+        --geom-point-stroke: #0c0e14;
+        --geom-poly-fill: #ebe6dc;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+        --geom-pos: #fb7185;
+        --geom-neg: #38bdf8;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.78;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.82;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-zero {
+      stroke: var(--geom-accent);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-zero-dashed {
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+      stroke-dasharray: 5, 4;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-pos {
+      stroke: var(--geom-pos);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg {
+      stroke: var(--geom-neg);
+      stroke-width: 2.0;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-neg-dashed {
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+      stroke-dasharray: 5, 3.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.05;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-stroked {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.06;
+      stroke: var(--geom-fg);
+      stroke-width: 1.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-zero-plane {
+      fill: var(--geom-accent);
+      fill-opacity: 0.12;
+      stroke: var(--geom-accent);
+      stroke-width: 1.5;
+    }
+    .geom-pos-fill {
+      fill: var(--geom-pos);
+      fill-opacity: 0.12;
+      stroke: var(--geom-pos);
+      stroke-width: 1.6;
+    }
+    .geom-neg-fill {
+      fill: var(--geom-neg);
+      fill-opacity: 0.12;
+      stroke: var(--geom-neg);
+      stroke-width: 1.6;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1.2;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+    }
+    .geom-point-zero {
+      fill: var(--geom-bg);
+      stroke: var(--geom-accent);
+      stroke-width: 2.1;
+    }
+    .geom-point-pos {
+      fill: var(--geom-bg);
+      stroke: var(--geom-pos);
+      stroke-width: 2.1;
+    }
+    .geom-point-neg {
+      fill: var(--geom-bg);
+      stroke: var(--geom-neg);
+      stroke-width: 2.1;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 10.5px;
+      font-weight: 700;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-title {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', 'DejaVu Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      fill: var(--geom-accent);
+      text-anchor: middle;
+      user-select: none;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon-stroked:hover, polygon.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, circle.geom-point.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-fg)" />
+    </marker>
+    <marker id="geom-arrow-pos" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-pos)" />
+    </marker>
+    <marker id="geom-arrow-neg" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8.5 5 L 0 8.5 z" fill="var(--geom-neg)" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path id="frame-top" data-ref="[ F1 F2 ]" class="geom-line" d="M 10.00 10.00 L 310.00 10.00 L 610.00 10.00" />
+    <path id="frame-right" data-ref="[ F2 F3 ]" class="geom-line" d="M 610.00 10.00 L 610.00 330.00 L 610.00 650.00" />
+    <path id="frame-bottom" data-ref="[ F3 F4 ]" class="geom-line" d="M 610.00 650.00 L 310.00 650.00 L 10.00 650.00" />
+    <path id="frame-left" data-ref="[ F4 F1 ]" class="geom-line" d="M 10.00 650.00 L 10.00 330.00 L 10.00 10.00" />
+    <path id="bh-0" data-ref="/ BH0A BH0B /" class="geom-line" d="M 220.00 50.00 L 365.00 50.00 L 510.00 50.00" />
+    <path id="bv-0" data-ref="/ BV0A BV0B /" class="geom-line" d="M 220.00 50.00 L 220.00 195.00 L 220.00 340.00" />
+    <path id="bh-1" data-ref="/ BH1A BH1B /" class="geom-line" d="M 220.00 195.00 L 365.00 195.00 L 510.00 195.00" />
+    <path id="bv-1" data-ref="/ BV1A BV1B /" class="geom-line" d="M 365.00 50.00 L 365.00 195.00 L 365.00 340.00" />
+    <path id="bh-2" data-ref="/ BH2A BH2B /" class="geom-line" d="M 220.00 340.00 L 365.00 340.00 L 510.00 340.00" />
+    <path id="bv-2" data-ref="/ BV2A BV2B /" class="geom-line" d="M 510.00 50.00 L 510.00 195.00 L 510.00 340.00" />
+    <path id="d-0-0" data-ref="/ N000 N002 /" class="geom-line" d="M 70.00 125.00 L 145.00 87.50 L 220.00 50.00" />
+    <path id="d-0-1" data-ref="/ N010 N012 /" class="geom-line" d="M 70.00 270.00 L 145.00 232.50 L 220.00 195.00" />
+    <path id="d-0-2" data-ref="/ N020 N022 /" class="geom-line" d="M 70.00 415.00 L 145.00 377.50 L 220.00 340.00" />
+    <path id="d-1-0" data-ref="/ N100 N102 /" class="geom-line" d="M 215.00 125.00 L 290.00 87.50 L 365.00 50.00" />
+    <path id="d-1-1" data-ref="/ N110 N112 /" class="geom-line" d="M 215.00 270.00 L 290.00 232.50 L 365.00 195.00" />
+    <path id="d-1-2" data-ref="/ N120 N122 /" class="geom-line" d="M 215.00 415.00 L 290.00 377.50 L 365.00 340.00" />
+    <path id="d-2-0" data-ref="/ N200 N202 /" class="geom-line" d="M 360.00 125.00 L 435.00 87.50 L 510.00 50.00" />
+    <path id="d-2-1" data-ref="/ N210 N212 /" class="geom-line" d="M 360.00 270.00 L 435.00 232.50 L 510.00 195.00" />
+    <path id="d-2-2" data-ref="/ N220 N222 /" class="geom-line" d="M 360.00 415.00 L 435.00 377.50 L 510.00 340.00" />
+  </g>
+  <g id="graphics">
+    <path id="fh-0" data-ref="/ FH0A FH0B /" class="geom-bold" d="M 70.00 125.00 L 215.00 125.00 L 360.00 125.00" />
+    <path id="fv-0" data-ref="/ FV0A FV0B /" class="geom-bold" d="M 70.00 125.00 L 70.00 270.00 L 70.00 415.00" />
+    <path id="fh-1" data-ref="/ FH1A FH1B /" class="geom-zero" d="M 70.00 270.00 L 215.00 270.00 L 360.00 270.00" />
+    <path id="fv-1" data-ref="/ FV1A FV1B /" class="geom-zero" d="M 215.00 125.00 L 215.00 270.00 L 215.00 415.00" />
+    <path id="fh-2" data-ref="/ FH2A FH2B /" class="geom-bold" d="M 70.00 415.00 L 215.00 415.00 L 360.00 415.00" />
+    <path id="fv-2" data-ref="/ FV2A FV2B /" class="geom-bold" d="M 360.00 125.00 L 360.00 270.00 L 360.00 415.00" />
+    <path id="oct-axis" data-ref="/ OA OB /" class="geom-zero" d="M 50.00 560.00 L 310.00 560.00 L 570.00 560.00" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-fh-0" data-ref="/ FH0A FH0B /" class="geom-line geom-overlay" d="M 70.00 125.00 L 215.00 125.00 L 360.00 125.00" />
+    <path id="hl-fv-0" data-ref="/ FV0A FV0B /" class="geom-line geom-overlay" d="M 70.00 125.00 L 70.00 270.00 L 70.00 415.00" />
+    <path id="hl-fh-1" data-ref="/ FH1A FH1B /" class="geom-line geom-overlay" d="M 70.00 270.00 L 215.00 270.00 L 360.00 270.00" />
+    <path id="hl-fv-1" data-ref="/ FV1A FV1B /" class="geom-line geom-overlay" d="M 215.00 125.00 L 215.00 270.00 L 215.00 415.00" />
+    <path id="hl-fh-2" data-ref="/ FH2A FH2B /" class="geom-line geom-overlay" d="M 70.00 415.00 L 215.00 415.00 L 360.00 415.00" />
+    <path id="hl-fv-2" data-ref="/ FV2A FV2B /" class="geom-line geom-overlay" d="M 360.00 125.00 L 360.00 270.00 L 360.00 415.00" />
+    <path id="hl-oct-axis" data-ref="/ OA OB /" class="geom-line geom-overlay" d="M 50.00 560.00 L 310.00 560.00 L 570.00 560.00" />
+  </g>
+  <g id="points">
+    <circle id="Z000" data-ref="Z000" class="geom-point-zero" cx="70.00" cy="125.00" r="7.50" />
+    <circle id="Z001" data-ref="Z001" class="geom-point-zero" cx="145.00" cy="87.50" r="7.50" />
+    <circle id="Z002" data-ref="Z002" class="geom-point-zero" cx="220.00" cy="50.00" r="7.50" />
+    <circle id="Z010" data-ref="Z010" class="geom-point-zero" cx="70.00" cy="270.00" r="7.50" />
+    <circle id="Z011" data-ref="Z011" class="geom-point-zero" cx="145.00" cy="232.50" r="7.50" />
+    <circle id="Z012" data-ref="Z012" class="geom-point-zero" cx="220.00" cy="195.00" r="7.50" />
+    <circle id="Z020" data-ref="Z020" class="geom-point-zero" cx="70.00" cy="415.00" r="7.50" />
+    <circle id="Z021" data-ref="Z021" class="geom-point-zero" cx="145.00" cy="377.50" r="7.50" />
+    <circle id="Z022" data-ref="Z022" class="geom-point-zero" cx="220.00" cy="340.00" r="7.50" />
+    <circle id="Z100" data-ref="Z100" class="geom-point-zero" cx="215.00" cy="125.00" r="7.50" />
+    <circle id="Z101" data-ref="Z101" class="geom-point-zero" cx="290.00" cy="87.50" r="7.50" />
+    <circle id="Z102" data-ref="Z102" class="geom-point-zero" cx="365.00" cy="50.00" r="7.50" />
+    <circle id="Z110" data-ref="Z110" class="geom-point-zero" cx="215.00" cy="270.00" r="7.50" />
+    <circle id="Z111" data-ref="Z111" class="geom-point-zero" cx="290.00" cy="232.50" r="7.50" />
+    <circle id="Z112" data-ref="Z112" class="geom-point-zero" cx="365.00" cy="195.00" r="7.50" />
+    <circle id="Z120" data-ref="Z120" class="geom-point-zero" cx="215.00" cy="415.00" r="7.50" />
+    <circle id="Z121" data-ref="Z121" class="geom-point-zero" cx="290.00" cy="377.50" r="7.50" />
+    <circle id="Z122" data-ref="Z122" class="geom-point-zero" cx="365.00" cy="340.00" r="7.50" />
+    <circle id="Z200" data-ref="Z200" class="geom-point-zero" cx="360.00" cy="125.00" r="7.50" />
+    <circle id="Z201" data-ref="Z201" class="geom-point-zero" cx="435.00" cy="87.50" r="7.50" />
+    <circle id="Z202" data-ref="Z202" class="geom-point-zero" cx="510.00" cy="50.00" r="7.50" />
+    <circle id="Z210" data-ref="Z210" class="geom-point-zero" cx="360.00" cy="270.00" r="7.50" />
+    <circle id="Z211" data-ref="Z211" class="geom-point-zero" cx="435.00" cy="232.50" r="7.50" />
+    <circle id="Z212" data-ref="Z212" class="geom-point-zero" cx="510.00" cy="195.00" r="7.50" />
+    <circle id="Z220" data-ref="Z220" class="geom-point-zero" cx="360.00" cy="415.00" r="7.50" />
+    <circle id="Z221" data-ref="Z221" class="geom-point-zero" cx="435.00" cy="377.50" r="7.50" />
+    <circle id="Z222" data-ref="Z222" class="geom-point-zero" cx="510.00" cy="340.00" r="7.50" />
+    <circle id="Q0" data-ref="Q0" class="geom-point-zero" cx="50.00" cy="560.00" r="12.00" />
+    <circle id="Q1" data-ref="Q1" class="geom-point-zero" cx="102.00" cy="560.00" r="10.00" />
+    <circle id="Q2" data-ref="Q2" class="geom-point-zero" cx="154.00" cy="560.00" r="10.00" />
+    <circle id="Q3" data-ref="Q3" class="geom-point-zero" cx="206.00" cy="560.00" r="10.00" />
+    <circle id="Q4" data-ref="Q4" class="geom-point-zero" cx="258.00" cy="560.00" r="10.00" />
+    <circle id="Q5" data-ref="Q5" class="geom-point-zero" cx="310.00" cy="560.00" r="12.00" />
+    <circle id="Q6" data-ref="Q6" class="geom-point-zero" cx="362.00" cy="560.00" r="10.00" />
+    <circle id="Q7" data-ref="Q7" class="geom-point-zero" cx="414.00" cy="560.00" r="10.00" />
+    <circle id="Q8" data-ref="Q8" class="geom-point-zero" cx="466.00" cy="560.00" r="10.00" />
+    <circle id="Q9" data-ref="Q9" class="geom-point-zero" cx="518.00" cy="560.00" r="10.00" />
+    <circle id="Q10" data-ref="Q10" class="geom-point-zero" cx="570.00" cy="560.00" r="12.00" />
+  </g>
+  <g id="labels">
+    <text id="label-q-0" data-ref="Q0" class="geom-label-sm" x="50.00" y="564.00" text-anchor="middle">0</text>
+    <text id="label-q-1" data-ref="Q1" class="geom-label-sm" x="102.00" y="564.00" text-anchor="middle">1+-</text>
+    <text id="label-q-2" data-ref="Q2" class="geom-label-sm" x="154.00" y="564.00" text-anchor="middle">2+-</text>
+    <text id="label-q-3" data-ref="Q3" class="geom-label-sm" x="206.00" y="564.00" text-anchor="middle">3+-</text>
+    <text id="label-q-4" data-ref="Q4" class="geom-label-sm" x="258.00" y="564.00" text-anchor="middle">4</text>
+    <text id="label-q-5" data-ref="Q5" class="geom-label-sm" x="310.00" y="564.00" text-anchor="middle">0</text>
+    <text id="label-q-6" data-ref="Q6" class="geom-label-sm" x="362.00" y="564.00" text-anchor="middle">4</text>
+    <text id="label-q-7" data-ref="Q7" class="geom-label-sm" x="414.00" y="564.00" text-anchor="middle">3+-</text>
+    <text id="label-q-8" data-ref="Q8" class="geom-label-sm" x="466.00" y="564.00" text-anchor="middle">2+-</text>
+    <text id="label-q-9" data-ref="Q9" class="geom-label-sm" x="518.00" y="564.00" text-anchor="middle">1+-</text>
+    <text id="label-q-10" data-ref="Q10" class="geom-label-sm" x="570.00" y="564.00" text-anchor="middle">0</text>
+    <text id="label-fig114" data-ref="Z111" class="geom-label-title" x="310.00" y="470.00" text-anchor="middle">Fig. 114 • Nine Equators &amp; 27 Zero Nodes</text>
+  </g>
+</svg>

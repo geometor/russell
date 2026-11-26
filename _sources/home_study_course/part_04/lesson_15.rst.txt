@@ -217,6 +217,10 @@ From THE DIVINE ILIAD
    :alt: Figure 25 — Pull of Gravitation and Thrust of Radiation
    :caption: Figure 25 — Pull of Gravitation and Thrust of Radiation (Folio 0146)
 
+.. picture:: 0146.g1.svg
+   :alt: Figure 25 — Pull of Gravitation and Thrust of Radiation
+   :caption: Figure 25 — Pull of Gravitation and Thrust of Radiation (Folio 0146) — Interactive Vector
+
 .. figure:: /_static/plates/image032.gif
    :align: center
 

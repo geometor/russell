@@ -364,6 +364,10 @@ Now read the following five supernal paragraphs with equal concentration.
    :alt: Figures 101–102 — Gyroscopic Spin and Wave Amplitude
    :caption: Figures 101–102 — Gyroscopic Spin and Wave Amplitude (Folio 0399)
 
+.. picture:: 0399.g1.svg
+   :alt: Figures 101–102 — Gyroscopic Spin and Wave Amplitude
+   :caption: Figures 101–102 — Gyroscopic Spin and Wave Amplitude (Folio 0399) — Interactive Vector
+
 .. figure:: /_static/plates/image070.gif
    :align: center
 
@@ -378,6 +382,10 @@ Now read the following five supernal paragraphs with equal concentration.
 .. picture:: 0400.g1.png
    :alt: Figure 103 — Solar and Atomic System Centered on Wave Amplitude
    :caption: Figure 103 — Solar and Atomic System Centered on Wave Amplitude (Folio 0400)
+
+.. picture:: 0400.g1.svg
+   :alt: Figure 103 — Solar and Atomic System Centered on Wave Amplitude
+   :caption: Figure 103 — Solar and Atomic System Centered on Wave Amplitude (Folio 0400) — Interactive Vector
 
 4. The fulcrum of the moving levers of the cosmic seesaw which gives to the universe its heartbeat, is the stillness of the undivided One Light which God's KNOWING is.
 
@@ -438,6 +446,10 @@ Therefore, we again say to you that the measure of your power to find happiness,
 .. picture:: 0403.g1.png
    :alt: Figure 104 — Centripetal and Centrifugal Spiral Cones
    :caption: Figure 104 — Centripetal and Centrifugal Spiral Cones (Folio 0403)
+
+.. picture:: 0403.g1.svg
+   :alt: Figure 104 — Centripetal and Centrifugal Spiral Cones
+   :caption: Figure 104 — Centripetal and Centrifugal Spiral Cones (Folio 0403) — Interactive Vector
 
 .. figure:: /_static/plates/image072.gif
    :align: center

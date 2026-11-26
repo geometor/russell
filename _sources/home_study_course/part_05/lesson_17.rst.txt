@@ -111,6 +111,10 @@ THE POWER OF STILLNESS
    :alt: Figures 28–37 — Drawings Exemplifying the Principle of the Divine Trinity
    :caption: Figures 28–37 — Principle of the Divine Trinity (Folio 0162)
 
+.. picture:: 0162.g1.svg
+   :alt: Figures 28–37 — Drawings Exemplifying the Principle of the Divine Trinity
+   :caption: Figures 28–37 — Principle of the Divine Trinity (Folio 0162) — Interactive Vector
+
 **IDEA No. 4.** In Fig. 29 I have diagramed a wave. No matter whether it is a wave of water, a sound wave, a radio wave or the wave of an electric current. You will note that it is just like the fulcrum and lever which constitute a pump handle. Its fulcrum is fixed, immovable, still and unchanging. Its lever extends to both sides of its equator (wave axis) just as the lever of the pump handle extends.
 
 **IDEA No. 5.** Vision in your memory the troughs and crests of the familiar waves of the ocean. The crest of each wave interchanges with the trough, which is its oppositely sex conditioned mate. Troughs and crests are sequentially interchanging through their equators. Each alternately becomes the other but in reverse.
