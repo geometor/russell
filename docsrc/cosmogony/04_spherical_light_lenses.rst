@@ -14,7 +14,7 @@ Chapter IV: Spherical Light-Lenses, Octant Curvature Reversal & Gravity
 In Lesson 46 (`Figs. 170–172`), Russell demonstrates that every spherical wave-field acts as an optical **Light-Sphere Lens** divided into eight sections by the three orthogonal equators of zero curvature:
 
 1. **Curvature Reversal across Zero Equators (`Fig. 170`)**:
-   As light rays pass from one octant to the next across any of the three orthogonal zero-curvature equators, their curvature vanishes ($\kappa = 0$) at the plane of the equator and reverses concavity in the opposite octant.
+   As light rays pass from one octant to the next across any of the three orthogonal zero-curvature equators, their curvature vanishes (:math:`\kappa = 0`) at the plane of the equator and reverses concavity in the opposite octant.
 2. **Gravity as Focused Light Compression (`Fig. 171`)**:
    All non-equatorial radii curve inward toward the poles to focus at the center of the lens, creating a **center of gravity** where light compression and heat reach their maximum.
 3. **Coronas Become Rings and Rings Become Systems (`Fig. 172`)**:

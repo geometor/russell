@@ -18,12 +18,12 @@ In three dimensions, **both diagrams are orthographic camera projections of a si
 .. folio:: 0494
    :page: 494
 
-1. **Axial Projection (`Fig. 177`)**: Looking straight down the Still Magnetic $Z$ wave axis projects the 9 expanding conical turns onto concentric circles with **Inert Gases (`0`)** aligned along the horizontal zero equator ($Y = 0$) and **Wave Amplitude Capstones (`4±` — Carbon, Silicon, Iron/Cobalt, Ruthenium/Rhodium, Tungsten/Osmium, Uranium)** aligned along the vertical $90^\circ$ crest ($X = 0$).
+1. **Axial Projection (`Fig. 177`)**: Looking straight down the Still Magnetic :math:`Z` wave axis projects the 9 expanding conical turns onto concentric circles with **Inert Gases (`0`)** aligned along the horizontal zero equator (:math:`Y = 0`) and **Wave Amplitude Capstones (`4±` — Carbon, Silicon, Iron/Cobalt, Ruthenium/Rhodium, Tungsten/Osmium, Uranium)** aligned along the vertical :math:`90^\circ` crest (:math:`X = 0`).
 
 .. folio:: 0499
    :page: 499
 
-2. **Lateral Projection (`Figs. 179–180`)**: Rotating the camera $90^\circ$ sideways unfolds the flat concentric chart into the **9-Octave Conical Corkscrew Wave** of integrating (`+`) and disintegrating (`-`) gyroscopic wheels!
+2. **Lateral Projection (`Figs. 179–180`)**: Rotating the camera :math:`90^\circ` sideways unfolds the flat concentric chart into the **9-Octave Conical Corkscrew Wave** of integrating (`+`) and disintegrating (`-`) gyroscopic wheels!
 
 Interactive 3D Nine-Octave Periodic Helix (`Fig. 177` ↔ `Fig. 180`)
 -------------------------------------------------------------------

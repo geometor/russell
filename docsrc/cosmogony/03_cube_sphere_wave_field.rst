@@ -21,17 +21,19 @@ The Nine Equators and the ``9`` Count of Creation
 
 Within every cubic wave-field, electric motion curves inward to form an **inscribed sphere** divided into eight octants centered by a single zero nucleus:
 
-1. **Three Orthogonal Planes of Zero Curvature**: Bisecting the cube along the $X, Y, Z$ axes ($x=0, y=0, z=0$), dividing the sphere into 8 octants.
-2. **Six Diagonal Planes of Zero Curvature**: Bisecting all 12 edges of the cube at $45^\circ$ ($x \pm y = 0, y \pm z = 0, z \pm x = 0$).
-3. **Total Equators = 9**: Every polarized action-reaction cycle counts to **nine**—eight octants (or eight cube corners) centered by zero (`8 + 1 = 9`), anchored by the **27 Zero-Nodes** ($\{-1, 0, 1\}^3$) and expressed along the wave axis as the octave formula:
+1. **Three Orthogonal Planes of Zero Curvature**: Bisecting the cube along the :math:`X, Y, Z` axes (:math:`x=0, y=0, z=0`), dividing the sphere into 8 octants.
+2. **Six Diagonal Planes of Zero Curvature**: Bisecting all 12 edges of the cube at :math:`45^\circ` (:math:`x \pm y = 0, y \pm z = 0, z \pm x = 0`).
+3. **Total Equators = 9**: Every polarized action-reaction cycle counts to **nine**—eight octants (or eight cube corners) centered by zero (`8 + 1 = 9`), anchored by the **27 Zero-Nodes** (:math:`\{-1, 0, 1\}^3`) and expressed along the wave axis as the octave formula:
 
-$$0 - 1^- - 2^- - 3^- - 4^- - \mathbf{0} - 4^+ - 3^+ - 2^+ - 1^+ - 0$$
+.. math::
+
+   0 - 1^- - 2^- - 3^- - 4^- - \mathbf{0} - 4^+ - 3^+ - 2^+ - 1^+ - 0
 
 .. figure:: /_static/svg/04_cube_sphere_nine_equators.svg
    :align: center
    :width: 98%
 
-   **Plate IV (Fig. 114)**: Isometric projection of the Cube-Sphere Wave-Field showing the 3 orthogonal planes of zero curvature, the 27 zero-nodes (`0`) of the $3 \times 3 \times 3$ lattice, the inscribed sphere of curved motion, and the 9-count wave octave formula.
+   **Plate IV (Fig. 114)**: Isometric projection of the Cube-Sphere Wave-Field showing the 3 orthogonal planes of zero curvature, the 27 zero-nodes (`0`) of the :math:`3 \times 3 \times 3` lattice, the inscribed sphere of curved motion, and the 9-count wave octave formula.
 
 Interactive 3D Cube-Sphere Lattice & All Nine Equators
 ------------------------------------------------------
