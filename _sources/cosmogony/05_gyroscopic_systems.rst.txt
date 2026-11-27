@@ -9,24 +9,24 @@ Chapter V: Gyroscopic Precession & The Evolution of Atomic and Stellar Systems
 .. folio:: 0399
    :page: 399
 
-.. rubric:: Why True Spheres Only Exist at $90^\circ$ Wave Amplitude (Lessons 42–43, Figs. 95–104)
+.. rubric:: Why True Spheres Only Exist at :math:`90^\circ` Wave Amplitude (Lessons 42–43, Figs. 95–104)
 
 Both atomic systems and stellar/planetary systems evolve along the same gyroscopic wave path from stillness (`0`) to wave amplitude (`4±`) and back to stillness (`0`):
 
 * **Centripetal Winding (`1+ -> 2+ -> 3+`)**:
-  Beginning as an expanded inert-gas ring in space (`0`), centripetal compression winds the ring through **prolate** (polar-elongated, $c/a > 1$) spheroids whose spin axes precess ($22.5^\circ, 45^\circ, 67.5^\circ$) toward the wave amplitude perpendicular.
+  Beginning as an expanded inert-gas ring in space (`0`), centripetal compression winds the ring through **prolate** (polar-elongated, :math:`c/a > 1`) spheroids whose spin axes precess (:math:`22.5^\circ, 45^\circ, 67.5^\circ`) toward the wave amplitude perpendicular.
 
 .. folio:: 0400
    :page: 400
 
 * **The True Sphere at Wave Amplitude (`4+ / 0 / 4-`)**:
-  Only when a system locks squarely upon the $90^\circ$ wave amplitude crest does its central nucleus become a **true incandescent sphere** ($c/a = 1$, such as **Carbon** in the elements or a mature **Sun** in a solar system), with its planets revolving in its equatorial plane (`Fig. 103`).
+  Only when a system locks squarely upon the :math:`90^\circ` wave amplitude crest does its central nucleus become a **true incandescent sphere** (:math:`c/a = 1`, such as **Carbon** in the elements or a mature **Sun** in a solar system), with its planets revolving in its equatorial plane (`Fig. 103`).
 
 .. folio:: 0403
    :page: 403
 
 * **Centrifugal Unwinding (`3- -> 2- -> 1- -> 0`)**:
-  Past the amplitude crest ($112.5^\circ, 135^\circ, 157.5^\circ$), centrifugal radiation flattens the sphere at its poles ($c/a < 1$) and bulges its equator into **oblate spheroids**, **ringed planets** (like Saturn), and **ring nebulae** (like the Ring Nebula in Lyra), unwinding back into the inert gases of space.
+  Past the amplitude crest (:math:`112.5^\circ, 135^\circ, 157.5^\circ`), centrifugal radiation flattens the sphere at its poles (:math:`c/a < 1`) and bulges its equator into **oblate spheroids**, **ringed planets** (like Saturn), and **ring nebulae** (like the Ring Nebula in Lyra), unwinding back into the inert gases of space.
 
 Interactive 3D Gyroscopic Precession & Spheroid Morphing
 --------------------------------------------------------
@@ -47,4 +47,4 @@ Drag the **Octave Precession** slider below from `0°` (`0` Inert Gas) to **`90�
    :align: center
    :width: 98%
 
-   **Plate VI (Figs. 95–104)**: Gyroscopic evolution from prolate winding (`1+, 2+, 3+`) to the True Sphere at $90^\circ$ Wave Amplitude (`4±`) and oblate/ringed unwinding (`3-, 2-, 1-`).
+   **Plate VI (Figs. 95–104)**: Gyroscopic evolution from prolate winding (`1+, 2+, 3+`) to the True Sphere at :math:`90^\circ` Wave Amplitude (`4±`) and oblate/ringed unwinding (`3-, 2-, 1-`).
